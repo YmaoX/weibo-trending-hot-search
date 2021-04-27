@@ -7,8 +7,7 @@ import { exists } from "std/fs/mod.ts";
 import type { Word } from "./types.ts";
 import { createArchive, createReadme, mergeWords } from "./utils.ts";
 
-const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>/g;
-const regexp2 = /<td class="td-03">(?:<[^>]+>)?(.)?(?:<\/i>)?<\/td>/g;
+const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>[\s\S]+?<td class="td-03">(?:<[^>]+>)?(.)?(?:<\/i>)?<\/td>/g;
 
 const response = await fetch("https://s.weibo.com/top/summary");
 
@@ -20,14 +19,12 @@ if (!response.ok) {
 const result: string = await response.text();
 
 const matches = result.matchAll(regexp);
-const marks = Array.from(result.matchAll(regexp2));
 
-const words: Word[] = Array.from(matches).map((x, index) => {
-  var mark = marks[index][1] ? marks[index][1] : "";
+const words: Word[] = Array.from(matches).map((x) => {
   return {
     url: x[1],
     title: x[2],
-    mark: mark,
+    mark: x[3]? x[3]: "",
   };
 });
 

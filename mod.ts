@@ -8,6 +8,7 @@ import type { Word } from "./types.ts";
 import { createArchive, createReadme, mergeWords } from "./utils.ts";
 
 const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>/g;
+const regexp2 = /<td class="td-03">(?:<[^>]+>)?(.)?(?:<\/i>)?<\/td>/g;
 
 const response = await fetch("https://s.weibo.com/top/summary");
 
@@ -19,11 +20,16 @@ if (!response.ok) {
 const result: string = await response.text();
 
 const matches = result.matchAll(regexp);
+const marks = Array.from(result.matchAll(regexp2));
 
-const words: Word[] = Array.from(matches).map((x) => ({
-  url: x[1],
-  title: x[2],
-}));
+const words: Word[] = Array.from(matches).map((x, index) => {
+    var mark = marks[index][1] ? marks[index][1]: "";
+    return {
+      url: x[1],
+      title: x[2],
+      mark: mark
+    }
+});
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const fullPath = join("raw", `${yyyyMMdd}.json`);

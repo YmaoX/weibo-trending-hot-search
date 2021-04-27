@@ -1,4 +1,4 @@
-#!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
+#!/usr/bin/env -S deno test --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
 import { assertEquals, assertStringIncludes } from "std/testing/asserts.ts";
 import type { Word } from "./types.ts";
 
@@ -7,17 +7,19 @@ import {
   createList,
   createReadme,
   mergeWords,
+  getPreviousMark
 } from "./utils.ts";
 
 Deno.test("mergeWords", function (): void {
   const words1: Word[] = [];
-  const words2: Word[] = [{ title: "foo", url: "bar" }];
-  const words3: Word[] = [{ title: "foo", url: "hello" }];
-  const words4: Word[] = [{ title: "hello", url: "world" }];
+  const words2: Word[] = [{ title: "foo", url: "bar", mark: "" }];
+  const words3: Word[] = [{ title: "foo", url: "hello", mark: "" }];
+  const words4: Word[] = [{ title: "hello", url: "world", mark: "" }];
   const words5: Word[] = [
-    { title: "foo", url: "bar" },
-    { title: "hello", url: "world" },
+    { title: "foo", url: "bar", mark: "a" },
+    { title: "hello", url: "world", mark: "b" },
   ];
+  const words6: Word[] = [{ title: "hello", url: "world", mark: "c" }];
 
   assertEquals(mergeWords(words1, words2), words2);
   assertEquals(mergeWords(words1, words5), words5);
@@ -25,28 +27,32 @@ Deno.test("mergeWords", function (): void {
   assertEquals(
     mergeWords(words2, words3),
     [
-      { title: "foo", url: "bar" },
-      { title: "foo", url: "hello" },
+      { title: "foo", url: "hello", mark: "" },
+      { title: "foo", url: "bar", mark: "" },
     ],
   );
   assertEquals(mergeWords(words4, words5), [
-    { title: "hello", url: "world" },
-    { title: "foo", url: "bar" },
+    { title: "foo", url: "bar", mark: "a" },
+    { title: "hello", url: "world", mark: "b -> " },
   ]);
   assertEquals(
     mergeWords(words3, words5),
     [
-      { title: "foo", url: "hello" },
-      { title: "foo", url: "bar" },
-      { title: "hello", url: "world" },
+      { title: "foo", url: "bar", mark: "a" },
+      { title: "hello", url: "world", mark: "b" },
+      { title: "foo", url: "hello", mark: "" },
     ],
   );
+  assertEquals(mergeWords(words6, mergeWords(words4, words5)), [
+    { title: "foo", url: "bar", mark: "a" },
+    { title: "hello", url: "world", mark: "b ->  -> c" },
+  ]);
 });
 
 Deno.test("createList", function (): void {
   const words: Word[] = [
-    { title: "foo", url: "bar" },
-    { title: "hello", url: "world" },
+    { title: "foo", url: "bar", mark: "" },
+    { title: "hello", url: "world", mark: "" },
   ];
 
   assertStringIncludes(createList(words), "<!-- BEGIN -->");
@@ -58,8 +64,8 @@ Deno.test("createList", function (): void {
 
 Deno.test("createArchive", function (): void {
   const words: Word[] = [
-    { title: "foo", url: "bar" },
-    { title: "hello", url: "world" },
+    { title: "foo", url: "bar", mark: "" },
+    { title: "hello", url: "world", mark: "" },
   ];
 
   assertStringIncludes(createArchive(words, "2020-02-02"), "# 2020-02-02");
@@ -68,8 +74,8 @@ Deno.test("createArchive", function (): void {
 
 Deno.test("createReadme", async function (): Promise<void> {
   const words: Word[] = [
-    { title: "foo", url: "bar" },
-    { title: "hello", url: "world" },
+    { title: "foo", url: "bar", mark: "" },
+    { title: "hello", url: "world", mark: "" },
   ];
 
   assertStringIncludes(await createReadme(words), "微博");
@@ -77,4 +83,11 @@ Deno.test("createReadme", async function (): Promise<void> {
     await createReadme(words),
     "weibo-trending-hot-search",
   );
+});
+
+Deno.test("getPreviousMark", function (): void {
+  assertEquals(getPreviousMark(""), "");
+  assertEquals(getPreviousMark("a"), "a");
+  assertEquals(getPreviousMark("a -> "), "");
+  assertEquals(getPreviousMark("a -> b"), "b");
 });

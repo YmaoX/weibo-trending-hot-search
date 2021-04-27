@@ -6,8 +6,8 @@ import {
   createArchive,
   createList,
   createReadme,
+  getPreviousMark,
   mergeWords,
-  getPreviousMark
 } from "./utils.ts";
 
 Deno.test("mergeWords", function (): void {

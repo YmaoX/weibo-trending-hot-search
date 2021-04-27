@@ -10,12 +10,12 @@ export function mergeWords(
   for (const w of previous.concat(words)) {
     let markF;
     if (w.url in obj) {
-      markF = obj[w.url][1]; 
+      markF = obj[w.url][1];
       let previousMark = getPreviousMark(obj[w.url][1]);
-      if(previousMark !== w.mark) {
+      if (previousMark !== w.mark) {
         markF += link + w.mark;
       }
-    }else {
+    } else {
       markF = w.mark;
     }
     obj[w.url] = [w.title, markF];
@@ -23,7 +23,7 @@ export function mergeWords(
   return Object.entries(obj).map(([url, content]) => ({
     url: url,
     title: content[0],
-    mark: content[1]
+    mark: content[1],
   }));
 }
 
@@ -51,6 +51,7 @@ ${createList(words)}
 
 export function getPreviousMark(totalMark: string): string {
   var i = totalMark.lastIndexOf(link);
-  return i == -1? totalMark: totalMark.substr(i+link.length, totalMark.length);
+  return i == -1
+    ? totalMark
+    : totalMark.substr(i + link.length, totalMark.length);
 }
-

@@ -23,12 +23,12 @@ const matches = result.matchAll(regexp);
 const marks = Array.from(result.matchAll(regexp2));
 
 const words: Word[] = Array.from(matches).map((x, index) => {
-    var mark = marks[index][1] ? marks[index][1]: "";
-    return {
-      url: x[1],
-      title: x[2],
-      mark: mark
-    }
+  var mark = marks[index][1] ? marks[index][1] : "";
+  return {
+    url: x[1],
+    title: x[2],
+    mark: mark,
+  };
 });
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");

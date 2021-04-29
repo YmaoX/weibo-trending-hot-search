@@ -92,12 +92,12 @@
   {
     "url": "/weibo?q=%E5%91%A8%E9%9C%87%E5%8D%97%20%E9%98%9F%E9%95%BF%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E4%BA%8B%E6%83%85&Refer=top",
     "title": "周震南 队长是一辈子的事情",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%BD%99%E6%99%AF%E5%A4%A9%E7%88%B6%E6%AF%8D%23&Refer=top",
     "title": "余景天父母",
-    "mark": " -> 热"
+    "mark": " -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E7%94%98%E6%9C%9B%E6%98%9F%E6%89%93%E6%B8%B8%E6%88%8F%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23&Refer=top",
@@ -108,7 +108,7 @@
   {
     "url": "/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%88%86%E4%B8%8D%E6%B8%85%E7%8B%BC%E4%BA%BA%E6%9D%80%E5%92%8C%E5%89%A7%E6%9C%AC%E6%9D%80%23&Refer=top",
     "title": "黄子韬分不清狼人杀和剧本杀",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%80%81%E5%A4%96%E5%8D%96%E5%89%AF%E5%A4%84%E9%95%BF%E5%8C%96%E8%BA%AB%E4%B9%98%E5%AE%A2%E4%BD%93%E9%AA%8C%E7%BD%91%E7%BA%A6%E8%BD%A6%23&Refer=top",
@@ -284,6 +284,16 @@
   {
     "url": "/weibo?q=%23%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A03%E5%90%88%E4%BD%9C%E8%88%9E%E5%8F%B0%23&Refer=top",
     "title": "青春有你3合作舞台",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23429%E9%A6%96%E9%83%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%97%A5%23&Refer=new_time",
+    "title": "429首都网络安全日",
+    "mark": "热"
+  },
+  {
+    "url": "/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%B6%852.4%E4%BA%BF%E5%89%82%E6%AC%A1%23&Refer=top",
+    "title": "全国新冠疫苗接种超2.4亿剂次",
     "mark": ""
   }
 ]

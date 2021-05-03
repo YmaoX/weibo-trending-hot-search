@@ -22,7 +22,7 @@
   {
     "url": "/weibo?q=%23%E9%9F%A9%E7%BE%8E%E5%A8%9F%E6%95%99%E7%B2%89%E4%B8%9D%E5%81%9A%E6%95%B0%E6%8D%AE%23&Refer=top",
     "title": "韩美娟教粉丝做数据",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%B0%8F%E8%88%8D%E5%BE%97%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top",
@@ -82,7 +82,7 @@
   {
     "url": "/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%A2%9C%E5%80%BC%23&Refer=top",
     "title": "鞠婧祎颜值",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%E7%8B%97%E7%8B%97%E5%B8%81%E4%B8%8A%E6%B6%A8&Refer=top",
@@ -259,5 +259,10 @@
     "url": "/weibo?q=%E6%88%8D%E8%BE%B9%E5%8D%AB%E5%A3%AB%E5%92%8C%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%85%B1%E5%94%B1%E4%B8%80%E9%A6%96%E6%AD%8C&Refer=top",
     "title": "戍边卫士和国旗护卫队共唱一首歌",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%91%E8%89%B2&Refer=top",
+    "title": "华晨宇发色",
+    "mark": "沸"
   }
 ]

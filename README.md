@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 06 2021 06:24:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 06 2021 07:20:49 GMT+0800 (China Standard Time) -->
 
 1. [大湾区一分钟](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%B9%BE%E5%8C%BA%E4%B8%80%E5%88%86%E9%92%9F%23&Refer=new_time)
    热
@@ -109,6 +109,21 @@
     热
 64. [张柏芝说话大声是因为耳弱](https://s.weibo.com//weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E8%AF%B4%E8%AF%9D%E5%A4%A7%E5%A3%B0%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%80%B3%E5%BC%B1&Refer=top)
 65. [孟佳模仿张含韵嗲音](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E4%BD%B3%E6%A8%A1%E4%BB%BF%E5%BC%A0%E5%90%AB%E9%9F%B5%E5%97%B2%E9%9F%B3%23&Refer=top)
+    新
+66. [美国将放弃新冠疫苗知识产权专利](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%94%BE%E5%BC%83%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E4%B8%93%E5%88%A9&Refer=top)
+    新
+67. [欧冠](https://s.weibo.com//weibo?q=%E6%AC%A7%E5%86%A0&Refer=top) 新
+68. [世卫称印度疫情向周边扩散](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E7%A7%B0%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85%E5%90%91%E5%91%A8%E8%BE%B9%E6%89%A9%E6%95%A3%23&Refer=top)
+    新
+69. [美国2020年新生儿为41年来最少](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD2020%E5%B9%B4%E6%96%B0%E7%94%9F%E5%84%BF%E4%B8%BA41%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%B0%91&Refer=top)
+    新
+70. [切尔西淘汰皇马](https://s.weibo.com//weibo?q=%E5%88%87%E5%B0%94%E8%A5%BF%E6%B7%98%E6%B1%B0%E7%9A%87%E9%A9%AC&Refer=top)
+    新
+71. [你的婚礼](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9A%84%E5%A9%9A%E7%A4%BC&Refer=top)
+    新
+72. [恶意抹黑滴滴司机短视频作者道歉](https://s.weibo.com//weibo?q=%23%E6%81%B6%E6%84%8F%E6%8A%B9%E9%BB%91%E6%BB%B4%E6%BB%B4%E5%8F%B8%E6%9C%BA%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BD%9C%E8%80%85%E9%81%93%E6%AD%89%23&Refer=top)
+    新
+73. [上班第一天](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%23&Refer=top)
     新
 
 <!-- END -->

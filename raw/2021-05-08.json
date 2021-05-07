@@ -12,12 +12,12 @@
   {
     "url": "/weibo?q=%23%E7%9A%AE%E8%82%A4%E7%A7%91%E5%8C%BB%E7%94%9F%E6%9E%97%E5%B0%8F%E6%B8%85%E8%A2%AB%E5%81%9C%E8%81%8C%E8%B0%83%E6%9F%A5%23&Refer=top",
     "title": "皮肤科医生林小清被停职调查",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E9%99%88%E9%93%AD%E5%BB%BA%E8%AE%AE%E7%A9%BA%E5%A7%90%E5%90%8D%E7%89%8C%E5%81%9A%E5%88%B0%E8%82%A9%E8%86%80%23&Refer=top",
     "title": "陈铭建议空姐名牌做到肩膀",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%8F%E5%8C%BA%E5%9D%A0%E4%BA%A1%E4%B8%80%E5%B1%82%E6%A5%BC%E7%9A%84%E4%BA%BA%E9%83%BD%E6%90%AC%E8%B5%B0%23&Refer=top",
@@ -42,12 +42,12 @@
   {
     "url": "/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B0%8F%E4%BC%99%E4%B8%AD%E5%9B%BD%E6%89%93%E7%96%AB%E8%8B%97%E8%A2%AB%E5%91%8A%E7%9F%A5%E5%85%8D%E8%B4%B9%23&Refer=top",
     "title": "马来西亚小伙中国打疫苗被告知免费",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E4%B8%96%E5%8D%AB%E5%B0%86%E5%9B%BD%E8%8D%AF%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%88%97%E5%85%A5%E7%B4%A7%E6%80%A5%E4%BD%BF%E7%94%A8%E6%B8%85%E5%8D%95&Refer=top",
     "title": "世卫将国药新冠疫苗列入紧急使用清单",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top",
@@ -57,7 +57,7 @@
   {
     "url": "/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%96%9D%E9%85%92%E6%BC%8F%E4%BA%86%23&Refer=top",
     "title": "杨洋喝酒漏了",
-    "mark": "热 -> 沸"
+    "mark": "热 -> 沸 -> 热"
   },
   {
     "url": "/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%82%93%E7%B4%AB%E6%A3%8B%E7%8B%BC%E4%BA%BA%E6%9D%80%E5%AE%8C%E7%BE%8E%E9%85%8D%E5%90%88%23&Refer=top",
@@ -67,7 +67,7 @@
   {
     "url": "/weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E7%9A%84%E8%A7%84%E5%88%92%E6%98%AF%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B8%AD%E6%96%87%23&Refer=top",
     "title": "利路修的规划是好好学中文",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A5%E6%9C%8815%E6%97%A5%E5%B0%86%E8%A7%A3%E9%99%A4%E5%AF%B9%E5%8D%B0%E6%97%85%E8%A1%8C%E7%A6%81%E4%BB%A4&Refer=top",
@@ -289,5 +289,15 @@
     "url": "/weibo?q=%E5%AD%9F%E7%BE%8E%E5%B2%90%E4%B8%BA%E8%A7%92%E8%89%B2%E5%A2%9E%E8%82%A515%E6%96%A4&Refer=top",
     "title": "孟美岐为角色增肥15斤",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E4%B8%BA%E8%A7%92%E8%89%B2%E5%A2%9E%E8%82%A515%E6%96%A4%23&Refer=top",
+    "title": "孟美岐为角色增肥15斤",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%BE%A1%E8%B5%90%E5%B0%8F%E4%BB%B5%E4%BD%9C&Refer=top",
+    "title": "御赐小仵作",
+    "mark": ""
   }
 ]

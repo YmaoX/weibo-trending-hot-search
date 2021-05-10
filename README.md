@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 11 2021 05:19:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 11 2021 06:24:50 GMT+0800 (China Standard Time) -->
 
 1. [中国消费一秒钟](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E4%B8%80%E7%A7%92%E9%92%9F%23&Refer=new_time)
    热
 2. [撒贝宁催婚李佳琦金靖](https://s.weibo.com//weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%82%AC%E5%A9%9A%E6%9D%8E%E4%BD%B3%E7%90%A6%E9%87%91%E9%9D%96%23&Refer=top)
-   沸
+   沸 ->
 3. [成都四十九中回应学生在校高坠离世](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%9B%9B%E5%8D%81%E4%B9%9D%E4%B8%AD%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%A0%A1%E9%AB%98%E5%9D%A0%E7%A6%BB%E4%B8%96%23&Refer=top)
    沸
 4. [赵丽颖直播状态](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23&Refer=top)
@@ -100,7 +100,7 @@
 58. [全国城市20年节水近千亿立方米](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%9F%8E%E5%B8%8220%E5%B9%B4%E8%8A%82%E6%B0%B4%E8%BF%91%E5%8D%83%E4%BA%BF%E7%AB%8B%E6%96%B9%E7%B1%B3%23&Refer=new_time)
     热
 59. [赵丽颖直播状态](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81&Refer=top)
-    沸
+    沸 ->
 60. [难听](https://s.weibo.com//weibo?q=%23%E9%9A%BE%E5%90%AC%23&Refer=top) 热
 61. [shib大涨](https://s.weibo.com//weibo?q=shib%E5%A4%A7%E6%B6%A8&Refer=top)
 62. [小智看了想报警](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%99%BA%E7%9C%8B%E4%BA%86%E6%83%B3%E6%8A%A5%E8%AD%A6%23&Refer=top)

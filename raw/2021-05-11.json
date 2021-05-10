@@ -27,7 +27,7 @@
   {
     "url": "/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E5%BE%88%E6%8B%85%E5%BF%83%E7%AC%AC3%E5%8F%AA%E9%87%91%E9%92%B1%E8%B1%B9%E7%94%9F%E5%AD%98%E7%8A%B6%E6%80%81%23&Refer=top",
     "title": "专家说很担心第3只金钱豹生存状态",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%88%90%E9%83%BD49%E4%B8%AD%23&Refer=top",
@@ -97,7 +97,7 @@
   {
     "url": "/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E7%B4%A0%E9%A2%9C%E7%9B%B4%E6%92%AD%23&Refer=top",
     "title": "吴世勋素颜直播",
-    "mark": "新 -> "
+    "mark": "新 ->  -> 新"
   },
   {
     "url": "/weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%94%B5%E6%A2%AF%E9%87%8C%E8%B5%B7%E7%81%AB%E7%83%A7%E4%BC%A4%E5%A4%9A%E4%BA%BA%23&Refer=top",
@@ -112,7 +112,7 @@
   {
     "url": "/weibo?q=%E5%B9%B3%E6%BD%AD&Refer=top",
     "title": "平潭",
-    "mark": "新 -> "
+    "mark": "新 ->  -> 新"
   },
   {
     "url": "/weibo?q=%23%E4%B8%81%E7%9C%9F%E7%99%BDt%E9%80%A0%E5%9E%8B%E6%B8%B8%E8%A5%BF%E6%B9%96%23&Refer=top",
@@ -278,6 +278,36 @@
   {
     "url": "/weibo?q=%E5%86%9B%E5%AE%98%E6%95%AC%E7%A4%BC%E6%97%B6%E4%B8%80%E4%B8%AA%E5%B8%A6%E9%94%99%E4%BB%A8&Refer=top",
     "title": "军官敬礼时一个带错仨",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%9F%8E%E5%B8%8220%E5%B9%B4%E8%8A%82%E6%B0%B4%E8%BF%91%E5%8D%83%E4%BA%BF%E7%AB%8B%E6%96%B9%E7%B1%B3%23&Refer=new_time",
+    "title": "全国城市20年节水近千亿立方米",
+    "mark": "热"
+  },
+  {
+    "url": "/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81&Refer=top",
+    "title": "赵丽颖直播状态",
+    "mark": "沸"
+  },
+  {
+    "url": "/weibo?q=%23%E9%9A%BE%E5%90%AC%23&Refer=top",
+    "title": "难听",
+    "mark": "热"
+  },
+  {
+    "url": "/weibo?q=shib%E5%A4%A7%E6%B6%A8&Refer=top",
+    "title": "shib大涨",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%B0%8F%E6%99%BA%E7%9C%8B%E4%BA%86%E6%83%B3%E6%8A%A5%E8%AD%A6%23&Refer=top",
+    "title": "小智看了想报警",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%E6%AD%A6%E6%B1%89%E9%98%9F%20%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89&Refer=top",
+    "title": "武汉队 北京国安",
     "mark": ""
   }
 ]

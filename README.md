@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 13 2021 06:26:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 13 2021 07:22:23 GMT+0800 (China Standard Time) -->
 
 1. [致敬最美的天使](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%A9%E4%BD%BF%23&Refer=new_time)
    热
@@ -105,6 +105,10 @@
 64. [警方通报成都四十九中学生坠亡](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E5%9B%9B%E5%8D%81%E4%B9%9D%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%23&Refer=top)
 65. [阿迪达斯被罚](https://s.weibo.com//weibo?q=%23%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E8%A2%AB%E7%BD%9A%23&Refer=top)
     热
+66. [肖战为白衣天使献唱竹石](https://s.weibo.com//weibo?q=%E8%82%96%E6%88%98%E4%B8%BA%E7%99%BD%E8%A1%A3%E5%A4%A9%E4%BD%BF%E7%8C%AE%E5%94%B1%E7%AB%B9%E7%9F%B3&Refer=top)
+67. [shib大跌](https://s.weibo.com//weibo?q=shib%E5%A4%A7%E8%B7%8C&Refer=top) 新
+68. [许嵩新歌科幻](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%B5%A9%E6%96%B0%E6%AD%8C%E7%A7%91%E5%B9%BB&Refer=top)
+    新
 
 <!-- END -->
 

@@ -17,7 +17,7 @@
   {
     "url": "/weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E7%99%BB%E4%B8%8APitchfork%E9%A6%96%E9%A1%B5%23&Refer=top",
     "title": "利路修登上Pitchfork首页",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E6%B2%88%E6%A2%A6%E8%BE%B0%23&Refer=top",
@@ -97,7 +97,7 @@
   {
     "url": "/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%BA%E7%99%BD%E8%A1%A3%E5%A4%A9%E4%BD%BF%E7%8C%AE%E5%94%B1%E7%AB%B9%E7%9F%B3%23&Refer=top",
     "title": "肖战为白衣天使献唱竹石",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%B0%91%E5%B9%B4%E5%9C%A8%E5%9E%83%E5%9C%BE%E6%A1%B6%E7%9D%A1%E8%A7%89%E8%A2%AB%E6%8C%A4%E5%8E%8B%E7%A2%BE%E6%AD%BB&Refer=top",
@@ -185,7 +185,11 @@
     "title": "刘涛 我不能让任何人看低我",
     "mark": ""
   },
-  { "url": "/weibo?q=%E9%81%87%E9%BE%99&Refer=top", "title": "遇龙", "mark": "" },
+  {
+    "url": "/weibo?q=%E9%81%87%E9%BE%99&Refer=top",
+    "title": "遇龙",
+    "mark": " -> 沸"
+  },
   {
     "url": "/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%88%86%E4%BA%AB%E9%9A%94%E7%A6%BB14%E5%A4%A9%E5%BF%83%E5%BE%97%23&Refer=top",
     "title": "吴尊分享隔离14天心得",
@@ -285,5 +289,15 @@
     "url": "/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%9870%E7%B1%B3%E7%83%9F%E5%9B%B1%E6%95%91%E4%B8%8B%E7%94%B7%E5%AD%90%E6%89%8B%E6%8A%96%E4%B8%8D%E5%81%9C%23&Refer=top",
     "title": "消防员70米烟囱救下男子手抖不停",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%A4%A7%E7%BE%8E%E6%B2%B3%E5%8D%97%E6%9B%B4%E5%87%BA%E5%BD%A9%23&Refer=new_time",
+    "title": "大美河南更出彩",
+    "mark": "热"
+  },
+  {
+    "url": "/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A8%E9%99%8D%E6%B8%A9%E5%8F%A3%E7%BD%A9%23&Refer=top",
+    "title": "日本推降温口罩",
+    "mark": "新"
   }
 ]

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 15 2021 05:20:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 15 2021 06:26:15 GMT+0800 (China Standard Time) -->
 
 1. [火星的中国时刻](https://s.weibo.com//weibo?q=%23%E7%81%AB%E6%98%9F%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%97%B6%E5%88%BB%23&Refer=new_time)
    热
@@ -101,11 +101,13 @@
 58. [RNG十连胜](https://s.weibo.com//weibo?q=%23RNG%E5%8D%81%E8%BF%9E%E8%83%9C%23&Refer=top)
     新 ->
 59. [蔡徐坤晒素颜照](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%99%92%E7%B4%A0%E9%A2%9C%E7%85%A7%23&Refer=top)
-    新
+    新 ->
 60. [李现黑色西装造型](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%B0%E9%BB%91%E8%89%B2%E8%A5%BF%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
-    新
+    新 ->
 61. [2021MSI](https://s.weibo.com//weibo?q=%232021MSI%23&Refer=top)
 62. [西湖音乐节](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E6%B9%96%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top)
+63. [国家卫健委提示病毒变异呈现三个特点](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E6%8F%90%E7%A4%BA%E7%97%85%E6%AF%92%E5%8F%98%E5%BC%82%E5%91%88%E7%8E%B0%E4%B8%89%E4%B8%AA%E7%89%B9%E7%82%B9%23&Refer=new_time)
+    热
 
 <!-- END -->
 

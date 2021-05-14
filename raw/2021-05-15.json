@@ -17,7 +17,7 @@
   {
     "url": "/weibo?q=%23%E9%A9%B0%E6%8F%B4%E6%AD%A6%E6%B1%89%E9%80%81%E8%8F%9C%E5%8F%B8%E6%9C%BA%E8%BD%A6%E7%A5%B8%E7%A6%BB%E4%B8%96%23&Refer=top",
     "title": "驰援武汉送菜司机车祸离世",
-    "mark": "新 -> "
+    "mark": "新 ->  -> 新"
   },
   {
     "url": "/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%8F%AB%E6%9D%A8%E7%B4%AB%E5%A7%90%E5%A7%90%23&Refer=top",
@@ -270,5 +270,15 @@
     "url": "/weibo?q=%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E5%A4%A7%E5%AD%A6%E7%99%BE%E7%B1%B3%E5%A5%B3%E9%A3%9E%E4%BA%BA&Refer=top",
     "title": "北京体育大学百米女飞人",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%9D%A8%E7%B4%AB%E6%92%9E%E7%9D%A1%E8%A1%A3%23&Refer=top",
+    "title": "张艺兴杨紫撞睡衣",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23RNG%E5%8D%81%E8%BF%9E%E8%83%9C%23&Refer=top",
+    "title": "RNG十连胜",
+    "mark": "新"
   }
 ]

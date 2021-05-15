@@ -264,5 +264,11 @@
     "title": "天问一号成功着陆",
     "mark": "热"
   },
-  { "url": "/weibo?q=%23MSI%23&Refer=top", "title": "MSI", "mark": "" }
+  { "url": "/weibo?q=%23MSI%23&Refer=top", "title": "MSI", "mark": "" },
+  {
+    "url": "/weibo?q=%23%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%23&Refer=top",
+    "title": "教资面试",
+    "mark": ""
+  },
+  { "url": "/weibo?q=%E7%A5%9D%E8%9E%8D&Refer=top", "title": "祝融", "mark": "" }
 ]

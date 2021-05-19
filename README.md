@@ -14,13 +14,13 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 20 2021 05:19:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 20 2021 06:25:37 GMT+0800 (China Standard Time) -->
 
 1. [9组数据告诉你各地疫苗接种进展](https://s.weibo.com//weibo?q=%239%E7%BB%84%E6%95%B0%E6%8D%AE%E5%91%8A%E8%AF%89%E4%BD%A0%E5%90%84%E5%9C%B0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%BF%9B%E5%B1%95%23&Refer=new_time)
    热
 2. [520](https://s.weibo.com//weibo?q=520&Refer=top) 新 -> 沸
 3. [关晓彤工作室否认吃播假吃](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%90%A6%E8%AE%A4%E5%90%83%E6%92%AD%E5%81%87%E5%90%83%23&Refer=top)
-   沸
+   沸 -> 热
 4. [钟南山说未来可能要定期打新冠疫苗](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E8%AF%B4%E6%9C%AA%E6%9D%A5%E5%8F%AF%E8%83%BD%E8%A6%81%E5%AE%9A%E6%9C%9F%E6%89%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
    -> 热 ->
 5. [易烊千玺 无聊一天出门走走](https://s.weibo.com//weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E6%97%A0%E8%81%8A%E4%B8%80%E5%A4%A9%E5%87%BA%E9%97%A8%E8%B5%B0%E8%B5%B0&Refer=top)
@@ -37,7 +37,7 @@
     沸 -> 热 ->
 11. [赛格大厦 阻尼器](https://s.weibo.com//weibo?q=%E8%B5%9B%E6%A0%BC%E5%A4%A7%E5%8E%A6%20%E9%98%BB%E5%B0%BC%E5%99%A8&Refer=top)
 12. [县长想让曹县持续火下去](https://s.weibo.com//weibo?q=%23%E5%8E%BF%E9%95%BF%E6%83%B3%E8%AE%A9%E6%9B%B9%E5%8E%BF%E6%8C%81%E7%BB%AD%E7%81%AB%E4%B8%8B%E5%8E%BB%23&Refer=top)
-13. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top) -> 沸
+13. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top) -> 沸 ->
 14. [祝融号拍到的火星](https://s.weibo.com//weibo?q=%23%E7%A5%9D%E8%9E%8D%E5%8F%B7%E6%8B%8D%E5%88%B0%E7%9A%84%E7%81%AB%E6%98%9F%23&Refer=top)
 15. [微信拍一拍新增炸一炸功能](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%8B%8D%E4%B8%80%E6%8B%8D%E6%96%B0%E5%A2%9E%E7%82%B8%E4%B8%80%E7%82%B8%E5%8A%9F%E8%83%BD%23&Refer=top)
     热 ->
@@ -96,7 +96,7 @@
 56. [中国有约adatewithchina](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E7%BA%A6adatewithchina%23&Refer=new_time)
     热
 57. [偶遇李诞黑尾酱逛莫高窟](https://s.weibo.com//weibo?q=%23%E5%81%B6%E9%81%87%E6%9D%8E%E8%AF%9E%E9%BB%91%E5%B0%BE%E9%85%B1%E9%80%9B%E8%8E%AB%E9%AB%98%E7%AA%9F%23&Refer=top)
-    新
+    新 ->
 58. [秦昊 剥虾决定了家庭地位](https://s.weibo.com//weibo?q=%E7%A7%A6%E6%98%8A%20%E5%89%A5%E8%99%BE%E5%86%B3%E5%AE%9A%E4%BA%86%E5%AE%B6%E5%BA%AD%E5%9C%B0%E4%BD%8D&Refer=top)
     新 ->
 59. [陈默吃醋](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%BB%98%E5%90%83%E9%86%8B%23&Refer=top)
@@ -104,7 +104,7 @@
 60. [吴磊薇娅戴阿隼面具比拼射箭](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E8%96%87%E5%A8%85%E6%88%B4%E9%98%BF%E9%9A%BC%E9%9D%A2%E5%85%B7%E6%AF%94%E6%8B%BC%E5%B0%84%E7%AE%AD%23&Refer=top)
     新 ->
 61. [林允逛展vlog](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%85%81%E9%80%9B%E5%B1%95vlog%23&Refer=top)
-    新
+    新 ->
 
 <!-- END -->
 

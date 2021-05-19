@@ -14,14 +14,15 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 20 2021 00:40:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 20 2021 01:48:20 GMT+0800 (China Standard Time) -->
 
 1. [9组数据告诉你各地疫苗接种进展](https://s.weibo.com//weibo?q=%239%E7%BB%84%E6%95%B0%E6%8D%AE%E5%91%8A%E8%AF%89%E4%BD%A0%E5%90%84%E5%9C%B0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E8%BF%9B%E5%B1%95%23&Refer=new_time)
    热
-2. [520](https://s.weibo.com//weibo?q=520&Refer=top) 新
+2. [520](https://s.weibo.com//weibo?q=520&Refer=top) 新 -> 沸
 3. [关晓彤工作室否认吃播假吃](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%90%A6%E8%AE%A4%E5%90%83%E6%92%AD%E5%81%87%E5%90%83%23&Refer=top)
    沸
 4. [钟南山说未来可能要定期打新冠疫苗](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E8%AF%B4%E6%9C%AA%E6%9D%A5%E5%8F%AF%E8%83%BD%E8%A6%81%E5%AE%9A%E6%9C%9F%E6%89%93%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top)
+   -> 热
 5. [易烊千玺 无聊一天出门走走](https://s.weibo.com//weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E6%97%A0%E8%81%8A%E4%B8%80%E5%A4%A9%E5%87%BA%E9%97%A8%E8%B5%B0%E8%B5%B0&Refer=top)
    沸
 6. [币圈崩盘](https://s.weibo.com//weibo?q=%E5%B8%81%E5%9C%88%E5%B4%A9%E7%9B%98&Refer=top)
@@ -33,7 +34,7 @@
 9. [原来武林外传是反内卷前辈](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E6%98%AF%E5%8F%8D%E5%86%85%E5%8D%B7%E5%89%8D%E8%BE%88%23&Refer=top)
    沸
 10. [乔欣发怼脸视频否认整容](https://s.weibo.com//weibo?q=%23%E4%B9%94%E6%AC%A3%E5%8F%91%E6%80%BC%E8%84%B8%E8%A7%86%E9%A2%91%E5%90%A6%E8%AE%A4%E6%95%B4%E5%AE%B9%23&Refer=top)
-    沸
+    沸 -> 热
 11. [赛格大厦 阻尼器](https://s.weibo.com//weibo?q=%E8%B5%9B%E6%A0%BC%E5%A4%A7%E5%8E%A6%20%E9%98%BB%E5%B0%BC%E5%99%A8&Refer=top)
 12. [县长想让曹县持续火下去](https://s.weibo.com//weibo?q=%23%E5%8E%BF%E9%95%BF%E6%83%B3%E8%AE%A9%E6%9B%B9%E5%8E%BF%E6%8C%81%E7%BB%AD%E7%81%AB%E4%B8%8B%E5%8E%BB%23&Refer=top)
 13. [窥探](https://s.weibo.com//weibo?q=%E7%AA%A5%E6%8E%A2&Refer=top)
@@ -48,11 +49,11 @@
 20. [利路修邀请刘耀文一起散步](https://s.weibo.com//weibo?q=%23%E5%88%A9%E8%B7%AF%E4%BF%AE%E9%82%80%E8%AF%B7%E5%88%98%E8%80%80%E6%96%87%E4%B8%80%E8%B5%B7%E6%95%A3%E6%AD%A5%23&Refer=top)
 21. [沈阳2例确诊与营口确诊轨迹高度重合](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B32%E4%BE%8B%E7%A1%AE%E8%AF%8A%E4%B8%8E%E8%90%A5%E5%8F%A3%E7%A1%AE%E8%AF%8A%E8%BD%A8%E8%BF%B9%E9%AB%98%E5%BA%A6%E9%87%8D%E5%90%88%23&Refer=top)
 22. [王源机场造型](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%9C%BA%E5%9C%BA%E9%80%A0%E5%9E%8B%23&Refer=top)
-    新
+    新 ->
 23. [黄晓明 否认离婚](https://s.weibo.com//weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%20%E5%90%A6%E8%AE%A4%E7%A6%BB%E5%A9%9A&Refer=top)
     热
 24. [新垣结衣星野源结婚](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%9E%A3%E7%BB%93%E8%A1%A3%E6%98%9F%E9%87%8E%E6%BA%90%E7%BB%93%E5%A9%9A%23&Refer=top)
-    热
+    热 ->
 25. [老友记重聚节目剧照](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%E9%87%8D%E8%81%9A%E8%8A%82%E7%9B%AE%E5%89%A7%E7%85%A7%23&Refer=top)
     新
 26. [庆怜中文听力](https://s.weibo.com//weibo?q=%23%E5%BA%86%E6%80%9C%E4%B8%AD%E6%96%87%E5%90%AC%E5%8A%9B%23&Refer=top)
@@ -60,7 +61,7 @@
 28. [中俄核能合作项目开工仪式](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BF%84%E6%A0%B8%E8%83%BD%E5%90%88%E4%BD%9C%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%B7%A5%E4%BB%AA%E5%BC%8F%23&Refer=top)
 29. [男子向多名女子喷胶水获刑1年5个月](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%91%E5%A4%9A%E5%90%8D%E5%A5%B3%E5%AD%90%E5%96%B7%E8%83%B6%E6%B0%B4%E8%8E%B7%E5%88%911%E5%B9%B45%E4%B8%AA%E6%9C%88%23&Refer=top)
 30. [那兔用土豆脆皮肠解释天舟二号对接](https://s.weibo.com//weibo?q=%23%E9%82%A3%E5%85%94%E7%94%A8%E5%9C%9F%E8%B1%86%E8%84%86%E7%9A%AE%E8%82%A0%E8%A7%A3%E9%87%8A%E5%A4%A9%E8%88%9F%E4%BA%8C%E5%8F%B7%E5%AF%B9%E6%8E%A5%23&Refer=top)
-    新
+    新 ->
 31. [沃尔玛进口啤酒篡改日期](https://s.weibo.com//weibo?q=%23%E6%B2%83%E5%B0%94%E7%8E%9B%E8%BF%9B%E5%8F%A3%E5%95%A4%E9%85%92%E7%AF%A1%E6%94%B9%E6%97%A5%E6%9C%9F%23&Refer=top)
 32. [陆柯燃丸子头中国风造型](https://s.weibo.com//weibo?q=%23%E9%99%86%E6%9F%AF%E7%87%83%E4%B8%B8%E5%AD%90%E5%A4%B4%E4%B8%AD%E5%9B%BD%E9%A3%8E%E9%80%A0%E5%9E%8B%23&Refer=top)
 33. [恋爱中的高段位操作](https://s.weibo.com//weibo?q=%23%E6%81%8B%E7%88%B1%E4%B8%AD%E7%9A%84%E9%AB%98%E6%AE%B5%E4%BD%8D%E6%93%8D%E4%BD%9C%23&Refer=top)
@@ -85,6 +86,13 @@
 50. [李佳琦直播](https://s.weibo.com//weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top)
 51. [热带气旋陶特侵袭印度致至少87死](https://s.weibo.com//weibo?q=%23%E7%83%AD%E5%B8%A6%E6%B0%94%E6%97%8B%E9%99%B6%E7%89%B9%E4%BE%B5%E8%A2%AD%E5%8D%B0%E5%BA%A6%E8%87%B4%E8%87%B3%E5%B0%9187%E6%AD%BB%23&Refer=top)
     新
+52. [全国群众安全感逐年上升](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BE%A4%E4%BC%97%E5%AE%89%E5%85%A8%E6%84%9F%E9%80%90%E5%B9%B4%E4%B8%8A%E5%8D%87%23&Refer=new_time)
+    热
+53. [蔡少芬声明](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E5%A3%B0%E6%98%8E%23&Refer=top)
+    新
+54. [孟佳 头发长越来越像夜华了](https://s.weibo.com//weibo?q=%E5%AD%9F%E4%BD%B3%20%E5%A4%B4%E5%8F%91%E9%95%BF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E5%A4%9C%E5%8D%8E%E4%BA%86&Refer=top)
+    新
+55. [遇龙](https://s.weibo.com//weibo?q=%E9%81%87%E9%BE%99&Refer=top)
 
 <!-- END -->
 

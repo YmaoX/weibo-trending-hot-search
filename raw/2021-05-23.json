@@ -17,7 +17,7 @@
   {
     "url": "/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E6%82%BC%E5%BF%B5%E8%A2%81%E9%9A%86%E5%B9%B3%23&Refer=top",
     "title": "联合国悼念袁隆平",
-    "mark": "热 -> 沸"
+    "mark": "热 -> 沸 -> 热"
   },
   {
     "url": "/weibo?q=%23%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E5%81%9C%E6%92%AD%E4%B8%80%E6%9C%9F%23&Refer=top",
@@ -77,7 +77,7 @@
   {
     "url": "/weibo?q=%E5%9B%BD%E5%A3%AB%E6%97%A0%E5%8F%8C&Refer=top",
     "title": "国士无双",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%83%BD%E4%BD%8E%E8%B0%83%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%23&Refer=top",
@@ -127,7 +127,7 @@
   {
     "url": "/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD&Refer=top",
     "title": "李佳琦直播",
-    "mark": " -> 热"
+    "mark": " -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%8C%AE%E5%8E%BF5%E5%90%8D%E5%AD%A9%E5%AD%90%E5%9D%91%E5%A1%98%E4%B8%AD%E6%BA%BA%E4%BA%A1%23&Refer=top",

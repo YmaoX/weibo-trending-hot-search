@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 24 2021 02:37:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 24 2021 03:26:44 GMT+0800 (China Standard Time) -->
 
 1. [祝融来到火星的170小时](https://s.weibo.com//weibo?q=%23%E7%A5%9D%E8%9E%8D%E6%9D%A5%E5%88%B0%E7%81%AB%E6%98%9F%E7%9A%84170%E5%B0%8F%E6%97%B6%23&Refer=new_time)
    热
@@ -30,7 +30,7 @@
 7. [长沙的鲜花外卖单](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E7%9A%84%E9%B2%9C%E8%8A%B1%E5%A4%96%E5%8D%96%E5%8D%95%23&Refer=top)
    沸 -> 热
 8. [好友讲述黄关军参赛马拉松挣奖金](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%8F%8B%E8%AE%B2%E8%BF%B0%E9%BB%84%E5%85%B3%E5%86%9B%E5%8F%82%E8%B5%9B%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8C%A3%E5%A5%96%E9%87%91%23&Refer=top)
-   新 -> 沸 ->
+   新 -> 沸 -> -> 沸
 9. [官方回应饲养员被老虎袭击身亡](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A5%B2%E5%85%BB%E5%91%98%E8%A2%AB%E8%80%81%E8%99%8E%E8%A2%AD%E5%87%BB%E8%BA%AB%E4%BA%A1%23&Refer=top)
 10. [长沙有太多的感动了](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E6%9C%89%E5%A4%AA%E5%A4%9A%E7%9A%84%E6%84%9F%E5%8A%A8%E4%BA%86%23&Refer=top)
     沸 ->
@@ -46,14 +46,14 @@
 17. [苏芒说一天650伙食费不够](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E8%8A%92%E8%AF%B4%E4%B8%80%E5%A4%A9650%E4%BC%99%E9%A3%9F%E8%B4%B9%E4%B8%8D%E5%A4%9F%23&Refer=top)
     新 ->
 18. [为什么中国式父母不爱夸孩子](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%88%B6%E6%AF%8D%E4%B8%8D%E7%88%B1%E5%A4%B8%E5%AD%A9%E5%AD%90%23&Refer=top)
-    新
+    新 ->
 19. [汪苏泷情商](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%83%85%E5%95%86%23&Refer=top)
     新 ->
 20. [深圳一学区房狂降662万元](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%AD%A6%E5%8C%BA%E6%88%BF%E7%8B%82%E9%99%8D662%E4%B8%87%E5%85%83%23&Refer=top)
 21. [4岁小女孩因以军空袭面临瘫痪](https://s.weibo.com//weibo?q=%234%E5%B2%81%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%9B%A0%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E9%9D%A2%E4%B8%B4%E7%98%AB%E7%97%AA%23&Refer=top)
 22. [真正嫁对人的爱情有多感人](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E6%AD%A3%E5%AB%81%E5%AF%B9%E4%BA%BA%E7%9A%84%E7%88%B1%E6%83%85%E6%9C%89%E5%A4%9A%E6%84%9F%E4%BA%BA%23&Refer=top)
 23. [王安宇范丞丞校服路透](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%A0%A1%E6%9C%8D%E8%B7%AF%E9%80%8F%23&Refer=top)
-    新
+    新 ->
 24. [陈语嫣 迪士尼](https://s.weibo.com//weibo?q=%E9%99%88%E8%AF%AD%E5%AB%A3%20%E8%BF%AA%E5%A3%AB%E5%B0%BC&Refer=top)
     热
 25. [景甜 极限挑战](https://s.weibo.com//weibo?q=%E6%99%AF%E7%94%9C%20%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&Refer=top)
@@ -91,7 +91,7 @@
 52. [这颗星永远不会陨落](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%A2%97%E6%98%9F%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E9%99%A8%E8%90%BD%23&Refer=new_time)
     热
 53. [RNG夺冠](https://s.weibo.com//weibo?q=%23RNG%E5%A4%BA%E5%86%A0%23&Refer=top)
-    新
+    新 -> 沸
 54. [Ghost小炮五杀](https://s.weibo.com//weibo?q=Ghost%E5%B0%8F%E7%82%AE%E4%BA%94%E6%9D%80&Refer=top)
     新
 55. [4AM夺冠](https://s.weibo.com//weibo?q=%234AM%E5%A4%BA%E5%86%A0%23&Refer=top)
@@ -110,6 +110,9 @@
 63. [骊歌行大结局](https://s.weibo.com//weibo?q=%23%E9%AA%8A%E6%AD%8C%E8%A1%8C%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
 64. [RNG先下一城](https://s.weibo.com//weibo?q=%23RNG%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&Refer=top)
 65. [御赐小仵作](https://s.weibo.com//weibo?q=%E5%BE%A1%E8%B5%90%E5%B0%8F%E4%BB%B5%E4%BD%9C&Refer=top)
+66. [ShowMaker泣不成声](https://s.weibo.com//weibo?q=%23ShowMaker%E6%B3%A3%E4%B8%8D%E6%88%90%E5%A3%B0%23&Refer=top)
+    新
+67. [Cryin的卢锡安](https://s.weibo.com//weibo?q=Cryin%E7%9A%84%E5%8D%A2%E9%94%A1%E5%AE%89&Refer=top)
 
 <!-- END -->
 

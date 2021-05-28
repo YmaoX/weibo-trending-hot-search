@@ -7,7 +7,7 @@
   {
     "url": "/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%80%BB%E7%BB%93%E6%B8%A3%E7%94%B7%E8%AF%AD%E5%BD%95%23&Refer=top",
     "title": "杨紫张子枫总结渣男语录",
-    "mark": "热 -> "
+    "mark": "热 ->  -> 热"
   },
   {
     "url": "/weibo?q=%23%E7%A7%B0%E5%B8%AE%E4%B8%8B%E8%8D%AF%E6%92%A9%E5%A5%B3%E5%90%8C%E4%BA%8B%E7%9A%84%E7%BD%91%E6%98%93HR%E9%81%93%E6%AD%89%23&Refer=top",
@@ -57,7 +57,7 @@
   {
     "url": "/weibo?q=%23%E6%9D%8E%E8%AF%9E%E9%99%88%E8%B5%AB%E5%A5%BD%E5%90%B5%23&Refer=top",
     "title": "李诞陈赫好吵",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%82%A3%E8%8B%B1%E4%B8%89%E5%B7%B4%E6%8E%8C%E6%8B%8D%E9%A3%9E%E6%9D%A8%E7%B4%AB%23&Refer=top",
@@ -267,11 +267,16 @@
   {
     "url": "/weibo?q=%23%E6%98%BC%E5%B7%9D%E7%9B%B4%E7%94%B7%E5%BC%8F%E5%8D%A0%E6%9C%89%E6%AC%B2%23&Refer=top",
     "title": "昼川直男式占有欲",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23731%E9%83%A8%E9%98%9F%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%9B%BE%E6%98%AF%E5%BE%B7%E7%89%B9%E9%87%8C%E5%85%8B%E5%A0%A1%E9%A1%BE%E9%97%AE%23&Refer=top",
     "title": "731部队负责人曾是德特里克堡顾问",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%B0%B4%E5%B9%B3%E7%A7%91%E6%8A%80%E8%87%AA%E7%AB%8B%E8%87%AA%E5%BC%BA%23&Refer=new_time",
+    "title": "实现高水平科技自立自强",
+    "mark": "热"
   }
 ]

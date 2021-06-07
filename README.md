@@ -14,24 +14,24 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 08 2021 01:35:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 08 2021 03:53:53 GMT+0800 (China Standard Time) -->
 
 1. [习近平青海考察调研](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9D%92%E6%B5%B7%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23&Refer=new_time)
    热
 2. [复读生欲弃考好友请假跨省陪考](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%94%9F%E6%AC%B2%E5%BC%83%E8%80%83%E5%A5%BD%E5%8F%8B%E8%AF%B7%E5%81%87%E8%B7%A8%E7%9C%81%E9%99%AA%E8%80%83%23&Refer=top)
    热
 3. [家中起火妈妈慌乱10岁儿子冷静救火](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E4%B8%AD%E8%B5%B7%E7%81%AB%E5%A6%88%E5%A6%88%E6%85%8C%E4%B9%B110%E5%B2%81%E5%84%BF%E5%AD%90%E5%86%B7%E9%9D%99%E6%95%91%E7%81%AB%23&Refer=top)
-   新
+   新 ->
 4. [高考数学](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%23&Refer=top)
    热
 5. [新冠在艾滋患者体内突变30次](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E5%9C%A8%E8%89%BE%E6%BB%8B%E6%82%A3%E8%80%85%E4%BD%93%E5%86%85%E7%AA%81%E5%8F%9830%E6%AC%A1%23&Refer=top)
    热
 6. [男子被蜱虫咬后染病毒进ICU](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%92%AC%E5%90%8E%E6%9F%93%E7%97%85%E6%AF%92%E8%BF%9BICU%23&Refer=top)
-   新
+   新 ->
 7. [大象睡觉](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%B1%A1%E7%9D%A1%E8%A7%89&Refer=top)
-   新
+   新 ->
 8. [测核酸被挤到脸变形的宝宝](https://s.weibo.com//weibo?q=%23%E6%B5%8B%E6%A0%B8%E9%85%B8%E8%A2%AB%E6%8C%A4%E5%88%B0%E8%84%B8%E5%8F%98%E5%BD%A2%E7%9A%84%E5%AE%9D%E5%AE%9D%23&Refer=top)
-   热
+   热 ->
 9. [张真源出考场的状态](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E7%8A%B6%E6%80%81%23&Refer=top)
    沸
 10. [3米长鲨鱼排便过猛致脱肛](https://s.weibo.com//weibo?q=%233%E7%B1%B3%E9%95%BF%E9%B2%A8%E9%B1%BC%E6%8E%92%E4%BE%BF%E8%BF%87%E7%8C%9B%E8%87%B4%E8%84%B1%E8%82%9B%23&Refer=top)
@@ -42,20 +42,20 @@
 15. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
 16. [哥哥送妹妹到自己4年前考点高考](https://s.weibo.com//weibo?q=%23%E5%93%A5%E5%93%A5%E9%80%81%E5%A6%B9%E5%A6%B9%E5%88%B0%E8%87%AA%E5%B7%B14%E5%B9%B4%E5%89%8D%E8%80%83%E7%82%B9%E9%AB%98%E8%80%83%23&Refer=top)
 17. [郑恺被苗苗表白弄哭了](https://s.weibo.com//weibo?q=%23%E9%83%91%E6%81%BA%E8%A2%AB%E8%8B%97%E8%8B%97%E8%A1%A8%E7%99%BD%E5%BC%84%E5%93%AD%E4%BA%86%23&Refer=top)
-    新
+    新 ->
 18. [王子文的腰](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E7%9A%84%E8%85%B0%23&Refer=top)
 19. [本科和大专的区别](https://s.weibo.com//weibo?q=%E6%9C%AC%E7%A7%91%E5%92%8C%E5%A4%A7%E4%B8%93%E7%9A%84%E5%8C%BA%E5%88%AB&Refer=top)
 20. [婚前爸妈让我交出全部积蓄](https://s.weibo.com//weibo?q=%23%E5%A9%9A%E5%89%8D%E7%88%B8%E5%A6%88%E8%AE%A9%E6%88%91%E4%BA%A4%E5%87%BA%E5%85%A8%E9%83%A8%E7%A7%AF%E8%93%84%23&Refer=top)
-    新
+    新 ->
 21. [吴磊赵露思CP感](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E8%B5%B5%E9%9C%B2%E6%80%9DCP%E6%84%9F%23&Refer=top)
 22. [千万不要忘记关投屏](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%BF%98%E8%AE%B0%E5%85%B3%E6%8A%95%E5%B1%8F%23&Refer=top)
 23. [宋妍霏像极了第一次下厨的我](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%83%8F%E6%9E%81%E4%BA%86%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8B%E5%8E%A8%E7%9A%84%E6%88%91%23&Refer=top)
-    新
+    新 ->
 24. [男生剪完寸头的颜值变化](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E5%89%AA%E5%AE%8C%E5%AF%B8%E5%A4%B4%E7%9A%84%E9%A2%9C%E5%80%BC%E5%8F%98%E5%8C%96%23&Refer=top)
 25. [逆天奇案](https://s.weibo.com//weibo?q=%E9%80%86%E5%A4%A9%E5%A5%87%E6%A1%88&Refer=top)
-    新
+    新 ->
 26. [相亲没成可以要回红包吗](https://s.weibo.com//weibo?q=%23%E7%9B%B8%E4%BA%B2%E6%B2%A1%E6%88%90%E5%8F%AF%E4%BB%A5%E8%A6%81%E5%9B%9E%E7%BA%A2%E5%8C%85%E5%90%97%23&Refer=top)
-    新
+    新 ->
 27. [因为没给加油钱被男友删了](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E4%B8%BA%E6%B2%A1%E7%BB%99%E5%8A%A0%E6%B2%B9%E9%92%B1%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%88%A0%E4%BA%86%23&Refer=top)
 28. [江疏影
     感觉戴个头纱就可以结婚了](https://s.weibo.com//weibo?q=%E6%B1%9F%E7%96%8F%E5%BD%B1%20%E6%84%9F%E8%A7%89%E6%88%B4%E4%B8%AA%E5%A4%B4%E7%BA%B1%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%BB%93%E5%A9%9A%E4%BA%86&Refer=top)
@@ -65,7 +65,7 @@
 32. [养孩子对狗不好](https://s.weibo.com//weibo?q=%23%E5%85%BB%E5%AD%A9%E5%AD%90%E5%AF%B9%E7%8B%97%E4%B8%8D%E5%A5%BD%23&Refer=top)
 33. [刘亦菲晒侧身照](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%99%92%E4%BE%A7%E8%BA%AB%E7%85%A7%23&Refer=top)
 34. [黄景瑜催更爱上特种兵](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%82%AC%E6%9B%B4%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5%23&Refer=top)
-    新
+    新 ->
 35. [民政部曝光8家涉嫌非法社会组织](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%94%BF%E9%83%A8%E6%9B%9D%E5%85%898%E5%AE%B6%E6%B6%89%E5%AB%8C%E9%9D%9E%E6%B3%95%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%23&Refer=top)
 36. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
 37. [追星三大禁忌](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E6%98%9F%E4%B8%89%E5%A4%A7%E7%A6%81%E5%BF%8C%23&Refer=top)
@@ -83,6 +83,10 @@
 49. [对话高考作文漫画原作者](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E8%AF%9D%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E6%BC%AB%E7%94%BB%E5%8E%9F%E4%BD%9C%E8%80%85%23&Refer=top)
 50. [叛逆者收视](https://s.weibo.com//weibo?q=%23%E5%8F%9B%E9%80%86%E8%80%85%E6%94%B6%E8%A7%86%23&Refer=top)
 51. [公交车抛锚警民携手推车为考生开路](https://s.weibo.com//weibo?q=%23%E5%85%AC%E4%BA%A4%E8%BD%A6%E6%8A%9B%E9%94%9A%E8%AD%A6%E6%B0%91%E6%90%BA%E6%89%8B%E6%8E%A8%E8%BD%A6%E4%B8%BA%E8%80%83%E7%94%9F%E5%BC%80%E8%B7%AF%23&Refer=top)
+    新
+52. [90后假装白富美非法集资20亿潜逃](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%81%87%E8%A3%85%E7%99%BD%E5%AF%8C%E7%BE%8E%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%8420%E4%BA%BF%E6%BD%9C%E9%80%83%23&Refer=top)
+53. [贝索斯将于7月20日飞往太空](https://s.weibo.com//weibo?q=%23%E8%B4%9D%E7%B4%A2%E6%96%AF%E5%B0%86%E4%BA%8E7%E6%9C%8820%E6%97%A5%E9%A3%9E%E5%BE%80%E5%A4%AA%E7%A9%BA%23&Refer=top)
+54. [易建联回应伤病情况](https://s.weibo.com//weibo?q=%23%E6%98%93%E5%BB%BA%E8%81%94%E5%9B%9E%E5%BA%94%E4%BC%A4%E7%97%85%E6%83%85%E5%86%B5%23&Refer=top)
     新
 
 <!-- END -->

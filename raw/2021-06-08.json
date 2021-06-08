@@ -568,7 +568,7 @@
   {
     "url": "/weibo?q=%E6%9D%8E%E6%99%9F%20%E6%9D%8E%E4%BD%B3%E8%88%AA&Refer=top",
     "title": "李晟 李佳航",
-    "mark": "新 -> 热"
+    "mark": "新 -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B1%AA%E5%B0%8F%E8%8F%B2%E7%A6%BB%E5%A9%9A%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E7%8E%B0%E8%BA%AB%23&Refer=top",
@@ -703,7 +703,7 @@
   {
     "url": "/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%80%83%E7%94%9F%E5%B8%A6%E6%89%8B%E6%9C%BA%E6%8B%8D%E6%91%84%E8%AF%95%E5%8D%B7%23&Refer=top",
     "title": "官方通报考生带手机拍摄试卷",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E9%9A%90%E7%9E%92%E6%97%85%E5%B1%85%E5%8F%B2%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top",
@@ -803,7 +803,7 @@
   {
     "url": "/weibo?q=%23%E7%A9%BA%E5%B7%A2%E8%80%81%E4%BA%BA%E5%8F%98%E6%88%90%E5%85%B1%E4%BA%AB%E5%A5%B6%E5%A5%B6%23&Refer=top",
     "title": "空巢老人变成共享奶奶",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E5%89%8D%E6%B6%89%E8%AF%88%E9%AA%97%E8%A2%AB%E6%8A%93%E8%8E%B7%E5%8F%96%E4%BF%9D%E5%80%99%E5%AE%A1%23&Refer=top",
@@ -853,12 +853,12 @@
   {
     "url": "/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%8B%9B%E7%94%9F%E5%AE%A3%E4%BC%A0%23&Refer=top",
     "title": "南京大学招生宣传",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%AF%94%E7%89%B9%E5%B8%81%E6%98%AF%E4%B8%80%E4%B8%AA%E9%AA%97%E5%B1%80%23&Refer=top",
     "title": "特朗普称比特币是一个骗局",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%8B%9B%E8%80%83%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E6%89%8B%E6%9C%BA%E4%B8%8A%E4%BC%A0%E9%AB%98%E8%80%83%E9%A2%98%23&Refer=top",
@@ -878,7 +878,7 @@
   {
     "url": "/weibo?q=%23%E7%BE%8E%E8%B2%8C%E5%B8%A6%E6%9D%A5%E7%9A%84%E7%BA%A2%E5%88%A9%E8%A2%AB%E5%A4%B8%E5%A4%A7%E4%BA%86%23&Refer=top",
     "title": "美貌带来的红利被夸大了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%8A%8A%E9%AB%98%E8%BE%BE%E6%91%86%E6%88%90%E8%BE%A3%E5%A6%B9%23&Refer=top",
@@ -943,6 +943,71 @@
   {
     "url": "/weibo?q=%23%E5%A4%9A%E7%9C%81%E8%81%94%E5%8A%A8%E8%AE%A4%E4%BA%B2%E5%A4%A7%E7%9B%B4%E6%92%AD%23&Refer=top",
     "title": "多省联动认亲大直播",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%A0%B8%E9%85%B8%E5%A4%A7%E6%8E%92%E6%9F%A5%E5%8F%91%E7%8E%B0%E9%98%B3%E6%80%A740%E4%BA%BA%23&Refer=top",
+    "title": "广州核酸大排查发现阳性40人",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E7%88%86%E4%BA%86%E5%86%B7%E9%97%A8%E7%9A%84%E7%A7%91%E7%9B%AE%23&Refer=top",
+    "title": "高考时爆了冷门的科目",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%9F%93%E5%8F%91%E6%9F%93%E6%89%8B%E4%B8%8A%E6%B4%97%E4%B8%8D%E6%8E%89%23&Refer=top",
+    "title": "丁禹兮染发染手上洗不掉",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%99%BD%E9%85%92%E8%82%A1%E5%A4%A7%E8%B7%8C%23&Refer=top",
+    "title": "白酒股大跌",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%E8%BF%98%E4%BC%9A%E6%9C%89%E6%9D%8E%E5%8D%8E%E5%90%97%23&Refer=top",
+    "title": "高考英语作文还会有李华吗",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%93%9D%E8%89%B2%E9%A3%9F%E7%89%A9%E6%9C%89%E5%A4%9A%E6%B2%A1%E9%A3%9F%E6%AC%B2%23&Refer=top",
+    "title": "蓝色食物有多没食欲",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%BF%AA%E5%A3%AB%E5%B0%BC%E8%8A%B1%E7%B5%AE%E7%85%A7%23&Refer=top",
+    "title": "易烊千玺迪士尼花絮照",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E9%AB%98%E8%80%83%E5%81%8F%E7%A7%91%23&Refer=top",
+    "title": "见过最离谱的高考偏科",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4DIY%E6%A2%A6%E5%B9%BB%E6%98%9F%E7%A9%BA%E7%B2%98%E5%9C%9F%E9%95%9C%23&Refer=top",
+    "title": "关晓彤DIY梦幻星空粘土镜",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E5%AD%A6%E7%B2%A4%E8%AF%AD%23&Refer=top",
+    "title": "广州核酸检测医护人员学粤语",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8C%BA%E6%89%80%E5%9C%A8%E5%B8%82%E5%B1%85%E6%B0%91%E6%9A%82%E4%B8%8D%E5%A4%96%E5%87%BA%E6%97%85%E6%B8%B8%23&Refer=top",
+    "title": "广东中高风险区所在市居民暂不外出旅游",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%9D%90%E7%81%AB%E8%BD%A6%E6%90%BA%E5%B8%A6%E9%98%B2%E6%99%92%E5%96%B7%E9%9B%BE%E4%B8%8D%E8%83%BD%E8%B6%85%E8%BF%87120%E6%AF%AB%E5%8D%87%23&Refer=top",
+    "title": "坐火车携带防晒喷雾不能超过120毫升",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%84%9F%E8%A7%89%E5%88%B0%E7%B2%BE%E5%8A%9B%E4%B8%8D%E5%A6%82%E7%88%B6%E6%AF%8D%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top",
+    "title": "感觉到精力不如父母的瞬间",
     "mark": "新"
   }
 ]

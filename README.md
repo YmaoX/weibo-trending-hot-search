@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 09 2021 02:53:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 09 2021 05:18:19 GMT+0800 (China Standard Time) -->
 
 1. [百年奋斗的中国精神](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
    热
@@ -38,17 +38,17 @@
 11. [福建证实福州一高考考点提前打铃](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%AF%81%E5%AE%9E%E7%A6%8F%E5%B7%9E%E4%B8%80%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9%E6%8F%90%E5%89%8D%E6%89%93%E9%93%83%23&Refer=top)
 12. [美国10岁男童在家中被窗外子弹射死](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD10%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9C%A8%E5%AE%B6%E4%B8%AD%E8%A2%AB%E7%AA%97%E5%A4%96%E5%AD%90%E5%BC%B9%E5%B0%84%E6%AD%BB%23&Refer=top)
 13. [天官赐福更新演员表](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E6%9B%B4%E6%96%B0%E6%BC%94%E5%91%98%E8%A1%A8%23&Refer=top)
-    新
+    新 ->
 14. [大妈嫌让座慢辱骂乘客被行拘](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%A6%88%E5%AB%8C%E8%AE%A9%E5%BA%A7%E6%85%A2%E8%BE%B1%E9%AA%82%E4%B9%98%E5%AE%A2%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top)
 15. [BIGBANG将以完整体回归](https://s.weibo.com//weibo?q=%23BIGBANG%E5%B0%86%E4%BB%A5%E5%AE%8C%E6%95%B4%E4%BD%93%E5%9B%9E%E5%BD%92%23&Refer=top)
-    热
+    热 ->
 16. [中国女排 巴西女排](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%20%E5%B7%B4%E8%A5%BF%E5%A5%B3%E6%8E%92&Refer=top)
-    -> 沸 ->
+    -> 沸 -> -> 沸
 17. [有钱人买东西的方式](https://s.weibo.com//weibo?q=%23%E6%9C%89%E9%92%B1%E4%BA%BA%E4%B9%B0%E4%B8%9C%E8%A5%BF%E7%9A%84%E6%96%B9%E5%BC%8F%23&Refer=top)
     新 ->
 18. [爸爸举林墨海报为女儿加油](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E4%B8%BE%E6%9E%97%E5%A2%A8%E6%B5%B7%E6%8A%A5%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%8A%A0%E6%B2%B9%23&Refer=top)
 19. [刘宇粉丝给刘宇花式p衣](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E7%B2%89%E4%B8%9D%E7%BB%99%E5%88%98%E5%AE%87%E8%8A%B1%E5%BC%8Fp%E8%A1%A3%23&Refer=top)
-    新
+    新 ->
 20. [广州疫情](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85%23&Refer=top)
 21. [这样的室友好可怕](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%A0%B7%E7%9A%84%E5%AE%A4%E5%8F%8B%E5%A5%BD%E5%8F%AF%E6%80%95%23&Refer=top)
 22. [刘大锤 NINE PERCENT](https://s.weibo.com//weibo?q=%E5%88%98%E5%A4%A7%E9%94%A4%20NINE%20PERCENT&Refer=top)
@@ -78,7 +78,7 @@
 41. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
 42. [EDGBLG比赛重开](https://s.weibo.com//weibo?q=EDGBLG%E6%AF%94%E8%B5%9B%E9%87%8D%E5%BC%80&Refer=top)
 43. [翟潇闻水手服](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E6%B0%B4%E6%89%8B%E6%9C%8D%23&Refer=top)
-    新
+    新 ->
 44. [江苏餐馆强迫顾客扫码点餐或被起诉](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%A4%90%E9%A6%86%E5%BC%BA%E8%BF%AB%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%88%96%E8%A2%AB%E8%B5%B7%E8%AF%89%23&Refer=top)
 45. [海龟一窝产下196枚卵破纪录](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E9%BE%9F%E4%B8%80%E7%AA%9D%E4%BA%A7%E4%B8%8B196%E6%9E%9A%E5%8D%B5%E7%A0%B4%E7%BA%AA%E5%BD%95%23&Refer=top)
 46. [高考俄语](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E4%BF%84%E8%AF%AD&Refer=top)
@@ -93,17 +93,24 @@
     热
 53. [张常宁好累](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B8%B8%E5%AE%81%E5%A5%BD%E7%B4%AF%23&Refer=top)
 54. [Angelababy加盟萌探探探案](https://s.weibo.com//weibo?q=%23Angelababy%E5%8A%A0%E7%9B%9F%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88%23&Refer=top)
-    新
+    新 ->
 55. [赵丽颖清甜感vlog](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B8%85%E7%94%9C%E6%84%9Fvlog&Refer=top)
-    新
+    新 ->
 56. [居民医保人均财政补助标准新增30元](https://s.weibo.com//weibo?q=%23%E5%B1%85%E6%B0%91%E5%8C%BB%E4%BF%9D%E4%BA%BA%E5%9D%87%E8%B4%A2%E6%94%BF%E8%A1%A5%E5%8A%A9%E6%A0%87%E5%87%86%E6%96%B0%E5%A2%9E30%E5%85%83%23&Refer=top)
 57. [五月的青春大结局](https://s.weibo.com//weibo?q=%E4%BA%94%E6%9C%88%E7%9A%84%E9%9D%92%E6%98%A5%E5%A4%A7%E7%BB%93%E5%B1%80&Refer=top)
     新
 58. [戚薇短发](https://s.weibo.com//weibo?q=%23%E6%88%9A%E8%96%87%E7%9F%AD%E5%8F%91%23&Refer=top)
-    新
+    新 ->
 59. [爱上特种兵](https://s.weibo.com//weibo?q=%E7%88%B1%E4%B8%8A%E7%89%B9%E7%A7%8D%E5%85%B5&Refer=top)
 60. [五月的青春大结局](https://s.weibo.com//weibo?q=%23%E4%BA%94%E6%9C%88%E7%9A%84%E9%9D%92%E6%98%A5%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
-    新
+    新 ->
+61. [靠创新实现更好发展](https://s.weibo.com//weibo?q=%23%E9%9D%A0%E5%88%9B%E6%96%B0%E5%AE%9E%E7%8E%B0%E6%9B%B4%E5%A5%BD%E5%8F%91%E5%B1%95%23&Refer=new_time)
+    热
+62. [男孩被困车底40多人赶来救人](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%9B%B0%E8%BD%A6%E5%BA%9540%E5%A4%9A%E4%BA%BA%E8%B5%B6%E6%9D%A5%E6%95%91%E4%BA%BA%23&Refer=top)
+63. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
+64. [高考英语作文](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87&Refer=top)
+65. [R1SE最后一场生日直播](https://s.weibo.com//weibo?q=%23R1SE%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E7%94%9F%E6%97%A5%E7%9B%B4%E6%92%AD%23&Refer=top)
+66. [大师铁头劈砖后头破血流](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%B8%88%E9%93%81%E5%A4%B4%E5%8A%88%E7%A0%96%E5%90%8E%E5%A4%B4%E7%A0%B4%E8%A1%80%E6%B5%81%23&Refer=top)
 
 <!-- END -->
 

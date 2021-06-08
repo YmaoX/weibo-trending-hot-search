@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 09 2021 05:18:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 09 2021 06:19:56 GMT+0800 (China Standard Time) -->
 
 1. [百年奋斗的中国精神](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
    热
@@ -111,6 +111,10 @@
 64. [高考英语作文](https://s.weibo.com//weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87&Refer=top)
 65. [R1SE最后一场生日直播](https://s.weibo.com//weibo?q=%23R1SE%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E7%94%9F%E6%97%A5%E7%9B%B4%E6%92%AD%23&Refer=top)
 66. [大师铁头劈砖后头破血流](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%B8%88%E9%93%81%E5%A4%B4%E5%8A%88%E7%A0%96%E5%90%8E%E5%A4%B4%E7%A0%B4%E8%A1%80%E6%B5%81%23&Refer=top)
+67. [童瑶原声英文台词](https://s.weibo.com//weibo?q=%23%E7%AB%A5%E7%91%B6%E5%8E%9F%E5%A3%B0%E8%8B%B1%E6%96%87%E5%8F%B0%E8%AF%8D%23&Refer=top)
+    新
+68. [林俊杰向薇娅推荐自己的演唱会](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%91%E8%96%87%E5%A8%85%E6%8E%A8%E8%8D%90%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top)
+    新
 
 <!-- END -->
 

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 11 2021 06:17:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 11 2021 07:18:47 GMT+0800 (China Standard Time) -->
 
 1. [军人荣誉不容诋毁](https://s.weibo.com//weibo?q=%23%E5%86%9B%E4%BA%BA%E8%8D%A3%E8%AA%89%E4%B8%8D%E5%AE%B9%E8%AF%8B%E6%AF%81%23&Refer=new_time)
    热
@@ -108,6 +108,13 @@
     热
 64. [王凯给签名笔哈气](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%87%AF%E7%BB%99%E7%AD%BE%E5%90%8D%E7%AC%94%E5%93%88%E6%B0%94%23&Refer=top)
 65. [教育部打假中小学艺术素质测评服务平台](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%89%93%E5%81%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%89%BA%E6%9C%AF%E7%B4%A0%E8%B4%A8%E6%B5%8B%E8%AF%84%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%23&Refer=top)
+66. [范丞丞女友视角有多绝](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%A5%B3%E5%8F%8B%E8%A7%86%E8%A7%92%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
+    新
+67. [掌掴马克龙男子被判监禁4个月](https://s.weibo.com//weibo?q=%23%E6%8E%8C%E6%8E%B4%E9%A9%AC%E5%85%8B%E9%BE%99%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%A4%E7%9B%91%E7%A6%814%E4%B8%AA%E6%9C%88%23&Refer=top)
+    新
+68. [王者荣耀](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top)
+    新
+69. [洛基](https://s.weibo.com//weibo?q=%E6%B4%9B%E5%9F%BA&Refer=top) 新
 
 <!-- END -->
 

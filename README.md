@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 12 2021 05:16:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 12 2021 06:18:38 GMT+0800 (China Standard Time) -->
 
 1. [100个关键词回顾党史100年](https://s.weibo.com//weibo?q=%23100%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E5%9B%9E%E9%A1%BE%E5%85%9A%E5%8F%B2100%E5%B9%B4%23&Refer=new_time)
    热
 2. [周冬雨一晚上走了三次红毯](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E4%B8%80%E6%99%9A%E4%B8%8A%E8%B5%B0%E4%BA%86%E4%B8%89%E6%AC%A1%E7%BA%A2%E6%AF%AF%23&Refer=top)
-   热
+   热 ->
 3. [男子即将跳伞时被路人发现没系安全带](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%B3%E5%B0%86%E8%B7%B3%E4%BC%9E%E6%97%B6%E8%A2%AB%E8%B7%AF%E4%BA%BA%E5%8F%91%E7%8E%B0%E6%B2%A1%E7%B3%BB%E5%AE%89%E5%85%A8%E5%B8%A6%23&Refer=top)
    -> 热 ->
 4. [英语四级](https://s.weibo.com//weibo?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7&Refer=top)
@@ -109,27 +109,27 @@
 63. [世预赛](https://s.weibo.com//weibo?q=%E4%B8%96%E9%A2%84%E8%B5%9B&Refer=top) 新
     ->
 64. [英雄联盟动画正片曝光](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8A%A8%E7%94%BB%E6%AD%A3%E7%89%87%E6%9B%9D%E5%85%89%23&Refer=top)
-    新
+    新 ->
 65. [刘彬彬进球](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BD%AC%E5%BD%AC%E8%BF%9B%E7%90%83%23&Refer=top)
     新 ->
 66. [沙溢演到一半把任务忘了](https://s.weibo.com//weibo?q=%23%E6%B2%99%E6%BA%A2%E6%BC%94%E5%88%B0%E4%B8%80%E5%8D%8A%E6%8A%8A%E4%BB%BB%E5%8A%A1%E5%BF%98%E4%BA%86%23&Refer=top)
     新 ->
 67. [国足5比0马尔代夫](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%B6%B35%E6%AF%940%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB&Refer=top)
-    新
+    新 ->
 68. [南宁一群少年飙车寻刺激被查](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%AE%81%E4%B8%80%E7%BE%A4%E5%B0%91%E5%B9%B4%E9%A3%99%E8%BD%A6%E5%AF%BB%E5%88%BA%E6%BF%80%E8%A2%AB%E6%9F%A5%23&Refer=top)
     新 ->
 69. [国足能赢马尔代夫几个球](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%83%BD%E8%B5%A2%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%87%A0%E4%B8%AA%E7%90%83%23&Refer=top)
     新
 70. [男女平等情况下还要女士优先吗](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89%E6%83%85%E5%86%B5%E4%B8%8B%E8%BF%98%E8%A6%81%E5%A5%B3%E5%A3%AB%E4%BC%98%E5%85%88%E5%90%97%23&Refer=top)
-    新
+    新 ->
 71. [教育部追授王红旭全国优秀教师](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%BF%BD%E6%8E%88%E7%8E%8B%E7%BA%A2%E6%97%AD%E5%85%A8%E5%9B%BD%E4%BC%98%E7%A7%80%E6%95%99%E5%B8%88%23&Refer=top)
 72. [意大利 土耳其](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%20%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
-    新
+    新 ->
 73. [奔跑吧](https://s.weibo.com//weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&Refer=top)
 74. [欧洲杯开幕式](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F&Refer=top)
-    新
+    新 ->
 75. [TES晋级](https://s.weibo.com//weibo?q=%23TES%E6%99%8B%E7%BA%A7%23&Refer=top)
-    新
+    新 ->
 76. [一柄小木槌敲响中国入世之音](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%9F%84%E5%B0%8F%E6%9C%A8%E6%A7%8C%E6%95%B2%E5%93%8D%E4%B8%AD%E5%9B%BD%E5%85%A5%E4%B8%96%E4%B9%8B%E9%9F%B3%23&Refer=new_time)
     热
 77. [明天受伤](https://s.weibo.com//weibo?q=%E6%98%8E%E5%A4%A9%E5%8F%97%E4%BC%A4&Refer=top)
@@ -143,6 +143,9 @@
 82. [意大利3比0土耳其](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A93%E6%AF%940%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
     新
 83. [法网](https://s.weibo.com//weibo?q=%E6%B3%95%E7%BD%91&Refer=top)
+84. [意大利3比0土耳其](https://s.weibo.com//weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A93%E6%AF%940%E5%9C%9F%E8%80%B3%E5%85%B6%23&Refer=top)
+    新
+85. [法网2021](https://s.weibo.com//weibo?q=%23%E6%B3%95%E7%BD%912021%23&Refer=top)
 
 <!-- END -->
 

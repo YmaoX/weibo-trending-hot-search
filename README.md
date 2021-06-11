@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 12 2021 04:17:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 12 2021 05:16:49 GMT+0800 (China Standard Time) -->
 
 1. [100个关键词回顾党史100年](https://s.weibo.com//weibo?q=%23100%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E5%9B%9E%E9%A1%BE%E5%85%9A%E5%8F%B2100%E5%B9%B4%23&Refer=new_time)
    热
@@ -24,9 +24,9 @@
    -> 热 ->
 4. [英语四级](https://s.weibo.com//weibo?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7&Refer=top)
    新 -> 沸 ->
-5. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top) 沸 -> 热
+5. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top) 沸 -> 热 ->
 6. [一套139平房子用60万能装修成什么样](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%A5%97139%E5%B9%B3%E6%88%BF%E5%AD%90%E7%94%A860%E4%B8%87%E8%83%BD%E8%A3%85%E4%BF%AE%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top)
-   热
+   热 ->
 7. [那英回应把宋亚轩关注成萧亚轩](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E5%9B%9E%E5%BA%94%E6%8A%8A%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%85%B3%E6%B3%A8%E6%88%90%E8%90%A7%E4%BA%9A%E8%BD%A9%23&Refer=top)
    新 ->
 8. [作业帮前员工自曝造假套路](https://s.weibo.com//weibo?q=%23%E4%BD%9C%E4%B8%9A%E5%B8%AE%E5%89%8D%E5%91%98%E5%B7%A5%E8%87%AA%E6%9B%9D%E9%80%A0%E5%81%87%E5%A5%97%E8%B7%AF%23&Refer=top)
@@ -37,7 +37,7 @@
 11. [广西破获特大组织偷渡案78人落网](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%A0%B4%E8%8E%B7%E7%89%B9%E5%A4%A7%E7%BB%84%E7%BB%87%E5%81%B7%E6%B8%A1%E6%A1%8878%E4%BA%BA%E8%90%BD%E7%BD%91%23&Refer=top)
     新 ->
 12. [杨紫藏烟灰缸太努力了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%97%8F%E7%83%9F%E7%81%B0%E7%BC%B8%E5%A4%AA%E5%8A%AA%E5%8A%9B%E4%BA%86%23&Refer=top)
-    -> 沸
+    -> 沸 ->
 13. [张子枫找吴磊握手](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%89%BE%E5%90%B4%E7%A3%8A%E6%8F%A1%E6%89%8B%23&Refer=top)
 14. [邱泽演技](https://s.weibo.com//weibo?q=%E9%82%B1%E6%B3%BD%E6%BC%94%E6%8A%80&Refer=top)
 15. [新冠疫苗完成接种6个月后是否需补打](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%AE%8C%E6%88%90%E6%8E%A5%E7%A7%8D6%E4%B8%AA%E6%9C%88%E5%90%8E%E6%98%AF%E5%90%A6%E9%9C%80%E8%A1%A5%E6%89%93%23&Refer=top)
@@ -105,7 +105,7 @@
 61. [周笔畅爆炒小龙虾](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E7%88%86%E7%82%92%E5%B0%8F%E9%BE%99%E8%99%BE%23&Refer=top)
     新 ->
 62. [武磊进球](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E7%A3%8A%E8%BF%9B%E7%90%83%23&Refer=top)
-    新
+    新 ->
 63. [世预赛](https://s.weibo.com//weibo?q=%E4%B8%96%E9%A2%84%E8%B5%9B&Refer=top) 新
     ->
 64. [英雄联盟动画正片曝光](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8A%A8%E7%94%BB%E6%AD%A3%E7%89%87%E6%9B%9D%E5%85%89%23&Refer=top)
@@ -117,7 +117,7 @@
 67. [国足5比0马尔代夫](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%B6%B35%E6%AF%940%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB&Refer=top)
     新
 68. [南宁一群少年飙车寻刺激被查](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%AE%81%E4%B8%80%E7%BE%A4%E5%B0%91%E5%B9%B4%E9%A3%99%E8%BD%A6%E5%AF%BB%E5%88%BA%E6%BF%80%E8%A2%AB%E6%9F%A5%23&Refer=top)
-    新
+    新 ->
 69. [国足能赢马尔代夫几个球](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%83%BD%E8%B5%A2%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%87%A0%E4%B8%AA%E7%90%83%23&Refer=top)
     新
 70. [男女平等情况下还要女士优先吗](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89%E6%83%85%E5%86%B5%E4%B8%8B%E8%BF%98%E8%A6%81%E5%A5%B3%E5%A3%AB%E4%BC%98%E5%85%88%E5%90%97%23&Refer=top)
@@ -140,6 +140,9 @@
 80. [白银景泰县委原书记坠亡排除他杀](https://s.weibo.com//weibo?q=%E7%99%BD%E9%93%B6%E6%99%AF%E6%B3%B0%E5%8E%BF%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E5%9D%A0%E4%BA%A1%E6%8E%92%E9%99%A4%E4%BB%96%E6%9D%80&Refer=top)
 81. [土耳其队自摆乌龙](https://s.weibo.com//weibo?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%9F%E8%87%AA%E6%91%86%E4%B9%8C%E9%BE%99&Refer=top)
     新
+82. [意大利3比0土耳其](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A93%E6%AF%940%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
+    新
+83. [法网](https://s.weibo.com//weibo?q=%E6%B3%95%E7%BD%91&Refer=top)
 
 <!-- END -->
 

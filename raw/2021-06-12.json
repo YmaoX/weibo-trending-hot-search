@@ -22,12 +22,12 @@
   {
     "url": "/weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top",
     "title": "磊枫",
-    "mark": "沸 -> 热"
+    "mark": "沸 -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%80%E5%A5%97139%E5%B9%B3%E6%88%BF%E5%AD%90%E7%94%A860%E4%B8%87%E8%83%BD%E8%A3%85%E4%BF%AE%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top",
     "title": "一套139平房子用60万能装修成什么样",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%9B%9E%E5%BA%94%E6%8A%8A%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%85%B3%E6%B3%A8%E6%88%90%E8%90%A7%E4%BA%9A%E8%BD%A9%23&Refer=top",
@@ -57,7 +57,7 @@
   {
     "url": "/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%97%8F%E7%83%9F%E7%81%B0%E7%BC%B8%E5%A4%AA%E5%8A%AA%E5%8A%9B%E4%BA%86%23&Refer=top",
     "title": "杨紫藏烟灰缸太努力了",
-    "mark": " -> 沸"
+    "mark": " -> 沸 -> "
   },
   {
     "url": "/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E6%89%BE%E5%90%B4%E7%A3%8A%E6%8F%A1%E6%89%8B%23&Refer=top",
@@ -303,7 +303,7 @@
   {
     "url": "/weibo?q=%23%E6%AD%A6%E7%A3%8A%E8%BF%9B%E7%90%83%23&Refer=top",
     "title": "武磊进球",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E4%B8%96%E9%A2%84%E8%B5%9B&Refer=top",
@@ -333,7 +333,7 @@
   {
     "url": "/weibo?q=%23%E5%8D%97%E5%AE%81%E4%B8%80%E7%BE%A4%E5%B0%91%E5%B9%B4%E9%A3%99%E8%BD%A6%E5%AF%BB%E5%88%BA%E6%BF%80%E8%A2%AB%E6%9F%A5%23&Refer=top",
     "title": "南宁一群少年飙车寻刺激被查",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%83%BD%E8%B5%A2%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%87%A0%E4%B8%AA%E7%90%83%23&Refer=top",
@@ -399,5 +399,11 @@
     "url": "/weibo?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%9F%E8%87%AA%E6%91%86%E4%B9%8C%E9%BE%99&Refer=top",
     "title": "土耳其队自摆乌龙",
     "mark": "新"
-  }
+  },
+  {
+    "url": "/weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A93%E6%AF%940%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top",
+    "title": "意大利3比0土耳其",
+    "mark": "新"
+  },
+  { "url": "/weibo?q=%E6%B3%95%E7%BD%91&Refer=top", "title": "法网", "mark": "" }
 ]

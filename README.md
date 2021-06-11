@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 12 2021 02:23:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 12 2021 03:15:45 GMT+0800 (China Standard Time) -->
 
 1. [100个关键词回顾党史100年](https://s.weibo.com//weibo?q=%23100%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E5%9B%9E%E9%A1%BE%E5%85%9A%E5%8F%B2100%E5%B9%B4%23&Refer=new_time)
    热
@@ -24,7 +24,7 @@
    -> 热
 4. [英语四级](https://s.weibo.com//weibo?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7&Refer=top)
    新 -> 沸
-5. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top) 沸
+5. [磊枫](https://s.weibo.com//weibo?q=%E7%A3%8A%E6%9E%AB&Refer=top) 沸 -> 热
 6. [一套139平房子用60万能装修成什么样](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%A5%97139%E5%B9%B3%E6%88%BF%E5%AD%90%E7%94%A860%E4%B8%87%E8%83%BD%E8%A3%85%E4%BF%AE%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top)
    热
 7. [那英回应把宋亚轩关注成萧亚轩](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E5%9B%9E%E5%BA%94%E6%8A%8A%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%85%B3%E6%B3%A8%E6%88%90%E8%90%A7%E4%BA%9A%E8%BD%A9%23&Refer=top)
@@ -33,7 +33,7 @@
    新 ->
 9. [摩尔庄园鲨鱼](https://s.weibo.com//weibo?q=%23%E6%91%A9%E5%B0%94%E5%BA%84%E5%9B%AD%E9%B2%A8%E9%B1%BC%23&Refer=top)
 10. [向往的生活吹牛皮之歌](https://s.weibo.com//weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E5%90%B9%E7%89%9B%E7%9A%AE%E4%B9%8B%E6%AD%8C%23&Refer=top)
-    新
+    新 ->
 11. [广西破获特大组织偷渡案78人落网](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%A0%B4%E8%8E%B7%E7%89%B9%E5%A4%A7%E7%BB%84%E7%BB%87%E5%81%B7%E6%B8%A1%E6%A1%8878%E4%BA%BA%E8%90%BD%E7%BD%91%23&Refer=top)
     新 ->
 12. [杨紫藏烟灰缸太努力了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%97%8F%E7%83%9F%E7%81%B0%E7%BC%B8%E5%A4%AA%E5%8A%AA%E5%8A%9B%E4%BA%86%23&Refer=top)
@@ -99,7 +99,7 @@
     新
 58. [这才是真的向往的生活](https://s.weibo.com//weibo?q=%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top)
 59. [逆天奇案](https://s.weibo.com//weibo?q=%E9%80%86%E5%A4%A9%E5%A5%87%E6%A1%88&Refer=top)
-    新
+    新 ->
 60. [时代少年团安保队伍](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%AE%89%E4%BF%9D%E9%98%9F%E4%BC%8D%23&Refer=top)
     新
 61. [周笔畅爆炒小龙虾](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E7%88%86%E7%82%92%E5%B0%8F%E9%BE%99%E8%99%BE%23&Refer=top)
@@ -110,6 +110,24 @@
 64. [英雄联盟动画正片曝光](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8A%A8%E7%94%BB%E6%AD%A3%E7%89%87%E6%9B%9D%E5%85%89%23&Refer=top)
     新
 65. [刘彬彬进球](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BD%AC%E5%BD%AC%E8%BF%9B%E7%90%83%23&Refer=top)
+    新
+66. [沙溢演到一半把任务忘了](https://s.weibo.com//weibo?q=%23%E6%B2%99%E6%BA%A2%E6%BC%94%E5%88%B0%E4%B8%80%E5%8D%8A%E6%8A%8A%E4%BB%BB%E5%8A%A1%E5%BF%98%E4%BA%86%23&Refer=top)
+    新
+67. [国足5比0马尔代夫](https://s.weibo.com//weibo?q=%E5%9B%BD%E8%B6%B35%E6%AF%940%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB&Refer=top)
+    新
+68. [南宁一群少年飙车寻刺激被查](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%AE%81%E4%B8%80%E7%BE%A4%E5%B0%91%E5%B9%B4%E9%A3%99%E8%BD%A6%E5%AF%BB%E5%88%BA%E6%BF%80%E8%A2%AB%E6%9F%A5%23&Refer=top)
+    新
+69. [国足能赢马尔代夫几个球](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%83%BD%E8%B5%A2%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%87%A0%E4%B8%AA%E7%90%83%23&Refer=top)
+    新
+70. [男女平等情况下还要女士优先吗](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89%E6%83%85%E5%86%B5%E4%B8%8B%E8%BF%98%E8%A6%81%E5%A5%B3%E5%A3%AB%E4%BC%98%E5%85%88%E5%90%97%23&Refer=top)
+    新
+71. [教育部追授王红旭全国优秀教师](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%BF%BD%E6%8E%88%E7%8E%8B%E7%BA%A2%E6%97%AD%E5%85%A8%E5%9B%BD%E4%BC%98%E7%A7%80%E6%95%99%E5%B8%88%23&Refer=top)
+72. [意大利 土耳其](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%20%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
+    新
+73. [奔跑吧](https://s.weibo.com//weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&Refer=top)
+74. [欧洲杯开幕式](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F&Refer=top)
+    新
+75. [TES晋级](https://s.weibo.com//weibo?q=%23TES%E6%99%8B%E7%BA%A7%23&Refer=top)
     新
 
 <!-- END -->

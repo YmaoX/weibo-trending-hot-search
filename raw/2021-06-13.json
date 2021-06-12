@@ -147,7 +147,7 @@
   {
     "url": "/weibo?q=%E5%BC%A0%E5%B8%B8%E5%AE%81%E4%B8%8D%E7%94%A8%E9%82%A3%E4%B9%88%E7%B4%AF%E4%BA%86&Refer=top",
     "title": "张常宁不用那么累了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E7%AB%AF%E5%8D%88%E5%A5%87%E5%A6%99%E6%B8%B8&Refer=top",
@@ -267,7 +267,7 @@
   {
     "url": "/weibo?q=%23%E8%80%83%E7%94%9F%E6%B6%89%E5%AB%8C%E7%94%B5%E8%AF%88%E8%AD%A6%E6%96%B9%E8%AE%A9%E5%85%B6%E5%85%88%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%23&Refer=top",
     "title": "考生涉嫌电诈警方让其先参加高考",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%AF%B4%E8%9E%BA%E8%9B%B3%E7%B2%89%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%90%83%23&Refer=top",
@@ -294,5 +294,25 @@
     "url": "/weibo?q=%23%E7%81%AB%E6%98%9F%E6%8E%A2%E6%B5%8B%E6%80%BB%E5%B8%88%E8%AF%B4%E8%BF%98%E6%9C%89%E6%9B%B4%E7%B2%BE%E5%BD%A9%E7%9A%84%23&Refer=top",
     "title": "火星探测总师说还有更精彩的",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E7%AA%81%E7%84%B6%E5%80%92%E5%9C%B0%23&Refer=top",
+    "title": "埃里克森突然倒地",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E6%81%A2%E5%A4%8D%E8%87%AA%E4%B8%BB%E5%91%BC%E5%90%B8%23&Refer=top",
+    "title": "埃里克森恢复自主呼吸",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E8%A2%AB%E5%8A%A8%E5%BC%8F%E4%BA%A4%E6%9C%8B%E5%8F%8B%23&Refer=top",
+    "title": "李雪琴被动式交朋友",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%8A%AC%E5%85%B0%E4%B8%8E%E4%B8%B9%E9%BA%A6%E7%9A%84%E6%AF%94%E8%B5%9B%E6%8E%A8%E8%BF%9F%23&Refer=top",
+    "title": "芬兰与丹麦的比赛推迟",
+    "mark": "新"
   }
 ]

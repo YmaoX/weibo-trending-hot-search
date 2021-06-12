@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 13 2021 05:17:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 13 2021 06:17:39 GMT+0800 (China Standard Time) -->
 
 1. [雾化及鼻喷式新冠疫苗正在临床试验](https://s.weibo.com//weibo?q=%23%E9%9B%BE%E5%8C%96%E5%8F%8A%E9%BC%BB%E5%96%B7%E5%BC%8F%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%AD%A3%E5%9C%A8%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%23&Refer=new_time)
    热
@@ -44,7 +44,7 @@
     新 ->
 16. [佛山机场暂停运营](https://s.weibo.com//weibo?q=%23%E4%BD%9B%E5%B1%B1%E6%9C%BA%E5%9C%BA%E6%9A%82%E5%81%9C%E8%BF%90%E8%90%A5%23&Refer=top)
 17. [张翰拒绝参加桃花坞集体活动](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E6%8B%92%E7%BB%9D%E5%8F%82%E5%8A%A0%E6%A1%83%E8%8A%B1%E5%9D%9E%E9%9B%86%E4%BD%93%E6%B4%BB%E5%8A%A8%23&Refer=top)
-    新 -> -> 热
+    新 -> -> 热 ->
 18. [做个美甲被误以为中毒了](https://s.weibo.com//weibo?q=%23%E5%81%9A%E4%B8%AA%E7%BE%8E%E7%94%B2%E8%A2%AB%E8%AF%AF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E6%AF%92%E4%BA%86%23&Refer=top)
     新 ->
 19. [我可能让女儿英文要重修了](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%8F%AF%E8%83%BD%E8%AE%A9%E5%A5%B3%E5%84%BF%E8%8B%B1%E6%96%87%E8%A6%81%E9%87%8D%E4%BF%AE%E4%BA%86%23&Refer=top)
@@ -128,7 +128,7 @@
 68. [丹麦芬兰比赛恢复](https://s.weibo.com//weibo?q=%E4%B8%B9%E9%BA%A6%E8%8A%AC%E5%85%B0%E6%AF%94%E8%B5%9B%E6%81%A2%E5%A4%8D&Refer=top)
     新
 69. [心肺复苏](https://s.weibo.com//weibo?q=%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F&Refer=top)
-    新
+    新 ->
 70. [比利时 俄罗斯](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%20%E4%BF%84%E7%BD%97%E6%96%AF&Refer=top)
     新
 71. [云南德宏州地震提前24秒预警](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%BE%B7%E5%AE%8F%E5%B7%9E%E5%9C%B0%E9%9C%87%E6%8F%90%E5%89%8D24%E7%A7%92%E9%A2%84%E8%AD%A6%23&Refer=top)
@@ -145,6 +145,8 @@
 77. [威尔士 瑞士](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%94%E5%A3%AB%20%E7%91%9E%E5%A3%AB&Refer=top)
 78. [官方通报7人河边喝酒4人溺亡](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A57%E4%BA%BA%E6%B2%B3%E8%BE%B9%E5%96%9D%E9%85%924%E4%BA%BA%E6%BA%BA%E4%BA%A1%23&Refer=top)
 79. [比利时3比0俄罗斯](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B63%E6%AF%940%E4%BF%84%E7%BD%97%E6%96%AF&Refer=top)
+    新
+80. [卢卡库破门](https://s.weibo.com//weibo?q=%E5%8D%A2%E5%8D%A1%E5%BA%93%E7%A0%B4%E9%97%A8&Refer=top)
     新
 
 <!-- END -->

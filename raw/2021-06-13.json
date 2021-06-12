@@ -82,7 +82,7 @@
   {
     "url": "/weibo?q=%23%E5%BC%A0%E7%BF%B0%E6%8B%92%E7%BB%9D%E5%8F%82%E5%8A%A0%E6%A1%83%E8%8A%B1%E5%9D%9E%E9%9B%86%E4%BD%93%E6%B4%BB%E5%8A%A8%23&Refer=top",
     "title": "张翰拒绝参加桃花坞集体活动",
-    "mark": "新 ->  -> 热"
+    "mark": "新 ->  -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E5%81%9A%E4%B8%AA%E7%BE%8E%E7%94%B2%E8%A2%AB%E8%AF%AF%E4%BB%A5%E4%B8%BA%E4%B8%AD%E6%AF%92%E4%BA%86%23&Refer=top",
@@ -338,7 +338,7 @@
   {
     "url": "/weibo?q=%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F&Refer=top",
     "title": "心肺复苏",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%20%E4%BF%84%E7%BD%97%E6%96%AF&Refer=top",
@@ -388,6 +388,11 @@
   {
     "url": "/weibo?q=%E6%AF%94%E5%88%A9%E6%97%B63%E6%AF%940%E4%BF%84%E7%BD%97%E6%96%AF&Refer=top",
     "title": "比利时3比0俄罗斯",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%8D%A2%E5%8D%A1%E5%BA%93%E7%A0%B4%E9%97%A8&Refer=top",
+    "title": "卢卡库破门",
     "mark": "新"
   }
 ]

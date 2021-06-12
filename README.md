@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 13 2021 06:17:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 13 2021 07:18:14 GMT+0800 (China Standard Time) -->
 
 1. [雾化及鼻喷式新冠疫苗正在临床试验](https://s.weibo.com//weibo?q=%23%E9%9B%BE%E5%8C%96%E5%8F%8A%E9%BC%BB%E5%96%B7%E5%BC%8F%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%AD%A3%E5%9C%A8%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%23&Refer=new_time)
    热
@@ -139,14 +139,16 @@
 74. [大嘴鲸鱼](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%98%B4%E9%B2%B8%E9%B1%BC%23&Refer=top)
     新 ->
 75. [克亚尔临场反应](https://s.weibo.com//weibo?q=%23%E5%85%8B%E4%BA%9A%E5%B0%94%E4%B8%B4%E5%9C%BA%E5%8F%8D%E5%BA%94%23&Refer=top)
-    新
+    新 ->
 76. [球场急救有多重要](https://s.weibo.com//weibo?q=%23%E7%90%83%E5%9C%BA%E6%80%A5%E6%95%91%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top)
-    新
+    新 ->
 77. [威尔士 瑞士](https://s.weibo.com//weibo?q=%E5%A8%81%E5%B0%94%E5%A3%AB%20%E7%91%9E%E5%A3%AB&Refer=top)
 78. [官方通报7人河边喝酒4人溺亡](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A57%E4%BA%BA%E6%B2%B3%E8%BE%B9%E5%96%9D%E9%85%924%E4%BA%BA%E6%BA%BA%E4%BA%A1%23&Refer=top)
 79. [比利时3比0俄罗斯](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B63%E6%AF%940%E4%BF%84%E7%BD%97%E6%96%AF&Refer=top)
     新
 80. [卢卡库破门](https://s.weibo.com//weibo?q=%E5%8D%A2%E5%8D%A1%E5%BA%93%E7%A0%B4%E9%97%A8&Refer=top)
+    新 ->
+81. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
     新
 
 <!-- END -->

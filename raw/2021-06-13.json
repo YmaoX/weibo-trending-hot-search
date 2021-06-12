@@ -303,12 +303,12 @@
   {
     "url": "/weibo?q=%23%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E6%81%A2%E5%A4%8D%E8%87%AA%E4%B8%BB%E5%91%BC%E5%90%B8%23&Refer=top",
     "title": "埃里克森恢复自主呼吸",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E8%A2%AB%E5%8A%A8%E5%BC%8F%E4%BA%A4%E6%9C%8B%E5%8F%8B%23&Refer=top",
     "title": "李雪琴被动式交朋友",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%8A%AC%E5%85%B0%E4%B8%8E%E4%B8%B9%E9%BA%A6%E7%9A%84%E6%AF%94%E8%B5%9B%E6%8E%A8%E8%BF%9F%23&Refer=top",
@@ -363,7 +363,7 @@
   {
     "url": "/weibo?q=%23%E5%A4%A7%E5%98%B4%E9%B2%B8%E9%B1%BC%23&Refer=top",
     "title": "大嘴鲸鱼",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%85%8B%E4%BA%9A%E5%B0%94%E4%B8%B4%E5%9C%BA%E5%8F%8D%E5%BA%94%23&Refer=top",
@@ -384,5 +384,10 @@
     "url": "/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A57%E4%BA%BA%E6%B2%B3%E8%BE%B9%E5%96%9D%E9%85%924%E4%BA%BA%E6%BA%BA%E4%BA%A1%23&Refer=top",
     "title": "官方通报7人河边喝酒4人溺亡",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%E6%AF%94%E5%88%A9%E6%97%B63%E6%AF%940%E4%BF%84%E7%BD%97%E6%96%AF&Refer=top",
+    "title": "比利时3比0俄罗斯",
+    "mark": "新"
   }
 ]

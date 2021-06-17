@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 18 2021 04:18:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 18 2021 05:17:28 GMT+0800 (China Standard Time) -->
 
 1. [一盏马灯照亮前路光明](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%9B%8F%E9%A9%AC%E7%81%AF%E7%85%A7%E4%BA%AE%E5%89%8D%E8%B7%AF%E5%85%89%E6%98%8E%23&Refer=new_time)
    热
@@ -27,7 +27,7 @@
 5. [钟薛高道歉](https://s.weibo.com//weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E9%81%93%E6%AD%89%23&Refer=top)
    热
 6. [周冬雨演的上古](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E6%BC%94%E7%9A%84%E4%B8%8A%E5%8F%A4%23&Refer=top)
-   沸
+   沸 ->
 7. [复旦大学发布王永珍遇害案情况说明](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%8F%91%E5%B8%83%E7%8E%8B%E6%B0%B8%E7%8F%8D%E9%81%87%E5%AE%B3%E6%A1%88%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&Refer=top)
    热 ->
 8. [抉择](https://s.weibo.com//weibo?q=%E6%8A%89%E6%8B%A9&Refer=top) 沸 ->
@@ -92,13 +92,13 @@
 53. [INTO1带林墨的人形立牌表演](https://s.weibo.com//weibo?q=%23INTO1%E5%B8%A6%E6%9E%97%E5%A2%A8%E7%9A%84%E4%BA%BA%E5%BD%A2%E7%AB%8B%E7%89%8C%E8%A1%A8%E6%BC%94%23&Refer=top)
     新 ->
 54. [那英54岁状态](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B154%E5%B2%81%E7%8A%B6%E6%80%81%23&Refer=top)
-    新
+    新 ->
 55. [最高法出台在线诉讼规则](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%87%BA%E5%8F%B0%E5%9C%A8%E7%BA%BF%E8%AF%89%E8%AE%BC%E8%A7%84%E5%88%99%23&Refer=new_time)
     热
 56. [比利时2比1丹麦](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B62%E6%AF%941%E4%B8%B9%E9%BA%A6&Refer=top)
     新
 57. [唐艺昕一字肩黑白拼接花苞裙](https://s.weibo.com//weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E4%B8%80%E5%AD%97%E8%82%A9%E9%BB%91%E7%99%BD%E6%8B%BC%E6%8E%A5%E8%8A%B1%E8%8B%9E%E8%A3%99%23&Refer=top)
-    新
+    新 ->
 58. [舒淇慵懒吸烟装](https://s.weibo.com//weibo?q=%23%E8%88%92%E6%B7%87%E6%85%B5%E6%87%92%E5%90%B8%E7%83%9F%E8%A3%85%23&Refer=top)
     新 ->
 59. [雁归西窗月收官](https://s.weibo.com//weibo?q=%23%E9%9B%81%E5%BD%92%E8%A5%BF%E7%AA%97%E6%9C%88%E6%94%B6%E5%AE%98%23&Refer=top)
@@ -115,6 +115,10 @@
     新
 65. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
 66. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
+67. [德布劳内拒绝庆祝](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%E6%8B%92%E7%BB%9D%E5%BA%86%E7%A5%9D%23&Refer=top)
+    新
+68. [荷兰2比0奥地利](https://s.weibo.com//weibo?q=%E8%8D%B7%E5%85%B02%E6%AF%940%E5%A5%A5%E5%9C%B0%E5%88%A9&Refer=top)
+    新
 
 <!-- END -->
 

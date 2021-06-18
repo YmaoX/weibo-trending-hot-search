@@ -342,17 +342,17 @@
   {
     "url": "/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%83%A8%E5%AF%B9%E5%8F%8D%E5%A5%B8%E9%98%B2%E8%B0%8D%E5%B7%A5%E4%BD%9C%E4%BD%9C%E5%87%BA%E9%83%A8%E7%BD%B2%23&Refer=top",
     "title": "国家安全部对反奸防谍工作作出部署",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%90%A7%E4%BA%9A%E8%BD%A9%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E7%96%A4%E4%BB%8D%E6%9C%AA%E7%97%8A%E6%84%88%23&Refer=top",
     "title": "萧亚轩被狗咬伤疤仍未痊愈",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BDemoji%E5%A4%B4%E5%83%8F%23&Refer=top",
     "title": "黄宗泽emoji头像",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top",
@@ -362,7 +362,7 @@
   {
     "url": "/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E8%8B%8F%E6%A0%BC%E5%85%B0&Refer=top",
     "title": "英格兰 苏格兰",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E9%A2%84%E5%91%8A%23&Refer=top",
@@ -398,5 +398,10 @@
     "url": "/weibo?q=%23%E9%A1%B6%E6%A5%BC3%23&Refer=top",
     "title": "顶楼3",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%97%A8%E7%BA%BF%E8%A7%A3%E5%9B%B4&Refer=top",
+    "title": "詹姆斯门线解围",
+    "mark": "新"
   }
 ]

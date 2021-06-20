@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 21 2021 05:17:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 21 2021 06:17:21 GMT+0800 (China Standard Time) -->
 
 1. [全国爱国主义教育示范基地总数达到585个](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E7%A4%BA%E8%8C%83%E5%9F%BA%E5%9C%B0%E6%80%BB%E6%95%B0%E8%BE%BE%E5%88%B0585%E4%B8%AA%23&Refer=new_time)
    热
@@ -25,7 +25,7 @@
 4. [邓伦一个观众都没猜对](https://s.weibo.com//weibo?q=%23%E9%82%93%E4%BC%A6%E4%B8%80%E4%B8%AA%E8%A7%82%E4%BC%97%E9%83%BD%E6%B2%A1%E7%8C%9C%E5%AF%B9%23&Refer=top)
    新 ->
 5. [张若昀给自己过父亲节](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%BB%99%E8%87%AA%E5%B7%B1%E8%BF%87%E7%88%B6%E4%BA%B2%E8%8A%82%23&Refer=top)
-   热 ->
+   热 -> -> 热
 6. [钱学森曾遭美方拘禁失去语言能力](https://s.weibo.com//weibo?q=%23%E9%92%B1%E5%AD%A6%E6%A3%AE%E6%9B%BE%E9%81%AD%E7%BE%8E%E6%96%B9%E6%8B%98%E7%A6%81%E5%A4%B1%E5%8E%BB%E8%AF%AD%E8%A8%80%E8%83%BD%E5%8A%9B%23&Refer=top)
 7. [一诺的百里守约](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%AF%BA%E7%9A%84%E7%99%BE%E9%87%8C%E5%AE%88%E7%BA%A6%23&Refer=top)
    新 ->
@@ -115,9 +115,9 @@
 64. [瑞士3比1土耳其](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB3%E6%AF%941%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
     新
 65. [意大利威尔士携手出线](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A8%81%E5%B0%94%E5%A3%AB%E6%90%BA%E6%89%8B%E5%87%BA%E7%BA%BF&Refer=top)
-    新
+    新 ->
 66. [变成你的那一天豆瓣开分](https://s.weibo.com//weibo?q=%23%E5%8F%98%E6%88%90%E4%BD%A0%E7%9A%84%E9%82%A3%E4%B8%80%E5%A4%A9%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%86%23&Refer=top)
-    新
+    新 ->
 67. [极限挑战](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&Refer=top)
 68. [党史展览馆五组艺术雕塑的细节和寓意](https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%8F%B2%E5%B1%95%E8%A7%88%E9%A6%86%E4%BA%94%E7%BB%84%E8%89%BA%E6%9C%AF%E9%9B%95%E5%A1%91%E7%9A%84%E7%BB%86%E8%8A%82%E5%92%8C%E5%AF%93%E6%84%8F%23&Refer=new_time)
     热

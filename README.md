@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 20 2021 20:27:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 20 2021 21:26:52 GMT+0800 (China Standard Time) -->
 
 1. [刻度上的百年征程](https://s.weibo.com//weibo?q=%23%E5%88%BB%E5%BA%A6%E4%B8%8A%E7%9A%84%E7%99%BE%E5%B9%B4%E5%BE%81%E7%A8%8B%23&Refer=new_time)
    热
@@ -579,33 +579,33 @@
 297. [原来马笑起来是这样的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A9%AC%E7%AC%91%E8%B5%B7%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23&Refer=top)
      新 ->
 298. [结石姐确诊梅尼埃病](https://s.weibo.com//weibo?q=%23%E7%BB%93%E7%9F%B3%E5%A7%90%E7%A1%AE%E8%AF%8A%E6%A2%85%E5%B0%BC%E5%9F%83%E7%97%85%23&Refer=top)
-     新
+     新 ->
 299. [李易峰读书时的经历好像偶像剧](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E8%AF%BB%E4%B9%A6%E6%97%B6%E7%9A%84%E7%BB%8F%E5%8E%86%E5%A5%BD%E5%83%8F%E5%81%B6%E5%83%8F%E5%89%A7%23&Refer=top)
-     新
+     新 -> 沸
 300. [爸爸的好胜心有多强](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E7%9A%84%E5%A5%BD%E8%83%9C%E5%BF%83%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top)
      新
 301. [父亲已牺牲半年5岁女儿仍在盼他回家](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E5%B7%B2%E7%89%BA%E7%89%B2%E5%8D%8A%E5%B9%B45%E5%B2%81%E5%A5%B3%E5%84%BF%E4%BB%8D%E5%9C%A8%E7%9B%BC%E4%BB%96%E5%9B%9E%E5%AE%B6%23&Refer=top)
      新
 302. [中国男篮 中国台北男篮](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%20%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE&Refer=top)
-     新
+     新 ->
 303. [课本上印象深刻的父亲](https://s.weibo.com//weibo?q=%23%E8%AF%BE%E6%9C%AC%E4%B8%8A%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB%E7%9A%84%E7%88%B6%E4%BA%B2%23&Refer=top)
      新
 304. [朱婷被打到眼睛](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E5%A9%B7%E8%A2%AB%E6%89%93%E5%88%B0%E7%9C%BC%E7%9D%9B%23&Refer=top)
-     新
+     新 -> 热
 305. [王梦洁状态](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A2%A6%E6%B4%81%E7%8A%B6%E6%80%81%23&Refer=top)
-     新
+     新 ->
 306. [朱婷太强了](https://s.weibo.com//weibo?q=%E6%9C%B1%E5%A9%B7%E5%A4%AA%E5%BC%BA%E4%BA%86&Refer=top)
-     新
+     新 ->
 307. [张若昀给自己过父亲节](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%BB%99%E8%87%AA%E5%B7%B1%E8%BF%87%E7%88%B6%E4%BA%B2%E8%8A%82%23&Refer=top)
-     新
+     新 -> 热
 308. [东莞疫情](https://s.weibo.com//weibo?q=%E4%B8%9C%E8%8E%9E%E7%96%AB%E6%83%85&Refer=top)
      新
 309. [王志文不愧是老戏骨](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%BF%97%E6%96%87%E4%B8%8D%E6%84%A7%E6%98%AF%E8%80%81%E6%88%8F%E9%AA%A8%23&Refer=top)
-     新
+     新 ->
 310. [欧阳娜娜校园氛围感写真](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E6%A0%A1%E5%9B%AD%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%86%99%E7%9C%9F%23&Refer=top)
-     新
+     新 ->
 311. [中国女排战胜美国女排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%88%98%E8%83%9C%E7%BE%8E%E5%9B%BD%E5%A5%B3%E6%8E%92%23&Refer=top)
-     新
+     新 ->
 312. [东莞麻涌新增1例本土确诊病例](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E8%8E%9E%E9%BA%BB%E6%B6%8C%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
      新
 313. [不说再见预告片](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%AF%B4%E5%86%8D%E8%A7%81%E9%A2%84%E5%91%8A%E7%89%87%23&Refer=top)
@@ -616,6 +616,41 @@
 316. [夏日毕业歌会](https://s.weibo.com//weibo?q=%E5%A4%8F%E6%97%A5%E6%AF%95%E4%B8%9A%E6%AD%8C%E4%BC%9A&Refer=top)
      新
 317. [首汽约车回应女子跳车事件](https://s.weibo.com//weibo?q=%23%E9%A6%96%E6%B1%BD%E7%BA%A6%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%B7%B3%E8%BD%A6%E4%BA%8B%E4%BB%B6%23&Refer=top)
+     新 ->
+318. [李钟硕剪短发](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E5%89%AA%E7%9F%AD%E5%8F%91%23&Refer=top)
+     新
+319. [央美教师为女儿做机甲动物](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E7%BE%8E%E6%95%99%E5%B8%88%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%81%9A%E6%9C%BA%E7%94%B2%E5%8A%A8%E7%89%A9%23&Refer=top)
+     新
+320. [被周深唱哭](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%91%A8%E6%B7%B1%E5%94%B1%E5%93%AD%23&Refer=top)
+     新
+321. [安安送陈赫的父亲节礼物](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%AE%89%E9%80%81%E9%99%88%E8%B5%AB%E7%9A%84%E7%88%B6%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9%23&Refer=top)
+     新
+322. [恰好是少年](https://s.weibo.com//weibo?q=%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4&Refer=top)
+     新
+323. [张哲瀚直播状态](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%93%B2%E7%80%9A%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23&Refer=top)
+     新
+324. [周深清唱yyds](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E6%B8%85%E5%94%B1yyds%23&Refer=top)
+     新
+325. [RNG输了](https://s.weibo.com//weibo?q=RNG%E8%BE%93%E4%BA%86&Refer=top) 新
+326. [极限挑战](https://s.weibo.com//weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&Refer=top)
+     新
+327. [男子骑车突发低血糖倒在车流中](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E7%AA%81%E5%8F%91%E4%BD%8E%E8%A1%80%E7%B3%96%E5%80%92%E5%9C%A8%E8%BD%A6%E6%B5%81%E4%B8%AD%23&Refer=top)
+     新
+328. [胡明轩13分](https://s.weibo.com//weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A913%E5%88%86&Refer=top)
+     新
+329. [贾乃亮被脚踢脸](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E8%A2%AB%E8%84%9A%E8%B8%A2%E8%84%B8%23&Refer=top)
+     新
+330. [4AM吃鸡](https://s.weibo.com//weibo?q=%234AM%E5%90%83%E9%B8%A1%23&Refer=top)
+     新
+331. [古人养猫的仪式感](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E4%BA%BA%E5%85%BB%E7%8C%AB%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%23&Refer=top)
+     新
+332. [CUBA总决赛](https://s.weibo.com//weibo?q=%23CUBA%E6%80%BB%E5%86%B3%E8%B5%9B%23&Refer=top)
+     新
+333. [CA868国际航班已报告38例阳性](https://s.weibo.com//weibo?q=%23CA868%E5%9B%BD%E9%99%85%E8%88%AA%E7%8F%AD%E5%B7%B2%E6%8A%A5%E5%91%8A38%E4%BE%8B%E9%98%B3%E6%80%A7%23&Refer=top)
+     新
+334. [经济学家何帆称越年轻越应买股票](https://s.weibo.com//weibo?q=%23%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E4%BD%95%E5%B8%86%E7%A7%B0%E8%B6%8A%E5%B9%B4%E8%BD%BB%E8%B6%8A%E5%BA%94%E4%B9%B0%E8%82%A1%E7%A5%A8%23&Refer=top)
+     新
+335. [杨笠 我是不怕cp出轨的人](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%AC%A0%20%E6%88%91%E6%98%AF%E4%B8%8D%E6%80%95cp%E5%87%BA%E8%BD%A8%E7%9A%84%E4%BA%BA&Refer=top)
      新
 
 <!-- END -->

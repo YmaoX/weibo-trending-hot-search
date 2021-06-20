@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 21 2021 01:29:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 21 2021 02:21:14 GMT+0800 (China Standard Time) -->
 
 1. [全国爱国主义教育示范基地总数达到585个](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E7%A4%BA%E8%8C%83%E5%9F%BA%E5%9C%B0%E6%80%BB%E6%95%B0%E8%BE%BE%E5%88%B0585%E4%B8%AA%23&Refer=new_time)
    热
@@ -28,7 +28,7 @@
    热
 6. [钱学森曾遭美方拘禁失去语言能力](https://s.weibo.com//weibo?q=%23%E9%92%B1%E5%AD%A6%E6%A3%AE%E6%9B%BE%E9%81%AD%E7%BE%8E%E6%96%B9%E6%8B%98%E7%A6%81%E5%A4%B1%E5%8E%BB%E8%AF%AD%E8%A8%80%E8%83%BD%E5%8A%9B%23&Refer=top)
 7. [一诺的百里守约](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%AF%BA%E7%9A%84%E7%99%BE%E9%87%8C%E5%AE%88%E7%BA%A6%23&Refer=top)
-   新
+   新 ->
 8. [CA868国际航班已报告38例阳性](https://s.weibo.com//weibo?q=%23CA868%E5%9B%BD%E9%99%85%E8%88%AA%E7%8F%AD%E5%B7%B2%E6%8A%A5%E5%91%8A38%E4%BE%8B%E9%98%B3%E6%80%A7%23&Refer=top)
 9. [3名航天员在空间站不用值夜班](https://s.weibo.com//weibo?q=%233%E5%90%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E7%A9%BA%E9%97%B4%E7%AB%99%E4%B8%8D%E7%94%A8%E5%80%BC%E5%A4%9C%E7%8F%AD%23&Refer=top)
 10. [东莞疫情](https://s.weibo.com//weibo?q=%E4%B8%9C%E8%8E%9E%E7%96%AB%E6%83%85&Refer=top)
@@ -49,7 +49,7 @@
 21. [父亲已牺牲半年5岁女儿仍在盼他回家](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E5%B7%B2%E7%89%BA%E7%89%B2%E5%8D%8A%E5%B9%B45%E5%B2%81%E5%A5%B3%E5%84%BF%E4%BB%8D%E5%9C%A8%E7%9B%BC%E4%BB%96%E5%9B%9E%E5%AE%B6%23&Refer=top)
 22. [李晨
     爸爸不敢去医院才觉得自己长大了](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%99%A8%20%E7%88%B8%E7%88%B8%E4%B8%8D%E6%95%A2%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%89%8D%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E9%95%BF%E5%A4%A7%E4%BA%86&Refer=top)
-    新
+    新 ->
 23. [董子健 我是个演员](https://s.weibo.com//weibo?q=%E8%91%A3%E5%AD%90%E5%81%A5%20%E6%88%91%E6%98%AF%E4%B8%AA%E6%BC%94%E5%91%98&Refer=top)
     新 ->
 24. [杨笠 我是不怕cp出轨的人](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%AC%A0%20%E6%88%91%E6%98%AF%E4%B8%8D%E6%80%95cp%E5%87%BA%E8%BD%A8%E7%9A%84%E4%BA%BA&Refer=top)
@@ -77,14 +77,15 @@
 42. [一诺的公孙离](https://s.weibo.com//weibo?q=%E4%B8%80%E8%AF%BA%E7%9A%84%E5%85%AC%E5%AD%99%E7%A6%BB&Refer=top)
     新
 43. [父母的内疚式教育对孩子影响有多大](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E7%9A%84%E5%86%85%E7%96%9A%E5%BC%8F%E6%95%99%E8%82%B2%E5%AF%B9%E5%AD%A9%E5%AD%90%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
-    新
+    新 ->
 44. [朴树yyds](https://s.weibo.com//weibo?q=%E6%9C%B4%E6%A0%91yyds&Refer=top) 新
 45. [恰好是少年](https://s.weibo.com//weibo?q=%E6%81%B0%E5%A5%BD%E6%98%AF%E5%B0%91%E5%B9%B4&Refer=top)
 46. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
 47. [欧洲杯](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top) 新
+    ->
 48. [爸妈生我的真正原因](https://s.weibo.com//weibo?q=%23%E7%88%B8%E5%A6%88%E7%94%9F%E6%88%91%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0%23&Refer=top)
 49. [意大利 威尔士](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%20%E5%A8%81%E5%B0%94%E5%A3%AB&Refer=top)
-    新
+    新 ->
 50. [央视揭荐股讲师实为演员](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E8%8D%90%E8%82%A1%E8%AE%B2%E5%B8%88%E5%AE%9E%E4%B8%BA%E6%BC%94%E5%91%98%23&Refer=top)
     新
 51. [北大教授称中国房租和房价比例世界最低](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%88%BF%E7%A7%9F%E5%92%8C%E6%88%BF%E4%BB%B7%E6%AF%94%E4%BE%8B%E4%B8%96%E7%95%8C%E6%9C%80%E4%BD%8E%23&Refer=top)
@@ -93,15 +94,25 @@
 53. [C罗鼓励葡萄牙队](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E9%BC%93%E5%8A%B1%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%23&Refer=top)
     新
 54. [一诺的公孙离](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%AF%BA%E7%9A%84%E5%85%AC%E5%AD%99%E7%A6%BB%23&Refer=top)
-    新
+    新 ->
 55. [佘诗曼谈爱情](https://s.weibo.com//weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E8%B0%88%E7%88%B1%E6%83%85%23&Refer=top)
-    新
+    新 ->
 56. [中国女排战胜美国女排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%88%98%E8%83%9C%E7%BE%8E%E5%9B%BD%E5%A5%B3%E6%8E%92%23&Refer=top)
 57. [吴尊晒儿女送的父亲节礼物](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%B0%8A%E6%99%92%E5%84%BF%E5%A5%B3%E9%80%81%E7%9A%84%E7%88%B6%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9%23&Refer=top)
     新
 58. [广州队与保利尼奥解约](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%98%9F%E4%B8%8E%E4%BF%9D%E5%88%A9%E5%B0%BC%E5%A5%A5%E8%A7%A3%E7%BA%A6%23&Refer=top)
     新
 59. [阿姆帕杜红牌](https://s.weibo.com//weibo?q=%E9%98%BF%E5%A7%86%E5%B8%95%E6%9D%9C%E7%BA%A2%E7%89%8C&Refer=top)
+    新
+60. [意大利1比0威尔士](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A91%E6%AF%940%E5%A8%81%E5%B0%94%E5%A3%AB&Refer=top)
+    新
+61. [瑞士 土耳其](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB%20%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
+    新
+62. [Sunnee北京演唱会](https://s.weibo.com//weibo?q=%23Sunnee%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top)
+    新
+63. [意大利小组赛零丢球](https://s.weibo.com//weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8F%E7%BB%84%E8%B5%9B%E9%9B%B6%E4%B8%A2%E7%90%83&Refer=top)
+    新
+64. [瑞士3比1土耳其](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB3%E6%AF%941%E5%9C%9F%E8%80%B3%E5%85%B6&Refer=top)
     新
 
 <!-- END -->

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 22 2021 10:02:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 22 2021 11:19:59 GMT+0800 (China Standard Time) -->
 
 1. [思政课要追求四率](https://s.weibo.com//weibo?q=%23%E6%80%9D%E6%94%BF%E8%AF%BE%E8%A6%81%E8%BF%BD%E6%B1%82%E5%9B%9B%E7%8E%87%23&Refer=new_time)
    热
@@ -145,10 +145,10 @@
 86. [丹麦真的有童话](https://s.weibo.com//weibo?q=%23%E4%B8%B9%E9%BA%A6%E7%9C%9F%E7%9A%84%E6%9C%89%E7%AB%A5%E8%AF%9D%23&Refer=top)
     新 ->
 87. [高考成绩明日起陆续放榜](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E6%98%8E%E6%97%A5%E8%B5%B7%E9%99%86%E7%BB%AD%E6%94%BE%E6%A6%9C%23&Refer=top)
-    新
+    新 ->
 88. [深圳暴雨](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%23&Refer=top)
 89. [7岁乔治小王子身高](https://s.weibo.com//weibo?q=%237%E5%B2%81%E4%B9%94%E6%B2%BB%E5%B0%8F%E7%8E%8B%E5%AD%90%E8%BA%AB%E9%AB%98%23&Refer=top)
-    热
+    热 ->
 90. [欧洲杯已确定11队出线](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%B7%B2%E7%A1%AE%E5%AE%9A11%E9%98%9F%E5%87%BA%E7%BA%BF%23&Refer=top)
     新 ->
 91. [广东新增2例本土确诊病例](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
@@ -157,14 +157,14 @@
     新 ->
 93. [云南北移亚洲象群重回玉溪市易门县](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%8C%97%E7%A7%BB%E4%BA%9A%E6%B4%B2%E8%B1%A1%E7%BE%A4%E9%87%8D%E5%9B%9E%E7%8E%89%E6%BA%AA%E5%B8%82%E6%98%93%E9%97%A8%E5%8E%BF%23&Refer=top)
 94. [林允连续六年为周星驰庆生](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%85%81%E8%BF%9E%E7%BB%AD%E5%85%AD%E5%B9%B4%E4%B8%BA%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BA%86%E7%94%9F%23&Refer=top)
-    新 -> 热
+    新 -> 热 ->
 95. [晚上11点的新疆有多美](https://s.weibo.com//weibo?q=%23%E6%99%9A%E4%B8%8A11%E7%82%B9%E7%9A%84%E6%96%B0%E7%96%86%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top)
 96. [钟楚曦的菠萝蜜消失了](https://s.weibo.com//weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E7%9A%84%E8%8F%A0%E8%90%9D%E8%9C%9C%E6%B6%88%E5%A4%B1%E4%BA%86%23&Refer=top)
-    新
+    新 ->
 97. [东莞疫情](https://s.weibo.com//weibo?q=%E4%B8%9C%E8%8E%9E%E7%96%AB%E6%83%85&Refer=top)
     新 ->
 98. [翟志刚曾用撬棍别开舱门](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E5%BF%97%E5%88%9A%E6%9B%BE%E7%94%A8%E6%92%AC%E6%A3%8D%E5%88%AB%E5%BC%80%E8%88%B1%E9%97%A8%23&Refer=top)
-    新
+    新 ->
 99. [芒特被隔离](https://s.weibo.com//weibo?q=%E8%8A%92%E7%89%B9%E8%A2%AB%E9%9A%94%E7%A6%BB&Refer=top)
     新
 100. [老友记甘瑟扮演者患前列腺癌晚期](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%E7%94%98%E7%91%9F%E6%89%AE%E6%BC%94%E8%80%85%E6%82%A3%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C%E6%99%9A%E6%9C%9F%23&Refer=top)
@@ -172,48 +172,91 @@
 101. [阿根廷 巴拉圭](https://s.weibo.com//weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E5%B7%B4%E6%8B%89%E5%9C%AD&Refer=top)
      新 ->
 102. [刑侦日记细思极恐](https://s.weibo.com//weibo?q=%23%E5%88%91%E4%BE%A6%E6%97%A5%E8%AE%B0%E7%BB%86%E6%80%9D%E6%9E%81%E6%81%90%23&Refer=top)
-     新
+     新 ->
 103. [律师解读游戏卡牌拍卖价破8000万](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E6%B8%B8%E6%88%8F%E5%8D%A1%E7%89%8C%E6%8B%8D%E5%8D%96%E4%BB%B7%E7%A0%B48000%E4%B8%87%23&Refer=top)
      新
 104. [有15层楼那么高的海南舰](https://s.weibo.com//weibo?q=%23%E6%9C%8915%E5%B1%82%E6%A5%BC%E9%82%A3%E4%B9%88%E9%AB%98%E7%9A%84%E6%B5%B7%E5%8D%97%E8%88%B0%23&Refer=top)
-     新
+     新 ->
 105. [新冠疫苗对德尔塔变异株依然有效](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%AF%B9%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%A0%AA%E4%BE%9D%E7%84%B6%E6%9C%89%E6%95%88%23&Refer=top)
      新
 106. [卫星拍下高校学生特殊合照](https://s.weibo.com//weibo?q=%23%E5%8D%AB%E6%98%9F%E6%8B%8D%E4%B8%8B%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E7%89%B9%E6%AE%8A%E5%90%88%E7%85%A7%23&Refer=top)
      新
 107. [穷养猫和富养猫的区别](https://s.weibo.com//weibo?q=%23%E7%A9%B7%E5%85%BB%E7%8C%AB%E5%92%8C%E5%AF%8C%E5%85%BB%E7%8C%AB%E7%9A%84%E5%8C%BA%E5%88%AB%23&Refer=top)
-     新
+     新 ->
 108. [克里斯滕森世界波](https://s.weibo.com//weibo?q=%E5%85%8B%E9%87%8C%E6%96%AF%E6%BB%95%E6%A3%AE%E4%B8%96%E7%95%8C%E6%B3%A2&Refer=top)
      新
 109. [湖南蓝山夏日荷花](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E8%93%9D%E5%B1%B1%E5%A4%8F%E6%97%A5%E8%8D%B7%E8%8A%B1%23&Refer=top)
      新
 110. [院士说不解决卡脖子问题死不瞑目](https://s.weibo.com//weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E4%B8%8D%E8%A7%A3%E5%86%B3%E5%8D%A1%E8%84%96%E5%AD%90%E9%97%AE%E9%A2%98%E6%AD%BB%E4%B8%8D%E7%9E%91%E7%9B%AE%23&Refer=top)
-     新
+     新 ->
 111. [埃及赴华2架次航班108人检测阳性](https://s.weibo.com//weibo?q=%23%E5%9F%83%E5%8F%8A%E8%B5%B4%E5%8D%8E2%E6%9E%B6%E6%AC%A1%E8%88%AA%E7%8F%AD108%E4%BA%BA%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23&Refer=top)
-     新
+     新 ->
 112. [陈乔恩叫Alan老公](https://s.weibo.com//weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E5%8F%ABAlan%E8%80%81%E5%85%AC%23&Refer=top)
-     新
+     新 ->
 113. [原来猫受了委屈也会找妈妈](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8C%AB%E5%8F%97%E4%BA%86%E5%A7%94%E5%B1%88%E4%B9%9F%E4%BC%9A%E6%89%BE%E5%A6%88%E5%A6%88%23&Refer=top)
-     新
+     新 ->
 114. [手机内存不够的原因](https://s.weibo.com//weibo?q=%23%E6%89%8B%E6%9C%BA%E5%86%85%E5%AD%98%E4%B8%8D%E5%A4%9F%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
-     新
+     新 ->
 115. [美公布5500万剂新冠疫苗全球分配计划](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%85%AC%E5%B8%835500%E4%B8%87%E5%89%82%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%85%A8%E7%90%83%E5%88%86%E9%85%8D%E8%AE%A1%E5%88%92%23&Refer=top)
      新
 116. [曲小檀科普标点符号](https://s.weibo.com//weibo?q=%23%E6%9B%B2%E5%B0%8F%E6%AA%80%E7%A7%91%E6%99%AE%E6%A0%87%E7%82%B9%E7%AC%A6%E5%8F%B7%23&Refer=top)
-     新
+     新 ->
 117. [印度出现变异株Deltaplus](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%87%BA%E7%8E%B0%E5%8F%98%E5%BC%82%E6%A0%AADeltaplus%23&Refer=top)
-     新
+     新 ->
 118. [朱一龙共情力](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%85%B1%E6%83%85%E5%8A%9B%23&Refer=top)
-     新
+     新 ->
 119. [觉醒年代](https://s.weibo.com//weibo?q=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3&Refer=top)
-     新
+     新 ->
 120. [大学教授回应推翻爱因斯坦相对论](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E5%9B%9E%E5%BA%94%E6%8E%A8%E7%BF%BB%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E7%9B%B8%E5%AF%B9%E8%AE%BA%23&Refer=top)
      新
 121. [迪拜驾校针对豪车开设驾驶课](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E6%8B%9C%E9%A9%BE%E6%A0%A1%E9%92%88%E5%AF%B9%E8%B1%AA%E8%BD%A6%E5%BC%80%E8%AE%BE%E9%A9%BE%E9%A9%B6%E8%AF%BE%23&Refer=top)
-     新
+     新 ->
 122. [丁磊称大多数中国学生不具备独立思考能力](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A3%8A%E7%A7%B0%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%85%B7%E5%A4%87%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%23&Refer=top)
      新
 123. [哈登承诺参加东京奥运会](https://s.weibo.com//weibo?q=%E5%93%88%E7%99%BB%E6%89%BF%E8%AF%BA%E5%8F%82%E5%8A%A0%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
+     新
+124. [追寻建党百年足迹网络名人福建行](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E5%AF%BB%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E8%B6%B3%E8%BF%B9%E7%BD%91%E7%BB%9C%E5%90%8D%E4%BA%BA%E7%A6%8F%E5%BB%BA%E8%A1%8C%23&Refer=new_time)
+     热
+125. [白敬亭
+     这张图竟然发过大意了](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%20%E8%BF%99%E5%BC%A0%E5%9B%BE%E7%AB%9F%E7%84%B6%E5%8F%91%E8%BF%87%E5%A4%A7%E6%84%8F%E4%BA%86&Refer=top)
+     新
+126. [将剃过毛的狗误认成狮子报警求助](https://s.weibo.com//weibo?q=%23%E5%B0%86%E5%89%83%E8%BF%87%E6%AF%9B%E7%9A%84%E7%8B%97%E8%AF%AF%E8%AE%A4%E6%88%90%E7%8B%AE%E5%AD%90%E6%8A%A5%E8%AD%A6%E6%B1%82%E5%8A%A9%23&Refer=top)
+     新
+127. [王源为时代少年团写歌](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E4%B8%BA%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%86%99%E6%AD%8C%23&Refer=top)
+     新
+128. [黄景瑜公园健身](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%85%AC%E5%9B%AD%E5%81%A5%E8%BA%AB%23&Refer=top)
+     新
+129. [民警陪妻子逛街顺手擒拿偷拍贼](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E9%99%AA%E5%A6%BB%E5%AD%90%E9%80%9B%E8%A1%97%E9%A1%BA%E6%89%8B%E6%93%92%E6%8B%BF%E5%81%B7%E6%8B%8D%E8%B4%BC%23&Refer=top)
+     新
+130. [董明珠称重新考虑员工分房产权问题](https://s.weibo.com//weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E9%87%8D%E6%96%B0%E8%80%83%E8%99%91%E5%91%98%E5%B7%A5%E5%88%86%E6%88%BF%E4%BA%A7%E6%9D%83%E9%97%AE%E9%A2%98%23&Refer=top)
+     新
+131. [中国驻美大使崔天凯发表辞别信](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E5%B4%94%E5%A4%A9%E5%87%AF%E5%8F%91%E8%A1%A8%E8%BE%9E%E5%88%AB%E4%BF%A1%23&Refer=top)
+     新
+132. [广东粤康码上线舞狮金标](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%B2%A4%E5%BA%B7%E7%A0%81%E4%B8%8A%E7%BA%BF%E8%88%9E%E7%8B%AE%E9%87%91%E6%A0%87%23&Refer=top)
+     新
+133. [王霜不想这届女足被说不过如此](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%9C%9C%E4%B8%8D%E6%83%B3%E8%BF%99%E5%B1%8A%E5%A5%B3%E8%B6%B3%E8%A2%AB%E8%AF%B4%E4%B8%8D%E8%BF%87%E5%A6%82%E6%AD%A4%23&Refer=top)
+     新
+134. [柳真女儿的同学因为吴允熙不跟她玩](https://s.weibo.com//weibo?q=%23%E6%9F%B3%E7%9C%9F%E5%A5%B3%E5%84%BF%E7%9A%84%E5%90%8C%E5%AD%A6%E5%9B%A0%E4%B8%BA%E5%90%B4%E5%85%81%E7%86%99%E4%B8%8D%E8%B7%9F%E5%A5%B9%E7%8E%A9%23&Refer=top)
+     新
+135. [宁波打桩机](https://s.weibo.com//weibo?q=%E5%AE%81%E6%B3%A2%E6%89%93%E6%A1%A9%E6%9C%BA&Refer=top)
+     新
+136. [李佳航演的冼星海](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E6%BC%94%E7%9A%84%E5%86%BC%E6%98%9F%E6%B5%B7%23&Refer=top)
+     新
+137. [大象用鼻子拽住逃跑小象尾巴](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%B1%A1%E7%94%A8%E9%BC%BB%E5%AD%90%E6%8B%BD%E4%BD%8F%E9%80%83%E8%B7%91%E5%B0%8F%E8%B1%A1%E5%B0%BE%E5%B7%B4%23&Refer=top)
+     新
+138. [哈登承诺参加东京奥运会](https://s.weibo.com//weibo?q=%23%E5%93%88%E7%99%BB%E6%89%BF%E8%AF%BA%E5%8F%82%E5%8A%A0%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top)
+     新
+139. [男子钻空子骗取外卖平台45万获刑7年](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%92%BB%E7%A9%BA%E5%AD%90%E9%AA%97%E5%8F%96%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B045%E4%B8%87%E8%8E%B7%E5%88%917%E5%B9%B4%23&Refer=top)
+     新
+140. [亚马逊一仓库每年销毁数百万件产品](https://s.weibo.com//weibo?q=%23%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%B8%80%E4%BB%93%E5%BA%93%E6%AF%8F%E5%B9%B4%E9%94%80%E6%AF%81%E6%95%B0%E7%99%BE%E4%B8%87%E4%BB%B6%E4%BA%A7%E5%93%81%23&Refer=top)
+     新
+141. [祖孙三代接力当乡村教师52年](https://s.weibo.com//weibo?q=%23%E7%A5%96%E5%AD%99%E4%B8%89%E4%BB%A3%E6%8E%A5%E5%8A%9B%E5%BD%93%E4%B9%A1%E6%9D%91%E6%95%99%E5%B8%8852%E5%B9%B4%23&Refer=top)
+     新
+142. [广州超55万亩荔枝熟了](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%B6%8555%E4%B8%87%E4%BA%A9%E8%8D%94%E6%9E%9D%E7%86%9F%E4%BA%86%23&Refer=top)
+     新
+143. [欧洲宇航员正紧锣密鼓学中文](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%B4%B2%E5%AE%87%E8%88%AA%E5%91%98%E6%AD%A3%E7%B4%A7%E9%94%A3%E5%AF%86%E9%BC%93%E5%AD%A6%E4%B8%AD%E6%96%87%23&Refer=top)
+     新
+144. [阿根廷1比0巴拉圭](https://s.weibo.com//weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B71%E6%AF%940%E5%B7%B4%E6%8B%89%E5%9C%AD%23&Refer=top)
      新
 
 <!-- END -->

@@ -12,7 +12,7 @@
   {
     "url": "/weibo?q=%23%E5%8F%B0%E6%B9%BE144%E4%BA%BA%E6%89%93%E9%98%BF%E6%96%AF%E5%88%A9%E5%BA%B7%E7%96%AB%E8%8B%97%E5%90%8E%E6%AD%BB%E4%BA%A1%23&Refer=top",
     "title": "台湾144人打阿斯利康疫苗后死亡",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%82%96%E6%88%98%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4vlog%23&Refer=top",
@@ -22,7 +22,7 @@
   {
     "url": "/weibo?q=%23%E8%96%87%E5%A8%85%E8%AF%B4%E4%B8%81%E7%9C%9F%E4%B8%8D%E7%94%A8%E6%8B%85%E5%BF%83%E5%90%83%E8%97%95%E4%B8%91%23&Refer=top",
     "title": "薇娅说丁真不用担心吃藕丑",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9E%97%E6%B7%B1%E6%97%B6%E8%A7%81%E9%B9%BF%23&Refer=top",
@@ -32,7 +32,7 @@
   {
     "url": "/weibo?q=%23%E7%A7%91%E6%AF%94%E5%A6%BB%E5%AD%90%E4%B8%8E%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%85%AC%E5%8F%B8%E8%BE%BE%E6%88%90%E5%92%8C%E8%A7%A3%23&Refer=top",
     "title": "科比妻子与直升机公司达成和解",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E5%B0%8F%E7%BE%8E%E4%BA%BA%E9%B1%BC%E5%89%A7%E7%BB%8415%E4%BA%BA%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23&Refer=top",
@@ -52,7 +52,7 @@
   {
     "url": "/weibo?q=%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%20%E8%A5%BF%E7%8F%AD%E7%89%99&Refer=top",
     "title": "斯洛伐克 西班牙",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E7%9C%9F%E7%9A%84%E8%BF%99%E4%B9%88%E7%BC%BA%E9%A2%84%E7%AE%97%E5%90%97%23&Refer=top",
@@ -107,12 +107,12 @@
   {
     "url": "/weibo?q=%23Angelababy%E8%AF%B4%E8%A2%AB%E5%8A%9D%E5%A4%9A%E5%96%9D%E7%83%AD%E6%B0%B4%E8%BF%98%E6%8C%BA%E5%BC%80%E5%BF%83%23&Refer=top",
     "title": "Angelababy说被劝多喝热水还挺开心",
-    "mark": ""
+    "mark": " -> 热"
   },
   {
     "url": "/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%88%86%E4%BA%AB%E8%AF%81%E4%BB%B6%E7%85%A7%23&Refer=top",
     "title": "李沁分享证件照",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%20%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%B4%AF%E7%BB%8F%E5%B8%B8%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%81%B6%E6%80%A7%E7%AB%9E%E4%BA%89&Refer=top",
@@ -147,7 +147,7 @@
   {
     "url": "/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E8%B8%A2%E6%B3%95%E5%9B%BD%E6%98%AF%E7%94%9F%E6%AD%BB%E6%88%98%E5%90%97%23&Refer=top",
     "title": "葡萄牙踢法国是生死战吗",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%AC%AC%E4%BA%94%E6%89%B9%E5%9B%BD%E5%AE%B6%E8%8D%AF%E5%93%81%E9%9B%86%E9%87%87%E5%B9%B3%E5%9D%87%E9%99%8D%E4%BB%B756%25%23&Refer=top",
@@ -162,7 +162,7 @@
   {
     "url": "/weibo?q=%23%E7%AB%A5%E8%B0%A3%E7%9C%8B%E9%99%88%E6%83%85%E4%BB%A4%23&Refer=top",
     "title": "童谣看陈情令",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%8D%E8%BE%A3%E7%9A%84%E5%B7%9D%E8%8F%9C%E9%95%BF%E5%95%A5%E6%A0%B7%23&Refer=top",
@@ -272,6 +272,61 @@
   {
     "url": "/weibo?q=%23%E9%99%88%E6%80%9D%E9%93%AD%E7%9C%8B%E6%96%B9%E5%BD%AC%E6%B6%B5%E7%9A%84%E7%9C%BC%E7%A5%9E%23&Refer=top",
     "title": "陈思铭看方彬涵的眼神",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%B3%95%E5%9B%BD%20%E8%91%A1%E8%90%84%E7%89%99&Refer=top",
+    "title": "法国 葡萄牙",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E4%B8%8D%E5%BD%93%E6%98%8E%E6%98%9F%E4%BC%9A%E5%BD%93%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%23&Refer=top",
+    "title": "张柏芝不当明星会当幼儿园老师",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%995%E6%AF%940%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B&Refer=top",
+    "title": "西班牙5比0斯洛伐克",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&Refer=top",
+    "title": "欧洲杯",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%94%B0%E5%8B%87%E7%89%BA%E7%89%B2%23&Refer=top",
+    "title": "田勇牺牲",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23GAI%E6%99%92%E5%84%BF%E5%AD%90%E6%91%87%E6%91%86%E8%A7%86%E9%A2%91%23&Refer=top",
+    "title": "GAI晒儿子摇摆视频",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E7%91%9E%E5%85%B8%E7%BB%9D%E6%9D%80%E6%B3%A2%E5%85%B0&Refer=top",
+    "title": "瑞典绝杀波兰",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top",
+    "title": "叛逆者",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%E5%BE%B7%E5%9B%BD%20%E5%8C%88%E7%89%99%E5%88%A9&Refer=top",
+    "title": "德国 匈牙利",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E4%B9%8C%E9%BE%99%E7%90%83%23&Refer=top",
+    "title": "斯洛伐克乌龙球",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E7%91%9E%E5%85%B8%E8%A5%BF%E7%8F%AD%E7%89%99%E5%87%BA%E7%BA%BF&Refer=top",
+    "title": "瑞典西班牙出线",
     "mark": "新"
   }
 ]

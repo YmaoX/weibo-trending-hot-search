@@ -14,17 +14,17 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 24 2021 05:15:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 24 2021 06:16:38 GMT+0800 (China Standard Time) -->
 
 1. [习近平与神舟十二号航天员通话](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E7%A5%9E%E8%88%9F%E5%8D%81%E4%BA%8C%E5%8F%B7%E8%88%AA%E5%A4%A9%E5%91%98%E9%80%9A%E8%AF%9D%23&Refer=new_time)
    热
 2. [宋祖儿
    男生没有懂不懂只有想不想](https://s.weibo.com//weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%94%B7%E7%94%9F%E6%B2%A1%E6%9C%89%E6%87%82%E4%B8%8D%E6%87%82%E5%8F%AA%E6%9C%89%E6%83%B3%E4%B8%8D%E6%83%B3&Refer=top)
-   热 -> 沸 -> 热 -> 沸
+   热 -> 沸 -> 热 -> 沸 ->
 3. [台湾144人打阿斯利康疫苗后死亡](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE144%E4%BA%BA%E6%89%93%E9%98%BF%E6%96%AF%E5%88%A9%E5%BA%B7%E7%96%AB%E8%8B%97%E5%90%8E%E6%AD%BB%E4%BA%A1%23&Refer=top)
    新 ->
 4. [肖战成都街头vlog](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4vlog%23&Refer=top)
-   沸 ->
+   沸 -> -> 沸
 5. [薇娅说丁真不用担心吃藕丑](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E8%AF%B4%E4%B8%81%E7%9C%9F%E4%B8%8D%E7%94%A8%E6%8B%85%E5%BF%83%E5%90%83%E8%97%95%E4%B8%91%23&Refer=top)
    新 ->
 6. [林深时见鹿](https://s.weibo.com//weibo?q=%23%E6%9E%97%E6%B7%B1%E6%97%B6%E8%A7%81%E9%B9%BF%23&Refer=top)
@@ -96,7 +96,7 @@
 48. [莫拉塔点球不进](https://s.weibo.com//weibo?q=%E8%8E%AB%E6%8B%89%E5%A1%94%E7%82%B9%E7%90%83%E4%B8%8D%E8%BF%9B&Refer=top)
     新
 49. [瑞典 波兰](https://s.weibo.com//weibo?q=%E7%91%9E%E5%85%B8%20%E6%B3%A2%E5%85%B0&Refer=top)
-    新
+    新 ->
 50. [这大概就是睡神吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%A4%A7%E6%A6%82%E5%B0%B1%E6%98%AF%E7%9D%A1%E7%A5%9E%E5%90%A7%23&Refer=top)
     新 ->
 51. [窦骁演的霸道总裁](https://s.weibo.com//weibo?q=%23%E7%AA%A6%E9%AA%81%E6%BC%94%E7%9A%84%E9%9C%B8%E9%81%93%E6%80%BB%E8%A3%81%23&Refer=top)
@@ -147,7 +147,7 @@
 75. [德国2比2匈牙利](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%9B%BD2%E6%AF%942%E5%8C%88%E7%89%99%E5%88%A9&Refer=top)
     新
 76. [C罗国家队109个进球](https://s.weibo.com//weibo?q=C%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F109%E4%B8%AA%E8%BF%9B%E7%90%83&Refer=top)
-    新
+    新 ->
 77. [葡萄牙2比2法国](https://s.weibo.com//weibo?q=%E8%91%A1%E8%90%84%E7%89%992%E6%AF%942%E6%B3%95%E5%9B%BD&Refer=top)
     新
 78. [法国德国葡萄牙出线](https://s.weibo.com//weibo?q=%E6%B3%95%E5%9B%BD%E5%BE%B7%E5%9B%BD%E8%91%A1%E8%90%84%E7%89%99%E5%87%BA%E7%BA%BF&Refer=top)
@@ -156,6 +156,18 @@
     新
 80. [F组好刺激](https://s.weibo.com//weibo?q=F%E7%BB%84%E5%A5%BD%E5%88%BA%E6%BF%80&Refer=top)
     新
+81. [莱万哭了](https://s.weibo.com//weibo?q=%E8%8E%B1%E4%B8%87%E5%93%AD%E4%BA%86&Refer=top)
+    新
+82. [C罗本泽马交换球衣](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%9C%AC%E6%B3%BD%E9%A9%AC%E4%BA%A4%E6%8D%A2%E7%90%83%E8%A1%A3%23&Refer=top)
+    新
+83. [C罗梅开二度](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&Refer=top)
+    新
+84. [18岁的C罗有多帅](https://s.weibo.com//weibo?q=%2318%E5%B2%81%E7%9A%84C%E7%BD%97%E6%9C%89%E5%A4%9A%E5%B8%85%23&Refer=top)
+    新
+85. [诺伊尔失误](https://s.weibo.com//weibo?q=%23%E8%AF%BA%E4%BC%8A%E5%B0%94%E5%A4%B1%E8%AF%AF%23&Refer=top)
+86. [葡萄牙将对阵比利时](https://s.weibo.com//weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E5%B0%86%E5%AF%B9%E9%98%B5%E6%AF%94%E5%88%A9%E6%97%B6&Refer=top)
+    新
+87. [本泽马梅开二度](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E6%B3%BD%E9%A9%AC%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&Refer=top)
 
 <!-- END -->
 

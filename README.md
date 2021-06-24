@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 25 2021 03:14:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 25 2021 04:15:03 GMT+0800 (China Standard Time) -->
 
 1. [百年党史怀柔印记](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%85%9A%E5%8F%B2%E6%80%80%E6%9F%94%E5%8D%B0%E8%AE%B0%23&Refer=new_time)
    热
@@ -30,7 +30,7 @@
 7. [李雪琴
    我永远都是被剩下的那个](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%20%E6%88%91%E6%B0%B8%E8%BF%9C%E9%83%BD%E6%98%AF%E8%A2%AB%E5%89%A9%E4%B8%8B%E7%9A%84%E9%82%A3%E4%B8%AA&Refer=top)
 8. [今年全是泡泡袖](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%85%A8%E6%98%AF%E6%B3%A1%E6%B3%A1%E8%A2%96%23&Refer=top)
-   沸 -> 热
+   沸 -> 热 -> 沸
 9. [爷爷喂大的拉布拉多](https://s.weibo.com//weibo?q=%23%E7%88%B7%E7%88%B7%E5%96%82%E5%A4%A7%E7%9A%84%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%23&Refer=top)
 10. [广州阿姨解封后立即回乡吃荔枝](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%98%BF%E5%A7%A8%E8%A7%A3%E5%B0%81%E5%90%8E%E7%AB%8B%E5%8D%B3%E5%9B%9E%E4%B9%A1%E5%90%83%E8%8D%94%E6%9E%9D%23&Refer=top)
     新 ->
@@ -87,10 +87,10 @@
 44. [杨幂抓刘诗诗衣领时的口型](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E6%8A%93%E5%88%98%E8%AF%97%E8%AF%97%E8%A1%A3%E9%A2%86%E6%97%B6%E7%9A%84%E5%8F%A3%E5%9E%8B%23&Refer=top)
 45. [提前泄露小米新机博主被判赔偿100万](https://s.weibo.com//weibo?q=%23%E6%8F%90%E5%89%8D%E6%B3%84%E9%9C%B2%E5%B0%8F%E7%B1%B3%E6%96%B0%E6%9C%BA%E5%8D%9A%E4%B8%BB%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF100%E4%B8%87%23&Refer=top)
 46. [麦穗没收到短信](https://s.weibo.com//weibo?q=%23%E9%BA%A6%E7%A9%97%E6%B2%A1%E6%94%B6%E5%88%B0%E7%9F%AD%E4%BF%A1%23&Refer=top)
-    新
+    新 ->
 47. [欧足联宣布取消客场进球规则](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E8%B6%B3%E8%81%94%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88%E5%AE%A2%E5%9C%BA%E8%BF%9B%E7%90%83%E8%A7%84%E5%88%99%23&Refer=top)
 48. [如何看待主人搬家看门狗被遗弃](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%B8%BB%E4%BA%BA%E6%90%AC%E5%AE%B6%E7%9C%8B%E9%97%A8%E7%8B%97%E8%A2%AB%E9%81%97%E5%BC%83%23&Refer=top)
-    新
+    新 ->
 49. [德尔塔变异毒株有多毒](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E6%9C%89%E5%A4%9A%E6%AF%92%23&Refer=top)
     新 ->
 50. [变成你的那一天太上头了](https://s.weibo.com//weibo?q=%23%E5%8F%98%E6%88%90%E4%BD%A0%E7%9A%84%E9%82%A3%E4%B8%80%E5%A4%A9%E5%A4%AA%E4%B8%8A%E5%A4%B4%E4%BA%86%23&Refer=top)
@@ -98,9 +98,10 @@
 52. [百年大党的新生力量](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A4%A7%E5%85%9A%E7%9A%84%E6%96%B0%E7%94%9F%E5%8A%9B%E9%87%8F%23&Refer=new_time)
     热
 53. [为何神药炒作屡屡发生](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BD%95%E7%A5%9E%E8%8D%AF%E7%82%92%E4%BD%9C%E5%B1%A1%E5%B1%A1%E5%8F%91%E7%94%9F%23&Refer=top)
-    新
+    新 ->
 54. [川越百年的红色奋斗路](https://s.weibo.com//weibo?q=%23%E5%B7%9D%E8%B6%8A%E7%99%BE%E5%B9%B4%E7%9A%84%E7%BA%A2%E8%89%B2%E5%A5%8B%E6%96%97%E8%B7%AF%23&Refer=new_time)
     热
+55. [叛逆者](https://s.weibo.com//weibo?q=%E5%8F%9B%E9%80%86%E8%80%85&Refer=top)
 
 <!-- END -->
 

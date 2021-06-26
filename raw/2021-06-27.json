@@ -7,7 +7,7 @@
   {
     "url": "/weibo?q=%23%E8%80%83%E5%87%BA668%E5%88%86%E5%A5%BD%E6%88%90%E7%BB%A9%E5%A5%B3%E5%AD%A9%E6%80%80%E7%96%91%E5%8A%A0%E9%94%99%E4%BA%86%23&Refer=top",
     "title": "考出668分好成绩女孩怀疑加错了",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E8%AF%B4%E8%BF%87%E5%8E%BB%E7%9A%84%E5%AF%86%E6%8E%A5%E6%A6%82%E5%BF%B5%E5%B7%B2%E4%B8%8D%E9%80%82%E7%94%A8%23&Refer=top",
@@ -282,12 +282,12 @@
   {
     "url": "/weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%20%E5%A5%A5%E5%9C%B0%E5%88%A9&Refer=top",
     "title": "意大利 奥地利",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%B9%E9%BA%A64%E6%AF%940%E5%A8%81%E5%B0%94%E5%A3%AB%23&Refer=top",
     "title": "丹麦4比0威尔士",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%A4%9A%E5%B0%94%E8%B4%9D%E9%87%8C%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&Refer=top",
@@ -297,7 +297,7 @@
   {
     "url": "/weibo?q=%E5%BF%83%E7%96%BC%E8%B4%9D%E5%B0%94&Refer=top",
     "title": "心疼贝尔",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E4%B8%B9%E9%BA%A64%E6%AF%940%E5%A8%81%E5%B0%94%E5%A3%AB&Refer=top",
@@ -337,6 +337,16 @@
   {
     "url": "/weibo?q=%E5%9F%BA%E8%80%B6%E8%90%A8%E7%A0%B4%E9%97%A8&Refer=top",
     "title": "基耶萨破门",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A92%E6%AF%941%E5%A5%A5%E5%9C%B0%E5%88%A9%23&Refer=top",
+    "title": "意大利2比1奥地利",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%A5%A5%E5%9C%B0%E5%88%A9%E6%89%B3%E5%9B%9E%E4%B8%80%E7%90%83&Refer=top",
+    "title": "奥地利扳回一球",
     "mark": "新"
   }
 ]

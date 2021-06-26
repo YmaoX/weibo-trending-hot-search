@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 26 2021 21:21:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 26 2021 22:15:51 GMT+0800 (China Standard Time) -->
 
 1. [百年芳华](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E8%8A%B3%E5%8D%8E%23&Refer=new_time)
    热
@@ -272,7 +272,7 @@
 144. [哥伦比亚总统直升机遭袭](https://s.weibo.com//weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%81%AD%E8%A2%AD%23&Refer=top)
      新 ->
 145. [何炅微博改名为何胖](https://s.weibo.com//weibo?q=%23%E4%BD%95%E7%82%85%E5%BE%AE%E5%8D%9A%E6%94%B9%E5%90%8D%E4%B8%BA%E4%BD%95%E8%83%96%23&Refer=top)
-     新 -> 热
+     新 -> 热 ->
 146. [志愿者采核酸遇同名同姓大爷](https://s.weibo.com//weibo?q=%23%E5%BF%97%E6%84%BF%E8%80%85%E9%87%87%E6%A0%B8%E9%85%B8%E9%81%87%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%A4%A7%E7%88%B7%23&Refer=top)
      新
 147. [王子异微博改名王美](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E5%BC%82%E5%BE%AE%E5%8D%9A%E6%94%B9%E5%90%8D%E7%8E%8B%E7%BE%8E%23&Refer=top)
@@ -472,7 +472,7 @@
 245. [王毅说中国这一票永远属于发展中国家](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E8%AF%B4%E4%B8%AD%E5%9B%BD%E8%BF%99%E4%B8%80%E7%A5%A8%E6%B0%B8%E8%BF%9C%E5%B1%9E%E4%BA%8E%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%23&Refer=top)
      新 -> 热
 246. [王一博寸头西装造型](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%AF%B8%E5%A4%B4%E8%A5%BF%E8%A3%85%E9%80%A0%E5%9E%8B%23&Refer=top)
-     新
+     新 ->
 247. [蜜雪冰城开在东京是什么样的](https://s.weibo.com//weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%BC%80%E5%9C%A8%E4%B8%9C%E4%BA%AC%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&Refer=top)
      新 -> 热
 248. [武汉暴雨](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8%23&Refer=top)
@@ -480,7 +480,7 @@
 249. [叛逆者结局](https://s.weibo.com//weibo?q=%23%E5%8F%9B%E9%80%86%E8%80%85%E7%BB%93%E5%B1%80%23&Refer=top)
      新 -> 沸
 250. [银行柜员劝阻女子免遭587万电信诈骗](https://s.weibo.com//weibo?q=%23%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E5%8A%9D%E9%98%BB%E5%A5%B3%E5%AD%90%E5%85%8D%E9%81%AD587%E4%B8%87%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97%23&Refer=top)
-     新
+     新 ->
 251. [童谣不洗头不见男神](https://s.weibo.com//weibo?q=%23%E7%AB%A5%E8%B0%A3%E4%B8%8D%E6%B4%97%E5%A4%B4%E4%B8%8D%E8%A7%81%E7%94%B7%E7%A5%9E%23&Refer=top)
      新 ->
 252. [丁程鑫王锵埋在泥里打伞](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E7%8E%8B%E9%94%B5%E5%9F%8B%E5%9C%A8%E6%B3%A5%E9%87%8C%E6%89%93%E4%BC%9E%23&Refer=top)
@@ -490,21 +490,21 @@
 254. [复读的人后来怎么样了](https://s.weibo.com//weibo?q=%23%E5%A4%8D%E8%AF%BB%E7%9A%84%E4%BA%BA%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&Refer=top)
      新 ->
 255. [百年礼赞](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E7%A4%BC%E8%B5%9E%23&Refer=top)
-     新
+     新 -> 沸
 256. [Doinb的盲僧](https://s.weibo.com//weibo?q=%23Doinb%E7%9A%84%E7%9B%B2%E5%83%A7%23&Refer=top)
      新
 257. [患白血病休学6年男生高考考出562分](https://s.weibo.com//weibo?q=%23%E6%82%A3%E7%99%BD%E8%A1%80%E7%97%85%E4%BC%91%E5%AD%A66%E5%B9%B4%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E8%80%83%E5%87%BA562%E5%88%86%23&Refer=top)
      新 ->
 258. [快乐大本营](https://s.weibo.com//weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5&Refer=top)
-     新
+     新 ->
 259. [日本民众接种疫苗意愿仍不高](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%97%E6%84%8F%E6%84%BF%E4%BB%8D%E4%B8%8D%E9%AB%98%23&Refer=top)
      新
 260. [当宿舍大妈开始说情话](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%AE%BF%E8%88%8D%E5%A4%A7%E5%A6%88%E5%BC%80%E5%A7%8B%E8%AF%B4%E6%83%85%E8%AF%9D%23&Refer=top)
-     新
+     新 ->
 261. [朱迪和尼克看到小朋友摔倒温柔地哄](https://s.weibo.com//weibo?q=%E6%9C%B1%E8%BF%AA%E5%92%8C%E5%B0%BC%E5%85%8B%E7%9C%8B%E5%88%B0%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%91%94%E5%80%92%E6%B8%A9%E6%9F%94%E5%9C%B0%E5%93%84&Refer=top)
      新
 262. [百年礼赞节目单](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E7%A4%BC%E8%B5%9E%E8%8A%82%E7%9B%AE%E5%8D%95%23&Refer=top)
-     新
+     新 ->
 263. [钟南山谈德尔塔变异毒株密接新概念](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E8%B0%88%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E5%AF%86%E6%8E%A5%E6%96%B0%E6%A6%82%E5%BF%B5%23&Refer=top)
      新
 264. [心疼钎城](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E9%92%8E%E5%9F%8E%23&Refer=top)
@@ -520,11 +520,11 @@
 269. [云南公开销毁毒品全过程](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%85%AC%E5%BC%80%E9%94%80%E6%AF%81%E6%AF%92%E5%93%81%E5%85%A8%E8%BF%87%E7%A8%8B%23&Refer=top)
      新 ->
 270. [周冬雨王一博年轻的朋友来相会](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%9D%A5%E7%9B%B8%E4%BC%9A%23&Refer=top)
-     新
+     新 -> 沸
 271. [南京确立鸭血粉丝汤速食装生产标准](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E7%A1%AE%E7%AB%8B%E9%B8%AD%E8%A1%80%E7%B2%89%E4%B8%9D%E6%B1%A4%E9%80%9F%E9%A3%9F%E8%A3%85%E7%94%9F%E4%BA%A7%E6%A0%87%E5%87%86%23&Refer=top)
      新
 272. [白敬亭给自己开美颜](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%BB%99%E8%87%AA%E5%B7%B1%E5%BC%80%E7%BE%8E%E9%A2%9C%23&Refer=top)
-     新
+     新 ->
 273. [Doinb盲僧五杀](https://s.weibo.com//weibo?q=%23Doinb%E7%9B%B2%E5%83%A7%E4%BA%94%E6%9D%80%23&Refer=top)
      新
 274. [鹿晗紫发造型](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E7%B4%AB%E5%8F%91%E9%80%A0%E5%9E%8B%23&Refer=top)
@@ -540,6 +540,41 @@
 279. [钟南山说过去的密接概念已不适用](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E8%AF%B4%E8%BF%87%E5%8E%BB%E7%9A%84%E5%AF%86%E6%8E%A5%E6%A6%82%E5%BF%B5%E5%B7%B2%E4%B8%8D%E9%80%82%E7%94%A8%23&Refer=top)
      新
 280. [林楠笙朱怡贞负伤落水](https://s.weibo.com//weibo?q=%23%E6%9E%97%E6%A5%A0%E7%AC%99%E6%9C%B1%E6%80%A1%E8%B4%9E%E8%B4%9F%E4%BC%A4%E8%90%BD%E6%B0%B4%23&Refer=top)
+     新
+281. [张翰宋丹丹回应尴尬名场面](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%AE%8B%E4%B8%B9%E4%B8%B9%E5%9B%9E%E5%BA%94%E5%B0%B4%E5%B0%AC%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+     新
+282. [马嘉祺 什么是快乐星球](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%20%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83&Refer=top)
+     新
+283. [清华老教师与年轻人合唱](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E8%80%81%E6%95%99%E5%B8%88%E4%B8%8E%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%90%88%E5%94%B1%23&Refer=top)
+     新
+284. [九尾的火舞](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E5%B0%BE%E7%9A%84%E7%81%AB%E8%88%9E%23&Refer=top)
+     新
+285. [刘德华那英时隔24年再唱东方之珠](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E9%82%A3%E8%8B%B1%E6%97%B6%E9%9A%9424%E5%B9%B4%E5%86%8D%E5%94%B1%E4%B8%9C%E6%96%B9%E4%B9%8B%E7%8F%A0%23&Refer=top)
+     新
+286. [广州海关依法退运72.4吨洋垃圾](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B5%B7%E5%85%B3%E4%BE%9D%E6%B3%95%E9%80%80%E8%BF%9072.4%E5%90%A8%E6%B4%8B%E5%9E%83%E5%9C%BE%23&Refer=top)
+     新
+287. [杨紫 魔术克星](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E9%AD%94%E6%9C%AF%E5%85%8B%E6%98%9F&Refer=top)
+     新
+288. [变成你是成年人的爱情](https://s.weibo.com//weibo?q=%23%E5%8F%98%E6%88%90%E4%BD%A0%E6%98%AF%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E7%88%B1%E6%83%85%23&Refer=top)
+     新
+289. [江南百景图 徽州](https://s.weibo.com//weibo?q=%E6%B1%9F%E5%8D%97%E7%99%BE%E6%99%AF%E5%9B%BE%20%E5%BE%BD%E5%B7%9E&Refer=top)
+     新
+290. [成都天府国际机场另类大片](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A9%E5%BA%9C%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%E5%8F%A6%E7%B1%BB%E5%A4%A7%E7%89%87%23&Refer=top)
+     新
+291. [邓炳强脱下警服后参观月壤](https://s.weibo.com//weibo?q=%23%E9%82%93%E7%82%B3%E5%BC%BA%E8%84%B1%E4%B8%8B%E8%AD%A6%E6%9C%8D%E5%90%8E%E5%8F%82%E8%A7%82%E6%9C%88%E5%A3%A4%23&Refer=top)
+     新
+292. [无畏的兰陵王](https://s.weibo.com//weibo?q=%23%E6%97%A0%E7%95%8F%E7%9A%84%E5%85%B0%E9%99%B5%E7%8E%8B%23&Refer=top)
+     新
+293. [孟子义性格](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%80%A7%E6%A0%BC%23&Refer=top)
+     新
+294. [觉醒年代革命者联动](https://s.weibo.com//weibo?q=%23%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%E9%9D%A9%E5%91%BD%E8%80%85%E8%81%94%E5%8A%A8%23&Refer=top)
+     新
+295. [小男孩拿奖状表情大起大落](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%94%B7%E5%AD%A9%E6%8B%BF%E5%A5%96%E7%8A%B6%E8%A1%A8%E6%83%85%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD%23&Refer=top)
+     新
+296. [星痕的钟无艳](https://s.weibo.com//weibo?q=%23%E6%98%9F%E7%97%95%E7%9A%84%E9%92%9F%E6%97%A0%E8%89%B3%23&Refer=top)
+     新
+297. [Cryin状态](https://s.weibo.com//weibo?q=Cryin%E7%8A%B6%E6%80%81&Refer=top) 新
+298. [FPX战胜RNG](https://s.weibo.com//weibo?q=%23FPX%E6%88%98%E8%83%9CRNG%23&Refer=top)
      新
 
 <!-- END -->

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 28 2021 01:22:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 28 2021 02:22:11 GMT+0800 (China Standard Time) -->
 
 1. [七一勋章是如何铸成的](https://s.weibo.com//weibo?q=%23%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E6%98%AF%E5%A6%82%E4%BD%95%E9%93%B8%E6%88%90%E7%9A%84%23&Refer=new_time)
    热
@@ -97,6 +97,9 @@
 57. [景涧到底有多八卦](https://s.weibo.com//weibo?q=%23%E6%99%AF%E6%B6%A7%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%85%AB%E5%8D%A6%23&Refer=top)
     新
 58. [电影之歌](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B9%8B%E6%AD%8C%23&Refer=top)
+59. [白敬亭新买的跑鞋被种草了](https://s.weibo.com//weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E6%96%B0%E4%B9%B0%E7%9A%84%E8%B7%91%E9%9E%8B%E8%A2%AB%E7%A7%8D%E8%8D%89%E4%BA%86&Refer=top)
+    新
+60. [1921](https://s.weibo.com//weibo?q=1921&Refer=top)
 
 <!-- END -->
 

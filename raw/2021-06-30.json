@@ -338,12 +338,12 @@
   {
     "url": "/weibo?q=%E5%B7%9D%E5%B4%8E%E5%89%8D%E9%94%8B7%E6%AF%940%E5%9B%BD%E5%AE%89&Refer=top",
     "title": "川崎前锋7比0国安",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%86%8D%E8%A7%81%E5%BE%B7%E5%9B%BD%E9%98%9F%20%E5%86%8D%E8%A7%81%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5&Refer=top",
     "title": "再见德国队 再见我的青春",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8B%92%E5%A4%AB%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%AF%94%E8%B5%9B%23&Refer=top",
@@ -353,7 +353,7 @@
   {
     "url": "/weibo?q=%E8%AF%BA%E4%BC%8A%E5%B0%94%E8%B7%91%E5%88%B0%E4%BA%86%E4%B8%AD%E5%9C%BA&Refer=top",
     "title": "诺伊尔跑到了中场",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%83%B3%E5%BF%B5%E5%85%8B%E6%B4%9B%E6%B3%BD&Refer=top",
@@ -368,7 +368,7 @@
   {
     "url": "/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80&Refer=top",
     "title": "德国队出局",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BB%84%E5%85%A8%E9%83%A8%E6%AD%BB%E4%BA%A1%23&Refer=top",
@@ -383,6 +383,6 @@
   {
     "url": "/weibo?q=%23%E6%83%B3%E5%BF%B5%E5%85%8B%E6%B4%9B%E6%B3%BD%23&Refer=top",
     "title": "想念克洛泽",
-    "mark": "新"
+    "mark": "新 -> "
   }
 ]

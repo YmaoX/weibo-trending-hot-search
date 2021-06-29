@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 30 2021 04:18:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 30 2021 05:17:47 GMT+0800 (China Standard Time) -->
 
 1. [心中有信仰脚下有力量](https://s.weibo.com//weibo?q=%23%E5%BF%83%E4%B8%AD%E6%9C%89%E4%BF%A1%E4%BB%B0%E8%84%9A%E4%B8%8B%E6%9C%89%E5%8A%9B%E9%87%8F%23&Refer=new_time)
    热
@@ -96,7 +96,7 @@
 58. [穆勒单刀不进](https://s.weibo.com//weibo?q=%E7%A9%86%E5%8B%92%E5%8D%95%E5%88%80%E4%B8%8D%E8%BF%9B&Refer=top)
     新 ->
 59. [英格兰2比0德国](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B02%E6%AF%940%E5%BE%B7%E5%9B%BD%23&Refer=top)
-    新
+    新 ->
 60. [勒夫最后一场国家队比赛](https://s.weibo.com//weibo?q=%E5%8B%92%E5%A4%AB%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%AF%94%E8%B5%9B&Refer=top)
     新
 61. [凯恩破门](https://s.weibo.com//weibo?q=%E5%87%AF%E6%81%A9%E7%A0%B4%E9%97%A8&Refer=top)
@@ -106,13 +106,13 @@
 63. [格纳布里 伦敦之王](https://s.weibo.com//weibo?q=%E6%A0%BC%E7%BA%B3%E5%B8%83%E9%87%8C%20%E4%BC%A6%E6%95%A6%E4%B9%8B%E7%8E%8B&Refer=top)
     新
 64. [英格兰晋级八强](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA%23&Refer=top)
-    新
+    新 ->
 65. [德波尔下课](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E6%B3%A2%E5%B0%94%E4%B8%8B%E8%AF%BE%23&Refer=top)
-    新
+    新 ->
 66. [德国小球迷哭了](https://s.weibo.com//weibo?q=%E5%BE%B7%E5%9B%BD%E5%B0%8F%E7%90%83%E8%BF%B7%E5%93%AD%E4%BA%86&Refer=top)
     新
 67. [瑞典 乌克兰](https://s.weibo.com//weibo?q=%E7%91%9E%E5%85%B8%20%E4%B9%8C%E5%85%8B%E5%85%B0&Refer=top)
-    新
+    新 ->
 68. [欧洲杯赛程](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E8%B5%9B%E7%A8%8B&Refer=top)
     新
 69. [川崎前锋7比0国安](https://s.weibo.com//weibo?q=%E5%B7%9D%E5%B4%8E%E5%89%8D%E9%94%8B7%E6%AF%940%E5%9B%BD%E5%AE%89&Refer=top)
@@ -130,7 +130,7 @@
     新
 76. [死亡之组全部死亡](https://s.weibo.com//weibo?q=%23%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BB%84%E5%85%A8%E9%83%A8%E6%AD%BB%E4%BA%A1%23&Refer=top)
 77. [德国小球迷哭了](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%9B%BD%E5%B0%8F%E7%90%83%E8%BF%B7%E5%93%AD%E4%BA%86%23&Refer=top)
-    新
+    新 ->
 78. [想念克洛泽](https://s.weibo.com//weibo?q=%23%E6%83%B3%E5%BF%B5%E5%85%8B%E6%B4%9B%E6%B3%BD%23&Refer=top)
     新
 

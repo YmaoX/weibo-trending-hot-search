@@ -352,17 +352,17 @@
   {
     "url": "/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%AB%A5%E7%9C%9F%E5%86%99%E7%9C%9F%23&Refer=top",
     "title": "佘诗曼迪士尼童真写真",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%83%8E%E6%9C%97%E8%A7%A3%E8%AF%B4%E6%AC%A7%E6%B4%B2%E6%9D%AF%23&Refer=top",
     "title": "郎朗解说欧洲杯",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%BD%A0%E7%9B%B8%E4%BF%A1%E7%A5%9E%E5%A5%87%E7%9A%84%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%A4%BA%E5%86%A0%E5%AE%9A%E5%BE%8B%E5%90%97%23&Refer=top",
     "title": "你相信神奇的欧洲杯夺冠定律吗",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%8D%A2%E5%8D%A1%E5%BA%93%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&Refer=top",
@@ -398,5 +398,20 @@
     "url": "/weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%88%B7%E7%88%B7%E7%94%A819%E9%98%B6%E9%AD%94%E6%96%B9%E6%8B%BC%E5%87%BA%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%9B%BE%E6%A1%88%23&Refer=top",
     "title": "广州爷爷用19阶魔方拼出建党百年图案",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23&Refer=top",
+    "title": "意大利晋级四强",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%B2%99%E6%BA%A2%E6%97%A0%E5%AE%9E%E7%89%A9%E6%89%93%E9%95%B2%23&Refer=top",
+    "title": "沙溢无实物打镲",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%86%E5%AF%B9%E9%98%B5%E8%A5%BF%E7%8F%AD%E7%89%99&Refer=top",
+    "title": "意大利将对阵西班牙",
+    "mark": "新"
   }
 ]

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 03 2021 01:24:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 03 2021 02:19:22 GMT+0800 (China Standard Time) -->
 
 1. [奋斗百年路启航新征程](https://s.weibo.com//weibo?q=%23%E5%A5%8B%E6%96%97%E7%99%BE%E5%B9%B4%E8%B7%AF%E5%90%AF%E8%88%AA%E6%96%B0%E5%BE%81%E7%A8%8B%23&Refer=new_time)
    热
@@ -23,13 +23,13 @@
 3. [司机走贵州高速被吓出恐高症](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E6%9C%BA%E8%B5%B0%E8%B4%B5%E5%B7%9E%E9%AB%98%E9%80%9F%E8%A2%AB%E5%90%93%E5%87%BA%E6%81%90%E9%AB%98%E7%97%87%23&Refer=top)
 4. [鸟巢演出中的这场雨不是舞美](https://s.weibo.com//weibo?q=%23%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%87%BA%E4%B8%AD%E7%9A%84%E8%BF%99%E5%9C%BA%E9%9B%A8%E4%B8%8D%E6%98%AF%E8%88%9E%E7%BE%8E%23&Refer=top)
 5. [月薪8000的工作和读研该如何选择](https://s.weibo.com//weibo?q=%23%E6%9C%88%E8%96%AA8000%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%92%8C%E8%AF%BB%E7%A0%94%E8%AF%A5%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%23&Refer=top)
-   新
+   新 ->
 6. [他不喜欢的是你](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E4%BD%A0%23&Refer=top)
    沸
 7. [李易峰发了王一博拍的大合照](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E5%8F%91%E4%BA%86%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8B%8D%E7%9A%84%E5%A4%A7%E5%90%88%E7%85%A7%23&Refer=top)
    沸
 8. [索尼中国致歉](https://s.weibo.com//weibo?q=%23%E7%B4%A2%E5%B0%BC%E4%B8%AD%E5%9B%BD%E8%87%B4%E6%AD%89%23&Refer=top)
-   热
+   热 ->
 9. [别给男生发奥特曼表情包](https://s.weibo.com//weibo?q=%23%E5%88%AB%E7%BB%99%E7%94%B7%E7%94%9F%E5%8F%91%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
    新 ->
 10. [女子讲述吃菌中毒离奇幻觉](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%90%83%E8%8F%8C%E4%B8%AD%E6%AF%92%E7%A6%BB%E5%A5%87%E5%B9%BB%E8%A7%89%23&Refer=top)
@@ -46,7 +46,7 @@
     新
 16. [一架波音737货机在夏威夷坠海](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%9E%B6%E6%B3%A2%E9%9F%B3737%E8%B4%A7%E6%9C%BA%E5%9C%A8%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%9D%A0%E6%B5%B7%23&Refer=top)
 17. [黄雅莉已经领证了](https://s.weibo.com//weibo?q=%23%E9%BB%84%E9%9B%85%E8%8E%89%E5%B7%B2%E7%BB%8F%E9%A2%86%E8%AF%81%E4%BA%86%23&Refer=top)
-    新
+    新 ->
 18. [电梯开了人也社死了](https://s.weibo.com//weibo?q=%23%E7%94%B5%E6%A2%AF%E5%BC%80%E4%BA%86%E4%BA%BA%E4%B9%9F%E7%A4%BE%E6%AD%BB%E4%BA%86%23&Refer=top)
     新 ->
 19. [翟潇闻微博改名](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E5%BE%AE%E5%8D%9A%E6%94%B9%E5%90%8D%23&Refer=top)
@@ -102,6 +102,10 @@
 56. [韩庚眼神戏](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%BA%9A%E7%9C%BC%E7%A5%9E%E6%88%8F%23&Refer=top)
     新
 57. [100岁老党员唱支山歌给党听](https://s.weibo.com//weibo?q=%23100%E5%B2%81%E8%80%81%E5%85%9A%E5%91%98%E5%94%B1%E6%94%AF%E5%B1%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC%23&Refer=top)
+58. [瑞士西班牙加时赛](https://s.weibo.com//weibo?q=%E7%91%9E%E5%A3%AB%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E6%97%B6%E8%B5%9B&Refer=top)
+    新
+59. [弗罗伊勒红牌](https://s.weibo.com//weibo?q=%E5%BC%97%E7%BD%97%E4%BC%8A%E5%8B%92%E7%BA%A2%E7%89%8C&Refer=top)
+    新
 
 <!-- END -->
 

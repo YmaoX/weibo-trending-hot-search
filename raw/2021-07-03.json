@@ -47,7 +47,7 @@
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%90%83%E8%8F%8C%E4%B8%AD%E6%AF%92%E7%A6%BB%E5%A5%87%E5%B9%BB%E8%A7%89%23&Refer=top",
     "title": "女子讲述吃菌中毒离奇幻觉",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E9%87%91%E9%9D%96%E8%B0%88%E6%81%8B%E7%88%B1%E4%BA%86&Refer=top",
@@ -57,12 +57,12 @@
   {
     "url": "/weibo?q=%E8%90%A7%E4%BA%9A%E8%BD%A9%20%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E6%88%91%E7%9A%84%E6%A0%B7%E5%AD%90&Refer=top",
     "title": "萧亚轩 我不喜欢我的样子",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E6%80%80%E5%AD%9518%E5%91%A8%E5%8F%82%E5%8A%A0%E5%A5%A5%E8%BF%90%E9%80%89%E6%8B%94%23&Refer=top",
     "title": "美国运动员怀孕18周参加奥运选拔",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E4%BC%B4%E5%A8%98%E6%89%93%E7%9F%B3%E8%86%8F%E5%8F%82%E5%8A%A0%E9%97%BA%E8%9C%9C%E5%A9%9A%E7%A4%BC%E5%A0%B5%E9%97%A8%E6%88%90%E5%8A%9F%23&Refer=top",
@@ -92,7 +92,7 @@
   {
     "url": "/weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E5%BE%AE%E5%8D%9A%E6%94%B9%E5%90%8D%23&Refer=top",
     "title": "翟潇闻微博改名",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B74%23&Refer=top",
@@ -192,7 +192,7 @@
   {
     "url": "/weibo?q=%E7%91%9E%E5%A3%AB%20%E8%A5%BF%E7%8F%AD%E7%89%99&Refer=top",
     "title": "瑞士 西班牙",
-    "mark": "新"
+    "mark": "新 -> 沸"
   },
   {
     "url": "/weibo?q=%23%E8%AE%A9%E7%88%B8%E7%88%B8%E8%AF%BB%E5%8B%87%E6%95%A2%E7%89%9B%E7%89%9B%E4%B8%8D%E6%80%95%E5%9B%B0%E9%9A%BE%23&Refer=top",
@@ -292,6 +292,46 @@
   {
     "url": "/weibo?q=%E5%BC%97%E7%BD%97%E4%BC%8A%E5%8B%92%E7%BA%A2%E7%89%8C&Refer=top",
     "title": "弗罗伊勒红牌",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E7%91%9E%E5%A3%AB%E8%A5%BF%E7%8F%AD%E7%89%99%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98&Refer=top",
+    "title": "瑞士西班牙点球大战",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%9F%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23&Refer=top",
+    "title": "西班牙队晋级四强",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E7%91%9E%E5%A3%AB%E9%97%A8%E5%B0%86%E7%A5%9E%E6%89%91&Refer=top",
+    "title": "瑞士门将神扑",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%20%E6%AF%94%E5%88%A9%E6%97%B6&Refer=top",
+    "title": "意大利 比利时",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%87%91%E9%9D%96%E8%B0%88%E6%81%8B%E7%88%B1%E4%BA%86%23&Refer=top",
+    "title": "金靖谈恋爱了",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E7%82%B9%E7%90%83%E6%88%98%E8%83%9C%E7%91%9E%E5%A3%AB%23&Refer=top",
+    "title": "西班牙点球战胜瑞士",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E7%B4%A2%E9%BB%98%E5%8D%95%E5%9C%BA10%E6%AC%A1%E6%89%91%E6%95%91&Refer=top",
+    "title": "索默单场10次扑救",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%8D%9A%E5%8A%AA%E5%A5%87%E7%A0%B4%E9%97%A8&Refer=top",
+    "title": "博努奇破门",
     "mark": "新"
   }
 ]

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 04 2021 04:17:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 04 2021 05:17:04 GMT+0800 (China Standard Time) -->
 
 1. [探寻中共海外红色足迹](https://s.weibo.com//weibo?q=%23%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%85%B1%E6%B5%B7%E5%A4%96%E7%BA%A2%E8%89%B2%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
    热
@@ -22,11 +22,11 @@
    新 -> 热 -> 新 ->
 3. [钟南山请大家放心打国产疫苗](https://s.weibo.com//weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E8%AF%B7%E5%A4%A7%E5%AE%B6%E6%94%BE%E5%BF%83%E6%89%93%E5%9B%BD%E4%BA%A7%E7%96%AB%E8%8B%97%23&Refer=top)
 4. [孟子义 张翰同学站起来](https://s.weibo.com//weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%BC%A0%E7%BF%B0%E5%90%8C%E5%AD%A6%E7%AB%99%E8%B5%B7%E6%9D%A5&Refer=top)
-   热 -> 沸 -> 热
+   热 -> 沸 -> 热 ->
 5. [食用死亡2小时以上小龙虾容易中毒](https://s.weibo.com//weibo?q=%23%E9%A3%9F%E7%94%A8%E6%AD%BB%E4%BA%A12%E5%B0%8F%E6%97%B6%E4%BB%A5%E4%B8%8A%E5%B0%8F%E9%BE%99%E8%99%BE%E5%AE%B9%E6%98%93%E4%B8%AD%E6%AF%92%23&Refer=top)
    沸 -> 热
 6. [陈慧珊 转行](https://s.weibo.com//weibo?q=%E9%99%88%E6%85%A7%E7%8F%8A%20%E8%BD%AC%E8%A1%8C&Refer=top)
-   沸
+   沸 ->
 7. [Lwx状态](https://s.weibo.com//weibo?q=%23Lwx%E7%8A%B6%E6%80%81%23&Refer=top)
 8. [延乔墓前的来信破防了](https://s.weibo.com//weibo?q=%23%E5%BB%B6%E4%B9%94%E5%A2%93%E5%89%8D%E7%9A%84%E6%9D%A5%E4%BF%A1%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top)
    新 ->
@@ -108,11 +108,11 @@
 58. [希克欧洲杯第五个进球](https://s.weibo.com//weibo?q=%E5%B8%8C%E5%85%8B%E6%AC%A7%E6%B4%B2%E6%9D%AF%E7%AC%AC%E4%BA%94%E4%B8%AA%E8%BF%9B%E7%90%83&Refer=top)
     新 ->
 59. [丹麦淘汰捷克](https://s.weibo.com//weibo?q=%E4%B8%B9%E9%BA%A6%E6%B7%98%E6%B1%B0%E6%8D%B7%E5%85%8B&Refer=top)
-    新
+    新 ->
 60. [乌克兰 英格兰](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0%20%E8%8B%B1%E6%A0%BC%E5%85%B0&Refer=top)
-    新
+    新 ->
 61. [丹麦捷克 裁判判罚](https://s.weibo.com//weibo?q=%E4%B8%B9%E9%BA%A6%E6%8D%B7%E5%85%8B%20%E8%A3%81%E5%88%A4%E5%88%A4%E7%BD%9A&Refer=top)
-    新
+    新 ->
 62. [硬汉绍切克](https://s.weibo.com//weibo?q=%E7%A1%AC%E6%B1%89%E7%BB%8D%E5%88%87%E5%85%8B&Refer=top)
     新
 63. [百年前他们梦想的那个新中国有多美](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%B9%B4%E5%89%8D%E4%BB%96%E4%BB%AC%E6%A2%A6%E6%83%B3%E7%9A%84%E9%82%A3%E4%B8%AA%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=new_time)
@@ -127,6 +127,16 @@
     新
 68. [那些再难聚齐的神仙阵容](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E5%86%8D%E9%9A%BE%E8%81%9A%E9%BD%90%E7%9A%84%E7%A5%9E%E4%BB%99%E9%98%B5%E5%AE%B9%23&Refer=top)
 69. [马奎尔破门](https://s.weibo.com//weibo?q=%E9%A9%AC%E5%A5%8E%E5%B0%94%E7%A0%B4%E9%97%A8&Refer=top)
+    新
+70. [乌克兰球迷哭了](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E7%90%83%E8%BF%B7%E5%93%AD%E4%BA%86&Refer=top)
+    新
+71. [英格兰淘汰乌克兰](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B7%98%E6%B1%B0%E4%B9%8C%E5%85%8B%E5%85%B0&Refer=top)
+    新
+72. [凯恩梅开二度](https://s.weibo.com//weibo?q=%23%E5%87%AF%E6%81%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&Refer=top)
+    新
+73. [英格兰将对阵丹麦](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%B0%86%E5%AF%B9%E9%98%B5%E4%B8%B9%E9%BA%A6&Refer=top)
+    新
+74. [英格兰零丢球](https://s.weibo.com//weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%9B%B6%E4%B8%A2%E7%90%83&Refer=top)
     新
 
 <!-- END -->

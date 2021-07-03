@@ -313,7 +313,7 @@
   {
     "url": "/weibo?q=%23%E4%B8%80%E7%99%BE%E5%93%8D%E7%A4%BC%E7%82%AE%E5%A3%B0%E7%82%BC%E6%88%90%E7%9A%84%E8%83%8C%E5%90%8E%23&Refer=top",
     "title": "一百响礼炮声炼成的背后",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%83%BD%E8%BF%9B%E5%9B%9B%E5%BC%BA%E5%90%97%23&Refer=top",
@@ -364,5 +364,10 @@
     "url": "/weibo?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%9B%B6%E4%B8%A2%E7%90%83&Refer=top",
     "title": "英格兰零丢球",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%B5%B7%E4%B8%8A%E7%B9%81%E8%8A%B1&Refer=top",
+    "title": "海上繁花",
+    "mark": ""
   }
 ]

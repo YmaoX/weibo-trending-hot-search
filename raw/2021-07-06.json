@@ -12,7 +12,7 @@
   {
     "url": "/weibo?q=%23%E5%85%AC%E9%BC%A0%E6%80%80%E5%AD%95%E8%AE%BA%E6%96%87%E5%81%9C%E6%AD%A2%E6%92%A4%E7%A8%BF%23&Refer=top",
     "title": "公鼠怀孕论文停止撤稿",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E9%AB%98%E6%A5%BC%E5%A4%96%E6%8C%82%E6%88%91%E8%A6%81%E6%B4%BB%E5%91%BD%E7%BB%99%E6%88%91%E7%96%AB%E8%8B%97%23&Refer=top",
@@ -82,7 +82,7 @@
   {
     "url": "/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E8%AF%B4%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%AF%E5%93%A5%E4%B8%AD%E4%B9%8B%E5%93%A5%23&Refer=top",
     "title": "林俊杰说周杰伦是哥中之哥",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%BD%A0%E5%BE%AE%E7%AC%91%E6%97%B6%E5%BE%88%E7%BE%8E%E8%AF%84%E5%88%86%E5%90%88%E7%90%86%E5%90%97%23&Refer=top",
@@ -112,7 +112,7 @@
   {
     "url": "/weibo?q=%E4%B9%83%E4%B8%87%20%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9B%97%E6%91%84&Refer=top",
     "title": "乃万 电影院盗摄",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E5%BC%A0%E9%99%B6%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top",
@@ -157,7 +157,7 @@
   {
     "url": "/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E5%8D%A1%E7%82%B9%23&Refer=top",
     "title": "刘耀文舞蹈动作卡点",
-    "mark": "新 ->  -> 新"
+    "mark": "新 ->  -> 新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E4%B8%AD%E8%80%83757%E5%88%868%E9%97%A8%E6%BB%A1%E5%88%86%23&Refer=top",
@@ -252,7 +252,7 @@
   {
     "url": "/weibo?q=%23%E5%8F%A4%E5%90%9B%E5%AF%B9%E6%B8%85%E7%A9%86%E5%83%8F%E5%B2%B3%E7%88%B6%E6%8C%91%E5%A5%B3%E5%A9%BF%23&Refer=top",
     "title": "古君对清穆像岳父挑女婿",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%23&Refer=new_time",
@@ -298,5 +298,15 @@
     "url": "/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E5%9D%87%E4%B8%BA%E4%BD%8E%E9%A3%8E%E9%99%A9%23&Refer=top",
     "title": "深圳全市均为低风险",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%A4%A9%E7%83%AD%E7%8C%9B%E5%96%9D%E6%B0%B4%E6%88%96%E8%87%B4%E6%B0%B4%E4%B8%AD%E6%AF%92%23&Refer=top",
+    "title": "天热猛喝水或致水中毒",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E8%A7%92%E8%89%B2%E8%B7%A8%E5%BA%A6%23&Refer=top",
+    "title": "佟丽娅角色跨度",
+    "mark": "新"
   }
 ]

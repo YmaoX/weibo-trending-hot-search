@@ -297,7 +297,7 @@
   {
     "url": "/weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top",
     "title": "中国医生",
-    "mark": ""
+    "mark": " -> 新"
   },
   {
     "url": "/weibo?q=%E6%9C%AC%E5%B1%8A%E6%AC%A7%E6%B4%B2%E6%9D%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%9B%B4%E6%8E%A5%E4%BB%BB%E6%84%8F%E7%90%83%E7%A0%B4%E9%97%A8&Refer=top",
@@ -502,7 +502,7 @@
   {
     "url": "/weibo?q=%E5%8D%83%E5%8F%A4%E7%8E%A6%E5%B0%98&Refer=top",
     "title": "千古玦尘",
-    "mark": "新 ->  -> 新"
+    "mark": "新 ->  -> 新 -> "
   },
   {
     "url": "/weibo?q=%239%E4%B8%AA%E9%AB%98%E9%A2%91%E8%AF%8D%E5%B8%A6%E4%BD%A0%E5%AD%A6%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E7%A5%9D%E5%A4%A7%E4%BC%9A%E8%AE%B2%E8%AF%9D%23&Refer=top",
@@ -1032,7 +1032,7 @@
   {
     "url": "/weibo?q=%23%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%87%E7%94%9F%E6%97%A5%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%23&Refer=top",
     "title": "在海底捞过生日的小朋友",
-    "mark": "新 ->  -> 沸"
+    "mark": "新 ->  -> 沸 -> "
   },
   {
     "url": "/weibo?q=%23%E9%87%91%E6%99%BA%E7%A7%80%E5%85%AC%E5%BC%8F%E7%85%A7%23&Refer=top",
@@ -1172,7 +1172,7 @@
   {
     "url": "/weibo?q=%23%E9%82%93%E4%BC%A6%E6%8A%8A%E4%B8%9D%E5%B7%BE%E6%8A%95%E4%B8%8A%E4%BA%868%E7%B1%B3%E9%AB%98%E7%9A%84%E4%BD%8D%E7%BD%AE%23&Refer=top",
     "title": "邓伦把丝巾投上了8米高的位置",
-    "mark": "新 ->  -> 沸"
+    "mark": "新 ->  -> 沸 -> "
   },
   {
     "url": "/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%B8%AE%E5%B4%A9%E6%BA%83%E7%A8%8B%E5%BA%8F%E5%91%98%E5%86%99%E4%BB%A3%E7%A0%81%23&Refer=top",
@@ -1312,7 +1312,7 @@
   {
     "url": "/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9D%90%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%23&Refer=top",
     "title": "英国博主坐中国高铁",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E6%99%92%E5%B0%8F%E6%95%8F%E5%AE%B6%E6%9D%80%E9%9D%92%E7%85%A7%23&Refer=top",
@@ -1332,7 +1332,7 @@
   {
     "url": "/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%A6%84%E5%8F%A3%E6%9C%BA%E5%9C%BA%E5%8F%96%E6%B6%8817%E7%82%B9%E4%BB%A5%E5%90%8E%E8%88%AA%E7%8F%AD%23&Refer=top",
     "title": "南京禄口机场取消17点以后航班",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%80%E8%BD%A6%E6%8A%98%E8%BF%94%E5%86%92%E9%9B%A8%E6%8D%A1%E5%9B%BD%E6%97%97%23&Refer=top",
@@ -1347,22 +1347,22 @@
   {
     "url": "/weibo?q=%E5%A4%AE%E8%A1%8C%E5%89%AF%E8%A1%8C%E9%95%BF%E8%B0%88%E6%AF%94%E7%89%B9%E5%B8%81&Refer=top",
     "title": "央行副行长谈比特币",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%AE%80%E5%8E%86%E8%83%BD%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top",
     "title": "简历能有多好笑",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%BD%93%E7%A4%BE%E6%81%90%E4%BA%BA%E5%8E%BB%E9%A4%90%E5%8E%85%23&Refer=top",
     "title": "当社恐人去餐厅",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%9A%84%E4%BA%BA%E8%84%89%E7%9C%9F%E7%9A%84%E5%BE%88%E9%87%8D%E8%A6%81%E5%90%97%23&Refer=top",
     "title": "大学的人脉真的很重要吗",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E5%BD%B1%E9%99%A2%E7%89%88%E9%A2%84%E5%91%8A%23&Refer=top",
@@ -1372,12 +1372,12 @@
   {
     "url": "/weibo?q=%23%E6%AF%8D%E4%BA%B2%E6%99%95%E5%80%922%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%86%B7%E9%9D%99%E6%B1%82%E5%8A%A9%E8%AD%A6%E5%AF%9F%23&Refer=top",
     "title": "母亲晕倒2岁女童冷静求助警察",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%82%96%E5%8D%8E%E5%B8%8C%E6%9C%9BNBA%E7%BB%A7%E7%BB%AD%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%BD%AC%E6%92%AD%23&Refer=top",
     "title": "肖华希望NBA继续在中国转播",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%91%98%E5%B7%A5%E9%95%BF%E6%9C%9F%E5%8A%A0%E7%8F%AD%E5%90%8E%E7%8C%9D%E6%AD%BB%E5%85%AC%E5%8F%B8%E6%8B%85%E8%B4%A3%E4%BA%8C%E6%88%90%23&Refer=top",
@@ -1387,12 +1387,12 @@
   {
     "url": "/weibo?q=%23%E6%B2%A1%E6%9C%89%E8%85%B0%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top",
     "title": "没有腰的大熊猫长什么样",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%BD%95%E5%88%B6%E8%A1%97%E8%88%9E4%23&Refer=top",
     "title": "刘宪华录制街舞4",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E5%9B%9E%E5%BA%94%E9%A2%91%E4%B8%8A%E7%BB%BC%E8%89%BA%E8%B4%A8%E7%96%91%23&Refer=top",
@@ -1402,12 +1402,12 @@
   {
     "url": "/weibo?q=%23%E9%BB%84%E5%A5%95%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%88%9B%E4%B8%9A%E5%88%9D%E6%9C%9F%E6%98%AF%E5%BE%88%E5%8D%91%E5%BE%AE%E7%9A%84%23&Refer=top",
     "title": "黄奕说自己创业初期是很卑微的",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%91%8A%E5%88%AB%E5%A4%8F%E5%88%9D%23&Refer=top",
     "title": "李沁告别夏初",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%B1%95%E7%BE%BD%20%E5%AE%B6%E6%9A%B4&Refer=top",
@@ -1427,6 +1427,56 @@
   {
     "url": "/weibo?q=XYG%20%E4%B8%9C%E8%8E%9EWz&Refer=top",
     "title": "XYG 东莞Wz",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E6%B1%9F%E5%AE%8F%E6%9D%B0%E6%AD%A3%E5%BC%8F%E7%A6%BB%E5%A9%9A%23&Refer=top",
+    "title": "福原爱江宏杰正式离婚",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%9D%9C%E6%B5%B7%E6%B6%9B%20%E6%9C%89%E9%97%AE%E9%A2%98%E5%B0%B1%E8%A6%81%E9%87%8D%E8%A7%86%E4%B8%94%E5%BD%BB%E5%BA%95%E8%A7%A3%E5%86%B3&Refer=top",
+    "title": "杜海涛 有问题就要重视且彻底解决",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%B2%B3%E5%8D%97%E8%AF%95%E7%82%B9%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E5%AF%92%E6%9A%91%E5%81%87%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E%23&Refer=top",
+    "title": "北京河南试点取消教师寒暑假消息不实",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E9%83%BD%E7%BE%8E%E7%AB%B9%20%E5%90%B4%E4%BA%A6%E5%87%A1&Refer=top",
+    "title": "都美竹 吴亦凡",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%AE%89%E5%BE%BD%E5%A5%B3%E5%AD%A9%E8%AF%B4%E6%8B%BC%E4%BA%86%E5%91%BD%E4%B9%9F%E8%A6%81%E8%AE%A9%E5%A6%88%E5%A6%88%E6%B4%BB%E7%9D%80%23&Refer=top",
+    "title": "安徽女孩说拼了命也要让妈妈活着",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%9E%97%E7%94%9F%E6%96%8C%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%23&Refer=top",
+    "title": "林生斌发文回应",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23TF%E4%B8%89%E4%BB%A3%E5%9B%9B%E9%9D%A2%E6%A5%9A%E6%AD%8C%E8%88%9E%E5%8F%B0%23&Refer=top",
+    "title": "TF三代四面楚歌舞台",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%88%91%E5%9B%BD22%E4%B8%AA%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E8%BF%9B%E5%85%A5%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%E9%98%B6%E6%AE%B5&Refer=top",
+    "title": "我国22个新冠疫苗进入临床试验阶段",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%88%B4%E5%81%87%E5%8F%91%E7%9A%84%E9%AA%91%E6%89%8B%E5%A6%88%E5%A6%88%23&Refer=top",
+    "title": "戴假发的骑手妈妈",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%8D%E6%87%82%E7%90%83%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%BB%80%E4%B9%88%23&Refer=top",
+    "title": "不懂球的人都在熬夜看什么",
     "mark": "新"
   }
 ]

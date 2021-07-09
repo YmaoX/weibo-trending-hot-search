@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 10 2021 02:24:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 10 2021 03:14:02 GMT+0800 (China Standard Time) -->
 
 1. [把一生融入红旗的音乐家](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E4%B8%80%E7%94%9F%E8%9E%8D%E5%85%A5%E7%BA%A2%E6%97%97%E7%9A%84%E9%9F%B3%E4%B9%90%E5%AE%B6%23&Refer=new_time)
    热
@@ -23,7 +23,7 @@
 3. [95后小伙在游戏里建了一个广州](https://s.weibo.com//weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E5%9C%A8%E6%B8%B8%E6%88%8F%E9%87%8C%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%B9%BF%E5%B7%9E%23&Refer=top)
    新 ->
 4. [他不叫帅哥他叫吴义帆](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%B8%8D%E5%8F%AB%E5%B8%85%E5%93%A5%E4%BB%96%E5%8F%AB%E5%90%B4%E4%B9%89%E5%B8%86%23&Refer=top)
-   新
+   新 -> 沸
 5. [张艺兴解释粉丝名叫贝壳因为硬](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%A7%A3%E9%87%8A%E7%B2%89%E4%B8%9D%E5%90%8D%E5%8F%AB%E8%B4%9D%E5%A3%B3%E5%9B%A0%E4%B8%BA%E7%A1%AC%23&Refer=top)
    新 ->
 6. [儿子被北大录取爸爸凡尔赛发言](https://s.weibo.com//weibo?q=%23%E5%84%BF%E5%AD%90%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%E7%88%B8%E7%88%B8%E5%87%A1%E5%B0%94%E8%B5%9B%E5%8F%91%E8%A8%80%23&Refer=top)
@@ -32,7 +32,7 @@
 8. [居民报复邻居连开五年震楼器](https://s.weibo.com//weibo?q=%23%E5%B1%85%E6%B0%91%E6%8A%A5%E5%A4%8D%E9%82%BB%E5%B1%85%E8%BF%9E%E5%BC%80%E4%BA%94%E5%B9%B4%E9%9C%87%E6%A5%BC%E5%99%A8%23&Refer=top)
 9. [向往的图书馆开馆](https://s.weibo.com//weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%BC%80%E9%A6%86%23&Refer=top)
 10. [山西6名失联学生中曾有两人返回救人](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF6%E5%90%8D%E5%A4%B1%E8%81%94%E5%AD%A6%E7%94%9F%E4%B8%AD%E6%9B%BE%E6%9C%89%E4%B8%A4%E4%BA%BA%E8%BF%94%E5%9B%9E%E6%95%91%E4%BA%BA%23&Refer=top)
-    新
+    新 ->
 11. [中国成功发射钟子号卫星星座02组卫星](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%92%9F%E5%AD%90%E5%8F%B7%E5%8D%AB%E6%98%9F%E6%98%9F%E5%BA%A702%E7%BB%84%E5%8D%AB%E6%98%9F%23&Refer=top)
 12. [周奇瘦回方一凡](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%A5%87%E7%98%A6%E5%9B%9E%E6%96%B9%E4%B8%80%E5%87%A1%23&Refer=top)
     新 ->
@@ -81,7 +81,7 @@
     新
 45. [用牙刷刷小猫咪的额头](https://s.weibo.com//weibo?q=%23%E7%94%A8%E7%89%99%E5%88%B7%E5%88%B7%E5%B0%8F%E7%8C%AB%E5%92%AA%E7%9A%84%E9%A2%9D%E5%A4%B4%23&Refer=top)
 46. [中学老师每周请留守学生来家吃饭](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%AF%8F%E5%91%A8%E8%AF%B7%E7%95%99%E5%AE%88%E5%AD%A6%E7%94%9F%E6%9D%A5%E5%AE%B6%E5%90%83%E9%A5%AD%23&Refer=top)
-    新
+    新 ->
 47. [宋亚轩猜错什么是快乐星球](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%8C%9C%E9%94%99%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83%23&Refer=top)
     新
 48. [足球比赛中竟然还有蓝牌](https://s.weibo.com//weibo?q=%23%E8%B6%B3%E7%90%83%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AB%9F%E7%84%B6%E8%BF%98%E6%9C%89%E8%93%9D%E7%89%8C%23&Refer=top)
@@ -110,6 +110,10 @@
     新
 61. [萌探探探案版小欢喜](https://s.weibo.com//weibo?q=%23%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88%E7%89%88%E5%B0%8F%E6%AC%A2%E5%96%9C%23&Refer=top)
 62. [中国航天7天4连发](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A97%E5%A4%A94%E8%BF%9E%E5%8F%91%23&Refer=top)
+63. [2021深化医改重点工作任务](https://s.weibo.com//weibo?q=%232021%E6%B7%B1%E5%8C%96%E5%8C%BB%E6%94%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
+    热
+64. [不要喊妈条约](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%A6%81%E5%96%8A%E5%A6%88%E6%9D%A1%E7%BA%A6%23&Refer=top)
+    新
 
 <!-- END -->
 

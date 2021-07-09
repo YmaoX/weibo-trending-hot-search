@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 10 2021 05:17:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 10 2021 06:18:00 GMT+0800 (China Standard Time) -->
 
 1. [把一生融入红旗的音乐家](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E4%B8%80%E7%94%9F%E8%9E%8D%E5%85%A5%E7%BA%A2%E6%97%97%E7%9A%84%E9%9F%B3%E4%B9%90%E5%AE%B6%23&Refer=new_time)
    热
@@ -23,7 +23,7 @@
 3. [95后小伙在游戏里建了一个广州](https://s.weibo.com//weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E5%9C%A8%E6%B8%B8%E6%88%8F%E9%87%8C%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%B9%BF%E5%B7%9E%23&Refer=top)
    新 ->
 4. [他不叫帅哥他叫吴义帆](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%B8%8D%E5%8F%AB%E5%B8%85%E5%93%A5%E4%BB%96%E5%8F%AB%E5%90%B4%E4%B9%89%E5%B8%86%23&Refer=top)
-   新 -> 沸
+   新 -> 沸 ->
 5. [张艺兴解释粉丝名叫贝壳因为硬](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%A7%A3%E9%87%8A%E7%B2%89%E4%B8%9D%E5%90%8D%E5%8F%AB%E8%B4%9D%E5%A3%B3%E5%9B%A0%E4%B8%BA%E7%A1%AC%23&Refer=top)
    新 ->
 6. [儿子被北大录取爸爸凡尔赛发言](https://s.weibo.com//weibo?q=%23%E5%84%BF%E5%AD%90%E8%A2%AB%E5%8C%97%E5%A4%A7%E5%BD%95%E5%8F%96%E7%88%B8%E7%88%B8%E5%87%A1%E5%B0%94%E8%B5%9B%E5%8F%91%E8%A8%80%23&Refer=top)
@@ -47,9 +47,9 @@
 19. [取消大小周会成为趋势吗](https://s.weibo.com//weibo?q=%23%E5%8F%96%E6%B6%88%E5%A4%A7%E5%B0%8F%E5%91%A8%E4%BC%9A%E6%88%90%E4%B8%BA%E8%B6%8B%E5%8A%BF%E5%90%97%23&Refer=top)
 20. [顶楼3](https://s.weibo.com//weibo?q=%23%E9%A1%B6%E6%A5%BC3%23&Refer=top)
 21. [书桓为什么选依萍不选如萍](https://s.weibo.com//weibo?q=%23%E4%B9%A6%E6%A1%93%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E4%BE%9D%E8%90%8D%E4%B8%8D%E9%80%89%E5%A6%82%E8%90%8D%23&Refer=top)
-    热 ->
+    热 -> -> 热
 22. [都美竹准备报案](https://s.weibo.com//weibo?q=%23%E9%83%BD%E7%BE%8E%E7%AB%B9%E5%87%86%E5%A4%87%E6%8A%A5%E6%A1%88%23&Refer=top)
-    热
+    热 ->
 23. [姜贞羽被沙溢忽悠](https://s.weibo.com//weibo?q=%23%E5%A7%9C%E8%B4%9E%E7%BE%BD%E8%A2%AB%E6%B2%99%E6%BA%A2%E5%BF%BD%E6%82%A0%23&Refer=top)
     新 ->
 24. [蓝盈莹金晨演姐妹](https://s.weibo.com//weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E9%87%91%E6%99%A8%E6%BC%94%E5%A7%90%E5%A6%B9%23&Refer=top)
@@ -113,7 +113,7 @@
 63. [2021深化医改重点工作任务](https://s.weibo.com//weibo?q=%232021%E6%B7%B1%E5%8C%96%E5%8C%BB%E6%94%B9%E9%87%8D%E7%82%B9%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
     热
 64. [不要喊妈条约](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%A6%81%E5%96%8A%E5%A6%88%E6%9D%A1%E7%BA%A6%23&Refer=top)
-    新
+    新 ->
 65. [朱亚文 医生演一次不够](https://s.weibo.com//weibo?q=%E6%9C%B1%E4%BA%9A%E6%96%87%20%E5%8C%BB%E7%94%9F%E6%BC%94%E4%B8%80%E6%AC%A1%E4%B8%8D%E5%A4%9F&Refer=top)
     新
 66. [中国医生](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top)

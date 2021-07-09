@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 09 2021 16:20:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 09 2021 17:19:56 GMT+0800 (China Standard Time) -->
 
 1. [建党精神](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E5%85%9A%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
    热
@@ -220,7 +220,7 @@
 120. [新疆网红女副局长策马浴河摔河里](https://s.weibo.com//weibo?q=%E6%96%B0%E7%96%86%E7%BD%91%E7%BA%A2%E5%A5%B3%E5%89%AF%E5%B1%80%E9%95%BF%E7%AD%96%E9%A9%AC%E6%B5%B4%E6%B2%B3%E6%91%94%E6%B2%B3%E9%87%8C&Refer=top)
      新
 121. [杨玏王玉雯挽手搂腰](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%8E%8F%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%8C%BD%E6%89%8B%E6%90%82%E8%85%B0%23&Refer=top)
-     新 -> 热 -> -> 热
+     新 -> 热 -> -> 热 ->
 122. [两名暗杀海地总统嫌犯被捕现场](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%90%8D%E6%9A%97%E6%9D%80%E6%B5%B7%E5%9C%B0%E6%80%BB%E7%BB%9F%E5%AB%8C%E7%8A%AF%E8%A2%AB%E6%8D%95%E7%8E%B0%E5%9C%BA%23&Refer=top)
      新 ->
 123. [不得强制要求学生参加暑期托管](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%BE%97%E5%BC%BA%E5%88%B6%E8%A6%81%E6%B1%82%E5%AD%A6%E7%94%9F%E5%8F%82%E5%8A%A0%E6%9A%91%E6%9C%9F%E6%89%98%E7%AE%A1%23&Refer=top)
@@ -304,7 +304,7 @@
 162. [有个会接梗的妈妈是啥体验](https://s.weibo.com//weibo?q=%23%E6%9C%89%E4%B8%AA%E4%BC%9A%E6%8E%A5%E6%A2%97%E7%9A%84%E5%A6%88%E5%A6%88%E6%98%AF%E5%95%A5%E4%BD%93%E9%AA%8C%23&Refer=top)
      新
 163. [海绵宝宝结婚了](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E7%BB%93%E5%A9%9A%E4%BA%86%23&Refer=top)
-     新 ->
+     新 -> -> 热
 164. [我们能为野生动物保护做些什么](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E8%83%BD%E4%B8%BA%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%81%9A%E4%BA%9B%E4%BB%80%E4%B9%88%23&Refer=top)
      新
 165. [高校宿舍可以有多豪横](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E5%AE%BF%E8%88%8D%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E8%B1%AA%E6%A8%AA%23&Refer=top)
@@ -338,7 +338,7 @@
 179. [冰镇雪碧小番茄](https://s.weibo.com//weibo?q=%23%E5%86%B0%E9%95%87%E9%9B%AA%E7%A2%A7%E5%B0%8F%E7%95%AA%E8%8C%84%23&Refer=top)
      新
 180. [一个人住也太爽了吧](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BD%8F%E4%B9%9F%E5%A4%AA%E7%88%BD%E4%BA%86%E5%90%A7%23&Refer=top)
-     新 ->
+     新 -> -> 沸
 181. [仙气蜜桃牛奶绵绵冰](https://s.weibo.com//weibo?q=%23%E4%BB%99%E6%B0%94%E8%9C%9C%E6%A1%83%E7%89%9B%E5%A5%B6%E7%BB%B5%E7%BB%B5%E5%86%B0%23&Refer=top)
      新
 182. [高铁晚点](https://s.weibo.com//weibo?q=%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9&Refer=top)
@@ -352,7 +352,7 @@
 186. [易烊千玺演技](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E6%8A%80%23&Refer=top)
      新 -> 沸
 187. [宋祖儿腰臀比例](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%85%B0%E8%87%80%E6%AF%94%E4%BE%8B%23&Refer=top)
-     新
+     新 ->
 188. [白宫称美国遵循一个中国政策](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%AE%AB%E7%A7%B0%E7%BE%8E%E5%9B%BD%E9%81%B5%E5%BE%AA%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E6%94%BF%E7%AD%96%23&Refer=top)
      新 ->
 189. [上海的爷爷奶奶有多会穿](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%9A%84%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E6%9C%89%E5%A4%9A%E4%BC%9A%E7%A9%BF%23&Refer=top)
@@ -364,7 +364,7 @@
 192. [王晓晨工作室辟谣](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%99%93%E6%99%A8%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%23&Refer=top)
      新 ->
 193. [原来战狼里的情节是真的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%88%98%E7%8B%BC%E9%87%8C%E7%9A%84%E6%83%85%E8%8A%82%E6%98%AF%E7%9C%9F%E7%9A%84%23&Refer=top)
-     新
+     新 ->
 194. [这是捅海胆窝了吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E6%8D%85%E6%B5%B7%E8%83%86%E7%AA%9D%E4%BA%86%E5%90%A7%23&Refer=top)
      新
 195. [2只海豚在浙江宁海搁浅](https://s.weibo.com//weibo?q=%232%E5%8F%AA%E6%B5%B7%E8%B1%9A%E5%9C%A8%E6%B5%99%E6%B1%9F%E5%AE%81%E6%B5%B7%E6%90%81%E6%B5%85%23&Refer=top)
@@ -378,19 +378,19 @@
 199. [迪士尼涨价你还会去吗](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B6%A8%E4%BB%B7%E4%BD%A0%E8%BF%98%E4%BC%9A%E5%8E%BB%E5%90%97%23&Refer=top)
      新
 200. [王彦霖艾佳妮婚礼伴手礼](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%BD%A6%E9%9C%96%E8%89%BE%E4%BD%B3%E5%A6%AE%E5%A9%9A%E7%A4%BC%E4%BC%B4%E6%89%8B%E7%A4%BC%23&Refer=top)
-     新
+     新 -> 热
 201. [女子试戴手表不慎滑落被判赔17800元](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%AF%95%E6%88%B4%E6%89%8B%E8%A1%A8%E4%B8%8D%E6%85%8E%E6%BB%91%E8%90%BD%E8%A2%AB%E5%88%A4%E8%B5%9417800%E5%85%83%23&Refer=top)
-     新
+     新 -> 热
 202. [书桓为什么选依萍不选如萍](https://s.weibo.com//weibo?q=%23%E4%B9%A6%E6%A1%93%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E4%BE%9D%E8%90%8D%E4%B8%8D%E9%80%89%E5%A6%82%E8%90%8D%23&Refer=top)
      新
 203. [孩子被喷泉水柱冲起数米腾空翻转](https://s.weibo.com//weibo?q=%23%E5%AD%A9%E5%AD%90%E8%A2%AB%E5%96%B7%E6%B3%89%E6%B0%B4%E6%9F%B1%E5%86%B2%E8%B5%B7%E6%95%B0%E7%B1%B3%E8%85%BE%E7%A9%BA%E7%BF%BB%E8%BD%AC%23&Refer=top)
-     新
+     新 ->
 204. [刘青松因病暂时缺席比赛](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%9D%92%E6%9D%BE%E5%9B%A0%E7%97%85%E6%9A%82%E6%97%B6%E7%BC%BA%E5%B8%AD%E6%AF%94%E8%B5%9B%23&Refer=top)
-     新
+     新 ->
 205. [日本宣布东京都第四次进入紧急状态](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E4%B8%9C%E4%BA%AC%E9%83%BD%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&Refer=top)
-     新
+     新 ->
 206. [谭松韵演的村官黄思齐](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%BC%94%E7%9A%84%E6%9D%91%E5%AE%98%E9%BB%84%E6%80%9D%E9%BD%90%23&Refer=top)
-     新
+     新 ->
 207. [统一饮料开盖中奖率不实被罚6万](https://s.weibo.com//weibo?q=%23%E7%BB%9F%E4%B8%80%E9%A5%AE%E6%96%99%E5%BC%80%E7%9B%96%E4%B8%AD%E5%A5%96%E7%8E%87%E4%B8%8D%E5%AE%9E%E8%A2%AB%E7%BD%9A6%E4%B8%87%23&Refer=top)
      新
 208. [任嘉伦皆大欢喜的名字任国嘉](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E7%9A%86%E5%A4%A7%E6%AC%A2%E5%96%9C%E7%9A%84%E5%90%8D%E5%AD%97%E4%BB%BB%E5%9B%BD%E5%98%89%23&Refer=top)
@@ -402,10 +402,42 @@
 211. [镇江多趟高铁停运](https://s.weibo.com//weibo?q=%23%E9%95%87%E6%B1%9F%E5%A4%9A%E8%B6%9F%E9%AB%98%E9%93%81%E5%81%9C%E8%BF%90%23&Refer=top)
      新
 212. [超主动的小猫咪](https://s.weibo.com//weibo?q=%23%E8%B6%85%E4%B8%BB%E5%8A%A8%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%92%AA%23&Refer=top)
-     新
+     新 ->
 213. [努力学习的意义是什么](https://s.weibo.com//weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top)
      新
 214. [北京WB 东莞Wz](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%ACWB%20%E4%B8%9C%E8%8E%9EWz&Refer=top)
+     新
+215. [蔡徐坤鞠婧祎左其铂早年同框](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%B7%A6%E5%85%B6%E9%93%82%E6%97%A9%E5%B9%B4%E5%90%8C%E6%A1%86%23&Refer=top)
+     新
+216. [1旅客入境带了9行李箱化妆品](https://s.weibo.com//weibo?q=%231%E6%97%85%E5%AE%A2%E5%85%A5%E5%A2%83%E5%B8%A6%E4%BA%869%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%8C%96%E5%A6%86%E5%93%81%23&Refer=top)
+     新
+217. [赵露思初恋感写真](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%88%9D%E6%81%8B%E6%84%9F%E5%86%99%E7%9C%9F%23&Refer=top)
+     新
+218. [都美竹准备报案](https://s.weibo.com//weibo?q=%23%E9%83%BD%E7%BE%8E%E7%AB%B9%E5%87%86%E5%A4%87%E6%8A%A5%E6%A1%88%23&Refer=top)
+     新
+219. [林生斌律师回应筹建基金会](https://s.weibo.com//weibo?q=%23%E6%9E%97%E7%94%9F%E6%96%8C%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E7%AD%B9%E5%BB%BA%E5%9F%BA%E9%87%91%E4%BC%9A%23&Refer=top)
+     新
+220. [林彦俊语音](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%BD%A6%E4%BF%8A%E8%AF%AD%E9%9F%B3%23&Refer=top)
+     新
+221. [刘星的穿衣图鉴](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%98%9F%E7%9A%84%E7%A9%BF%E8%A1%A3%E5%9B%BE%E9%89%B4%23&Refer=top)
+     新
+222. [这些症状显示你得了空调病](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%BA%9B%E7%97%87%E7%8A%B6%E6%98%BE%E7%A4%BA%E4%BD%A0%E5%BE%97%E4%BA%86%E7%A9%BA%E8%B0%83%E7%97%85%23&Refer=top)
+     新
+223. [吴磊侯明昊斗嘴好幼稚](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E4%BE%AF%E6%98%8E%E6%98%8A%E6%96%97%E5%98%B4%E5%A5%BD%E5%B9%BC%E7%A8%9A%23&Refer=top)
+     新
+224. [宁静晒与丁真的合照](https://s.weibo.com//weibo?q=%23%E5%AE%81%E9%9D%99%E6%99%92%E4%B8%8E%E4%B8%81%E7%9C%9F%E7%9A%84%E5%90%88%E7%85%A7%23&Refer=top)
+     新
+225. [把奶奶拍得像p的一样](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E5%A5%B6%E5%A5%B6%E6%8B%8D%E5%BE%97%E5%83%8Fp%E7%9A%84%E4%B8%80%E6%A0%B7%23&Refer=top)
+     新
+226. [没想到作家也不爱上班](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E4%BD%9C%E5%AE%B6%E4%B9%9F%E4%B8%8D%E7%88%B1%E4%B8%8A%E7%8F%AD%23&Refer=top)
+     新
+227. [美黑人女子洗劫式打砸亚裔店铺](https://s.weibo.com//weibo?q=%E7%BE%8E%E9%BB%91%E4%BA%BA%E5%A5%B3%E5%AD%90%E6%B4%97%E5%8A%AB%E5%BC%8F%E6%89%93%E7%A0%B8%E4%BA%9A%E8%A3%94%E5%BA%97%E9%93%BA&Refer=top)
+     新
+228. [江西上饶现龙吸水现象](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%8A%E9%A5%B6%E7%8E%B0%E9%BE%99%E5%90%B8%E6%B0%B4%E7%8E%B0%E8%B1%A1%23&Refer=top)
+     新
+229. [山东大姐用万张煎饼制成锦绣花球](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%A7%90%E7%94%A8%E4%B8%87%E5%BC%A0%E7%85%8E%E9%A5%BC%E5%88%B6%E6%88%90%E9%94%A6%E7%BB%A3%E8%8A%B1%E7%90%83%23&Refer=top)
+     新
+230. [被风吹过的字体](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%A3%8E%E5%90%B9%E8%BF%87%E7%9A%84%E5%AD%97%E4%BD%93%23&Refer=top)
      新
 
 <!-- END -->

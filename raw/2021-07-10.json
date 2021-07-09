@@ -282,22 +282,22 @@
   {
     "url": "/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E4%BB%A5%E4%B8%BA%E6%9D%A8%E8%BF%AA%E5%A6%88%E5%A6%88%E6%98%AF%E6%BC%94%E5%91%98%23&Refer=top",
     "title": "黄子韬以为杨迪妈妈是演员",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%9E%E5%BF%86%E7%88%B6%E4%BA%B2%E7%97%9B%E5%93%AD%23&Refer=top",
     "title": "黄子韬回忆父亲痛哭",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E8%B9%AD%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%90%88%E5%BD%B1%23&Refer=top",
     "title": "彭昱畅蹭奥特曼合影",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B1%AA%E6%B6%B5%E6%A8%A1%E4%BB%BF%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%B2%B3%E5%8D%97%E8%AF%9D%23&Refer=top",
     "title": "汪涵模仿王一博河南话",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88%E7%89%88%E5%B0%8F%E6%AC%A2%E5%96%9C%23&Refer=top",
@@ -328,5 +328,10 @@
     "url": "/weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top",
     "title": "中国医生",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E8%87%B4%E8%BE%9E%E8%B5%B0%E7%BA%A2%E6%95%99%E6%8E%88%E8%AF%B4%E6%88%91%E8%AF%B4%E7%9A%84%E6%98%AF%E6%9C%89%E6%BF%80%E6%83%85%E7%9A%84%E5%BA%9F%E8%AF%9D%23&Refer=top",
+    "title": "致辞走红教授说我说的是有激情的废话",
+    "mark": "新"
   }
 ]

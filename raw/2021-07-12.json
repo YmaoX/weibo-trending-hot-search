@@ -32,7 +32,7 @@
   {
     "url": "/weibo?q=%23%E7%8E%8B%E9%98%B3%E5%AF%B9%E8%BA%AB%E6%9D%90%E7%AE%A1%E7%90%86%E6%9C%89%E5%A4%9A%E4%B8%A5%E8%8B%9B%23&Refer=top",
     "title": "王阳对身材管理有多严苛",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%8B%97%E7%8B%97%E8%AF%AF%E9%A3%9F%E9%87%8E%E7%94%9F%E8%8F%8C%E5%95%83%E7%A9%BA%E6%B0%94%23&Refer=top",
@@ -97,7 +97,7 @@
   {
     "url": "/weibo?q=%23%E5%A4%A7%E9%80%83%E8%84%B14%23&Refer=top",
     "title": "大逃脱4",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%A5%9D%E8%9E%8D%E5%8F%B7%E7%81%AB%E6%98%9F%E8%BD%A6%E8%A1%8C%E9%A9%B6%E8%B6%85400%E7%B1%B3%23&Refer=top",
@@ -137,7 +137,7 @@
   {
     "url": "/weibo?q=%23%E7%99%BD%E7%8E%A6%E5%BD%93%E4%BC%97%E4%BC%91%E5%A6%BB%23&Refer=top",
     "title": "白玦当众休妻",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B4%B1%E6%B5%B7%E5%9D%A0%E6%9C%BA%E7%83%88%E5%A3%AB%E5%84%BF%E5%AD%90%E8%BF%98%E5%9C%A8%E7%AD%89%E7%88%B6%E4%BA%B2%E5%BD%92%E5%AE%B6%23&Refer=top",
@@ -212,7 +212,7 @@
   {
     "url": "/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%9A%84%E6%9A%B4%E9%9B%A8%E5%8E%BB%E5%93%AA%E4%BA%86%23&Refer=top",
     "title": "西安的暴雨去哪了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%89%93%E9%AA%82%E5%BC%8F%E6%95%99%E8%82%B2%E5%AF%B9%E5%AD%A9%E5%AD%90%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top",
@@ -284,5 +284,15 @@
     "url": "/weibo?q=%E5%8D%83%E5%8F%A4%E7%8E%A6%E5%B0%98&Refer=top",
     "title": "千古玦尘",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%E6%A2%A6%E6%AF%94%E4%BC%98%E6%96%AF%E9%BB%91%E5%8C%96%E4%BA%86%20%E5%B1%95%E7%BE%BD&Refer=top",
+    "title": "梦比优斯黑化了 展羽",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%8D%83%E5%8F%A4%E7%8E%A6%E5%B0%98%E9%A2%84%E5%91%8A%23&Refer=top",
+    "title": "千古玦尘预告",
+    "mark": "新"
   }
 ]

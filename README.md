@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 14 2021 06:18:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 14 2021 07:18:06 GMT+0800 (China Standard Time) -->
 
 1. [中国人最难忘的9个奥运瞬间](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%849%E4%B8%AA%E5%A5%A5%E8%BF%90%E7%9E%AC%E9%97%B4%23&Refer=new_time)
    热
 1. [b站崩了](https://s.weibo.com//weibo?q=%23b%E7%AB%99%E5%B4%A9%E4%BA%86%23&Refer=top)
-   新 -> 沸
+   新 -> 沸 -> 热
 1. [港大不再承认学生会在校内的角色](https://s.weibo.com//weibo?q=%23%E6%B8%AF%E5%A4%A7%E4%B8%8D%E5%86%8D%E6%89%BF%E8%AE%A4%E5%AD%A6%E7%94%9F%E4%BC%9A%E5%9C%A8%E6%A0%A1%E5%86%85%E7%9A%84%E8%A7%92%E8%89%B2%23&Refer=top)
    热
 1. [A站也崩了](https://s.weibo.com//weibo?q=A%E7%AB%99%E4%B9%9F%E5%B4%A9%E4%BA%86&Refer=top)
@@ -106,7 +106,7 @@
 1. [未定事件簿](https://s.weibo.com//weibo?q=%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF&Refer=top)
 1. [豆瓣崩了](https://s.weibo.com//weibo?q=%23%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86%23&Refer=top)
 1. [孙怡演的夏颜好刚](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%80%A1%E6%BC%94%E7%9A%84%E5%A4%8F%E9%A2%9C%E5%A5%BD%E5%88%9A%23&Refer=top)
-   新
+   新 ->
 1. [薇娅直播](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E7%9B%B4%E6%92%AD%23&Refer=top)
 1. [北辙南辕](https://s.weibo.com//weibo?q=%E5%8C%97%E8%BE%99%E5%8D%97%E8%BE%95&Refer=top)
 1. [A站也崩了](https://s.weibo.com//weibo?q=%23A%E7%AB%99%E4%B9%9F%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -115,6 +115,8 @@
 1. [说唱听我的第二季定档](https://s.weibo.com//weibo?q=%23%E8%AF%B4%E5%94%B1%E5%90%AC%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%AE%9A%E6%A1%A3%23&Refer=top)
    新
 1. [因为有家](https://s.weibo.com//weibo?q=%E5%9B%A0%E4%B8%BA%E6%9C%89%E5%AE%B6&Refer=top)
+   新
+1. [离家六年阳台长出两棵大树](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E5%AE%B6%E5%85%AD%E5%B9%B4%E9%98%B3%E5%8F%B0%E9%95%BF%E5%87%BA%E4%B8%A4%E6%A3%B5%E5%A4%A7%E6%A0%91%23&Refer=top)
    新
 
 <!-- END -->

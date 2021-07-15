@@ -22,7 +22,7 @@
   {
     "url": "/weibo?q=%23%E5%8E%A6%E9%97%A8%E5%A6%82%E5%AE%B6%E9%85%92%E5%BA%97%E7%BB%8F%E7%90%86%E5%9B%9E%E5%BA%94%E6%88%BF%E9%97%B4%E8%97%8F%E6%91%84%E5%83%8F%E5%A4%B4%23&Refer=top",
     "title": "厦门如家酒店经理回应房间藏摄像头",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%AE%BF%E8%88%8D%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E5%AF%B9%E8%AF%9D%23&Refer=top",
@@ -97,7 +97,7 @@
   {
     "url": "/weibo?q=%23%E5%AE%8B%E8%8C%9C%E8%85%B0%E8%87%80%E7%BA%BF%E6%9D%A1%23&Refer=top",
     "title": "宋茜腰臀线条",
-    "mark": "新 -> "
+    "mark": "新 ->  -> 新"
   },
   {
     "url": "/weibo?q=%23%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E4%BD%99%E9%9C%87%E6%88%96%E6%8C%81%E7%BB%AD%E4%B8%8A%E7%99%BE%E5%B9%B4%23&Refer=top",
@@ -192,7 +192,7 @@
   {
     "url": "/weibo?q=%23%E5%A5%BD%E6%83%B3%E5%B0%9D%E8%AF%95%E4%B8%80%E4%B8%8B%E8%BF%99%E7%A7%8D%E5%8F%91%E8%89%B2%23&Refer=top",
     "title": "好想尝试一下这种发色",
-    "mark": "新 -> "
+    "mark": "新 ->  -> 新"
   },
   {
     "url": "/weibo?q=%23%E6%8A%BD%E8%84%82%E5%8E%BB%E4%B8%96%E7%BD%91%E7%BA%A2%E5%A5%BD%E5%8F%8B%E8%AE%B2%E8%BF%B0%E4%BA%8B%E5%8F%91%E7%BB%8F%E8%BF%87%23&Refer=top",
@@ -274,5 +274,14 @@
     "title": "林允超A连体西装",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E6%B4%9B%E5%9F%BA&Refer=top", "title": "洛基", "mark": "新" }
+  {
+    "url": "/weibo?q=%E6%B4%9B%E5%9F%BA&Refer=top",
+    "title": "洛基",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%8F%8D%E8%AF%88%E9%A2%84%E8%AD%A6%E7%9F%AD%E4%BF%A112381%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%23&Refer=new_time",
+    "title": "反诈预警短信12381正式上线",
+    "mark": "热"
+  }
 ]

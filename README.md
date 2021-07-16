@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 16 2021 19:15:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 16 2021 20:29:21 GMT+0800 (China Standard Time) -->
 
 1. [中国共产党历史展览馆正式开放](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%8E%86%E5%8F%B2%E5%B1%95%E8%A7%88%E9%A6%86%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BE%23&Refer=new_time)
    热
@@ -109,6 +109,7 @@
 1. [1分钟速览中国55项世界遗产](https://s.weibo.com//weibo?q=%231%E5%88%86%E9%92%9F%E9%80%9F%E8%A7%88%E4%B8%AD%E5%9B%BD55%E9%A1%B9%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%23&Refer=top)
 1. [心疼秋瓷炫](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E7%A7%8B%E7%93%B7%E7%82%AB%23&Refer=top)
 1. [中国医生](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top)
+   -> 新
 1. [南京冰雹](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E5%86%B0%E9%9B%B9&Refer=top)
 1. [总台转播车现身东京街头](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%8F%B0%E8%BD%AC%E6%92%AD%E8%BD%A6%E7%8E%B0%E8%BA%AB%E4%B8%9C%E4%BA%AC%E8%A1%97%E5%A4%B4%23&Refer=top)
 1. [海军飞行员第一视角看超美晚霞](https://s.weibo.com//weibo?q=%E6%B5%B7%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8B%E8%B6%85%E7%BE%8E%E6%99%9A%E9%9C%9E&Refer=top)
@@ -193,7 +194,7 @@
 1. [王楚然红毯造型](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&Refer=top)
    新 ->
 1. [致命女人](https://s.weibo.com//weibo?q=%E8%87%B4%E5%91%BD%E5%A5%B3%E4%BA%BA&Refer=top)
-   新 -> -> 新
+   新 -> -> 新 ->
 1. [刘学义采访](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E9%87%87%E8%AE%BF%23&Refer=top)
    新
 1. [比尔无缘东京奥运](https://s.weibo.com//weibo?q=%23%E6%AF%94%E5%B0%94%E6%97%A0%E7%BC%98%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%23&Refer=top)
@@ -263,7 +264,7 @@
 1. [人工智能算法还原烤肉香味](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E8%BF%98%E5%8E%9F%E7%83%A4%E8%82%89%E9%A6%99%E5%91%B3%23&Refer=top)
    新
 1. [金毛Siri主人发声](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%AF%9BSiri%E4%B8%BB%E4%BA%BA%E5%8F%91%E5%A3%B0%23&Refer=top)
-   新 -> 沸 -> 热
+   新 -> 沸 -> 热 ->
 1. [河南内乡不接种疫苗将影响入学](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%86%85%E4%B9%A1%E4%B8%8D%E6%8E%A5%E7%A7%8D%E7%96%AB%E8%8B%97%E5%B0%86%E5%BD%B1%E5%93%8D%E5%85%A5%E5%AD%A6%23&Refer=top)
    新
 1. [女孩牵导盲犬上地铁乘客帮扶让座](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%89%B5%E5%AF%BC%E7%9B%B2%E7%8A%AC%E4%B8%8A%E5%9C%B0%E9%93%81%E4%B9%98%E5%AE%A2%E5%B8%AE%E6%89%B6%E8%AE%A9%E5%BA%A7%23&Refer=top)
@@ -344,7 +345,7 @@
    新 ->
 1. [工信部谈滴滴出行APP下架](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E8%B0%88%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8CAPP%E4%B8%8B%E6%9E%B6%23&Refer=top)
 1. [俞灏明订海景房没有海景](https://s.weibo.com//weibo?q=%23%E4%BF%9E%E7%81%8F%E6%98%8E%E8%AE%A2%E6%B5%B7%E6%99%AF%E6%88%BF%E6%B2%A1%E6%9C%89%E6%B5%B7%E6%99%AF%23&Refer=top)
-   -> 热
+   -> 热 ->
 1. [南非](https://s.weibo.com//weibo?q=%23%E5%8D%97%E9%9D%9E%23&Refer=top) 新 ->
 1. [英雄联盟手游](https://s.weibo.com//weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%89%8B%E6%B8%B8&Refer=top)
    新 ->
@@ -478,27 +479,27 @@
 1. [当猫咪独自看恐怖片](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%8C%AB%E5%92%AA%E7%8B%AC%E8%87%AA%E7%9C%8B%E6%81%90%E6%80%96%E7%89%87%23&Refer=top)
    新 ->
 1. [雷军捐出6.16亿股小米股份](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E5%86%9B%E6%8D%90%E5%87%BA6.16%E4%BA%BF%E8%82%A1%E5%B0%8F%E7%B1%B3%E8%82%A1%E4%BB%BD%23&Refer=top)
-   新
+   新 ->
 1. [网信办等七部门进驻滴滴](https://s.weibo.com//weibo?q=%23%E7%BD%91%E4%BF%A1%E5%8A%9E%E7%AD%89%E4%B8%83%E9%83%A8%E9%97%A8%E8%BF%9B%E9%A9%BB%E6%BB%B4%E6%BB%B4%23&Refer=top)
 1. [都美竹
    我报警了但目前并没有起诉](https://s.weibo.com//weibo?q=%E9%83%BD%E7%BE%8E%E7%AB%B9%20%E6%88%91%E6%8A%A5%E8%AD%A6%E4%BA%86%E4%BD%86%E7%9B%AE%E5%89%8D%E5%B9%B6%E6%B2%A1%E6%9C%89%E8%B5%B7%E8%AF%89&Refer=top)
-   新
+   新 -> 热
 1. [6毛钱就能买到产妇真实信息](https://s.weibo.com//weibo?q=%236%E6%AF%9B%E9%92%B1%E5%B0%B1%E8%83%BD%E4%B9%B0%E5%88%B0%E4%BA%A7%E5%A6%87%E7%9C%9F%E5%AE%9E%E4%BF%A1%E6%81%AF%23&Refer=top)
-   新
+   新 ->
 1. [香港警方到港大学生会搜证](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E5%88%B0%E6%B8%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BC%9A%E6%90%9C%E8%AF%81%23&Refer=top)
    新
 1. [华晨宇整容](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%95%B4%E5%AE%B9%23&Refer=top)
    热
 1. [发发爱我2021称张碧晨插足](https://s.weibo.com//weibo?q=%23%E5%8F%91%E5%8F%91%E7%88%B1%E6%88%912021%E7%A7%B0%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%8F%92%E8%B6%B3%23&Refer=top)
-   新
+   新 ->
 1. [14岁男孩报警称父亲非法雇佣童工](https://s.weibo.com//weibo?q=14%E5%B2%81%E7%94%B7%E5%AD%A9%E6%8A%A5%E8%AD%A6%E7%A7%B0%E7%88%B6%E4%BA%B2%E9%9D%9E%E6%B3%95%E9%9B%87%E4%BD%A3%E7%AB%A5%E5%B7%A5&Refer=top)
    新
 1. [赵立坚说太阳从西边出来也不信美国鬼话](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E5%A4%AA%E9%98%B3%E4%BB%8E%E8%A5%BF%E8%BE%B9%E5%87%BA%E6%9D%A5%E4%B9%9F%E4%B8%8D%E4%BF%A1%E7%BE%8E%E5%9B%BD%E9%AC%BC%E8%AF%9D%23&Refer=top)
-   新
+   新 ->
 1. [杨千嬅泪崩](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%8D%83%E5%AC%85%E6%B3%AA%E5%B4%A9%23&Refer=top)
-   新
+   新 ->
 1. [我国超50%成年居民超重肥胖](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%B6%8550%25%E6%88%90%E5%B9%B4%E5%B1%85%E6%B0%91%E8%B6%85%E9%87%8D%E8%82%A5%E8%83%96%23&Refer=top)
-   新
+   新 ->
 1. [12岁男童骑车载人闯红灯被撞飞](https://s.weibo.com//weibo?q=%2312%E5%B2%81%E7%94%B7%E7%AB%A5%E9%AA%91%E8%BD%A6%E8%BD%BD%E4%BA%BA%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%92%9E%E9%A3%9E%23&Refer=top)
 1. [赵立坚说美国穆斯林遭遇是一面照妖镜](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E7%BE%8E%E5%9B%BD%E7%A9%86%E6%96%AF%E6%9E%97%E9%81%AD%E9%81%87%E6%98%AF%E4%B8%80%E9%9D%A2%E7%85%A7%E5%A6%96%E9%95%9C%23&Refer=top)
    新
@@ -511,6 +512,59 @@
 1. [烤薯塔泥](https://s.weibo.com//weibo?q=%23%E7%83%A4%E8%96%AF%E5%A1%94%E6%B3%A5%23&Refer=top)
    新
 1. [赵立坚说加拿大种族问题一锤又一锤](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%A7%8D%E6%97%8F%E9%97%AE%E9%A2%98%E4%B8%80%E9%94%A4%E5%8F%88%E4%B8%80%E9%94%A4%23&Refer=top)
+1. [华晨宇方律师声明](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%96%B9%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%23&Refer=top)
+   新
+1. [杭州出现敲门杀人案系谣言](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%87%BA%E7%8E%B0%E6%95%B2%E9%97%A8%E6%9D%80%E4%BA%BA%E6%A1%88%E7%B3%BB%E8%B0%A3%E8%A8%80%23&Refer=top)
+   新
+1. [张碧晨方律师声明](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%23&Refer=top)
+   新
+1. [郭美美被上海铁检院提起公诉](https://s.weibo.com//weibo?q=%23%E9%83%AD%E7%BE%8E%E7%BE%8E%E8%A2%AB%E4%B8%8A%E6%B5%B7%E9%93%81%E6%A3%80%E9%99%A2%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89%23&Refer=top)
+   新
+1. [手机充电一夜不拔对电池有坏处吗](https://s.weibo.com//weibo?q=%23%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5%E4%B8%80%E5%A4%9C%E4%B8%8D%E6%8B%94%E5%AF%B9%E7%94%B5%E6%B1%A0%E6%9C%89%E5%9D%8F%E5%A4%84%E5%90%97%23&Refer=top)
+   新
+1. [重庆坠亡幼童父亲曾网上查询幼儿坠亡新闻](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E5%9D%A0%E4%BA%A1%E5%B9%BC%E7%AB%A5%E7%88%B6%E4%BA%B2%E6%9B%BE%E7%BD%91%E4%B8%8A%E6%9F%A5%E8%AF%A2%E5%B9%BC%E5%84%BF%E5%9D%A0%E4%BA%A1%E6%96%B0%E9%97%BB%23&Refer=top)
+   新
+1. [李沁
+   要拿来的不是爱情是自我](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%B2%81%20%E8%A6%81%E6%8B%BF%E6%9D%A5%E7%9A%84%E4%B8%8D%E6%98%AF%E7%88%B1%E6%83%85%E6%98%AF%E8%87%AA%E6%88%91&Refer=top)
+   新
+1. [河南最帅毕业照](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9C%80%E5%B8%85%E6%AF%95%E4%B8%9A%E7%85%A7%23&Refer=top)
+   新
+1. [双汇创始人万隆回应父子冲突](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E6%B1%87%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%87%E9%9A%86%E5%9B%9E%E5%BA%94%E7%88%B6%E5%AD%90%E5%86%B2%E7%AA%81%23&Refer=top)
+   新
+1. [宋妍霏断舍离的样子好真实](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E6%96%AD%E8%88%8D%E7%A6%BB%E7%9A%84%E6%A0%B7%E5%AD%90%E5%A5%BD%E7%9C%9F%E5%AE%9E%23&Refer=top)
+   新
+1. [两个小孩五楼沿窗蹦跳玩耍](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%B8%AA%E5%B0%8F%E5%AD%A9%E4%BA%94%E6%A5%BC%E6%B2%BF%E7%AA%97%E8%B9%A6%E8%B7%B3%E7%8E%A9%E8%80%8D%23&Refer=top)
+   新
+1. [南京暴雨天被PS成科幻战场](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E5%A4%A9%E8%A2%ABPS%E6%88%90%E7%A7%91%E5%B9%BB%E6%88%98%E5%9C%BA%23&Refer=top)
+   新
+1. [冰葡萄啵啵厚乳茶](https://s.weibo.com//weibo?q=%23%E5%86%B0%E8%91%A1%E8%90%84%E5%95%B5%E5%95%B5%E5%8E%9A%E4%B9%B3%E8%8C%B6%23&Refer=top)
+   新
+1. [14岁男孩报警称父亲非法雇佣童工](https://s.weibo.com//weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E6%8A%A5%E8%AD%A6%E7%A7%B0%E7%88%B6%E4%BA%B2%E9%9D%9E%E6%B3%95%E9%9B%87%E4%BD%A3%E7%AB%A5%E5%B7%A5%23&Refer=top)
+1. [广州暴雨](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8&Refer=top)
+   新
+1. [乌干达一名奥运选手在大阪失踪](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%B9%B2%E8%BE%BE%E4%B8%80%E5%90%8D%E5%A5%A5%E8%BF%90%E9%80%89%E6%89%8B%E5%9C%A8%E5%A4%A7%E9%98%AA%E5%A4%B1%E8%B8%AA&Refer=top)
+   新
+1. [雪糕多少钱一支合适](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E7%B3%95%E5%A4%9A%E5%B0%91%E9%92%B1%E4%B8%80%E6%94%AF%E5%90%88%E9%80%82%23&Refer=top)
+   新
+1. [男子胃癌晚期病房跳芭蕾逗病友](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E7%97%85%E6%88%BF%E8%B7%B3%E8%8A%AD%E8%95%BE%E9%80%97%E7%97%85%E5%8F%8B%23&Refer=top)
+   新
+1. [新冠灭活疫苗获批在3至17岁人群使用](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%81%AD%E6%B4%BB%E7%96%AB%E8%8B%97%E8%8E%B7%E6%89%B9%E5%9C%A83%E8%87%B317%E5%B2%81%E4%BA%BA%E7%BE%A4%E4%BD%BF%E7%94%A8%23&Refer=top)
+   新
+1. [交警晚上10点贴单被指责过度执法](https://s.weibo.com//weibo?q=%23%E4%BA%A4%E8%AD%A6%E6%99%9A%E4%B8%8A10%E7%82%B9%E8%B4%B4%E5%8D%95%E8%A2%AB%E6%8C%87%E8%B4%A3%E8%BF%87%E5%BA%A6%E6%89%A7%E6%B3%95%23&Refer=top)
+   新
+1. [iG JDG](https://s.weibo.com//weibo?q=%23iG%20JDG%23&Refer=top) 新
+1. [晕车人的噩梦](https://s.weibo.com//weibo?q=%23%E6%99%95%E8%BD%A6%E4%BA%BA%E7%9A%84%E5%99%A9%E6%A2%A6%23&Refer=top)
+   新
+1. [真实对比坐中日高铁的差异](https://s.weibo.com//weibo?q=%E7%9C%9F%E5%AE%9E%E5%AF%B9%E6%AF%94%E5%9D%90%E4%B8%AD%E6%97%A5%E9%AB%98%E9%93%81%E7%9A%84%E5%B7%AE%E5%BC%82&Refer=top)
+   新
+1. [独居女性的安全神器](https://s.weibo.com//weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E6%80%A7%E7%9A%84%E5%AE%89%E5%85%A8%E7%A5%9E%E5%99%A8%23&Refer=top)
+   新
+1. [原来塑料刀还有这用处](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A1%91%E6%96%99%E5%88%80%E8%BF%98%E6%9C%89%E8%BF%99%E7%94%A8%E5%A4%84%23&Refer=top)
+   新
+1. [万洪建自述双汇宫斗内幕](https://s.weibo.com//weibo?q=%23%E4%B8%87%E6%B4%AA%E5%BB%BA%E8%87%AA%E8%BF%B0%E5%8F%8C%E6%B1%87%E5%AE%AB%E6%96%97%E5%86%85%E5%B9%95%23&Refer=top)
+   新
+1. [BO或将重回FPX](https://s.weibo.com//weibo?q=%23BO%E6%88%96%E5%B0%86%E9%87%8D%E5%9B%9EFPX%23&Refer=top)
+   新
 
 <!-- END -->
 

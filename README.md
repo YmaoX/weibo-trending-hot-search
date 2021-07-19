@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 20 2021 06:18:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 20 2021 07:17:55 GMT+0800 (China Standard Time) -->
 
 1. [老百姓的幸福就是共产党的事业](https://s.weibo.com//weibo?q=%23%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%B0%B1%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E4%BA%8B%E4%B8%9A%23&Refer=new_time)
    热
@@ -29,7 +29,7 @@
 1. [我是真的爱你](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%23&Refer=top)
    沸
 1. [林更新与美女一同出游](https://s.weibo.com//weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E4%B8%8E%E7%BE%8E%E5%A5%B3%E4%B8%80%E5%90%8C%E5%87%BA%E6%B8%B8%23&Refer=top)
-   沸 -> 热
+   沸 -> 热 ->
 1. [中国演出行业协会发声](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%BC%94%E5%87%BA%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E5%8F%91%E5%A3%B0%23&Refer=top)
    沸
 1. [全国网友已为烧伤父女捐款200万](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%B7%B2%E4%B8%BA%E7%83%A7%E4%BC%A4%E7%88%B6%E5%A5%B3%E6%8D%90%E6%AC%BE200%E4%B8%87%23&Refer=top)
@@ -92,30 +92,38 @@
 1. [歼5首飞成功65周年](https://s.weibo.com//weibo?q=%23%E6%AD%BC5%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F65%E5%91%A8%E5%B9%B4%23&Refer=new_time)
    热
 1. [刘丹称杨幂小糯米因疫情一年没见](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%B8%B9%E7%A7%B0%E6%9D%A8%E5%B9%82%E5%B0%8F%E7%B3%AF%E7%B1%B3%E5%9B%A0%E7%96%AB%E6%83%85%E4%B8%80%E5%B9%B4%E6%B2%A1%E8%A7%81%23&Refer=top)
-   新 -> 沸 ->
+   新 -> 沸 -> -> 热
 1. [倪妮邓伦搭档新剧](https://s.weibo.com//weibo?q=%23%E5%80%AA%E5%A6%AE%E9%82%93%E4%BC%A6%E6%90%AD%E6%A1%A3%E6%96%B0%E5%89%A7%23&Refer=top)
    新 ->
 1. [受伤小鸟独自走进宠物医院求医治](https://s.weibo.com//weibo?q=%23%E5%8F%97%E4%BC%A4%E5%B0%8F%E9%B8%9F%E7%8B%AC%E8%87%AA%E8%B5%B0%E8%BF%9B%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2%E6%B1%82%E5%8C%BB%E6%B2%BB%23&Refer=top)
    新 ->
 1. [奥运会](https://s.weibo.com//weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
 1. [阿娇 吃瓜吃得好累](https://s.weibo.com//weibo?q=%E9%98%BF%E5%A8%87%20%E5%90%83%E7%93%9C%E5%90%83%E5%BE%97%E5%A5%BD%E7%B4%AF&Refer=top)
-   新 -> 热 ->
+   新 -> 热 -> -> 热
 1. [我是真的爱你今日开播](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&Refer=top)
    新 ->
 1. [医生索要红包被记过并停职半年](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E7%B4%A2%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E8%AE%B0%E8%BF%87%E5%B9%B6%E5%81%9C%E8%81%8C%E5%8D%8A%E5%B9%B4%23&Refer=top)
 1. [许昕吐槽球馆场地跑不开](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%90%90%E6%A7%BD%E7%90%83%E9%A6%86%E5%9C%BA%E5%9C%B0%E8%B7%91%E4%B8%8D%E5%BC%80%23&Refer=top)
 1. [柯雷直播道歉](https://s.weibo.com//weibo?q=%23%E6%9F%AF%E9%9B%B7%E7%9B%B4%E6%92%AD%E9%81%93%E6%AD%89%23&Refer=top)
-   新
+   新 ->
 1. [杭州电动车自燃初查系锂电池爆炸](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%87%AA%E7%87%83%E5%88%9D%E6%9F%A5%E7%B3%BB%E9%94%82%E7%94%B5%E6%B1%A0%E7%88%86%E7%82%B8%23&Refer=top)
 1. [货车司机高速犯困后车鸣笛护送40里](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%AB%98%E9%80%9F%E7%8A%AF%E5%9B%B0%E5%90%8E%E8%BD%A6%E9%B8%A3%E7%AC%9B%E6%8A%A4%E9%80%8140%E9%87%8C%23&Refer=top)
-   新
+   新 ->
 1. [吴亦凡回应](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%9B%9E%E5%BA%94%23&Refer=top)
 1. [戴小雨和未婚夫复合](https://s.weibo.com//weibo?q=%23%E6%88%B4%E5%B0%8F%E9%9B%A8%E5%92%8C%E6%9C%AA%E5%A9%9A%E5%A4%AB%E5%A4%8D%E5%90%88%23&Refer=top)
    新
 1. [吴亦凡商业版图仅剩1家公司](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE%E4%BB%85%E5%89%A91%E5%AE%B6%E5%85%AC%E5%8F%B8%23&Refer=top)
-   新
+   新 -> 热
 1. [中国女排等抵达东京](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E7%AD%89%E6%8A%B5%E8%BE%BE%E4%B8%9C%E4%BA%AC%23&Refer=top)
 1. [珠海隧道透水事故现场发现2名遇难者](https://s.weibo.com//weibo?q=%23%E7%8F%A0%E6%B5%B7%E9%9A%A7%E9%81%93%E9%80%8F%E6%B0%B4%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%8E%B02%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%23&Refer=top)
+1. [宝格丽终止与吴亦凡合作关系](https://s.weibo.com//weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%90%B4%E4%BA%A6%E5%87%A1%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%23&Refer=top)
+   新
+1. [超市货架上的西瓜突然自己吐了](https://s.weibo.com//weibo?q=%23%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%E4%B8%8A%E7%9A%84%E8%A5%BF%E7%93%9C%E7%AA%81%E7%84%B6%E8%87%AA%E5%B7%B1%E5%90%90%E4%BA%86%23&Refer=top)
+   新
+1. [宁夏地震](https://s.weibo.com//weibo?q=%E5%AE%81%E5%A4%8F%E5%9C%B0%E9%9C%87&Refer=top)
+   新
+1. [中国医生](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F&Refer=top)
+   新
 
 <!-- END -->
 

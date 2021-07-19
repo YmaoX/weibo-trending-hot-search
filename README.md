@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 20 2021 01:23:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 20 2021 02:23:35 GMT+0800 (China Standard Time) -->
 
 1. [老百姓的幸福就是共产党的事业](https://s.weibo.com//weibo?q=%23%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%B0%B1%E6%98%AF%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E4%BA%8B%E4%B8%9A%23&Refer=new_time)
    热
@@ -53,7 +53,7 @@
 1. [乐华全家福](https://s.weibo.com//weibo?q=%23%E4%B9%90%E5%8D%8E%E5%85%A8%E5%AE%B6%E7%A6%8F%23&Refer=top)
 1. [美股下跌](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%B7%8C&Refer=top)
 1. [是少女Kiki呀 吴亦凡](https://s.weibo.com//weibo?q=%E6%98%AF%E5%B0%91%E5%A5%B3Kiki%E5%91%80%20%E5%90%B4%E4%BA%A6%E5%87%A1&Refer=top)
-   新
+   新 -> 热
 1. [连线都美竹亲属和律师](https://s.weibo.com//weibo?q=%23%E8%BF%9E%E7%BA%BF%E9%83%BD%E7%BE%8E%E7%AB%B9%E4%BA%B2%E5%B1%9E%E5%92%8C%E5%BE%8B%E5%B8%88%23&Refer=top)
    热
 1. [第一套人民币长什么样子](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E5%A5%97%E4%BA%BA%E6%B0%91%E5%B8%81%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%23&Refer=top)
@@ -92,12 +92,18 @@
 1. [歼5首飞成功65周年](https://s.weibo.com//weibo?q=%23%E6%AD%BC5%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F65%E5%91%A8%E5%B9%B4%23&Refer=new_time)
    热
 1. [刘丹称杨幂小糯米因疫情一年没见](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%B8%B9%E7%A7%B0%E6%9D%A8%E5%B9%82%E5%B0%8F%E7%B3%AF%E7%B1%B3%E5%9B%A0%E7%96%AB%E6%83%85%E4%B8%80%E5%B9%B4%E6%B2%A1%E8%A7%81%23&Refer=top)
-   新
+   新 -> 沸
 1. [倪妮邓伦搭档新剧](https://s.weibo.com//weibo?q=%23%E5%80%AA%E5%A6%AE%E9%82%93%E4%BC%A6%E6%90%AD%E6%A1%A3%E6%96%B0%E5%89%A7%23&Refer=top)
    新
 1. [受伤小鸟独自走进宠物医院求医治](https://s.weibo.com//weibo?q=%23%E5%8F%97%E4%BC%A4%E5%B0%8F%E9%B8%9F%E7%8B%AC%E8%87%AA%E8%B5%B0%E8%BF%9B%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2%E6%B1%82%E5%8C%BB%E6%B2%BB%23&Refer=top)
    新
 1. [奥运会](https://s.weibo.com//weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
+1. [阿娇 吃瓜吃得好累](https://s.weibo.com//weibo?q=%E9%98%BF%E5%A8%87%20%E5%90%83%E7%93%9C%E5%90%83%E5%BE%97%E5%A5%BD%E7%B4%AF&Refer=top)
+   新
+1. [我是真的爱你今日开播](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&Refer=top)
+   新
+1. [医生索要红包被记过并停职半年](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E7%B4%A2%E8%A6%81%E7%BA%A2%E5%8C%85%E8%A2%AB%E8%AE%B0%E8%BF%87%E5%B9%B6%E5%81%9C%E8%81%8C%E5%8D%8A%E5%B9%B4%23&Refer=top)
+1. [许昕吐槽球馆场地跑不开](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%90%90%E6%A7%BD%E7%90%83%E9%A6%86%E5%9C%BA%E5%9C%B0%E8%B7%91%E4%B8%8D%E5%BC%80%23&Refer=top)
 
 <!-- END -->
 

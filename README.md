@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 21 2021 06:18:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 21 2021 07:17:57 GMT+0800 (China Standard Time) -->
 
 1. [河南暴雨救援](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E6%95%91%E6%8F%B4%23&Refer=new_time)
    热
@@ -106,13 +106,13 @@
 1. [郑州所有酒店全部降价](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%89%80%E6%9C%89%E9%85%92%E5%BA%97%E5%85%A8%E9%83%A8%E9%99%8D%E4%BB%B7%23&Refer=top)
    新 -> 沸
 1. [LV总部回应邮件](https://s.weibo.com//weibo?q=%23LV%E6%80%BB%E9%83%A8%E5%9B%9E%E5%BA%94%E9%82%AE%E4%BB%B6%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [南京疫情](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E7%96%AB%E6%83%85%23&Refer=top)
    沸
 1. [郑州泄洪](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E6%B3%84%E6%B4%AA&Refer=top)
    新 -> -> 沸
 1. [河南挺住](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%8C%BA%E4%BD%8F%23&Refer=top)
-   新 -> 沸
+   新 -> 沸 ->
 1. [第83集团军星夜驰援爆破分洪](https://s.weibo.com//weibo?q=%23%E7%AC%AC83%E9%9B%86%E5%9B%A2%E5%86%9B%E6%98%9F%E5%A4%9C%E9%A9%B0%E6%8F%B4%E7%88%86%E7%A0%B4%E5%88%86%E6%B4%AA%23&Refer=top)
    新 ->
 1. [K31乘客称在火车上滞留超24小时](https://s.weibo.com//weibo?q=%23K31%E4%B9%98%E5%AE%A2%E7%A7%B0%E5%9C%A8%E7%81%AB%E8%BD%A6%E4%B8%8A%E6%BB%9E%E7%95%99%E8%B6%8524%E5%B0%8F%E6%97%B6%23&Refer=top)
@@ -132,7 +132,7 @@
 1. [河南部分河流发生超警及超历史洪水](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E9%83%A8%E5%88%86%E6%B2%B3%E6%B5%81%E5%8F%91%E7%94%9F%E8%B6%85%E8%AD%A6%E5%8F%8A%E8%B6%85%E5%8E%86%E5%8F%B2%E6%B4%AA%E6%B0%B4%23&Refer=top)
    新
 1. [杨紫发文感慨和微博度过的十二年](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%91%E6%96%87%E6%84%9F%E6%85%A8%E5%92%8C%E5%BE%AE%E5%8D%9A%E5%BA%A6%E8%BF%87%E7%9A%84%E5%8D%81%E4%BA%8C%E5%B9%B4%23&Refer=top)
-   新 ->
+   新 -> -> 热
 1. [37岁的杨丞琳学院风照](https://s.weibo.com//weibo?q=%2337%E5%B2%81%E7%9A%84%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%AD%A6%E9%99%A2%E9%A3%8E%E7%85%A7%23&Refer=top)
    新 ->
 1. [外交部回应台湾将在立陶宛设代表处](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E5%B0%86%E5%9C%A8%E7%AB%8B%E9%99%B6%E5%AE%9B%E8%AE%BE%E4%BB%A3%E8%A1%A8%E5%A4%84%23&Refer=top)
@@ -147,6 +147,28 @@
 1. [郑州泄洪](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%B3%84%E6%B4%AA%23&Refer=top)
    沸
 1. [哈利波特系列中有哪些细思极恐的细节](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E7%B3%BB%E5%88%97%E4%B8%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E7%BB%86%E6%80%9D%E6%9E%81%E6%81%90%E7%9A%84%E7%BB%86%E8%8A%82%23&Refer=top)
+   新
+1. [1.8亿外出劳动力月均收入4290元](https://s.weibo.com//weibo?q=1.8%E4%BA%BF%E5%A4%96%E5%87%BA%E5%8A%B3%E5%8A%A8%E5%8A%9B%E6%9C%88%E5%9D%87%E6%94%B6%E5%85%A54290%E5%85%83&Refer=top)
+   新
+1. [杨紫学生头造型](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%80%A0%E5%9E%8B%23&Refer=top)
+   新
+1. [李慧珍当杨九郎的面报菜名整段垮掉](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%85%A7%E7%8F%8D%E5%BD%93%E6%9D%A8%E4%B9%9D%E9%83%8E%E7%9A%84%E9%9D%A2%E6%8A%A5%E8%8F%9C%E5%90%8D%E6%95%B4%E6%AE%B5%E5%9E%AE%E6%8E%89%23&Refer=top)
+   新
+1. [国家级抗洪抢险应急专业部队紧急出动](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%8A%97%E6%B4%AA%E6%8A%A2%E9%99%A9%E5%BA%94%E6%80%A5%E4%B8%93%E4%B8%9A%E9%83%A8%E9%98%9F%E7%B4%A7%E6%80%A5%E5%87%BA%E5%8A%A8%23&Refer=top)
+   新
+1. [暴雨自救指南](https://s.weibo.com//weibo?q=%23%E6%9A%B4%E9%9B%A8%E8%87%AA%E6%95%91%E6%8C%87%E5%8D%97%23&Refer=top)
+   新
+1. [洪灾造成郑州市区12人死亡](https://s.weibo.com//weibo?q=%23%E6%B4%AA%E7%81%BE%E9%80%A0%E6%88%90%E9%83%91%E5%B7%9E%E5%B8%82%E5%8C%BA12%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top)
+   新
+1. [郑州科技馆停车场开放](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E7%A7%91%E6%8A%80%E9%A6%86%E5%81%9C%E8%BD%A6%E5%9C%BA%E5%BC%80%E6%94%BE%23&Refer=top)
+   新
+1. [此刻郑州](https://s.weibo.com//weibo?q=%23%E6%AD%A4%E5%88%BB%E9%83%91%E5%B7%9E%23&Refer=top)
+   新
+1. [河南防汛应急响应升至Ⅰ级](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E9%98%B2%E6%B1%9B%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E5%8D%87%E8%87%B3%E2%85%A0%E7%BA%A7%23&Refer=top)
+   新
+1. [河南暴雨紧急求助通道](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E7%B4%A7%E6%80%A5%E6%B1%82%E5%8A%A9%E9%80%9A%E9%81%93%23&Refer=top)
+   新
+1. [气象局长被大水冲走后获救](https://s.weibo.com//weibo?q=%E6%B0%94%E8%B1%A1%E5%B1%80%E9%95%BF%E8%A2%AB%E5%A4%A7%E6%B0%B4%E5%86%B2%E8%B5%B0%E5%90%8E%E8%8E%B7%E6%95%91&Refer=top)
    新
 
 <!-- END -->

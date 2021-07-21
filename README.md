@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 22 2021 01:25:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 22 2021 02:22:42 GMT+0800 (China Standard Time) -->
 
 1. [河南加油河南挺住](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8A%A0%E6%B2%B9%E6%B2%B3%E5%8D%97%E6%8C%BA%E4%BD%8F%23&Refer=new_time)
    热
@@ -38,10 +38,11 @@
 1. [赵立坚5连问回怼美方说谎](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A5%E8%BF%9E%E9%97%AE%E5%9B%9E%E6%80%BC%E7%BE%8E%E6%96%B9%E8%AF%B4%E8%B0%8E%23&Refer=top)
    新
 1. [新乡市2小时降雨量超过郑州](https://s.weibo.com//weibo?q=%23%E6%96%B0%E4%B9%A1%E5%B8%822%E5%B0%8F%E6%97%B6%E9%99%8D%E9%9B%A8%E9%87%8F%E8%B6%85%E8%BF%87%E9%83%91%E5%B7%9E%23&Refer=top)
-   新 ->
+   新 -> -> 沸
 1. [鹤壁暴雨](https://s.weibo.com//weibo?q=%23%E9%B9%A4%E5%A3%81%E6%9A%B4%E9%9B%A8%23&Refer=top)
+   -> 沸
 1. [王思聪 朋友圈](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%80%9D%E8%81%AA%20%E6%9C%8B%E5%8F%8B%E5%9C%88&Refer=top)
-   热 ->
+   热 -> -> 热
 1. [村民下饺子招待K31列车滞留乘客](https://s.weibo.com//weibo?q=%23%E6%9D%91%E6%B0%91%E4%B8%8B%E9%A5%BA%E5%AD%90%E6%8B%9B%E5%BE%85K31%E5%88%97%E8%BD%A6%E6%BB%9E%E7%95%99%E4%B9%98%E5%AE%A2%23&Refer=top)
 1. [保定龙卷风致2死](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E5%AE%9A%E9%BE%99%E5%8D%B7%E9%A3%8E%E8%87%B42%E6%AD%BB%23&Refer=top)
 1. [晋江崩了](https://s.weibo.com//weibo?q=%23%E6%99%8B%E6%B1%9F%E5%B4%A9%E4%BA%86%23&Refer=top)
@@ -50,7 +51,7 @@
 1. [成都暴雨](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8%23&Refer=top)
    热
 1. [昨晚的微博评论太好哭了](https://s.weibo.com//weibo?q=%23%E6%98%A8%E6%99%9A%E7%9A%84%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23&Refer=top)
-   热
+   热 ->
 1. [未来3小时新乡仍有暴雨](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A53%E5%B0%8F%E6%97%B6%E6%96%B0%E4%B9%A1%E4%BB%8D%E6%9C%89%E6%9A%B4%E9%9B%A8%23&Refer=top)
    新 ->
 1. [合肥理发师放下剪刀驰援河南](https://s.weibo.com//weibo?q=%23%E5%90%88%E8%82%A5%E7%90%86%E5%8F%91%E5%B8%88%E6%94%BE%E4%B8%8B%E5%89%AA%E5%88%80%E9%A9%B0%E6%8F%B4%E6%B2%B3%E5%8D%97%23&Refer=top)
@@ -95,6 +96,7 @@
 1. [石家庄市一地积水严重已断交](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B8%82%E4%B8%80%E5%9C%B0%E7%A7%AF%E6%B0%B4%E4%B8%A5%E9%87%8D%E5%B7%B2%E6%96%AD%E4%BA%A4%23&Refer=top)
 1. [古董局中局3开播](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E8%91%A3%E5%B1%80%E4%B8%AD%E5%B1%803%E5%BC%80%E6%92%AD%23&Refer=top)
    新
+1. [河北暴雨](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%9A%B4%E9%9B%A8%23&Refer=top)
 
 <!-- END -->
 

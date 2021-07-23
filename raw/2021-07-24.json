@@ -372,7 +372,7 @@
   {
     "url": "/weibo?q=%23%E6%98%8E%E6%98%9F%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E6%8E%A5%E5%9C%B0%E6%B0%94%23&Refer=top",
     "title": "明星可以有多接地气",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%8B%97%E7%8B%97%E8%BA%B2%E5%9C%A8%E6%A0%91%E5%90%8E%E8%89%B0%E9%9A%BE%E6%B1%82%E7%94%9F%23&Refer=top",
@@ -392,6 +392,11 @@
   {
     "url": "/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top",
     "title": "四川泸县4.1级地震",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%23&Refer=top",
+    "title": "台风烟花",
     "mark": ""
   }
 ]

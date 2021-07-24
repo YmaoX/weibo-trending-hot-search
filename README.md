@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 25 2021 02:22:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 25 2021 03:13:56 GMT+0800 (China Standard Time) -->
 
 1. [我比任何时候更懂你](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%AF%94%E4%BB%BB%E4%BD%95%E6%97%B6%E5%80%99%E6%9B%B4%E6%87%82%E4%BD%A0%23&Refer=new_time)
    热
@@ -22,7 +22,7 @@
 1. [六公主播夺冠](https://s.weibo.com//weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%92%AD%E5%A4%BA%E5%86%A0%23&Refer=top)
    新 ->
 1. [向佐怒怼CNN没有道德底线](https://s.weibo.com//weibo?q=%23%E5%90%91%E4%BD%90%E6%80%92%E6%80%BCCNN%E6%B2%A1%E6%9C%89%E9%81%93%E5%BE%B7%E5%BA%95%E7%BA%BF%23&Refer=top)
-   新 ->
+   新 -> -> 热
 1. [张彬彬感叹央视的解说好燃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%84%9F%E5%8F%B9%E5%A4%AE%E8%A7%86%E7%9A%84%E8%A7%A3%E8%AF%B4%E5%A5%BD%E7%87%83%23&Refer=top)
    新 ->
 1. [应采儿病房内追奥运会](https://s.weibo.com//weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E7%97%85%E6%88%BF%E5%86%85%E8%BF%BD%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top)
@@ -43,7 +43,7 @@
    热 -> 沸
 1. [东京奥运会](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
 1. [北野武差评东京奥运开幕式](https://s.weibo.com//weibo?q=%23%E5%8C%97%E9%87%8E%E6%AD%A6%E5%B7%AE%E8%AF%84%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23&Refer=top)
-   新 ->
+   新 -> -> 沸
 1. [10分钟预判他救了无数家庭](https://s.weibo.com//weibo?q=%2310%E5%88%86%E9%92%9F%E9%A2%84%E5%88%A4%E4%BB%96%E6%95%91%E4%BA%86%E6%97%A0%E6%95%B0%E5%AE%B6%E5%BA%AD%23&Refer=top)
 1. [河南文物局局长哭了](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%87%E7%89%A9%E5%B1%80%E5%B1%80%E9%95%BF%E5%93%AD%E4%BA%86%23&Refer=top)
    热 ->
@@ -114,7 +114,7 @@
 1. [王嘉尔为孙一文骄傲](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%BA%E5%AD%99%E4%B8%80%E6%96%87%E9%AA%84%E5%82%B2%23&Refer=top)
    新
 1. [定制手机壳千万别发表情包](https://s.weibo.com//weibo?q=%23%E5%AE%9A%E5%88%B6%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8D%83%E4%B8%87%E5%88%AB%E5%8F%91%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
-   新
+   新 ->
 1. [谢楠回应冲浪看到吴京表情包的感受](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E6%A5%A0%E5%9B%9E%E5%BA%94%E5%86%B2%E6%B5%AA%E7%9C%8B%E5%88%B0%E5%90%B4%E4%BA%AC%E8%A1%A8%E6%83%85%E5%8C%85%E7%9A%84%E6%84%9F%E5%8F%97%23&Refer=top)
    新
 1. [被彭昱畅笑死](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%BD%AD%E6%98%B1%E7%95%85%E7%AC%91%E6%AD%BB%23&Refer=top)
@@ -135,6 +135,9 @@
    新
 1. [长春一物流仓库发生火灾致14死](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%98%A5%E4%B8%80%E7%89%A9%E6%B5%81%E4%BB%93%E5%BA%93%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%E8%87%B414%E6%AD%BB%23&Refer=top)
 1. [学科类培训机构一律不得上市融资](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%A7%91%E7%B1%BB%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E4%B8%80%E5%BE%8B%E4%B8%8D%E5%BE%97%E4%B8%8A%E5%B8%82%E8%9E%8D%E8%B5%84%23&Refer=top)
+1. [王丽坤生图](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%BD%E5%9D%A4%E7%94%9F%E5%9B%BE%23&Refer=top)
+   新
+1. [上海虹桥机场出港航班大面积取消](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A1%A5%E6%9C%BA%E5%9C%BA%E5%87%BA%E6%B8%AF%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%8F%96%E6%B6%88%23&Refer=top)
 
 <!-- END -->
 

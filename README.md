@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 25 2021 06:17:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 25 2021 07:18:02 GMT+0800 (China Standard Time) -->
 
 1. [我比任何时候更懂你](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%AF%94%E4%BB%BB%E4%BD%95%E6%97%B6%E5%80%99%E6%9B%B4%E6%87%82%E4%BD%A0%23&Refer=new_time)
    热
@@ -28,7 +28,7 @@
 1. [应采儿病房内追奥运会](https://s.weibo.com//weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E7%97%85%E6%88%BF%E5%86%85%E8%BF%BD%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top)
    新 -> 热 ->
 1. [东京奥运早中晚安排3遍中国国歌](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E6%97%A9%E4%B8%AD%E6%99%9A%E5%AE%89%E6%8E%923%E9%81%8D%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%23&Refer=top)
-   沸 ->
+   沸 -> -> 沸
 1. [孙一文咬了一口金牌](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%B8%80%E6%96%87%E5%92%AC%E4%BA%86%E4%B8%80%E5%8F%A3%E9%87%91%E7%89%8C%23&Refer=top)
    新 ->
 1. [女老板跪地痛哭求还被冲走2万箱酒](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E8%80%81%E6%9D%BF%E8%B7%AA%E5%9C%B0%E7%97%9B%E5%93%AD%E6%B1%82%E8%BF%98%E8%A2%AB%E5%86%B2%E8%B5%B02%E4%B8%87%E7%AE%B1%E9%85%92%23&Refer=top)
@@ -43,7 +43,7 @@
    热 -> 沸 -> 热 ->
 1. [东京奥运会](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A&Refer=top)
 1. [北野武差评东京奥运开幕式](https://s.weibo.com//weibo?q=%23%E5%8C%97%E9%87%8E%E6%AD%A6%E5%B7%AE%E8%AF%84%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23&Refer=top)
-   新 -> -> 沸
+   新 -> -> 沸 ->
 1. [10分钟预判他救了无数家庭](https://s.weibo.com//weibo?q=%2310%E5%88%86%E9%92%9F%E9%A2%84%E5%88%A4%E4%BB%96%E6%95%91%E4%BA%86%E6%97%A0%E6%95%B0%E5%AE%B6%E5%BA%AD%23&Refer=top)
 1. [河南文物局局长哭了](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%87%E7%89%A9%E5%B1%80%E5%B1%80%E9%95%BF%E5%93%AD%E4%BA%86%23&Refer=top)
    热 ->
@@ -129,7 +129,7 @@
 1. [台风](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%23&Refer=top) 热
 1. [杨紫
    您的女儿夏雪没有让您失望](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E6%82%A8%E7%9A%84%E5%A5%B3%E5%84%BF%E5%A4%8F%E9%9B%AA%E6%B2%A1%E6%9C%89%E8%AE%A9%E6%82%A8%E5%A4%B1%E6%9C%9B&Refer=top)
-   新 ->
+   新 -> -> 热
 1. [李雪琴
    重逢是世界上第一浪漫的事情](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%20%E9%87%8D%E9%80%A2%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E6%B5%AA%E6%BC%AB%E7%9A%84%E4%BA%8B%E6%83%85&Refer=top)
    新 ->
@@ -144,6 +144,9 @@
 1. [辣目洋子 老dancer了](https://s.weibo.com//weibo?q=%E8%BE%A3%E7%9B%AE%E6%B4%8B%E5%AD%90%20%E8%80%81dancer%E4%BA%86&Refer=top)
    新
 1. [顶楼](https://s.weibo.com//weibo?q=%E9%A1%B6%E6%A5%BC&Refer=top) 新
+1. [被梁靖康笑死](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%A2%81%E9%9D%96%E5%BA%B7%E7%AC%91%E6%AD%BB%23&Refer=top)
+   新
+1. [台风上海](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E4%B8%8A%E6%B5%B7%23&Refer=top)
 
 <!-- END -->
 

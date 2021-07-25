@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 26 2021 05:17:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 26 2021 06:17:37 GMT+0800 (China Standard Time) -->
 
 1. [长城被评为世遗保护管理示范案例](https://s.weibo.com//weibo?q=%23%E9%95%BF%E5%9F%8E%E8%A2%AB%E8%AF%84%E4%B8%BA%E4%B8%96%E9%81%97%E4%BF%9D%E6%8A%A4%E7%AE%A1%E7%90%86%E7%A4%BA%E8%8C%83%E6%A1%88%E4%BE%8B%23&Refer=new_time)
    热
@@ -128,9 +128,11 @@
 1. [杭州台风](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%8F%B0%E9%A3%8E%23&Refer=top)
 1. [奥运会体操](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BD%93%E6%93%8D%23&Refer=top)
 1. [莫铭被诬陷家暴](https://s.weibo.com//weibo?q=%23%E8%8E%AB%E9%93%AD%E8%A2%AB%E8%AF%AC%E9%99%B7%E5%AE%B6%E6%9A%B4%23&Refer=top)
-   新
+   新 ->
 1. [上海暴雨](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%23&Refer=top)
 1. [天天向上](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A&Refer=top)
+1. [恶魔法官](https://s.weibo.com//weibo?q=%E6%81%B6%E9%AD%94%E6%B3%95%E5%AE%98&Refer=top)
+   新
 
 <!-- END -->
 

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 25 2021 10:27:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 25 2021 11:20:48 GMT+0800 (China Standard Time) -->
 
 1. [我比任何时候更懂你](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%AF%94%E4%BB%BB%E4%BD%95%E6%97%B6%E5%80%99%E6%9B%B4%E6%87%82%E4%BD%A0%23&Refer=new_time)
    热
@@ -22,7 +22,7 @@
 1. [六公主播夺冠](https://s.weibo.com//weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%92%AD%E5%A4%BA%E5%86%A0%23&Refer=top)
    新 -> -> 热
 1. [向佐怒怼CNN没有道德底线](https://s.weibo.com//weibo?q=%23%E5%90%91%E4%BD%90%E6%80%92%E6%80%BCCNN%E6%B2%A1%E6%9C%89%E9%81%93%E5%BE%B7%E5%BA%95%E7%BA%BF%23&Refer=top)
-   新 -> -> 热 -> -> 热
+   新 -> -> 热 -> -> 热 ->
 1. [张彬彬感叹央视的解说好燃](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%84%9F%E5%8F%B9%E5%A4%AE%E8%A7%86%E7%9A%84%E8%A7%A3%E8%AF%B4%E5%A5%BD%E7%87%83%23&Refer=top)
    新 ->
 1. [应采儿病房内追奥运会](https://s.weibo.com//weibo?q=%23%E5%BA%94%E9%87%87%E5%84%BF%E7%97%85%E6%88%BF%E5%86%85%E8%BF%BD%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top)
@@ -88,7 +88,7 @@
 1. [美国加州偷水贼空前猖獗](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%81%B7%E6%B0%B4%E8%B4%BC%E7%A9%BA%E5%89%8D%E7%8C%96%E7%8D%97%23&Refer=top)
    新 ->
 1. [台风烟花 舟山](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%20%E8%88%9F%E5%B1%B1&Refer=top)
-   新 -> 沸
+   新 -> 沸 -> 热
 1. [象山天气](https://s.weibo.com//weibo?q=%E8%B1%A1%E5%B1%B1%E5%A4%A9%E6%B0%94&Refer=top)
    新
 1. [培训机构严禁聘请境外外籍人员开展培训](https://s.weibo.com//weibo?q=%23%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E4%B8%A5%E7%A6%81%E8%81%98%E8%AF%B7%E5%A2%83%E5%A4%96%E5%A4%96%E7%B1%8D%E4%BA%BA%E5%91%98%E5%BC%80%E5%B1%95%E5%9F%B9%E8%AE%AD%23&Refer=top)
@@ -127,6 +127,7 @@
 1. [与非门乐队成员三少因病去世](https://s.weibo.com//weibo?q=%23%E4%B8%8E%E9%9D%9E%E9%97%A8%E4%B9%90%E9%98%9F%E6%88%90%E5%91%98%E4%B8%89%E5%B0%91%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96%23&Refer=top)
    新
 1. [台风](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%23&Refer=top) 热 -> 沸
+   -> 热
 1. [杨紫
    您的女儿夏雪没有让您失望](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%20%E6%82%A8%E7%9A%84%E5%A5%B3%E5%84%BF%E5%A4%8F%E9%9B%AA%E6%B2%A1%E6%9C%89%E8%AE%A9%E6%82%A8%E5%A4%B1%E6%9C%9B&Refer=top)
    新 -> -> 热
@@ -148,7 +149,7 @@
    新 ->
 1. [台风上海](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E4%B8%8A%E6%B5%B7%23&Refer=top)
 1. [浙江多地发生海水倒灌](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C%23&Refer=top)
-   新 -> 热
+   新 -> 热 -> 沸
 1. [男子在鸿星尔克买500付1000拔腿就跑](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E4%B9%B0500%E4%BB%981000%E6%8B%94%E8%85%BF%E5%B0%B1%E8%B7%91%23&Refer=top)
    新 -> 沸
 1. [核酸检测时不要接触检测台](https://s.weibo.com//weibo?q=%23%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E6%97%B6%E4%B8%8D%E8%A6%81%E6%8E%A5%E8%A7%A6%E6%A3%80%E6%B5%8B%E5%8F%B0%23&Refer=top)
@@ -181,25 +182,25 @@
 1. [25日东京奥运会看点](https://s.weibo.com//weibo?q=25%E6%97%A5%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%9C%8B%E7%82%B9&Refer=top)
    新
 1. [赵帅将争取再度夺冠](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E5%B8%85%E5%B0%86%E4%BA%89%E5%8F%96%E5%86%8D%E5%BA%A6%E5%A4%BA%E5%86%A0%23&Refer=top)
-   新
+   新 ->
 1. [郭晶晶新工作是给裁判打分](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E6%96%B0%E5%B7%A5%E4%BD%9C%E6%98%AF%E7%BB%99%E8%A3%81%E5%88%A4%E6%89%93%E5%88%86%23&Refer=top)
-   新
+   新 -> 热
 1. [我们的00后接棒了](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%8400%E5%90%8E%E6%8E%A5%E6%A3%92%E4%BA%86%23&Refer=top)
-   新
+   新 -> 热
 1. [杭州市市长刘忻给全体市民发来温馨提示](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%B8%82%E9%95%BF%E5%88%98%E5%BF%BB%E7%BB%99%E5%85%A8%E4%BD%93%E5%B8%82%E6%B0%91%E5%8F%91%E6%9D%A5%E6%B8%A9%E9%A6%A8%E6%8F%90%E7%A4%BA&Refer=top)
    新
 1. [宝宝坐上救援船露出灿烂笑容](https://s.weibo.com//weibo?q=%23%E5%AE%9D%E5%AE%9D%E5%9D%90%E4%B8%8A%E6%95%91%E6%8F%B4%E8%88%B9%E9%9C%B2%E5%87%BA%E7%81%BF%E7%83%82%E7%AC%91%E5%AE%B9%23&Refer=top)
-   新
+   新 ->
 1. [郑州 维他奶](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%20%E7%BB%B4%E4%BB%96%E5%A5%B6&Refer=top)
-   新
+   新 ->
 1. [姜冉馨林月美进女子10米气手枪决赛](https://s.weibo.com//weibo?q=%E5%A7%9C%E5%86%89%E9%A6%A8%E6%9E%97%E6%9C%88%E7%BE%8E%E8%BF%9B%E5%A5%B3%E5%AD%9010%E7%B1%B3%E6%B0%94%E6%89%8B%E6%9E%AA%E5%86%B3%E8%B5%9B&Refer=top)
    新
 1. [中国女排东京奥运会首秀](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%A6%96%E7%A7%80%23&Refer=top)
-   新
+   新 ->
 1. [芜湖疫情](https://s.weibo.com//weibo?q=%E8%8A%9C%E6%B9%96%E7%96%AB%E6%83%85&Refer=top)
    新
 1. [许昕刘诗雯晋级混双半决赛](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%88%98%E8%AF%97%E9%9B%AF%E6%99%8B%E7%BA%A7%E6%B7%B7%E5%8F%8C%E5%8D%8A%E5%86%B3%E8%B5%9B%23&Refer=top)
-   新
+   新 ->
 1. [4个月前奥运首金获得者杨倩在想什么](https://s.weibo.com//weibo?q=%234%E4%B8%AA%E6%9C%88%E5%89%8D%E5%A5%A5%E8%BF%90%E9%A6%96%E9%87%91%E8%8E%B7%E5%BE%97%E8%80%85%E6%9D%A8%E5%80%A9%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88%23&Refer=top)
    新
 1. [多家银行暂免收取ATM跨行取现手续费](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%9A%82%E5%85%8D%E6%94%B6%E5%8F%96ATM%E8%B7%A8%E8%A1%8C%E5%8F%96%E7%8E%B0%E6%89%8B%E7%BB%AD%E8%B4%B9%23&Refer=top)
@@ -235,6 +236,40 @@
 1. [上海台风](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%8F%B0%E9%A3%8E&Refer=top)
    新
 1. [姜冉馨创造10米气手枪资格赛奥运会纪录](https://s.weibo.com//weibo?q=%23%E5%A7%9C%E5%86%89%E9%A6%A8%E5%88%9B%E9%80%A010%E7%B1%B3%E6%B0%94%E6%89%8B%E6%9E%AA%E8%B5%84%E6%A0%BC%E8%B5%9B%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95%23&Refer=top)
+   新 ->
+1. [姜冉馨10米气手枪铜牌](https://s.weibo.com//weibo?q=%23%E5%A7%9C%E5%86%89%E9%A6%A810%E7%B1%B3%E6%B0%94%E6%89%8B%E6%9E%AA%E9%93%9C%E7%89%8C%23&Refer=top)
+   新
+1. [杭州市市长刘忻给全体市民发来温馨提示](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%B8%82%E9%95%BF%E5%88%98%E5%BF%BB%E7%BB%99%E5%85%A8%E4%BD%93%E5%B8%82%E6%B0%91%E5%8F%91%E6%9D%A5%E6%B8%A9%E9%A6%A8%E6%8F%90%E7%A4%BA%23&Refer=top)
+   热
+1. [中国女子射箭团体出局](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%B0%84%E7%AE%AD%E5%9B%A2%E4%BD%93%E5%87%BA%E5%B1%80%23&Refer=top)
+   新
+1. [邢昭林身体年龄50岁](https://s.weibo.com//weibo?q=%23%E9%82%A2%E6%98%AD%E6%9E%97%E8%BA%AB%E4%BD%93%E5%B9%B4%E9%BE%8450%E5%B2%81%23&Refer=top)
+   新
+1. [游泳解说 口误](https://s.weibo.com//weibo?q=%E6%B8%B8%E6%B3%B3%E8%A7%A3%E8%AF%B4%20%E5%8F%A3%E8%AF%AF&Refer=top)
+   新
+1. [芜湖疫情](https://s.weibo.com//weibo?q=%23%E8%8A%9C%E6%B9%96%E7%96%AB%E6%83%85%23&Refer=top)
+   新
+1. [姚明的情商有多高](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E6%98%8E%E7%9A%84%E6%83%85%E5%95%86%E6%9C%89%E5%A4%9A%E9%AB%98%23&Refer=top)
+   新
+1. [林月美获得10米气手枪第5名](https://s.weibo.com//weibo?q=%23%E6%9E%97%E6%9C%88%E7%BE%8E%E8%8E%B7%E5%BE%9710%E7%B1%B3%E6%B0%94%E6%89%8B%E6%9E%AA%E7%AC%AC5%E5%90%8D%23&Refer=top)
+   新
+1. [闫子贝晋级100米蛙泳决赛](https://s.weibo.com//weibo?q=%E9%97%AB%E5%AD%90%E8%B4%9D%E6%99%8B%E7%BA%A7100%E7%B1%B3%E8%9B%99%E6%B3%B3%E5%86%B3%E8%B5%9B&Refer=top)
+   新
+1. [女救援队员水上哭唱祈祷](https://s.weibo.com//weibo?q=%E5%A5%B3%E6%95%91%E6%8F%B4%E9%98%9F%E5%91%98%E6%B0%B4%E4%B8%8A%E5%93%AD%E5%94%B1%E7%A5%88%E7%A5%B7&Refer=top)
+   新
+1. [突尼斯男子400米自由泳决赛金牌](https://s.weibo.com//weibo?q=%E7%AA%81%E5%B0%BC%E6%96%AF%E7%94%B7%E5%AD%90400%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E5%86%B3%E8%B5%9B%E9%87%91%E7%89%8C&Refer=top)
+   新
+1. [中国队进入女子自由泳接力决赛](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%BF%9B%E5%85%A5%E5%A5%B3%E5%AD%90%E8%87%AA%E7%94%B1%E6%B3%B3%E6%8E%A5%E5%8A%9B%E5%86%B3%E8%B5%9B%23&Refer=top)
+   新
+1. [退伍军人扒车数公里前往灾区护堤](https://s.weibo.com//weibo?q=%23%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E6%89%92%E8%BD%A6%E6%95%B0%E5%85%AC%E9%87%8C%E5%89%8D%E5%BE%80%E7%81%BE%E5%8C%BA%E6%8A%A4%E5%A0%A4%23&Refer=top)
+   新
+1. [绍兴水情](https://s.weibo.com//weibo?q=%E7%BB%8D%E5%85%B4%E6%B0%B4%E6%83%85&Refer=top)
+   新
+1. [东京奥运会金牌榜](https://s.weibo.com//weibo?q=%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%87%91%E7%89%8C%E6%A6%9C&Refer=top)
+   新
+1. [杨国福 食品安全](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%9B%BD%E7%A6%8F%20%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8&Refer=top)
+   新
+1. [中国游泳队姑娘们刷新亚洲纪录](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%B3%B3%E9%98%9F%E5%A7%91%E5%A8%98%E4%BB%AC%E5%88%B7%E6%96%B0%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%23&Refer=top)
    新
 
 <!-- END -->

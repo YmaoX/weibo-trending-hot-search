@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 27 2021 05:17:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 27 2021 06:18:37 GMT+0800 (China Standard Time) -->
 
 1. [世界遗产名录再添中国项目](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%E5%90%8D%E5%BD%95%E5%86%8D%E6%B7%BB%E4%B8%AD%E5%9B%BD%E9%A1%B9%E7%9B%AE%23&Refer=new_time)
    热
 1. [许昕刘诗雯获混双银牌](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%88%98%E8%AF%97%E9%9B%AF%E8%8E%B7%E6%B7%B7%E5%8F%8C%E9%93%B6%E7%89%8C%23&Refer=top)
-   沸
+   沸 -> 热
 1. [微信终于支持多设备同时在线](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%BB%88%E4%BA%8E%E6%94%AF%E6%8C%81%E5%A4%9A%E8%AE%BE%E5%A4%87%E5%90%8C%E6%97%B6%E5%9C%A8%E7%BA%BF%23&Refer=top)
    热
 1. [水谷隼吹球](https://s.weibo.com//weibo?q=%23%E6%B0%B4%E8%B0%B7%E9%9A%BC%E5%90%B9%E7%90%83%23&Refer=top)
@@ -35,7 +35,7 @@
 1. [刘宇宁 我的本命是黄子韬](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%20%E6%88%91%E7%9A%84%E6%9C%AC%E5%91%BD%E6%98%AF%E9%BB%84%E5%AD%90%E9%9F%AC&Refer=top)
    新 ->
 1. [救援队呼吁网红和明星为救援让路](https://s.weibo.com//weibo?q=%23%E6%95%91%E6%8F%B4%E9%98%9F%E5%91%BC%E5%90%81%E7%BD%91%E7%BA%A2%E5%92%8C%E6%98%8E%E6%98%9F%E4%B8%BA%E6%95%91%E6%8F%B4%E8%AE%A9%E8%B7%AF%23&Refer=top)
-   沸 -> 热
+   沸 -> 热 ->
 1. [乒乓球混双决赛](https://s.weibo.com//weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E6%B7%B7%E5%8F%8C%E5%86%B3%E8%B5%9B%23&Refer=top)
    沸 ->
 1. [刘诗雯哭了](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%AF%97%E9%9B%AF%E5%93%AD%E4%BA%86%23&Refer=top)
@@ -122,13 +122,13 @@
 1. [于途80个英雄总教头](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E9%80%9480%E4%B8%AA%E8%8B%B1%E9%9B%84%E6%80%BB%E6%95%99%E5%A4%B4%23&Refer=top)
    新 ->
 1. [杨洋晒玉兔兵法](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%99%92%E7%8E%89%E5%85%94%E5%85%B5%E6%B3%95%23&Refer=top)
-   新
+   新 ->
 1. [中美对话进行时](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%AF%B9%E8%AF%9D%E8%BF%9B%E8%A1%8C%E6%97%B6%23&Refer=new_time)
    热
 1. [沙溢评论胡可](https://s.weibo.com//weibo?q=%23%E6%B2%99%E6%BA%A2%E8%AF%84%E8%AE%BA%E8%83%A1%E5%8F%AF%23&Refer=top)
-   新
+   新 ->
 1. [跪求萧嫣搞事业](https://s.weibo.com//weibo?q=%23%E8%B7%AA%E6%B1%82%E8%90%A7%E5%AB%A3%E6%90%9E%E4%BA%8B%E4%B8%9A%23&Refer=top)
-   新
+   新 ->
 1. [于途军训式游戏教学](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E9%80%94%E5%86%9B%E8%AE%AD%E5%BC%8F%E6%B8%B8%E6%88%8F%E6%95%99%E5%AD%A6%23&Refer=top)
    新
 1. [卫辉](https://s.weibo.com//weibo?q=%E5%8D%AB%E8%BE%89&Refer=top)

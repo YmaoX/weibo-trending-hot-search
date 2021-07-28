@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 28 2021 12:24:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 28 2021 13:16:32 GMT+0800 (China Standard Time) -->
 
 1. [追寻你的足迹我比任何时候更懂你](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E5%AF%BB%E4%BD%A0%E7%9A%84%E8%B6%B3%E8%BF%B9%E6%88%91%E6%AF%94%E4%BB%BB%E4%BD%95%E6%97%B6%E5%80%99%E6%9B%B4%E6%87%82%E4%BD%A0%23&Refer=new_time)
    热
@@ -152,7 +152,7 @@
 1. [惠若琪发文力挺中国女排](https://s.weibo.com//weibo?q=%23%E6%83%A0%E8%8B%A5%E7%90%AA%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%23&Refer=top)
    新 -> 热 ->
 1. [田亮水花最大的一次入水](https://s.weibo.com//weibo?q=%23%E7%94%B0%E4%BA%AE%E6%B0%B4%E8%8A%B1%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E6%AC%A1%E5%85%A5%E6%B0%B4%23&Refer=top)
-   热 -> 沸
+   热 -> 沸 -> 热
 1. [成都人朋友圈被夕阳刷屏了](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%BA%BA%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%A4%95%E9%98%B3%E5%88%B7%E5%B1%8F%E4%BA%86%23&Refer=top)
    热
 1. [郑州奔驰堵了全车库](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E5%A5%94%E9%A9%B0%E5%A0%B5%E4%BA%86%E5%85%A8%E8%BD%A6%E5%BA%93&Refer=top)
@@ -216,7 +216,7 @@
 1. [库克称芯片短缺限制iPad和Mac销量](https://s.weibo.com//weibo?q=%23%E5%BA%93%E5%85%8B%E7%A7%B0%E8%8A%AF%E7%89%87%E7%9F%AD%E7%BC%BA%E9%99%90%E5%88%B6iPad%E5%92%8CMac%E9%94%80%E9%87%8F%23&Refer=top)
    新
 1. [东京奥运会的纸板床裂了](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%9A%84%E7%BA%B8%E6%9D%BF%E5%BA%8A%E8%A3%82%E4%BA%86%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [南京中高风险地区为隔离民众调配生活物资](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%E4%B8%BA%E9%9A%94%E7%A6%BB%E6%B0%91%E4%BC%97%E8%B0%83%E9%85%8D%E7%94%9F%E6%B4%BB%E7%89%A9%E8%B5%84%23&Refer=top)
    新
 1. [消防员送西瓜被小朋友求抱](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E9%80%81%E8%A5%BF%E7%93%9C%E8%A2%AB%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%B1%82%E6%8A%B1%23&Refer=top)
@@ -270,7 +270,7 @@
 1. [赛艇解说哭了](https://s.weibo.com//weibo?q=%E8%B5%9B%E8%89%87%E8%A7%A3%E8%AF%B4%E5%93%AD%E4%BA%86&Refer=top)
    新
 1. [南京7天内确诊超百例](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC7%E5%A4%A9%E5%86%85%E7%A1%AE%E8%AF%8A%E8%B6%85%E7%99%BE%E4%BE%8B%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [足球赛出场为什么牵小朋友](https://s.weibo.com//weibo?q=%23%E8%B6%B3%E7%90%83%E8%B5%9B%E5%87%BA%E5%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%B5%E5%B0%8F%E6%9C%8B%E5%8F%8B%23&Refer=top)
    新
 1. [四十五年了很想你们](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%8D%81%E4%BA%94%E5%B9%B4%E4%BA%86%E5%BE%88%E6%83%B3%E4%BD%A0%E4%BB%AC%23&Refer=top)
@@ -286,7 +286,7 @@
 1. [成都雅颂居](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E9%9B%85%E9%A2%82%E5%B1%85%23&Refer=top)
    热
 1. [樊振东4比0郑荣植晋级4强](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C4%E6%AF%940%E9%83%91%E8%8D%A3%E6%A4%8D%E6%99%8B%E7%BA%A74%E5%BC%BA%23&Refer=top)
-   新
+   新 ->
 1. [赛艇解说哭了](https://s.weibo.com//weibo?q=%23%E8%B5%9B%E8%89%87%E8%A7%A3%E8%AF%B4%E5%93%AD%E4%BA%86%23&Refer=top)
    新 ->
 1. [杭州健康码显示疫苗接种信息](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%81%A5%E5%BA%B7%E7%A0%81%E6%98%BE%E7%A4%BA%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E4%BF%A1%E6%81%AF%23&Refer=top)
@@ -298,9 +298,9 @@
 1. [陈清晨请大家为国羽女双加油](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%B8%85%E6%99%A8%E8%AF%B7%E5%A4%A7%E5%AE%B6%E4%B8%BA%E5%9B%BD%E7%BE%BD%E5%A5%B3%E5%8F%8C%E5%8A%A0%E6%B2%B9%23&Refer=top)
    新
 1. [南京发现多起聚集性疫情](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E5%8F%91%E7%8E%B0%E5%A4%9A%E8%B5%B7%E8%81%9A%E9%9B%86%E6%80%A7%E7%96%AB%E6%83%85%23&Refer=top)
-   新
+   新 -> 热
 1. [众星缅怀唐山大地震逝世者](https://s.weibo.com//weibo?q=%23%E4%BC%97%E6%98%9F%E7%BC%85%E6%80%80%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87%E9%80%9D%E4%B8%96%E8%80%85%23&Refer=top)
-   新
+   新 ->
 1. [蔡徐坤迷互动MV](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%BF%B7%E4%BA%92%E5%8A%A8MV%23&Refer=top)
    新
 1. [股市下跌](https://s.weibo.com//weibo?q=%E8%82%A1%E5%B8%82%E4%B8%8B%E8%B7%8C&Refer=top)
@@ -328,17 +328,17 @@
 1. [卫辉被救助市民得知消防员年龄后落泪](https://s.weibo.com//weibo?q=%23%E5%8D%AB%E8%BE%89%E8%A2%AB%E6%95%91%E5%8A%A9%E5%B8%82%E6%B0%91%E5%BE%97%E7%9F%A5%E6%B6%88%E9%98%B2%E5%91%98%E5%B9%B4%E9%BE%84%E5%90%8E%E8%90%BD%E6%B3%AA%23&Refer=top)
    新
 1. [陈梦VS杜凯琹](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A2%A6VS%E6%9D%9C%E5%87%AF%E7%90%B9%23&Refer=top)
-   新
+   新 -> 热
 1. [张雨霏优势太明显了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E4%BC%98%E5%8A%BF%E5%A4%AA%E6%98%8E%E6%98%BE%E4%BA%86%23&Refer=top)
    新
 1. [奥运金牌榜](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C%E6%A6%9C%23&Refer=top)
-   新
+   新 ->
 1. [杨倩微博换头像](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E5%BE%AE%E5%8D%9A%E6%8D%A2%E5%A4%B4%E5%83%8F%23&Refer=top)
-   新
+   新 -> 热
 1. [北京地铁发生雨水倒灌立刻关停电梯](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E9%9B%A8%E6%B0%B4%E5%80%92%E7%81%8C%E7%AB%8B%E5%88%BB%E5%85%B3%E5%81%9C%E7%94%B5%E6%A2%AF%23&Refer=top)
    新
 1. [邢菲说中国体操小花们最牛](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E8%AF%B4%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%B0%8F%E8%8A%B1%E4%BB%AC%E6%9C%80%E7%89%9B%23&Refer=top)
-   新
+   新 ->
 1. [6岁男孩英语阻止老外景区用无人机](https://s.weibo.com//weibo?q=%236%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8B%B1%E8%AF%AD%E9%98%BB%E6%AD%A2%E8%80%81%E5%A4%96%E6%99%AF%E5%8C%BA%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%23&Refer=top)
    新
 1. [成都多趟列车因疫情停运系谣言](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%9A%E8%B6%9F%E5%88%97%E8%BD%A6%E5%9B%A0%E7%96%AB%E6%83%85%E5%81%9C%E8%BF%90%E7%B3%BB%E8%B0%A3%E8%A8%80%23&Refer=top)
@@ -378,7 +378,7 @@
 1. [海关在货物中发现多只活体黑寡妇](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%85%B3%E5%9C%A8%E8%B4%A7%E7%89%A9%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%A4%9A%E5%8F%AA%E6%B4%BB%E4%BD%93%E9%BB%91%E5%AF%A1%E5%A6%87%23&Refer=top)
    新
 1. [张继科发与水谷隼对战视频](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%8F%91%E4%B8%8E%E6%B0%B4%E8%B0%B7%E9%9A%BC%E5%AF%B9%E6%88%98%E8%A7%86%E9%A2%91%23&Refer=top)
-   新
+   新 -> 爆
 1. [张家界和凤凰返穗人员应报备](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%92%8C%E5%87%A4%E5%87%B0%E8%BF%94%E7%A9%97%E4%BA%BA%E5%91%98%E5%BA%94%E6%8A%A5%E5%A4%87%23&Refer=top)
    新
 1. [工信部通报14款APP未按要求整改](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A514%E6%AC%BEAPP%E6%9C%AA%E6%8C%89%E8%A6%81%E6%B1%82%E6%95%B4%E6%94%B9%23&Refer=top)
@@ -386,6 +386,54 @@
 1. [陈梦逆转晋级四强](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A2%A6%E9%80%86%E8%BD%AC%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23&Refer=top)
    新
 1. [阿里巴巴发布2021财年年报](https://s.weibo.com//weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%8F%91%E5%B8%832021%E8%B4%A2%E5%B9%B4%E5%B9%B4%E6%8A%A5%23&Refer=top)
+   新
+1. [全面建成小康社会大事记](https://s.weibo.com//weibo?q=%23%E5%85%A8%E9%9D%A2%E5%BB%BA%E6%88%90%E5%B0%8F%E5%BA%B7%E7%A4%BE%E4%BC%9A%E5%A4%A7%E4%BA%8B%E8%AE%B0%23&Refer=new_time)
+   热
+1. [陈梦是黄晓明表妹](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A2%A6%E6%98%AF%E9%BB%84%E6%99%93%E6%98%8E%E8%A1%A8%E5%A6%B9%23&Refer=top)
+   新
+1. [马琳从椅子上跳起来了](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E7%90%B3%E4%BB%8E%E6%A4%85%E5%AD%90%E4%B8%8A%E8%B7%B3%E8%B5%B7%E6%9D%A5%E4%BA%86%23&Refer=top)
+   新
+1. [才知道东京奥运会吉祥物长这样](https://s.weibo.com//weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E9%95%BF%E8%BF%99%E6%A0%B7%23&Refer=top)
+   新
+1. [我到了你们人呢](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%88%B0%E4%BA%86%E4%BD%A0%E4%BB%AC%E4%BA%BA%E5%91%A2%23&Refer=top)
+   新
+1. [杨倩妈妈说女儿是单身](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E5%A6%88%E5%A6%88%E8%AF%B4%E5%A5%B3%E5%84%BF%E6%98%AF%E5%8D%95%E8%BA%AB%23&Refer=top)
+   新
+1. [陈梦扣杀](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A2%A6%E6%89%A3%E6%9D%80%23&Refer=top)
+   新
+1. [微信里可以开借条了](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E9%87%8C%E5%8F%AF%E4%BB%A5%E5%BC%80%E5%80%9F%E6%9D%A1%E4%BA%86%23&Refer=top)
+   新
+1. [大连疫情](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E%E7%96%AB%E6%83%85&Refer=top)
+   新
+1. [小区物业不得强制业主刷脸进出](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%8C%BA%E7%89%A9%E4%B8%9A%E4%B8%8D%E5%BE%97%E5%BC%BA%E5%88%B6%E4%B8%9A%E4%B8%BB%E5%88%B7%E8%84%B8%E8%BF%9B%E5%87%BA%23&Refer=top)
+   新
+1. [王简嘉禾泳帽下还藏着猫咪泳帽](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%AE%80%E5%98%89%E7%A6%BE%E6%B3%B3%E5%B8%BD%E4%B8%8B%E8%BF%98%E8%97%8F%E7%9D%80%E7%8C%AB%E5%92%AA%E6%B3%B3%E5%B8%BD%23&Refer=top)
+   新
+1. [美国实际新冠感染人数或被低估60%](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%9E%E9%99%85%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E4%BA%BA%E6%95%B0%E6%88%96%E8%A2%AB%E4%BD%8E%E4%BC%B060%25%23&Refer=top)
+   新
+1. [南京医护三级防护为黄码产妇接生](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E5%8C%BB%E6%8A%A4%E4%B8%89%E7%BA%A7%E9%98%B2%E6%8A%A4%E4%B8%BA%E9%BB%84%E7%A0%81%E4%BA%A7%E5%A6%87%E6%8E%A5%E7%94%9F%23&Refer=top)
+   新
+1. [天官赐福](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&Refer=top)
+   新
+1. [七成95后农民工渴望职业培训](https://s.weibo.com//weibo?q=%23%E4%B8%83%E6%88%9095%E5%90%8E%E5%86%9C%E6%B0%91%E5%B7%A5%E6%B8%B4%E6%9C%9B%E8%81%8C%E4%B8%9A%E5%9F%B9%E8%AE%AD%23&Refer=top)
+   新
+1. [体现奥运格局的瞬间](https://s.weibo.com//weibo?q=%23%E4%BD%93%E7%8E%B0%E5%A5%A5%E8%BF%90%E6%A0%BC%E5%B1%80%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top)
+   新
+1. [当超市假人玩起cosplay](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%B6%85%E5%B8%82%E5%81%87%E4%BA%BA%E7%8E%A9%E8%B5%B7cosplay%23&Refer=top)
+   新
+1. [中国人最直接的表达方式](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%80%E7%9B%B4%E6%8E%A5%E7%9A%84%E8%A1%A8%E8%BE%BE%E6%96%B9%E5%BC%8F%23&Refer=top)
+   新
+1. [南京江宁腾空逸夫医院做定点收治医院](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E6%B1%9F%E5%AE%81%E8%85%BE%E7%A9%BA%E9%80%B8%E5%A4%AB%E5%8C%BB%E9%99%A2%E5%81%9A%E5%AE%9A%E7%82%B9%E6%94%B6%E6%B2%BB%E5%8C%BB%E9%99%A2%23&Refer=top)
+   新
+1. [赛艇姑娘的手](https://s.weibo.com//weibo?q=%23%E8%B5%9B%E8%89%87%E5%A7%91%E5%A8%98%E7%9A%84%E6%89%8B%23&Refer=top)
+   新
+1. [台风烟花将致山东16市强降雨](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%E5%B0%86%E8%87%B4%E5%B1%B1%E4%B8%9C16%E5%B8%82%E5%BC%BA%E9%99%8D%E9%9B%A8%23&Refer=top)
+   新
+1. [济南发布最新易积水路段](https://s.weibo.com//weibo?q=%23%E6%B5%8E%E5%8D%97%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%98%93%E7%A7%AF%E6%B0%B4%E8%B7%AF%E6%AE%B5%23&Refer=top)
+   新
+1. [戴小雨奶奶遗嘱](https://s.weibo.com//weibo?q=%23%E6%88%B4%E5%B0%8F%E9%9B%A8%E5%A5%B6%E5%A5%B6%E9%81%97%E5%98%B1%23&Refer=top)
+   新
+1. [TFBOYS八周年](https://s.weibo.com//weibo?q=%23TFBOYS%E5%85%AB%E5%91%A8%E5%B9%B4%23&Refer=top)
    新
 
 <!-- END -->

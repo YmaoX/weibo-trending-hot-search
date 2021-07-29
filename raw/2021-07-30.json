@@ -127,7 +127,7 @@
   {
     "url": "/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%90%84%E6%99%AF%E5%8C%BA%E4%BB%8A%E5%A4%A9%E6%81%A2%E5%A4%8D%E5%BC%80%E6%94%BE%23&Refer=top",
     "title": "南京各景区今天恢复开放",
-    "mark": ""
+    "mark": " -> 沸"
   },
   {
     "url": "/weibo?q=%23%E9%99%88%E6%A2%A6%E6%AF%94%E8%B5%9B%E4%BC%91%E6%81%AF%E6%97%B6%E5%90%83%E9%A6%99%E8%95%89%23&Refer=top",
@@ -313,5 +313,10 @@
     "url": "/weibo?q=%23%E4%B8%87%E8%8C%9C%E6%83%B3%E6%8D%8F%E5%AD%99%E9%A2%96%E8%8E%8E%E7%9A%84%E8%84%B8%23&Refer=top",
     "title": "万茜想捏孙颖莎的脸",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%96%AB%E6%83%85%23&Refer=top",
+    "title": "南京疫情",
+    "mark": "新"
   }
 ]

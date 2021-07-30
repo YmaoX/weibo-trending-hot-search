@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 31 2021 04:18:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 31 2021 05:17:10 GMT+0800 (China Standard Time) -->
 
 1. [在声声誓言里致敬精神的力量](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%A3%B0%E5%A3%B0%E8%AA%93%E8%A8%80%E9%87%8C%E8%87%B4%E6%95%AC%E7%B2%BE%E7%A5%9E%E7%9A%84%E5%8A%9B%E9%87%8F%23&Refer=new_time)
    热
@@ -105,16 +105,18 @@
 1. [石榴花开籽籽同心](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E6%A6%B4%E8%8A%B1%E5%BC%80%E7%B1%BD%E7%B1%BD%E5%90%8C%E5%BF%83%23&Refer=new_time)
    热
 1. [全剧唯一认真反派李美娥](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%89%A7%E5%94%AF%E4%B8%80%E8%AE%A4%E7%9C%9F%E5%8F%8D%E6%B4%BE%E6%9D%8E%E7%BE%8E%E5%A8%A5%23&Refer=top)
-   新
+   新 ->
 1. [周也中餐厅的第一顿晚餐](https://s.weibo.com//weibo?q=%23%E5%91%A8%E4%B9%9F%E4%B8%AD%E9%A4%90%E5%8E%85%E7%9A%84%E7%AC%AC%E4%B8%80%E9%A1%BF%E6%99%9A%E9%A4%90%23&Refer=top)
-   新
+   新 ->
 1. [好声音都十年了](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%A3%B0%E9%9F%B3%E9%83%BD%E5%8D%81%E5%B9%B4%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [中国向世界提供疫苗超7亿剂](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E7%96%AB%E8%8B%97%E8%B6%857%E4%BA%BF%E5%89%82%23&Refer=new_time)
    热
 1. [雨衣爸爸称后悔没教女儿学游泳](https://s.weibo.com//weibo?q=%23%E9%9B%A8%E8%A1%A3%E7%88%B8%E7%88%B8%E7%A7%B0%E5%90%8E%E6%82%94%E6%B2%A1%E6%95%99%E5%A5%B3%E5%84%BF%E5%AD%A6%E6%B8%B8%E6%B3%B3%23&Refer=top)
    新
 1. [罗云熙若风进军LOL手游电竞](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E8%8B%A5%E9%A3%8E%E8%BF%9B%E5%86%9BLOL%E6%89%8B%E6%B8%B8%E7%94%B5%E7%AB%9E%23&Refer=top)
+   新
+1. [宁静笑死我了](https://s.weibo.com//weibo?q=%E5%AE%81%E9%9D%99%E7%AC%91%E6%AD%BB%E6%88%91%E4%BA%86&Refer=top)
    新
 
 <!-- END -->

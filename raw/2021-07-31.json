@@ -282,17 +282,17 @@
   {
     "url": "/weibo?q=%23%E5%85%A8%E5%89%A7%E5%94%AF%E4%B8%80%E8%AE%A4%E7%9C%9F%E5%8F%8D%E6%B4%BE%E6%9D%8E%E7%BE%8E%E5%A8%A5%23&Refer=top",
     "title": "全剧唯一认真反派李美娥",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%91%A8%E4%B9%9F%E4%B8%AD%E9%A4%90%E5%8E%85%E7%9A%84%E7%AC%AC%E4%B8%80%E9%A1%BF%E6%99%9A%E9%A4%90%23&Refer=top",
     "title": "周也中餐厅的第一顿晚餐",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A5%BD%E5%A3%B0%E9%9F%B3%E9%83%BD%E5%8D%81%E5%B9%B4%E4%BA%86%23&Refer=top",
     "title": "好声音都十年了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E7%96%AB%E8%8B%97%E8%B6%857%E4%BA%BF%E5%89%82%23&Refer=new_time",
@@ -307,6 +307,11 @@
   {
     "url": "/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E8%8B%A5%E9%A3%8E%E8%BF%9B%E5%86%9BLOL%E6%89%8B%E6%B8%B8%E7%94%B5%E7%AB%9E%23&Refer=top",
     "title": "罗云熙若风进军LOL手游电竞",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%AE%81%E9%9D%99%E7%AC%91%E6%AD%BB%E6%88%91%E4%BA%86&Refer=top",
+    "title": "宁静笑死我了",
     "mark": "新"
   }
 ]

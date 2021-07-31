@@ -77,7 +77,7 @@
   {
     "url": "/weibo?q=%23%E9%83%91%E5%B7%9E%E9%80%9A%E6%8A%A516%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top",
     "title": "郑州通报16例无症状感染者",
-    "mark": " -> 热"
+    "mark": " -> 热 -> 沸"
   },
   {
     "url": "/weibo?q=%23%E6%9D%8E%E5%AD%90%E7%92%87%E5%8F%AA%E7%88%B1%E4%BA%94%E9%99%A9%E4%B8%80%E9%87%91%23&Refer=top",
@@ -87,12 +87,12 @@
   {
     "url": "/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E5%83%8F%E6%9E%81%E4%BA%86%E5%90%83%E7%93%9C%E6%97%B6%E7%9A%84%E6%88%91%23&Refer=top",
     "title": "周震南像极了吃瓜时的我",
-    "mark": "新 ->  -> 新"
+    "mark": "新 ->  -> 新 -> 热"
   },
   {
     "url": "/weibo?q=%23%E5%AD%99%E4%B8%80%E6%96%87%E8%A6%81%E5%88%B0%E4%BA%86%E7%8E%8B%E5%98%89%E5%B0%94%E7%AD%BE%E5%90%8D%23&Refer=top",
     "title": "孙一文要到了王嘉尔签名",
-    "mark": " -> 热"
+    "mark": " -> 热 -> "
   },
   {
     "url": "/weibo?q=%E4%BA%91%E5%8D%97%E8%99%AB%E8%B0%B7&Refer=top",
@@ -212,7 +212,7 @@
   {
     "url": "/weibo?q=%23%E6%96%BD%E6%9F%8F%E5%AE%87%E9%99%88%E6%98%8A%E5%AE%87%E5%A5%BD%E7%94%9C%23&Refer=top",
     "title": "施柏宇陈昊宇好甜",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E4%B8%BB%E5%8A%A8%E4%B8%BA%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E5%85%8D%E5%8D%95%23&Refer=top",
@@ -222,7 +222,7 @@
   {
     "url": "/weibo?q=%E8%99%BD%E7%84%B6%E6%88%91%E7%9F%A5%E9%81%93&Refer=top",
     "title": "虽然我知道",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9C%B1%E5%A9%B7%E6%9B%BF%E8%A1%A5%23&Refer=top",
@@ -262,12 +262,12 @@
   {
     "url": "/weibo?q=%23%E6%9D%A8%E8%BF%AA%E7%94%A8%E5%9B%9B%E5%B7%9D%E8%AF%9D%E8%A7%A3%E8%AF%B4%E6%B8%B8%E6%B3%B3%E6%AF%94%E8%B5%9B%23&Refer=top",
     "title": "杨迪用四川话解说游泳比赛",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%90%91%E4%BD%90%E6%B2%99%E6%BC%A0%E7%8F%A0%E5%B3%B0%E5%96%8A%E8%AF%9D%E5%A5%B3%E5%84%BF%23&Refer=top",
     "title": "向佐沙漠珠峰喊话女儿",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%20%E6%88%91%E4%B8%8D%E6%83%B3%E5%81%9A%E5%A7%90%E5%A7%90&Refer=top",
@@ -293,5 +293,10 @@
     "url": "/weibo?q=LPL%E4%B8%8EPEL%E5%AE%98%E5%AE%A3%E8%81%94%E5%8A%A8&Refer=top",
     "title": "LPL与PEL官宣联动",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%90%95%E5%B0%8F%E5%86%9B%E4%B8%BE%E9%87%8D81%E5%85%AC%E6%96%A4%E7%BA%A7%E5%A4%BA%E9%87%91%23&Refer=top",
+    "title": "吕小军举重81公斤级夺金",
+    "mark": ""
   }
 ]

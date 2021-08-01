@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 02 2021 04:19:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 02 2021 05:16:58 GMT+0800 (China Standard Time) -->
 
 1. [我是一个兵](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5%23&Refer=new_time)
    热
@@ -27,7 +27,7 @@
 1. [马薇薇道歉](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E8%96%87%E8%96%87%E9%81%93%E6%AD%89%23&Refer=top)
    沸
 1. [苏炳添 刘翔是我的幸运星](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%20%E5%88%98%E7%BF%94%E6%98%AF%E6%88%91%E7%9A%84%E5%B9%B8%E8%BF%90%E6%98%9F%23&Refer=top)
-   热 -> 沸
+   热 -> 沸 ->
 1. [福原爱鼓励刘诗雯](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E9%BC%93%E5%8A%B1%E5%88%98%E8%AF%97%E9%9B%AF%23&Refer=top)
    新 -> 沸 ->
 1. [Rookie 对不起所有人](https://s.weibo.com//weibo?q=Rookie%20%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%89%80%E6%9C%89%E4%BA%BA&Refer=top)
@@ -35,7 +35,7 @@
 1. [成都网友留言破防了](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%BD%91%E5%8F%8B%E7%95%99%E8%A8%80%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top)
    热 ->
 1. [苏炳添创造历史](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%23&Refer=top)
-   沸
+   沸 ->
 1. [苏炳添9秒83晋级百米决赛](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB9%E7%A7%9283%E6%99%8B%E7%BA%A7%E7%99%BE%E7%B1%B3%E5%86%B3%E8%B5%9B%23&Refer=top)
    热 -> 沸 ->
 1. [苏芒被禁言](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E8%8A%92%E8%A2%AB%E7%A6%81%E8%A8%80%23&Refer=top)
@@ -103,7 +103,7 @@
 1. [中央政治局会议透出开局之年重要信号](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E4%BC%9A%E8%AE%AE%E9%80%8F%E5%87%BA%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E9%87%8D%E8%A6%81%E4%BF%A1%E5%8F%B7%23&Refer=new_time)
    热
 1. [陈娇蕊母亲三观好正](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%A8%87%E8%95%8A%E6%AF%8D%E4%BA%B2%E4%B8%89%E8%A7%82%E5%A5%BD%E6%AD%A3%23&Refer=top)
-   新
+   新 ->
 1. [吴京夸易烊千玺是天生的电影演员](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E5%A4%B8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%E7%94%B5%E5%BD%B1%E6%BC%94%E5%91%98%23&Refer=top)
    新
 1. [梦龙](https://s.weibo.com//weibo?q=%23%E6%A2%A6%E9%BE%99%23&Refer=top) 热

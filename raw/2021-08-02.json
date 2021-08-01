@@ -12,7 +12,7 @@
   {
     "url": "/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%94%B7%E5%AD%90%E7%99%BE%E7%B1%B3%E7%AC%AC6%23&Refer=top",
     "title": "苏炳添男子百米第6",
-    "mark": "沸"
+    "mark": "沸 -> 热"
   },
   {
     "url": "/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%96%B9%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%23&Refer=top",
@@ -37,7 +37,7 @@
   {
     "url": "/weibo?q=Rookie%20%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%89%80%E6%9C%89%E4%BA%BA&Refer=top",
     "title": "Rookie 对不起所有人",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E6%88%90%E9%83%BD%E7%BD%91%E5%8F%8B%E7%95%99%E8%A8%80%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top",
@@ -122,12 +122,12 @@
   {
     "url": "/weibo?q=%E5%BE%90%E5%BC%80%E9%AA%8B%20%E5%A4%A9%E9%81%93%E5%A5%BD%E8%BD%AE%E5%9B%9E%E6%B8%A3%E7%94%B7%E9%A5%B6%E8%BF%87%E8%B0%81&Refer=top",
     "title": "徐开骋 天道好轮回渣男饶过谁",
-    "mark": "热 -> "
+    "mark": "热 ->  -> 热"
   },
   {
     "url": "/weibo?q=%23%E9%A9%AC%E8%96%87%E8%96%87%E8%A2%AB%E7%A6%81%E8%A8%80%23&Refer=top",
     "title": "马薇薇被禁言",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E4%B8%BA%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%AC%A2%E5%91%BC%23&Refer=top",
@@ -187,7 +187,7 @@
   {
     "url": "/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E8%AF%B4%E4%B8%8E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E5%89%8D%E5%9B%9B%E5%A4%A9%E5%85%B1%E5%A4%84%E4%B9%9F%E6%98%AF%E5%AF%86%E6%8E%A5%E8%80%85%23&Refer=top",
     "title": "钟南山说与确诊病例前四天共处也是密接者",
-    "mark": ""
+    "mark": " -> 热"
   },
   {
     "url": "/weibo?q=%23%E9%83%91%E5%B7%9E%E4%BA%BA%E6%B0%91%E6%9C%80%E8%BF%91%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top",
@@ -272,11 +272,11 @@
   {
     "url": "/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%A4%B8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%98%AF%E5%A4%A9%E7%94%9F%E7%9A%84%E7%94%B5%E5%BD%B1%E6%BC%94%E5%91%98%23&Refer=top",
     "title": "吴京夸易烊千玺是天生的电影演员",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%A2%A6%E9%BE%99%23&Refer=top",
     "title": "梦龙",
-    "mark": "热"
+    "mark": "热 -> "
   }
 ]

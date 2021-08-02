@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 03 2021 06:17:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 03 2021 07:18:06 GMT+0800 (China Standard Time) -->
 
 1. [跨越百年新天路](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E8%B6%8A%E7%99%BE%E5%B9%B4%E6%96%B0%E5%A4%A9%E8%B7%AF%23&Refer=new_time)
    热
@@ -23,7 +23,7 @@
 1. [取消诱导粉丝应援打榜的产品功能](https://s.weibo.com//weibo?q=%23%E5%8F%96%E6%B6%88%E8%AF%B1%E5%AF%BC%E7%B2%89%E4%B8%9D%E5%BA%94%E6%8F%B4%E6%89%93%E6%A6%9C%E7%9A%84%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%23&Refer=top)
    沸
 1. [新华社记者卧底奈雪的茶打工](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E6%89%93%E5%B7%A5%23&Refer=top)
-   新 -> 热 -> 沸
+   新 -> 热 -> 沸 -> 热
 1. [女子喝冰箱剩鸡汤感染脑膜炎](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E5%86%B0%E7%AE%B1%E5%89%A9%E9%B8%A1%E6%B1%A4%E6%84%9F%E6%9F%93%E8%84%91%E8%86%9C%E7%82%8E%23&Refer=top)
    热 -> 新 -> 热 ->
 1. [郎平回应不再执教](https://s.weibo.com//weibo?q=%23%E9%83%8E%E5%B9%B3%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%86%8D%E6%89%A7%E6%95%99%23&Refer=top)
@@ -31,9 +31,9 @@
 1. [大人糖与小S终止合作](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E4%BA%BA%E7%B3%96%E4%B8%8E%E5%B0%8FS%E7%BB%88%E6%AD%A2%E5%90%88%E4%BD%9C%23&Refer=top)
    热
 1. [奥运会狠狠修正了我的审美](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%8B%A0%E7%8B%A0%E4%BF%AE%E6%AD%A3%E4%BA%86%E6%88%91%E7%9A%84%E5%AE%A1%E7%BE%8E%23&Refer=top)
-   沸
-1. [三家协会就吴亦凡事件发声](https://s.weibo.com//weibo?q=%23%E4%B8%89%E5%AE%B6%E5%8D%8F%E4%BC%9A%E5%B0%B1%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%23&Refer=top)
    沸 -> 热
+1. [三家协会就吴亦凡事件发声](https://s.weibo.com//weibo?q=%23%E4%B8%89%E5%AE%B6%E5%8D%8F%E4%BC%9A%E5%B0%B1%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%23&Refer=top)
+   沸 -> 热 ->
 1. [杨洋演技](https://s.weibo.com//weibo?q=%E6%9D%A8%E6%B4%8B%E6%BC%94%E6%8A%80&Refer=top)
    新
 1. [中国1天收获5金3银3铜](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD1%E5%A4%A9%E6%94%B6%E8%8E%B75%E9%87%913%E9%93%B63%E9%93%9C%23&Refer=top)
@@ -113,6 +113,12 @@
 1. [青簪行](https://s.weibo.com//weibo?q=%E9%9D%92%E7%B0%AA%E8%A1%8C&Refer=top) 沸
 1. [保障性租赁住房政策](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E9%9A%9C%E6%80%A7%E7%A7%9F%E8%B5%81%E4%BD%8F%E6%88%BF%E6%94%BF%E7%AD%96%23&Refer=new_time)
    热
+1. [宋丹丹被告白害羞了](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E8%A2%AB%E5%91%8A%E7%99%BD%E5%AE%B3%E7%BE%9E%E4%BA%86%23&Refer=top)
+   新
+1. [刘昊然黑色西装](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E9%BB%91%E8%89%B2%E8%A5%BF%E8%A3%85%23&Refer=top)
+   新
+1. [比尔盖茨夫妇正式离婚](https://s.weibo.com//weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%A4%AB%E5%A6%87%E6%AD%A3%E5%BC%8F%E7%A6%BB%E5%A9%9A%23&Refer=top)
+   新
 
 <!-- END -->
 

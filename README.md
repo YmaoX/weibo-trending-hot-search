@@ -14,18 +14,18 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 03 2021 05:16:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 03 2021 06:17:56 GMT+0800 (China Standard Time) -->
 
 1. [跨越百年新天路](https://s.weibo.com//weibo?q=%23%E8%B7%A8%E8%B6%8A%E7%99%BE%E5%B9%B4%E6%96%B0%E5%A4%A9%E8%B7%AF%23&Refer=new_time)
    热
 1. [韩国跳水选手跳一半回去了](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%80%89%E6%89%8B%E8%B7%B3%E4%B8%80%E5%8D%8A%E5%9B%9E%E5%8E%BB%E4%BA%86%23&Refer=top)
-   热 -> 沸
+   热 -> 沸 -> 热
 1. [取消诱导粉丝应援打榜的产品功能](https://s.weibo.com//weibo?q=%23%E5%8F%96%E6%B6%88%E8%AF%B1%E5%AF%BC%E7%B2%89%E4%B8%9D%E5%BA%94%E6%8F%B4%E6%89%93%E6%A6%9C%E7%9A%84%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%23&Refer=top)
    沸
 1. [新华社记者卧底奈雪的茶打工](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E6%89%93%E5%B7%A5%23&Refer=top)
    新 -> 热 -> 沸
 1. [女子喝冰箱剩鸡汤感染脑膜炎](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E5%86%B0%E7%AE%B1%E5%89%A9%E9%B8%A1%E6%B1%A4%E6%84%9F%E6%9F%93%E8%84%91%E8%86%9C%E7%82%8E%23&Refer=top)
-   热 -> 新 -> 热
+   热 -> 新 -> 热 ->
 1. [郎平回应不再执教](https://s.weibo.com//weibo?q=%23%E9%83%8E%E5%B9%B3%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%86%8D%E6%89%A7%E6%95%99%23&Refer=top)
    热 ->
 1. [大人糖与小S终止合作](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E4%BA%BA%E7%B3%96%E4%B8%8E%E5%B0%8FS%E7%BB%88%E6%AD%A2%E5%90%88%E4%BD%9C%23&Refer=top)

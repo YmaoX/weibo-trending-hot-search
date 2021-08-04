@@ -14,16 +14,16 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 05 2021 05:17:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 05 2021 06:18:12 GMT+0800 (China Standard Time) -->
 
 1. [两部门发文推进适龄人群接种新冠疫苗](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E6%8E%A8%E8%BF%9B%E9%80%82%E9%BE%84%E4%BA%BA%E7%BE%A4%E6%8E%A5%E7%A7%8D%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=new_time)
    热
 1. [带清华录取通知书奔波500公里向父亲报喜](https://s.weibo.com//weibo?q=%23%E5%B8%A6%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%A5%94%E6%B3%A2500%E5%85%AC%E9%87%8C%E5%90%91%E7%88%B6%E4%BA%B2%E6%8A%A5%E5%96%9C%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [律师谈明星扎堆发律师函](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E6%98%8E%E6%98%9F%E6%89%8E%E5%A0%86%E5%8F%91%E5%BE%8B%E5%B8%88%E5%87%BD%23&Refer=top)
    沸
 1. [张本智和摔球拍](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%91%94%E7%90%83%E6%8B%8D%23&Refer=top)
-   新 -> 热 -> 新 -> 热
+   新 -> 热 -> 新 -> 热 ->
 1. [何炅工作室报警](https://s.weibo.com//weibo?q=%23%E4%BD%95%E7%82%85%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%8A%A5%E8%AD%A6%23&Refer=top)
    沸
 1. [许昕解释为何不进娱乐圈](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%BF%9B%E5%A8%B1%E4%B9%90%E5%9C%88%23&Refer=top)
@@ -106,8 +106,10 @@
    新
 1. [秦皇岛17岁男生因救3个姑娘牺牲](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E7%9A%87%E5%B2%9B17%E5%B2%81%E7%94%B7%E7%94%9F%E5%9B%A0%E6%95%913%E4%B8%AA%E5%A7%91%E5%A8%98%E7%89%BA%E7%89%B2%23&Refer=top)
 1. [杨紫答应的自拍来了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%AD%94%E5%BA%94%E7%9A%84%E8%87%AA%E6%8B%8D%E6%9D%A5%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [东京奥运会马术比赛场地](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%A9%AC%E6%9C%AF%E6%AF%94%E8%B5%9B%E5%9C%BA%E5%9C%B0%23&Refer=top)
+1. [Rihanna成全球最富有女歌手](https://s.weibo.com//weibo?q=%23Rihanna%E6%88%90%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%89%E5%A5%B3%E6%AD%8C%E6%89%8B%23&Refer=top)
+   新
 
 <!-- END -->
 

@@ -17,7 +17,7 @@
   {
     "url": "/weibo?q=%23%E5%AD%99%E5%85%B4%E7%9A%84%E5%8E%9F%E5%9E%8B%E6%98%AF%E5%AD%99%E5%B0%8F%E6%9E%9C%E5%90%A7%23&Refer=top",
     "title": "孙兴的原型是孙小果吧",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23TFBOYS%E6%B2%A1%E6%9C%89%E5%85%AB%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top",
@@ -57,7 +57,7 @@
   {
     "url": "/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%90%91%E9%A6%96%E6%89%B9%E7%94%A8%E6%88%B7%E8%B5%A0%E9%80%811999%E5%85%83%E7%BA%A2%E5%8C%85%23&Refer=top",
     "title": "小米向首批用户赠送1999元红包",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%A4%E4%BD%8D%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E5%BA%B7%E5%A4%8D%E8%80%85%E6%88%90%E5%8A%9F%E6%8D%90%E7%8C%AE%E8%A1%80%E6%B5%86%23&Refer=top",
@@ -87,7 +87,7 @@
   {
     "url": "/weibo?q=%23%E6%81%92%E5%A4%A7%E8%80%83%E8%99%91%E5%87%BA%E5%94%AE%E6%81%92%E5%A4%A7%E6%B1%BD%E8%BD%A6%23&Refer=top",
     "title": "恒大考虑出售恒大汽车",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%AE%A9%E6%B1%9F%E7%96%8F%E5%BD%B1%E6%89%BE%E5%BC%A0%E8%89%BA%E5%85%B4%E8%A6%81%E7%94%B5%E8%AF%9D%23&Refer=top",
@@ -127,7 +127,7 @@
   {
     "url": "/weibo?q=%23Hero%E6%94%BE%E5%87%BA%E5%BD%93%E5%A4%A9%E6%AF%94%E8%B5%9B%E8%AF%AD%E9%9F%B3%23&Refer=top",
     "title": "Hero放出当天比赛语音",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%AE%B8%E6%98%95%E7%9B%B4%E6%92%AD%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23&Refer=top",
@@ -167,12 +167,12 @@
   {
     "url": "/weibo?q=%E6%88%91%E5%9C%A8%E4%BB%96%E4%B9%A1%E6%8C%BA%E5%A5%BD%E7%9A%84%E7%BB%93%E5%B1%80&Refer=top",
     "title": "我在他乡挺好的结局",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%80%BB%E6%94%AF%E5%87%BA%E8%B6%85200%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=top",
     "title": "东京奥运会总支出超200亿美元",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%AE%E8%A1%A8%E6%83%85%E5%A4%A7%E5%B8%88%23&Refer=top",
@@ -247,11 +247,26 @@
   {
     "url": "/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E7%94%A8%E8%83%B6%E5%B8%A6%E7%BB%99%E6%92%92%E8%B4%9D%E5%AE%81%E5%B0%81%E5%8F%A3%23&Refer=top",
     "title": "尼格买提用胶带给撒贝宁封口",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E5%87%8F%E8%82%A5%23&Refer=top",
     "title": "医生解读如何科学减肥",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E4%BA%BA%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E5%AD%A6%E9%95%BF%E5%91%A8%E6%96%AF%E8%B6%8A%23&Refer=top",
+    "title": "人类高质量学长周斯越",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%8B%8F%E5%BF%B5%E8%A1%BE%E6%B1%82%E5%A9%9A%23&Refer=top",
+    "title": "苏念衾求婚",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BA%8E%E9%80%94%E8%A7%81%E5%AE%B6%E9%95%BF%E7%A4%BE%E6%AD%BB%E7%8E%B0%E5%9C%BA%23&Refer=top",
+    "title": "于途见家长社死现场",
+    "mark": "新"
   }
 ]

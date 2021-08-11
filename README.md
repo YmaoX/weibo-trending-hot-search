@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 12 2021 04:18:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 12 2021 05:17:01 GMT+0800 (China Standard Time) -->
 
 1. [青春风华未来可期](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%98%A5%E9%A3%8E%E5%8D%8E%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%23&Refer=new_time)
    热
@@ -113,8 +113,10 @@
 1. [黄西 脱口秀大会](https://s.weibo.com//weibo?q=%E9%BB%84%E8%A5%BF%20%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A&Refer=top)
    新 ->
 1. [张智霖说袁咏仪是节目组的卧底](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%AF%B4%E8%A2%81%E5%92%8F%E4%BB%AA%E6%98%AF%E8%8A%82%E7%9B%AE%E7%BB%84%E7%9A%84%E5%8D%A7%E5%BA%95%23&Refer=top)
-   新
+   新 ->
 1. [你是我的荣耀](https://s.weibo.com//weibo?q=%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80&Refer=top)
+1. [刘奕君演技细节](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%A5%95%E5%90%9B%E6%BC%94%E6%8A%80%E7%BB%86%E8%8A%82%23&Refer=top)
+   新
 
 <!-- END -->
 

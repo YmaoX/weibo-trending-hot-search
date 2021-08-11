@@ -127,7 +127,7 @@
   {
     "url": "/weibo?q=%23%E4%B8%83%E5%A4%95%E8%83%BD%E6%9C%89%E5%A4%9A%E7%A4%BE%E6%AD%BB%23&Refer=top",
     "title": "七夕能有多社死",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%99%88%E9%9C%B2%E5%8F%91%E4%B8%80%E4%B8%B2%E7%9C%81%E7%95%A5%E5%8F%B7%23&Refer=top",
@@ -222,7 +222,7 @@
   {
     "url": "/weibo?q=%23%E4%B9%94%E6%99%B6%E6%99%B6AI%E5%A5%B3%E5%8F%8B%E5%B0%8F%E6%8A%8A%E6%88%8F%23&Refer=top",
     "title": "乔晶晶AI女友小把戏",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%9B%BD%E5%8A%A1%E9%99%A2%20%E8%8B%A5%E5%8F%91%E7%94%9F%E7%96%AB%E6%83%85%E5%AE%9A%E7%82%B9%E5%8C%BB%E9%99%A248%E5%B0%8F%E6%97%B6%E5%86%85%E8%85%BE%E7%A9%BA&Refer=top",
@@ -282,6 +282,11 @@
   {
     "url": "/weibo?q=%E9%BB%84%E8%A5%BF%20%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A&Refer=top",
     "title": "黄西 脱口秀大会",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%AF%B4%E8%A2%81%E5%92%8F%E4%BB%AA%E6%98%AF%E8%8A%82%E7%9B%AE%E7%BB%84%E7%9A%84%E5%8D%A7%E5%BA%95%23&Refer=top",
+    "title": "张智霖说袁咏仪是节目组的卧底",
     "mark": "新"
   }
 ]

@@ -27,7 +27,7 @@
   {
     "url": "/weibo?q=%23%E6%9D%A8%E5%80%A9%E8%AF%B4%E4%BF%9D%E7%A0%94%E5%92%8C%E5%A5%96%E7%89%8C%E6%97%A0%E5%85%B3%23&Refer=top",
     "title": "杨倩说保研和奖牌无关",
-    "mark": "新 -> 热"
+    "mark": "新 -> 热 -> "
   },
   {
     "url": "/weibo?q=%E4%BA%A4%E8%AD%A6%E6%94%BE%E4%BB%BB%E7%88%B1%E7%8A%AC%E5%92%AC%E6%AD%BB%E7%8C%AB%E5%92%AA%E8%A2%AB%E5%81%9C%E8%81%8C&Refer=top",
@@ -313,12 +313,22 @@
   {
     "url": "/weibo?q=%23%E6%81%B6%E9%AD%94%E6%B3%95%E5%AE%98%23&Refer=top",
     "title": "恶魔法官",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E9%80%81%E6%9D%A5%E4%B8%83%E5%A4%95%E7%A5%9D%E7%A6%8F%23&Refer=top",
     "title": "中国航天员送来七夕祝福",
     "mark": ""
   },
-  { "url": "/weibo?q=%E8%8B%B1%E8%B6%85&Refer=top", "title": "英超", "mark": "" }
+  { "url": "/weibo?q=%E8%8B%B1%E8%B6%85&Refer=top", "title": "英超", "mark": "" },
+  {
+    "url": "/weibo?q=%23%E4%BA%8E%E9%80%94%E4%B9%94%E6%99%B6%E6%99%B6%E7%94%9C%E8%9C%9C%E6%AF%94%E5%BF%83%23&Refer=top",
+    "title": "于途乔晶晶甜蜜比心",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E9%A2%84%E5%91%8A&Refer=top",
+    "title": "快乐大本营预告",
+    "mark": "新"
+  }
 ]

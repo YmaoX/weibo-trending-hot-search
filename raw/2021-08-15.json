@@ -330,5 +330,15 @@
     "url": "/weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5%E9%A2%84%E5%91%8A&Refer=top",
     "title": "快乐大本营预告",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D76%E5%91%A8%E5%B9%B4%23&Refer=top",
+    "title": "日本投降76周年",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%89%AC%E5%B7%9E12%E4%BA%BA%E9%98%B2%E7%96%AB%E4%B8%8D%E5%8A%9B%E8%A2%AB%E5%A4%84%E7%90%86&Refer=top",
+    "title": "扬州12人防疫不力被处理",
+    "mark": "新"
   }
 ]

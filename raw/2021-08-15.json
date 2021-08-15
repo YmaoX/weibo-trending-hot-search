@@ -344,7 +344,7 @@
   {
     "url": "/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A3%95%E4%BB%81%E5%A4%A9%E7%9A%87%E5%AE%A3%E5%B8%83%E6%8A%95%E9%99%8D%E5%8E%9F%E5%A3%B0%23&Refer=top",
     "title": "日本裕仁天皇宣布投降原声",
-    "mark": "新 -> 热 -> 沸"
+    "mark": "新 -> 热 -> 沸 -> 热"
   },
   {
     "url": "/weibo?q=%23%E9%99%88%E9%93%AD%E4%BB%A5%E4%B8%BA%E6%9D%A8%E6%B4%8B%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%98%AF%E6%9D%A8%E8%BF%AA%23&Refer=top",
@@ -369,7 +369,7 @@
   {
     "url": "/weibo?q=%23%E5%86%B0%E5%86%BB2.8%E4%B8%87%E5%B9%B4%E5%B9%BC%E7%8B%AE%E4%BB%8D%E6%A0%A9%E6%A0%A9%E5%A6%82%E7%94%9F%23&Refer=top",
     "title": "冰冻2.8万年幼狮仍栩栩如生",
-    "mark": "新 -> 热"
+    "mark": "新 -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%92%AD%E8%B0%88%E6%9C%89%E4%BA%BA%E5%AF%B9%E5%8E%86%E5%8F%B2%E7%BC%BA%E4%B9%8F%E5%9F%BA%E6%9C%AC%E6%95%AC%E7%95%8F%23&Refer=top",
@@ -634,7 +634,7 @@
   {
     "url": "/weibo?q=%23%E5%8F%88%E6%9C%89%E4%B8%A4%E5%90%8D%E6%97%A5%E6%9C%AC%E5%86%85%E9%98%81%E5%A4%A7%E8%87%A3%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E6%8B%9C%E9%AC%BC%23&Refer=top",
     "title": "又有两名日本内阁大臣靖国神社拜鬼",
-    "mark": "新"
+    "mark": "新 -> 热"
   },
   {
     "url": "/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E8%AE%B2%E8%BF%B0%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E9%82%A3%E4%B8%80%E5%A4%A9%23&Refer=top",
@@ -649,22 +649,22 @@
   {
     "url": "/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%AD%E5%B0%8F%E5%AD%A69%E6%9C%881%E6%97%A5%E6%9A%82%E7%BC%93%E5%BC%80%E5%AD%A6%23&Refer=top",
     "title": "南京中小学9月1日暂缓开学",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E6%93%A6%E6%B3%AA%E7%BA%B8%E5%B7%BE%E8%A2%AB%E6%8B%8D%E5%8D%96%23&Refer=top",
     "title": "梅西发布会现场擦泪纸巾被拍卖",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%9A%94%E7%A6%BB%E8%BF%90%E5%8A%A8%E8%A7%86%E9%A2%91%23&Refer=top",
     "title": "全红婵隔离运动视频",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%94%9A%E6%9D%A5%E5%9B%9E%E5%BA%94%E8%BF%9E%E9%94%81%E5%93%81%E7%89%8C%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BD%A6%E7%A5%B8%E9%80%9D%E4%B8%96%23&Refer=top",
     "title": "蔚来回应连锁品牌创始人车祸逝世",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%95%99%E8%82%B2%E9%83%A8%E5%85%AC%E5%B8%83%E8%81%8C%E4%B8%9A%E9%99%A2%E6%A0%A1%E5%AD%A6%E7%94%9F%E5%AE%9E%E4%B9%A0%E7%83%AD%E7%BA%BF%E7%94%B5%E8%AF%9D&Refer=top",
@@ -674,12 +674,12 @@
   {
     "url": "/weibo?q=%23%E9%BB%98%E5%85%8B%E5%B0%94%E9%80%80%E4%BC%91%E9%87%91%E6%AF%8F%E6%9C%881.5%E4%B8%87%E6%AC%A7%E5%85%83%23&Refer=top",
     "title": "默克尔退休金每月1.5万欧元",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99cos%E6%A6%B4%E8%8E%B2%E5%A5%BD%E9%80%BC%E7%9C%9F%23&Refer=top",
     "title": "宋威龙cos榴莲好逼真",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%90%88%E6%88%90%E5%8F%AF%E5%88%92%E4%BC%A4%E9%92%BB%E7%9F%B3%E7%9A%84%E6%96%B0%E5%9E%8B%E6%9D%90%E6%96%99%23&Refer=new_time",
@@ -694,32 +694,32 @@
   {
     "url": "/weibo?q=%23%E7%82%AD%E7%96%BD%E5%92%8C%E6%96%B0%E5%86%A0%E6%98%AF%E5%90%8C%E4%B8%80%E7%AD%89%E7%BA%A7%E4%BC%A0%E6%9F%93%E7%97%85%23&Refer=top",
     "title": "炭疽和新冠是同一等级传染病",
-    "mark": "新"
+    "mark": "新 -> 热"
   },
   {
     "url": "/weibo?q=%23%E5%BE%80%E5%A4%96%E5%8D%96%E5%90%90%E5%8F%A3%E6%B0%B4%E9%AA%91%E6%89%8B%E8%A2%AB%E5%B9%B3%E5%8F%B0%E6%B0%B8%E4%B8%8D%E5%BD%95%E7%94%A8%23&Refer=top",
     "title": "往外卖吐口水骑手被平台永不录用",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B0%91%E4%BC%97%E5%BE%97%E7%9F%A5%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E6%95%B2%E9%94%A3%E6%89%93%E9%BC%93%E5%86%B2%E4%B8%8A%E8%A1%97%23&Refer=top",
     "title": "民众得知日本投降敲锣打鼓冲上街",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%83%E5%A4%95%E6%83%B3%E5%8E%BB%E8%A1%97%E8%88%9E%E8%B7%B3Michael&Refer=top",
     "title": "张艺兴七夕想去街舞跳Michael",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%AE%E8%A7%86%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A%23&Refer=top",
     "title": "如何评价央视七夕晚会",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%85%AB%E8%B7%AF%E5%86%9B%E6%8A%97%E6%97%A5%E7%89%BA%E7%89%B2%E7%9A%84%E6%9C%80%E9%AB%98%E5%B0%86%E9%A2%86&Refer=top",
     "title": "八路军抗日牺牲的最高将领",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%95%86%E4%B8%98%E6%96%B0%E5%A2%9E11%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top",
@@ -759,6 +759,51 @@
   {
     "url": "/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E4%B8%AA%E6%8B%89%E5%A7%86%E8%BE%BE%E6%AF%92%E6%A0%AA%E6%84%9F%E6%9F%93%E8%80%85%E5%85%B3%E8%81%94%E5%A5%A5%E8%BF%90%E4%BC%9A%23&Refer=top",
     "title": "日本首个拉姆达毒株感染者关联奥运会",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%8F%88%E4%B8%80%E6%89%B9731%E9%83%A8%E9%98%9F%E7%BD%AA%E8%AF%81%E5%85%AC%E5%B8%83%23&Refer=top",
+    "title": "又一批731部队罪证公布",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E9%98%BF%E9%87%8C%E5%A5%B3%E5%91%98%E5%B7%A5%E8%A2%AB%E4%BE%B5%E5%AE%B3%E6%A1%88%E6%97%B6%E9%97%B4%E7%82%B9%23&Refer=top",
+    "title": "一图看懂阿里女员工被侵害案时间点",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%9B%9E%E5%BF%86%E5%A4%96%E5%A9%86%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B9%B0%E9%9D%A2%E5%93%BD%E5%92%BD%23&Refer=top",
+    "title": "丁禹兮回忆外婆给自己买面哽咽",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%A5%E5%A2%8323%E5%A4%A9%E5%9C%A8%E6%B5%99%E6%B1%9F%E6%A3%80%E5%87%BA%E9%98%B3%E6%80%A7%23&Refer=top",
+    "title": "男子入境23天在浙江检出阳性",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%85%B0%E5%AE%89%E5%A6%87%E5%8F%97%E5%AE%B3%E8%80%85%E7%9A%84%E6%97%A5%E8%AE%B0&Refer=top",
+    "title": "慰安妇受害者的日记",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%89%88%E7%8E%8B%E8%AF%AD%E5%AB%A3&Refer=top",
+    "title": "刘亦菲版王语嫣",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9B%A8%E5%A4%A9%E9%AA%91%E6%91%A9%E6%89%98%E8%BD%A6%E7%AD%89%E7%BA%A2%E7%81%AF%E6%97%B6%E6%B4%97%E5%A4%B4%23&Refer=top",
+    "title": "男子雨天骑摩托车等红灯时洗头",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%8E%9F%E7%89%88%E7%9A%84%E6%81%AD%E5%96%9C%E6%81%AD%E5%96%9C&Refer=top",
+    "title": "原版的恭喜恭喜",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%89%AC%E5%B7%9E%E6%96%B0%E5%A2%9E18%E4%BE%8B%E7%A1%AE%E8%AF%8A17%E4%BA%BA%E6%9D%A5%E8%87%AA%E9%9A%94%E7%A6%BB%E7%82%B9%23&Refer=top",
+    "title": "扬州新增18例确诊17人来自隔离点",
     "mark": "新"
   }
 ]

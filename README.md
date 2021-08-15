@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 16 2021 04:17:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 16 2021 05:16:23 GMT+0800 (China Standard Time) -->
 
 1. [民族历史不容忘记](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%97%8F%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%AE%B9%E5%BF%98%E8%AE%B0%23&Refer=new_time)
    热
@@ -26,7 +26,7 @@
    新 ->
 1. [马赛](https://s.weibo.com//weibo?q=%E9%A9%AC%E8%B5%9B&Refer=top) 热
 1. [这才是人间清醒的粉丝](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E7%9A%84%E7%B2%89%E4%B8%9D%23&Refer=top)
-   热 -> 沸
+   热 -> 沸 -> 热
 1. [目前未接到任何有关在阿中国公民伤亡报告](https://s.weibo.com//weibo?q=%23%E7%9B%AE%E5%89%8D%E6%9C%AA%E6%8E%A5%E5%88%B0%E4%BB%BB%E4%BD%95%E6%9C%89%E5%85%B3%E5%9C%A8%E9%98%BF%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A%23&Refer=top)
    -> 新 ->
 1. [她让全世界知道了南京大屠杀](https://s.weibo.com//weibo?q=%23%E5%A5%B9%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E7%9F%A5%E9%81%93%E4%BA%86%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%23&Refer=top)
@@ -70,6 +70,7 @@
 1. [尼格买提手术室外流泪等候](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E6%89%8B%E6%9C%AF%E5%AE%A4%E5%A4%96%E6%B5%81%E6%B3%AA%E7%AD%89%E5%80%99%23&Refer=top)
 1. [驻阿富汗大使馆提醒中国公民加强安全防护](https://s.weibo.com//weibo?q=%23%E9%A9%BB%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E9%98%B2%E6%8A%A4%23&Refer=top)
 1. [陈露索要900万分手费算敲诈吗](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%9C%B2%E7%B4%A2%E8%A6%81900%E4%B8%87%E5%88%86%E6%89%8B%E8%B4%B9%E7%AE%97%E6%95%B2%E8%AF%88%E5%90%97%23&Refer=top)
+   -> 热
 1. [85岁奶奶深夜卖煎饼15年](https://s.weibo.com//weibo?q=%2385%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B7%B1%E5%A4%9C%E5%8D%96%E7%85%8E%E9%A5%BC15%E5%B9%B4%23&Refer=top)
 1. [实拍阿富汗首都混乱景象](https://s.weibo.com//weibo?q=%23%E5%AE%9E%E6%8B%8D%E9%98%BF%E5%AF%8C%E6%B1%97%E9%A6%96%E9%83%BD%E6%B7%B7%E4%B9%B1%E6%99%AF%E8%B1%A1%23&Refer=top)
 1. [家长要不要干预孩子的朋友圈](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E9%95%BF%E8%A6%81%E4%B8%8D%E8%A6%81%E5%B9%B2%E9%A2%84%E5%AD%A9%E5%AD%90%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top)
@@ -98,6 +99,8 @@
 1. [而今迈步从头越](https://s.weibo.com//weibo?q=%23%E8%80%8C%E4%BB%8A%E8%BF%88%E6%AD%A5%E4%BB%8E%E5%A4%B4%E8%B6%8A%23&Refer=new_time)
    热
 1. [甘望星再唱水星记](https://s.weibo.com//weibo?q=%E7%94%98%E6%9C%9B%E6%98%9F%E5%86%8D%E5%94%B1%E6%B0%B4%E6%98%9F%E8%AE%B0&Refer=top)
+   新 ->
+1. [林更新做的酱牛肉](https://s.weibo.com//weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E5%81%9A%E7%9A%84%E9%85%B1%E7%89%9B%E8%82%89%23&Refer=top)
    新
 
 <!-- END -->

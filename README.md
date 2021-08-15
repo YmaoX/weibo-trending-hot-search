@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 16 2021 02:21:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 16 2021 03:13:52 GMT+0800 (China Standard Time) -->
 
 1. [民族历史不容忘记](https://s.weibo.com//weibo?q=%23%E6%B0%91%E6%97%8F%E5%8E%86%E5%8F%B2%E4%B8%8D%E5%AE%B9%E5%BF%98%E8%AE%B0%23&Refer=new_time)
    热
 1. [菅义伟宣称日本不会再发动战争](https://s.weibo.com//weibo?q=%23%E8%8F%85%E4%B9%89%E4%BC%9F%E5%AE%A3%E7%A7%B0%E6%97%A5%E6%9C%AC%E4%B8%8D%E4%BC%9A%E5%86%8D%E5%8F%91%E5%8A%A8%E6%88%98%E4%BA%89%23&Refer=top)
-   新 -> 热 -> 新
+   新 -> 热 -> 新 -> 热
 1. [iPhone13系列价格或与12保持一致](https://s.weibo.com//weibo?q=%23iPhone13%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E6%88%96%E4%B8%8E12%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%23&Refer=top)
    热
 1. [中纪委发文评张哲瀚事件](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%8F%91%E6%96%87%E8%AF%84%E5%BC%A0%E5%93%B2%E7%80%9A%E4%BA%8B%E4%BB%B6%23&Refer=top)
@@ -30,18 +30,18 @@
 1. [目前未接到任何有关在阿中国公民伤亡报告](https://s.weibo.com//weibo?q=%23%E7%9B%AE%E5%89%8D%E6%9C%AA%E6%8E%A5%E5%88%B0%E4%BB%BB%E4%BD%95%E6%9C%89%E5%85%B3%E5%9C%A8%E9%98%BF%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A%23&Refer=top)
    -> 新 ->
 1. [她让全世界知道了南京大屠杀](https://s.weibo.com//weibo?q=%23%E5%A5%B9%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E7%9F%A5%E9%81%93%E4%BA%86%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%23&Refer=top)
-   热 -> 沸
+   热 -> 沸 -> 热
 1. [张彬彬从头到尾没信过郭京飞](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E4%BB%8E%E5%A4%B4%E5%88%B0%E5%B0%BE%E6%B2%A1%E4%BF%A1%E8%BF%87%E9%83%AD%E4%BA%AC%E9%A3%9E%23&Refer=top)
-   新
+   新 ->
 1. [马龙说2019年接受手术是冒险但值得](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B42019%E5%B9%B4%E6%8E%A5%E5%8F%97%E6%89%8B%E6%9C%AF%E6%98%AF%E5%86%92%E9%99%A9%E4%BD%86%E5%80%BC%E5%BE%97%23&Refer=top)
-   新
+   新 ->
 1. [越南一家8口感染新冠同日离世](https://s.weibo.com//weibo?q=%E8%B6%8A%E5%8D%97%E4%B8%80%E5%AE%B68%E5%8F%A3%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%90%8C%E6%97%A5%E7%A6%BB%E4%B8%96&Refer=top)
    热
 1. [塔利班释放阿富汗最大监狱约5000名囚犯](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E9%87%8A%E6%94%BE%E9%98%BF%E5%AF%8C%E6%B1%97%E6%9C%80%E5%A4%A7%E7%9B%91%E7%8B%B1%E7%BA%A65000%E5%90%8D%E5%9B%9A%E7%8A%AF%23&Refer=top)
 1. [许昕七夕给老婆送了花](https://s.weibo.com//weibo?q=%E8%AE%B8%E6%98%95%E4%B8%83%E5%A4%95%E7%BB%99%E8%80%81%E5%A9%86%E9%80%81%E4%BA%86%E8%8A%B1&Refer=top)
    热 ->
 1. [王一博仿佛开了个假螃蟹](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BB%BF%E4%BD%9B%E5%BC%80%E4%BA%86%E4%B8%AA%E5%81%87%E8%9E%83%E8%9F%B9%23&Refer=top)
-   新
+   新 ->
 1. [你是我的荣耀吻戏花絮](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80%E5%90%BB%E6%88%8F%E8%8A%B1%E7%B5%AE%23&Refer=top)
 1. [贾静雯晒全家福为咘咘庆生](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E9%9D%99%E9%9B%AF%E6%99%92%E5%85%A8%E5%AE%B6%E7%A6%8F%E4%B8%BA%E5%92%98%E5%92%98%E5%BA%86%E7%94%9F%23&Refer=top)
 1. [尹正悼念马赛](https://s.weibo.com//weibo?q=%23%E5%B0%B9%E6%AD%A3%E6%82%BC%E5%BF%B5%E9%A9%AC%E8%B5%9B%23&Refer=top)
@@ -56,10 +56,10 @@
    新 ->
 1. [阿富汗总统加尼同意辞职](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%80%BB%E7%BB%9F%E5%8A%A0%E5%B0%BC%E5%90%8C%E6%84%8F%E8%BE%9E%E8%81%8C%23&Refer=top)
 1. [老人穿马路致3车追尾还回头看热闹](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E7%A9%BF%E9%A9%AC%E8%B7%AF%E8%87%B43%E8%BD%A6%E8%BF%BD%E5%B0%BE%E8%BF%98%E5%9B%9E%E5%A4%B4%E7%9C%8B%E7%83%AD%E9%97%B9%23&Refer=top)
-   新
+   新 ->
 1. [阿富汗首都街头一片混乱](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E9%A6%96%E9%83%BD%E8%A1%97%E5%A4%B4%E4%B8%80%E7%89%87%E6%B7%B7%E4%B9%B1%23&Refer=top)
 1. [芦玉菲隔离训练](https://s.weibo.com//weibo?q=%23%E8%8A%A6%E7%8E%89%E8%8F%B2%E9%9A%94%E7%A6%BB%E8%AE%AD%E7%BB%83%23&Refer=top)
-   新
+   新 ->
 1. [杨洋说撒老师辛苦了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%AF%B4%E6%92%92%E8%80%81%E5%B8%88%E8%BE%9B%E8%8B%A6%E4%BA%86%23&Refer=top)
 1. [天天向上](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A&Refer=top)
    新 ->

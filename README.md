@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 19 2021 03:14:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 19 2021 04:18:43 GMT+0800 (China Standard Time) -->
 
 1. [关键信息基础设施安全保护条例](https://s.weibo.com//weibo?q=%23%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%AE%89%E5%85%A8%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B%23&Refer=new_time)
    热
@@ -30,16 +30,16 @@
 1. [浙江卫视的彩蛋是周杰伦](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E7%9A%84%E5%BD%A9%E8%9B%8B%E6%98%AF%E5%91%A8%E6%9D%B0%E4%BC%A6&Refer=top)
    新 -> 沸 ->
 1. [虞书欣 甜辣](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E7%94%9C%E8%BE%A3&Refer=top)
-   沸 -> 热
+   沸 -> 热 ->
 1. [毛阿敏 跑调](https://s.weibo.com//weibo?q=%E6%AF%9B%E9%98%BF%E6%95%8F%20%E8%B7%91%E8%B0%83&Refer=top)
    -> 热
 1. [男子出车祸接孕妻电话求消防别出声](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A6%E7%A5%B8%E6%8E%A5%E5%AD%95%E5%A6%BB%E7%94%B5%E8%AF%9D%E6%B1%82%E6%B6%88%E9%98%B2%E5%88%AB%E5%87%BA%E5%A3%B0%23&Refer=top)
-   沸
+   沸 -> 热
 1. [阿富汗前副总统自封临时总统](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%89%8D%E5%89%AF%E6%80%BB%E7%BB%9F%E8%87%AA%E5%B0%81%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%23&Refer=top)
 1. [被豆豆笑死了](https://s.weibo.com//weibo?q=%E8%A2%AB%E8%B1%86%E8%B1%86%E7%AC%91%E6%AD%BB%E4%BA%86&Refer=top)
    新 -> -> 沸
 1. [关晓彤舞台是什么魔鬼特效](https://s.weibo.com//weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E8%88%9E%E5%8F%B0%E6%98%AF%E4%BB%80%E4%B9%88%E9%AD%94%E9%AC%BC%E7%89%B9%E6%95%88&Refer=top)
-   热
+   热 ->
 1. [张文宏回应网友关心](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%85%B3%E5%BF%83%23&Refer=top)
 1. [江西警方提醒不要传播未成年人霸凌视频](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E6%8F%90%E9%86%92%E4%B8%8D%E8%A6%81%E4%BC%A0%E6%92%AD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E9%9C%B8%E5%87%8C%E8%A7%86%E9%A2%91%23&Refer=top)
 1. [为什么西红柿吃不出小时候的味道了](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A5%BF%E7%BA%A2%E6%9F%BF%E5%90%83%E4%B8%8D%E5%87%BA%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E5%91%B3%E9%81%93%E4%BA%86%23&Refer=top)
@@ -79,14 +79,14 @@
 1. [洪成成陈思铭麦穗约会落单](https://s.weibo.com//weibo?q=%E6%B4%AA%E6%88%90%E6%88%90%E9%99%88%E6%80%9D%E9%93%AD%E9%BA%A6%E7%A9%97%E7%BA%A6%E4%BC%9A%E8%90%BD%E5%8D%95&Refer=top)
    新
 1. [陈思铭重现赵琦君名场面](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%80%9D%E9%93%AD%E9%87%8D%E7%8E%B0%E8%B5%B5%E7%90%A6%E5%90%9B%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
-   新
+   新 ->
 1. [阿富汗央行行长自述逃跑经过](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E8%87%AA%E8%BF%B0%E9%80%83%E8%B7%91%E7%BB%8F%E8%BF%87%23&Refer=top)
 1. [哪些植物吃了会躺板板](https://s.weibo.com//weibo?q=%23%E5%93%AA%E4%BA%9B%E6%A4%8D%E7%89%A9%E5%90%83%E4%BA%86%E4%BC%9A%E8%BA%BA%E6%9D%BF%E6%9D%BF%23&Refer=top)
 1. [好喜欢睡觉又好喜欢熬夜](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%96%9C%E6%AC%A2%E7%9D%A1%E8%A7%89%E5%8F%88%E5%A5%BD%E5%96%9C%E6%AC%A2%E7%86%AC%E5%A4%9C%23&Refer=top)
 1. [湖南卫视818晚会](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86818%E6%99%9A%E4%BC%9A&Refer=top)
 1. [还是山鸡哥厉害啊](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%98%AF%E5%B1%B1%E9%B8%A1%E5%93%A5%E5%8E%89%E5%AE%B3%E5%95%8A%23&Refer=top)
 1. [近2万名干警向纪委监委投案](https://s.weibo.com//weibo?q=%E8%BF%912%E4%B8%87%E5%90%8D%E5%B9%B2%E8%AD%A6%E5%90%91%E7%BA%AA%E5%A7%94%E7%9B%91%E5%A7%94%E6%8A%95%E6%A1%88&Refer=top)
-   新
+   新 ->
 1. [心动的信号](https://s.weibo.com//weibo?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7&Refer=top)
 1. [宝可梦](https://s.weibo.com//weibo?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6&Refer=top)
 1. [天龙八部豆瓣评分](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E9%BE%99%E5%85%AB%E9%83%A8%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%23&Refer=top)
@@ -95,18 +95,22 @@
 1. [一跃跨千年](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%B7%83%E8%B7%A8%E5%8D%83%E5%B9%B4%23&Refer=new_time)
    热
 1. [吉娜开口就是老妹儿啊](https://s.weibo.com//weibo?q=%23%E5%90%89%E5%A8%9C%E5%BC%80%E5%8F%A3%E5%B0%B1%E6%98%AF%E8%80%81%E5%A6%B9%E5%84%BF%E5%95%8A%23&Refer=top)
-   新
+   新 ->
 1. [郭麒麟 彼此的爱要互相看到](https://s.weibo.com//weibo?q=%E9%83%AD%E9%BA%92%E9%BA%9F%20%E5%BD%BC%E6%AD%A4%E7%9A%84%E7%88%B1%E8%A6%81%E4%BA%92%E7%9B%B8%E7%9C%8B%E5%88%B0&Refer=top)
-   新
+   新 ->
 1. [周生辰人设](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E4%BA%BA%E8%AE%BE%23&Refer=top)
-   新
+   新 ->
 1. [钟汉良复古solo舞台好帅](https://s.weibo.com//weibo?q=%23%E9%92%9F%E6%B1%89%E8%89%AF%E5%A4%8D%E5%8F%A4solo%E8%88%9E%E5%8F%B0%E5%A5%BD%E5%B8%85%23&Refer=top)
-   新
+   新 ->
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
    热
 1. [818](https://s.weibo.com//weibo?q=818&Refer=top)
 1. [阿富汗](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97&Refer=top)
 1. [上海研发支架口罩戴眼镜不起雾](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%A0%94%E5%8F%91%E6%94%AF%E6%9E%B6%E5%8F%A3%E7%BD%A9%E6%88%B4%E7%9C%BC%E9%95%9C%E4%B8%8D%E8%B5%B7%E9%9B%BE%23&Refer=top)
+   新
+1. [马子佳问孔汝淳会因为友情回避爱情吗](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%AD%90%E4%BD%B3%E9%97%AE%E5%AD%94%E6%B1%9D%E6%B7%B3%E4%BC%9A%E5%9B%A0%E4%B8%BA%E5%8F%8B%E6%83%85%E5%9B%9E%E9%81%BF%E7%88%B1%E6%83%85%E5%90%97%23&Refer=top)
+   新
+1. [李宇春一趟汉字舞台](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E4%B8%80%E8%B6%9F%E6%B1%89%E5%AD%97%E8%88%9E%E5%8F%B0&Refer=top)
    新
 
 <!-- END -->

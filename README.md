@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 19 2021 01:22:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 19 2021 02:22:20 GMT+0800 (China Standard Time) -->
 
 1. [关键信息基础设施安全保护条例](https://s.weibo.com//weibo?q=%23%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%AE%89%E5%85%A8%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B%23&Refer=new_time)
    热
@@ -28,9 +28,9 @@
 1. [孟晚舟未给汇丰造成任何损失](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E6%9C%AA%E7%BB%99%E6%B1%87%E4%B8%B0%E9%80%A0%E6%88%90%E4%BB%BB%E4%BD%95%E6%8D%9F%E5%A4%B1%23&Refer=top)
    新
 1. [浙江卫视的彩蛋是周杰伦](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E7%9A%84%E5%BD%A9%E8%9B%8B%E6%98%AF%E5%91%A8%E6%9D%B0%E4%BC%A6&Refer=top)
-   新 -> 沸
+   新 -> 沸 ->
 1. [虞书欣 甜辣](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E7%94%9C%E8%BE%A3&Refer=top)
-   沸
+   沸 -> 热
 1. [毛阿敏 跑调](https://s.weibo.com//weibo?q=%E6%AF%9B%E9%98%BF%E6%95%8F%20%E8%B7%91%E8%B0%83&Refer=top)
    -> 热
 1. [男子出车祸接孕妻电话求消防别出声](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A6%E7%A5%B8%E6%8E%A5%E5%AD%95%E5%A6%BB%E7%94%B5%E8%AF%9D%E6%B1%82%E6%B6%88%E9%98%B2%E5%88%AB%E5%87%BA%E5%A3%B0%23&Refer=top)
@@ -102,6 +102,10 @@
    新
 1. [钟汉良复古solo舞台好帅](https://s.weibo.com//weibo?q=%23%E9%92%9F%E6%B1%89%E8%89%AF%E5%A4%8D%E5%8F%A4solo%E8%88%9E%E5%8F%B0%E5%A5%BD%E5%B8%85%23&Refer=top)
    新
+1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
+   热
+1. [818](https://s.weibo.com//weibo?q=818&Refer=top)
+1. [阿富汗](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97&Refer=top)
 
 <!-- END -->
 

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 18 2021 16:20:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 18 2021 17:18:52 GMT+0800 (China Standard Time) -->
 
 1. [我国拟立法禁止大数据杀熟](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%23&Refer=new_time)
    热
@@ -142,7 +142,7 @@
 1. [鲸鲨现身大连獐子岛](https://s.weibo.com//weibo?q=%23%E9%B2%B8%E9%B2%A8%E7%8E%B0%E8%BA%AB%E5%A4%A7%E8%BF%9E%E7%8D%90%E5%AD%90%E5%B2%9B%23&Refer=top)
    新 ->
 1. [阿富汗](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97&Refer=top) 新
-   -> 沸 -> 热
+   -> 沸 -> 热 ->
 1. [支付宝小鸡](https://s.weibo.com//weibo?q=%E6%94%AF%E4%BB%98%E5%AE%9D%E5%B0%8F%E9%B8%A1&Refer=top)
    新 -> 热 -> 沸 -> 热 ->
 1. [今天是顾里35岁生日](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E9%A1%BE%E9%87%8C35%E5%B2%81%E7%94%9F%E6%97%A5%23&Refer=top)
@@ -236,7 +236,7 @@
 1. [阿富汗将停止生产毒品](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B0%86%E5%81%9C%E6%AD%A2%E7%94%9F%E4%BA%A7%E6%AF%92%E5%93%81%23&Refer=top)
    新 ->
 1. [刘烨妻子原来这么厉害](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%83%A8%E5%A6%BB%E5%AD%90%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [小伙嫌女友管太严故意醉驾想坐牢](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E5%AB%8C%E5%A5%B3%E5%8F%8B%E7%AE%A1%E5%A4%AA%E4%B8%A5%E6%95%85%E6%84%8F%E9%86%89%E9%A9%BE%E6%83%B3%E5%9D%90%E7%89%A2%23&Refer=top)
    新 ->
 1. [零食吃对了有助延长寿命](https://s.weibo.com//weibo?q=%23%E9%9B%B6%E9%A3%9F%E5%90%83%E5%AF%B9%E4%BA%86%E6%9C%89%E5%8A%A9%E5%BB%B6%E9%95%BF%E5%AF%BF%E5%91%BD%23&Refer=top)
@@ -277,7 +277,7 @@
 1. [阿迪达斯被要求整改](https://s.weibo.com//weibo?q=%23%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E8%A2%AB%E8%A6%81%E6%B1%82%E6%95%B4%E6%94%B9%23&Refer=top)
    新 ->
 1. [杨洋以前的微博也太好笑了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E4%BB%A5%E5%89%8D%E7%9A%84%E5%BE%AE%E5%8D%9A%E4%B9%9F%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [鞠婧祎赵嘉敏挽手同框](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%B5%B5%E5%98%89%E6%95%8F%E6%8C%BD%E6%89%8B%E5%90%8C%E6%A1%86%23&Refer=top)
    新 ->
 1. [美国冻结阿富汗央行近95亿美元资产](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%BB%E7%BB%93%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A4%AE%E8%A1%8C%E8%BF%9195%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E4%BA%A7%23&Refer=top)
@@ -324,7 +324,7 @@
 1. [谭松韵笑容怼脸拍](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%AC%91%E5%AE%B9%E6%80%BC%E8%84%B8%E6%8B%8D%23&Refer=top)
    新 ->
 1. [再见爱人](https://s.weibo.com//weibo?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA&Refer=top)
-   新
+   新 ->
 1. [腾讯视频起诉抖音侵权索赔1亿](https://s.weibo.com//weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E8%B5%B7%E8%AF%89%E6%8A%96%E9%9F%B3%E4%BE%B5%E6%9D%83%E7%B4%A2%E8%B5%941%E4%BA%BF&Refer=top)
    新
 1. [孙俪兼职道具组好有心](https://s.weibo.com//weibo?q=%23%E5%AD%99%E4%BF%AA%E5%85%BC%E8%81%8C%E9%81%93%E5%85%B7%E7%BB%84%E5%A5%BD%E6%9C%89%E5%BF%83%23&Refer=top)
@@ -334,7 +334,7 @@
 1. [女生整理的旅游攻略](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E6%95%B4%E7%90%86%E7%9A%84%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5%23&Refer=top)
    新
 1. [特朗普称中国正在笑话美国](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%9C%A8%E7%AC%91%E8%AF%9D%E7%BE%8E%E5%9B%BD%23&Refer=top)
-   新 -> 热
+   新 -> 热 -> 沸
 1. [双汇](https://s.weibo.com//weibo?q=%E5%8F%8C%E6%B1%87&Refer=top) 新 -> 热
 1. [腾讯视频起诉抖音侵权索赔1亿](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E8%B5%B7%E8%AF%89%E6%8A%96%E9%9F%B3%E4%BE%B5%E6%9D%83%E7%B4%A2%E8%B5%941%E4%BA%BF%23&Refer=top)
    新 ->
@@ -375,34 +375,34 @@
 1. [我国修法进一步加强噪声污染防治](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E4%BF%AE%E6%B3%95%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%99%AA%E5%A3%B0%E6%B1%A1%E6%9F%93%E9%98%B2%E6%B2%BB%23&Refer=new_time)
    热
 1. [微信群聊天被骂群主不作为或担责](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%81%8A%E5%A4%A9%E8%A2%AB%E9%AA%82%E7%BE%A4%E4%B8%BB%E4%B8%8D%E4%BD%9C%E4%B8%BA%E6%88%96%E6%8B%85%E8%B4%A3%23&Refer=top)
-   新
+   新 ->
 1. [19级大学生的痛](https://s.weibo.com//weibo?q=%2319%E7%BA%A7%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E7%97%9B%23&Refer=top)
-   新 -> 热
+   新 -> 热 -> 沸
 1. [已婚男为寻刺激强制猥亵男工友](https://s.weibo.com//weibo?q=%23%E5%B7%B2%E5%A9%9A%E7%94%B7%E4%B8%BA%E5%AF%BB%E5%88%BA%E6%BF%80%E5%BC%BA%E5%88%B6%E7%8C%A5%E4%BA%B5%E7%94%B7%E5%B7%A5%E5%8F%8B%23&Refer=top)
    新
 1. [武汉一小区遭近千颗钢珠袭击](https://s.weibo.com//weibo?q=%E6%AD%A6%E6%B1%89%E4%B8%80%E5%B0%8F%E5%8C%BA%E9%81%AD%E8%BF%91%E5%8D%83%E9%A2%97%E9%92%A2%E7%8F%A0%E8%A2%AD%E5%87%BB&Refer=top)
    新 ->
 1. [杨迪
    这是我录过最刺激的综艺](https://s.weibo.com//weibo?q=%E6%9D%A8%E8%BF%AA%20%E8%BF%99%E6%98%AF%E6%88%91%E5%BD%95%E8%BF%87%E6%9C%80%E5%88%BA%E6%BF%80%E7%9A%84%E7%BB%BC%E8%89%BA&Refer=top)
-   新
+   新 -> 热
 1. [孟晚舟案今晚结案](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E6%A1%88%E4%BB%8A%E6%99%9A%E7%BB%93%E6%A1%88%23&Refer=top)
    新 ->
 1. [乔家的儿女好看吗](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%AE%B6%E7%9A%84%E5%84%BF%E5%A5%B3%E5%A5%BD%E7%9C%8B%E5%90%97%23&Refer=top)
-   新
+   新 ->
 1. [当社恐来到了迪士尼](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%A4%BE%E6%81%90%E6%9D%A5%E5%88%B0%E4%BA%86%E8%BF%AA%E5%A3%AB%E5%B0%BC%23&Refer=top)
-   新
+   新 ->
 1. [海盐绵绵冰淇淋妆](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E7%9B%90%E7%BB%B5%E7%BB%B5%E5%86%B0%E6%B7%87%E6%B7%8B%E5%A6%86%23&Refer=top)
    新
 1. [郭俊辰神仙造型](https://s.weibo.com//weibo?q=%23%E9%83%AD%E4%BF%8A%E8%BE%B0%E7%A5%9E%E4%BB%99%E9%80%A0%E5%9E%8B%23&Refer=top)
    新
 1. [孙颖莎晒出奥运会上收集的徽章](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%92%E5%87%BA%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%8A%E6%94%B6%E9%9B%86%E7%9A%84%E5%BE%BD%E7%AB%A0%23&Refer=top)
-   新
+   新 ->
 1. [电商前员工恶意刷单薅走平台45万元](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%95%86%E5%89%8D%E5%91%98%E5%B7%A5%E6%81%B6%E6%84%8F%E5%88%B7%E5%8D%95%E8%96%85%E8%B5%B0%E5%B9%B3%E5%8F%B045%E4%B8%87%E5%85%83%23&Refer=top)
    新
 1. [鹿晗撸猫花絮](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E6%92%B8%E7%8C%AB%E8%8A%B1%E7%B5%AE%23&Refer=top)
    新
 1. [女子赶地铁包被门夹断只剩包带](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%B6%E5%9C%B0%E9%93%81%E5%8C%85%E8%A2%AB%E9%97%A8%E5%A4%B9%E6%96%AD%E5%8F%AA%E5%89%A9%E5%8C%85%E5%B8%A6%23&Refer=top)
-   新
+   新 ->
 1. [莆田交警通报蔚来自动驾驶车祸事件](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5%E8%94%9A%E6%9D%A5%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%23&Refer=top)
    新
 1. [流浪猫被困百米高空1个月获救](https://s.weibo.com//weibo?q=%23%E6%B5%81%E6%B5%AA%E7%8C%AB%E8%A2%AB%E5%9B%B0%E7%99%BE%E7%B1%B3%E9%AB%98%E7%A9%BA1%E4%B8%AA%E6%9C%88%E8%8E%B7%E6%95%91%23&Refer=top)
@@ -410,9 +410,9 @@
 1. [关键信息基础设施安全保护条例](https://s.weibo.com//weibo?q=%23%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%AE%89%E5%85%A8%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B%23&Refer=new_time)
    热
 1. [HM国内总公司已被罚22次](https://s.weibo.com//weibo?q=%23HM%E5%9B%BD%E5%86%85%E6%80%BB%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%A2%AB%E7%BD%9A22%E6%AC%A1%23&Refer=top)
-   新
+   新 -> 热
 1. [张杰吃鱼鱼骨卡在食道里](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%90%83%E9%B1%BC%E9%B1%BC%E9%AA%A8%E5%8D%A1%E5%9C%A8%E9%A3%9F%E9%81%93%E9%87%8C%23&Refer=top)
-   新
+   新 -> 热
 1. [外卖2个馒头收2次打包费](https://s.weibo.com//weibo?q=%23%E5%A4%96%E5%8D%962%E4%B8%AA%E9%A6%92%E5%A4%B4%E6%94%B62%E6%AC%A1%E6%89%93%E5%8C%85%E8%B4%B9%23&Refer=top)
    新
 1. [卜凡工作室声明](https://s.weibo.com//weibo?q=%23%E5%8D%9C%E5%87%A1%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top)
@@ -426,18 +426,36 @@
 1. [欧阳娜娜浴室翻唱放空](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E6%B5%B4%E5%AE%A4%E7%BF%BB%E5%94%B1%E6%94%BE%E7%A9%BA%23&Refer=top)
    新
 1. [张馨予公路野生大片](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%85%AC%E8%B7%AF%E9%87%8E%E7%94%9F%E5%A4%A7%E7%89%87%23&Refer=top)
-   新
+   新 ->
 1. [喀布尔一袋面粉涨到165元人民币](https://s.weibo.com//weibo?q=%23%E5%96%80%E5%B8%83%E5%B0%94%E4%B8%80%E8%A2%8B%E9%9D%A2%E7%B2%89%E6%B6%A8%E5%88%B0165%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%23&Refer=top)
-   新
+   新 ->
 1. [湖南卫视818节目单](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86818%E8%8A%82%E7%9B%AE%E5%8D%95%23&Refer=top)
    新
 1. [辣目洋子罚赫雷跪榴莲](https://s.weibo.com//weibo?q=%23%E8%BE%A3%E7%9B%AE%E6%B4%8B%E5%AD%90%E7%BD%9A%E8%B5%AB%E9%9B%B7%E8%B7%AA%E6%A6%B4%E8%8E%B2%23&Refer=top)
-   新
+   新 ->
 1. [难怪说老人就像小孩一样](https://s.weibo.com//weibo?q=%23%E9%9A%BE%E6%80%AA%E8%AF%B4%E8%80%81%E4%BA%BA%E5%B0%B1%E5%83%8F%E5%B0%8F%E5%AD%A9%E4%B8%80%E6%A0%B7%23&Refer=top)
    新
 1. [武汉全员核酸检测发现网上逃犯](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%8F%91%E7%8E%B0%E7%BD%91%E4%B8%8A%E9%80%83%E7%8A%AF%23&Refer=top)
    新
 1. [郑州小区解封居民欢呼场面似跨年](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%B0%8F%E5%8C%BA%E8%A7%A3%E5%B0%81%E5%B1%85%E6%B0%91%E6%AC%A2%E5%91%BC%E5%9C%BA%E9%9D%A2%E4%BC%BC%E8%B7%A8%E5%B9%B4%23&Refer=top)
+   新
+1. [肖战登马来西亚报纸头条](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%99%BB%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%8A%A5%E7%BA%B8%E5%A4%B4%E6%9D%A1%23&Refer=top)
+   新
+1. [王源演唱会暂停举行](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9A%82%E5%81%9C%E4%B8%BE%E8%A1%8C%23&Refer=top)
+   新
+1. [赵立坚回应美政客呼吁拜登禁用TikTok](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%94%BF%E5%AE%A2%E5%91%BC%E5%90%81%E6%8B%9C%E7%99%BB%E7%A6%81%E7%94%A8TikTok%23&Refer=top)
+   新
+1. [男子高铁上拒戴口罩连续殴打13人](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E6%8B%92%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%BF%9E%E7%BB%AD%E6%AE%B4%E6%89%9313%E4%BA%BA&Refer=top)
+   新
+1. [当猫咪长了副大众脸](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%8C%AB%E5%92%AA%E9%95%BF%E4%BA%86%E5%89%AF%E5%A4%A7%E4%BC%97%E8%84%B8%23&Refer=top)
+   新
+1. [蔚来车主联合声明](https://s.weibo.com//weibo?q=%23%E8%94%9A%E6%9D%A5%E8%BD%A6%E4%B8%BB%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23&Refer=top)
+   新
+1. [北京再次明确不发展共享电单车](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%8D%E6%AC%A1%E6%98%8E%E7%A1%AE%E4%B8%8D%E5%8F%91%E5%B1%95%E5%85%B1%E4%BA%AB%E7%94%B5%E5%8D%95%E8%BD%A6%23&Refer=top)
+   新
+1. [白鹿演的时宜](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E6%BC%94%E7%9A%84%E6%97%B6%E5%AE%9C%23&Refer=top)
+   新
+1. [还以为吃个宴席都要吊威亚](https://s.weibo.com//weibo?q=%23%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%90%83%E4%B8%AA%E5%AE%B4%E5%B8%AD%E9%83%BD%E8%A6%81%E5%90%8A%E5%A8%81%E4%BA%9A%23&Refer=top)
    新
 
 <!-- END -->

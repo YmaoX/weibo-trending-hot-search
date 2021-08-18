@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 19 2021 04:18:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 19 2021 05:16:41 GMT+0800 (China Standard Time) -->
 
 1. [关键信息基础设施安全保护条例](https://s.weibo.com//weibo?q=%23%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%AE%89%E5%85%A8%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B%23&Refer=new_time)
    热
@@ -24,7 +24,7 @@
    新 -> 热
 1. [孟晚舟](https://s.weibo.com//weibo?q=%E5%AD%9F%E6%99%9A%E8%88%9F&Refer=top) 热
 1. [披荆斩棘的姐姐们颜值有多绝](https://s.weibo.com//weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%A7%90%E5%A7%90%E4%BB%AC%E9%A2%9C%E5%80%BC%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
-   热
+   热 ->
 1. [孟晚舟未给汇丰造成任何损失](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E6%9C%AA%E7%BB%99%E6%B1%87%E4%B8%B0%E9%80%A0%E6%88%90%E4%BB%BB%E4%BD%95%E6%8D%9F%E5%A4%B1%23&Refer=top)
    新 ->
 1. [浙江卫视的彩蛋是周杰伦](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E7%9A%84%E5%BD%A9%E8%9B%8B%E6%98%AF%E5%91%A8%E6%9D%B0%E4%BC%A6&Refer=top)
@@ -32,7 +32,7 @@
 1. [虞书欣 甜辣](https://s.weibo.com//weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E7%94%9C%E8%BE%A3&Refer=top)
    沸 -> 热 ->
 1. [毛阿敏 跑调](https://s.weibo.com//weibo?q=%E6%AF%9B%E9%98%BF%E6%95%8F%20%E8%B7%91%E8%B0%83&Refer=top)
-   -> 热
+   -> 热 ->
 1. [男子出车祸接孕妻电话求消防别出声](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A6%E7%A5%B8%E6%8E%A5%E5%AD%95%E5%A6%BB%E7%94%B5%E8%AF%9D%E6%B1%82%E6%B6%88%E9%98%B2%E5%88%AB%E5%87%BA%E5%A3%B0%23&Refer=top)
    沸 -> 热
 1. [阿富汗前副总统自封临时总统](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%89%8D%E5%89%AF%E6%80%BB%E7%BB%9F%E8%87%AA%E5%B0%81%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%23&Refer=top)
@@ -112,6 +112,9 @@
    新
 1. [李宇春一趟汉字舞台](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E4%B8%80%E8%B6%9F%E6%B1%89%E5%AD%97%E8%88%9E%E5%8F%B0&Refer=top)
    新
+1. [全国现有29地高风险80地中风险](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%8929%E5%9C%B0%E9%AB%98%E9%A3%8E%E9%99%A980%E5%9C%B0%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
+   新
+1. [蔡徐坤复古燕尾服造型](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A4%8D%E5%8F%A4%E7%87%95%E5%B0%BE%E6%9C%8D%E9%80%A0%E5%9E%8B%23&Refer=top)
 
 <!-- END -->
 

@@ -14,14 +14,14 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 19 2021 05:16:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 19 2021 06:18:30 GMT+0800 (China Standard Time) -->
 
 1. [关键信息基础设施安全保护条例](https://s.weibo.com//weibo?q=%23%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%AE%89%E5%85%A8%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B%23&Refer=new_time)
    热
 1. [衡水中学校长儿子在西藏高考被取消资格](https://s.weibo.com//weibo?q=%23%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%84%BF%E5%AD%90%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%AB%98%E8%80%83%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E6%A0%BC%23&Refer=top)
    新
 1. [日本东京湾发现残奥会保安浮尸](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E6%B9%BE%E5%8F%91%E7%8E%B0%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%BF%9D%E5%AE%89%E6%B5%AE%E5%B0%B8%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [孟晚舟](https://s.weibo.com//weibo?q=%E5%AD%9F%E6%99%9A%E8%88%9F&Refer=top) 热
 1. [披荆斩棘的姐姐们颜值有多绝](https://s.weibo.com//weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%A7%90%E5%A7%90%E4%BB%AC%E9%A2%9C%E5%80%BC%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
    热 ->
@@ -37,7 +37,7 @@
    沸 -> 热
 1. [阿富汗前副总统自封临时总统](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%89%8D%E5%89%AF%E6%80%BB%E7%BB%9F%E8%87%AA%E5%B0%81%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%23&Refer=top)
 1. [被豆豆笑死了](https://s.weibo.com//weibo?q=%E8%A2%AB%E8%B1%86%E8%B1%86%E7%AC%91%E6%AD%BB%E4%BA%86&Refer=top)
-   新 -> -> 沸
+   新 -> -> 沸 ->
 1. [关晓彤舞台是什么魔鬼特效](https://s.weibo.com//weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E8%88%9E%E5%8F%B0%E6%98%AF%E4%BB%80%E4%B9%88%E9%AD%94%E9%AC%BC%E7%89%B9%E6%95%88&Refer=top)
    热 ->
 1. [张文宏回应网友关心](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%85%B3%E5%BF%83%23&Refer=top)
@@ -107,7 +107,7 @@
 1. [818](https://s.weibo.com//weibo?q=818&Refer=top)
 1. [阿富汗](https://s.weibo.com//weibo?q=%E9%98%BF%E5%AF%8C%E6%B1%97&Refer=top)
 1. [上海研发支架口罩戴眼镜不起雾](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%A0%94%E5%8F%91%E6%94%AF%E6%9E%B6%E5%8F%A3%E7%BD%A9%E6%88%B4%E7%9C%BC%E9%95%9C%E4%B8%8D%E8%B5%B7%E9%9B%BE%23&Refer=top)
-   新
+   新 ->
 1. [马子佳问孔汝淳会因为友情回避爱情吗](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%AD%90%E4%BD%B3%E9%97%AE%E5%AD%94%E6%B1%9D%E6%B7%B3%E4%BC%9A%E5%9B%A0%E4%B8%BA%E5%8F%8B%E6%83%85%E5%9B%9E%E9%81%BF%E7%88%B1%E6%83%85%E5%90%97%23&Refer=top)
    新
 1. [李宇春一趟汉字舞台](https://s.weibo.com//weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E4%B8%80%E8%B6%9F%E6%B1%89%E5%AD%97%E8%88%9E%E5%8F%B0&Refer=top)
@@ -115,6 +115,8 @@
 1. [全国现有29地高风险80地中风险](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%8E%B0%E6%9C%8929%E5%9C%B0%E9%AB%98%E9%A3%8E%E9%99%A980%E5%9C%B0%E4%B8%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
    新
 1. [蔡徐坤复古燕尾服造型](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A4%8D%E5%8F%A4%E7%87%95%E5%B0%BE%E6%9C%8D%E9%80%A0%E5%9E%8B%23&Refer=top)
+1. [白鹿高质量端水大师](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E9%AB%98%E8%B4%A8%E9%87%8F%E7%AB%AF%E6%B0%B4%E5%A4%A7%E5%B8%88%23&Refer=top)
+   新
 
 <!-- END -->
 

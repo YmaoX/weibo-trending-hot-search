@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 19 2021 21:23:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 19 2021 22:16:46 GMT+0800 (China Standard Time) -->
 
 1. [关键信息基础设施安全保护条例](https://s.weibo.com//weibo?q=%23%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%AE%89%E5%85%A8%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B%23&Refer=new_time)
    热
@@ -135,7 +135,7 @@
 1. [孟晚舟引渡案将于10月21日裁决](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E5%BC%95%E6%B8%A1%E6%A1%88%E5%B0%86%E4%BA%8E10%E6%9C%8821%E6%97%A5%E8%A3%81%E5%86%B3%23&Refer=top)
    新 ->
 1. [微博情绪](https://s.weibo.com//weibo?q=%E5%BE%AE%E5%8D%9A%E6%83%85%E7%BB%AA&Refer=top)
-   新 ->
+   新 -> -> 新
 1. [陈露方否认索要分手费](https://s.weibo.com//weibo?q=%E9%99%88%E9%9C%B2%E6%96%B9%E5%90%A6%E8%AE%A4%E7%B4%A2%E8%A6%81%E5%88%86%E6%89%8B%E8%B4%B9&Refer=top)
    新 ->
 1. [庆祝西藏和平解放70周年大会](https://s.weibo.com//weibo?q=%E5%BA%86%E7%A5%9D%E8%A5%BF%E8%97%8F%E5%92%8C%E5%B9%B3%E8%A7%A3%E6%94%BE70%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A&Refer=top)
@@ -434,7 +434,7 @@
 1. [毛不易 跟我律师说](https://s.weibo.com//weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%20%E8%B7%9F%E6%88%91%E5%BE%8B%E5%B8%88%E8%AF%B4&Refer=top)
    新 -> 热
 1. [睡眠软件凌晨录到不明声音](https://s.weibo.com//weibo?q=%23%E7%9D%A1%E7%9C%A0%E8%BD%AF%E4%BB%B6%E5%87%8C%E6%99%A8%E5%BD%95%E5%88%B0%E4%B8%8D%E6%98%8E%E5%A3%B0%E9%9F%B3%23&Refer=top)
-   新 -> -> 热
+   新 -> -> 热 ->
 1. [天津大爷果然是谈判专家](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E7%88%B7%E6%9E%9C%E7%84%B6%E6%98%AF%E8%B0%88%E5%88%A4%E4%B8%93%E5%AE%B6%23&Refer=top)
    新 ->
 1. [圆周率精确到小数点后62.8万亿位](https://s.weibo.com//weibo?q=%23%E5%9C%86%E5%91%A8%E7%8E%87%E7%B2%BE%E7%A1%AE%E5%88%B0%E5%B0%8F%E6%95%B0%E7%82%B9%E5%90%8E62.8%E4%B8%87%E4%BA%BF%E4%BD%8D%23&Refer=top)
@@ -513,7 +513,7 @@
    新
 1. [林允
    狗仔大哥天天跟着我拍vlog嘛](https://s.weibo.com//weibo?q=%E6%9E%97%E5%85%81%20%E7%8B%97%E4%BB%94%E5%A4%A7%E5%93%A5%E5%A4%A9%E5%A4%A9%E8%B7%9F%E7%9D%80%E6%88%91%E6%8B%8Dvlog%E5%98%9B&Refer=top)
-   新
+   新 -> 热
 1. [五星连珠](https://s.weibo.com//weibo?q=%E4%BA%94%E6%98%9F%E8%BF%9E%E7%8F%A0&Refer=top)
    新 -> 沸
 1. [李钟硕说玩偶长得像金宇彬](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E8%AF%B4%E7%8E%A9%E5%81%B6%E9%95%BF%E5%BE%97%E5%83%8F%E9%87%91%E5%AE%87%E5%BD%AC%23&Refer=top)
@@ -521,9 +521,9 @@
 1. [东部战区军演震动台湾](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%86%9B%E6%BC%94%E9%9C%87%E5%8A%A8%E5%8F%B0%E6%B9%BE%23&Refer=top)
    新 ->
 1. [杨倩全红婵商标注册申请被依法驳回](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%80%A9%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%95%86%E6%A0%87%E6%B3%A8%E5%86%8C%E7%94%B3%E8%AF%B7%E8%A2%AB%E4%BE%9D%E6%B3%95%E9%A9%B3%E5%9B%9E%23&Refer=top)
-   新
+   新 ->
 1. [AI换脸后的于正](https://s.weibo.com//weibo?q=AI%E6%8D%A2%E8%84%B8%E5%90%8E%E7%9A%84%E4%BA%8E%E6%AD%A3&Refer=top)
-   新
+   新 ->
 1. [8岁男孩一个月教科书灭火两次](https://s.weibo.com//weibo?q=%238%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%80%E4%B8%AA%E6%9C%88%E6%95%99%E7%A7%91%E4%B9%A6%E7%81%AD%E7%81%AB%E4%B8%A4%E6%AC%A1%23&Refer=top)
    新 ->
 1. [赵又廷喊李易峰峰哥](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%96%8A%E6%9D%8E%E6%98%93%E5%B3%B0%E5%B3%B0%E5%93%A5%23&Refer=top)
@@ -531,7 +531,7 @@
 1. [RNG和LNG比赛还没开始](https://s.weibo.com//weibo?q=RNG%E5%92%8CLNG%E6%AF%94%E8%B5%9B%E8%BF%98%E6%B2%A1%E5%BC%80%E5%A7%8B&Refer=top)
    新
 1. [法拉利车主追尾后威胁对方要你的命](https://s.weibo.com//weibo?q=%23%E6%B3%95%E6%8B%89%E5%88%A9%E8%BD%A6%E4%B8%BB%E8%BF%BD%E5%B0%BE%E5%90%8E%E5%A8%81%E8%83%81%E5%AF%B9%E6%96%B9%E8%A6%81%E4%BD%A0%E7%9A%84%E5%91%BD%23&Refer=top)
-   新
+   新 ->
 1. [梁靖康演的理工男](https://s.weibo.com//weibo?q=%23%E6%A2%81%E9%9D%96%E5%BA%B7%E6%BC%94%E7%9A%84%E7%90%86%E5%B7%A5%E7%94%B7%23&Refer=top)
    新 ->
 1. [丁真的十年之约](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E7%9A%84%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%23&Refer=top)
@@ -545,7 +545,7 @@
 1. [原来我很爱你收官](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%88%91%E5%BE%88%E7%88%B1%E4%BD%A0%E6%94%B6%E5%AE%98%23&Refer=top)
    新
 1. [管泽元的预测](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83%E7%9A%84%E9%A2%84%E6%B5%8B&Refer=top)
-   新
+   新 ->
 1. [没想到还有移动公共卫生间](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%98%E6%9C%89%E7%A7%BB%E5%8A%A8%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F%E9%97%B4%23&Refer=top)
    新
 1. [广州暴雨](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8&Refer=top)
@@ -553,11 +553,11 @@
 1. [西藏绝美大片](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E8%97%8F%E7%BB%9D%E7%BE%8E%E5%A4%A7%E7%89%87%23&Refer=top)
    新
 1. [沈月演技](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%9C%88%E6%BC%94%E6%8A%80%23&Refer=top)
-   新
+   新 -> 热
 1. [人类高质量男性粉丝群月收费25000元](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E7%94%B7%E6%80%A7%E7%B2%89%E4%B8%9D%E7%BE%A4%E6%9C%88%E6%94%B6%E8%B4%B925000%E5%85%83%23&Refer=top)
    新
 1. [余生请多指教四季概念篇预告](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%94%9F%E8%AF%B7%E5%A4%9A%E6%8C%87%E6%95%99%E5%9B%9B%E5%AD%A3%E6%A6%82%E5%BF%B5%E7%AF%87%E9%A2%84%E5%91%8A%23&Refer=top)
-   新
+   新 ->
 1. [恋爱pua有多可怕](https://s.weibo.com//weibo?q=%23%E6%81%8B%E7%88%B1pua%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23&Refer=top)
    新
 1. [早上只喝水不吃饭会有什么危害](https://s.weibo.com//weibo?q=%23%E6%97%A9%E4%B8%8A%E5%8F%AA%E5%96%9D%E6%B0%B4%E4%B8%8D%E5%90%83%E9%A5%AD%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%8D%B1%E5%AE%B3%23&Refer=top)
@@ -565,7 +565,7 @@
 1. [李飞微博情绪](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%A3%9E%E5%BE%AE%E5%8D%9A%E6%83%85%E7%BB%AA%23&Refer=top)
    新
 1. [娜扎周芷若变装vlog](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E5%91%A8%E8%8A%B7%E8%8B%A5%E5%8F%98%E8%A3%85vlog%23&Refer=top)
-   新
+   新 ->
 1. [萌娃犯错后理直气壮式认错](https://s.weibo.com//weibo?q=%23%E8%90%8C%E5%A8%83%E7%8A%AF%E9%94%99%E5%90%8E%E7%90%86%E7%9B%B4%E6%B0%94%E5%A3%AE%E5%BC%8F%E8%AE%A4%E9%94%99%23&Refer=top)
    新
 1. [扫黑风暴](https://s.weibo.com//weibo?q=%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4&Refer=top)
@@ -576,6 +576,38 @@
 1. [现在快递都怎么分拣](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%BF%AB%E9%80%92%E9%83%BD%E6%80%8E%E4%B9%88%E5%88%86%E6%8B%A3%23&Refer=top)
    新
 1. [王曼昱喜欢易烊千玺](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%96%9C%E6%AC%A2%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA&Refer=top)
+   新
+1. [千叶真一去世](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%8F%B6%E7%9C%9F%E4%B8%80%E5%8E%BB%E4%B8%96%23&Refer=top)
+   新
+1. [阿富汗总统女儿在美国住豪宅](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%80%BB%E7%BB%9F%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%BD%8F%E8%B1%AA%E5%AE%85%23&Refer=top)
+   新
+1. [薛梅尸体被发现](https://s.weibo.com//weibo?q=%23%E8%96%9B%E6%A2%85%E5%B0%B8%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0%23&Refer=top)
+   新
+1. [洪成成对马子佳说我很幸福](https://s.weibo.com//weibo?q=%23%E6%B4%AA%E6%88%90%E6%88%90%E5%AF%B9%E9%A9%AC%E5%AD%90%E4%BD%B3%E8%AF%B4%E6%88%91%E5%BE%88%E5%B9%B8%E7%A6%8F%23&Refer=top)
+   新
+1. [海南一越野车撞飞两骑车女子后逃逸](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E4%B8%80%E8%B6%8A%E9%87%8E%E8%BD%A6%E6%92%9E%E9%A3%9E%E4%B8%A4%E9%AA%91%E8%BD%A6%E5%A5%B3%E5%AD%90%E5%90%8E%E9%80%83%E9%80%B8%23&Refer=top)
+   新
+1. [邓超晒与孙俪合照](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E6%99%92%E4%B8%8E%E5%AD%99%E4%BF%AA%E5%90%88%E7%85%A7%23&Refer=top)
+   新
+1. [孙颖莎好可爱](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%BD%E5%8F%AF%E7%88%B1%23&Refer=top)
+   新
+1. [宋亚轩爱心针织马甲造型](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%88%B1%E5%BF%83%E9%92%88%E7%BB%87%E9%A9%AC%E7%94%B2%E9%80%A0%E5%9E%8B%23&Refer=top)
+   新
+1. [四川8岁女孩水花消失术](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D8%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%23&Refer=top)
+   新
+1. [机智的医生生活](https://s.weibo.com//weibo?q=%E6%9C%BA%E6%99%BA%E7%9A%84%E5%8C%BB%E7%94%9F%E7%94%9F%E6%B4%BB&Refer=top)
+   新
+1. [千叶真一演的雄霸](https://s.weibo.com//weibo?q=%E5%8D%83%E5%8F%B6%E7%9C%9F%E4%B8%80%E6%BC%94%E7%9A%84%E9%9B%84%E9%9C%B8&Refer=top)
+   新
+1. [和商家聊天不能乱发表情包](https://s.weibo.com//weibo?q=%23%E5%92%8C%E5%95%86%E5%AE%B6%E8%81%8A%E5%A4%A9%E4%B8%8D%E8%83%BD%E4%B9%B1%E5%8F%91%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top)
+   新
+1. [白鹿晒周边为时宜应援](https://s.weibo.com//weibo?q=%23%E7%99%BD%E9%B9%BF%E6%99%92%E5%91%A8%E8%BE%B9%E4%B8%BA%E6%97%B6%E5%AE%9C%E5%BA%94%E6%8F%B4%23&Refer=top)
+   新
+1. [该不该对单恋的人太好](https://s.weibo.com//weibo?q=%23%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%AF%B9%E5%8D%95%E6%81%8B%E7%9A%84%E4%BA%BA%E5%A4%AA%E5%A5%BD%23&Refer=top)
+   新
+1. [国乒女队直播太好笑了](https://s.weibo.com//weibo?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E9%98%9F%E7%9B%B4%E6%92%AD%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86&Refer=top)
+   新
+1. [周洁琼国风水墨造型](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E5%9B%BD%E9%A3%8E%E6%B0%B4%E5%A2%A8%E9%80%A0%E5%9E%8B%23&Refer=top)
    新
 
 <!-- END -->

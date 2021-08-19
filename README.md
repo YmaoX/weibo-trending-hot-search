@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 20 2021 06:15:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 20 2021 07:18:04 GMT+0800 (China Standard Time) -->
 
 1. [中国最东端高铁开始试运行](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E4%B8%9C%E7%AB%AF%E9%AB%98%E9%93%81%E5%BC%80%E5%A7%8B%E8%AF%95%E8%BF%90%E8%A1%8C%23&Refer=new_time)
    热
@@ -110,11 +110,11 @@
    新 ->
 1. [云游中阿博览会](https://s.weibo.com//weibo?q=%23%E4%BA%91%E6%B8%B8%E4%B8%AD%E9%98%BF%E5%8D%9A%E8%A7%88%E4%BC%9A%23&Refer=new_time)
    热
-1. [RNG LNG](https://s.weibo.com//weibo?q=RNG%20LNG&Refer=top) 新 -> 沸 ->
+1. [RNG LNG](https://s.weibo.com//weibo?q=RNG%20LNG&Refer=top) 新 -> 沸 -> -> 沸
 1. [林彦俊告别苏念衾](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%BD%A6%E4%BF%8A%E5%91%8A%E5%88%AB%E8%8B%8F%E5%BF%B5%E8%A1%BE%23&Refer=top)
-   新
+   新 ->
 1. [机智张声明](https://s.weibo.com//weibo?q=%E6%9C%BA%E6%99%BA%E5%BC%A0%E5%A3%B0%E6%98%8E&Refer=top)
-   新
+   新 ->
 
 <!-- END -->
 

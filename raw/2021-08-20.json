@@ -92,7 +92,7 @@
   {
     "url": "/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%E5%85%A8%E5%91%98%E6%B3%AA%E5%B4%A9%23&Refer=top",
     "title": "心动的信号全员泪崩",
-    "mark": "新 ->  -> 新"
+    "mark": "新 ->  -> 新 -> "
   },
   {
     "url": "/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%96%9C%E6%AC%A2%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA&Refer=top",
@@ -132,7 +132,7 @@
   {
     "url": "/weibo?q=%E8%A3%B4%E4%BC%9F%E6%98%AF%E5%86%85%E9%AC%BC%E5%90%A7&Refer=top",
     "title": "裴伟是内鬼吧",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=AI%E6%8D%A2%E8%84%B8%E5%90%8E%E7%9A%84%E4%BA%8E%E6%AD%A3&Refer=top",
@@ -288,5 +288,11 @@
     "url": "/weibo?q=%23%E6%AF%8F%E6%97%A5%E4%B8%8A%E7%8F%AD%E5%89%8D%E7%9A%84%E5%BF%83%E7%90%86%E5%BB%BA%E8%AE%BE%23&Refer=top",
     "title": "每日上班前的心理建设",
     "mark": "新"
-  }
+  },
+  {
+    "url": "/weibo?q=%23%E4%BA%91%E6%B8%B8%E4%B8%AD%E9%98%BF%E5%8D%9A%E8%A7%88%E4%BC%9A%23&Refer=new_time",
+    "title": "云游中阿博览会",
+    "mark": "热"
+  },
+  { "url": "/weibo?q=RNG%20LNG&Refer=top", "title": "RNG LNG", "mark": "新" }
 ]

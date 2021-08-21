@@ -277,22 +277,22 @@
   {
     "url": "/weibo?q=%23%E5%8D%97%E4%BA%AC43%E5%B2%81%E8%BE%85%E8%AD%A6%E5%80%92%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D%23&Refer=top",
     "title": "南京43岁辅警倒在工作岗位",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9C%AC%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E4%B8%8E720%E6%9A%B4%E9%9B%A8%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C%23&Refer=top",
     "title": "河南本轮强降雨与720暴雨有何不同",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%239%E6%9C%88%E8%B5%B7%E5%B9%BF%E5%B7%9E%E5%85%A8%E5%B8%82%E5%85%A8%E5%A4%A9%E7%A6%81%E9%B8%A3%E5%96%87%E5%8F%AD%23&Refer=top",
     "title": "9月起广州全市全天禁鸣喇叭",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%9C%9F%E6%A5%BC%E5%8F%AF%E4%BB%A5%E6%8B%BC%E5%87%BAcool%23&Refer=top",
     "title": "福建土楼可以拼出cool",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%8B%8D%E4%B8%8B%E7%88%B6%E6%AF%8D%E5%9C%A8%E7%90%83%E5%9C%BA%E6%B5%AA%E6%BC%AB%E5%85%B1%E8%88%9E%23&Refer=top",
@@ -329,5 +329,10 @@
     "title": "韩宇battle制胜分",
     "mark": "新"
   },
-  { "url": "/weibo?q=TTG%20GK&Refer=top", "title": "TTG GK", "mark": "新" }
+  { "url": "/weibo?q=TTG%20GK&Refer=top", "title": "TTG GK", "mark": "新" },
+  {
+    "url": "/weibo?q=%23%E6%88%91%E5%9B%BD%E5%AE%9E%E7%8E%B0%E6%B0%B4%E7%A8%BB%E7%94%9F%E8%82%B2%E5%91%A8%E6%9C%9F%E5%87%8F%E5%8D%8A%E9%87%8D%E8%A6%81%E7%AA%81%E7%A0%B4%23&Refer=new_time",
+    "title": "我国实现水稻生育周期减半重要突破",
+    "mark": "热"
+  }
 ]

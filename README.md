@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 23 2021 02:20:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 23 2021 03:13:37 GMT+0800 (China Standard Time) -->
 
 1. [奔跑的中国梦](https://s.weibo.com//weibo?q=%23%E5%A5%94%E8%B7%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%A2%A6%23&Refer=new_time)
    热
@@ -26,14 +26,14 @@
 1. [张雨绮李柄熹退出女儿4剩余录制](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%9D%8E%E6%9F%84%E7%86%B9%E9%80%80%E5%87%BA%E5%A5%B3%E5%84%BF4%E5%89%A9%E4%BD%99%E5%BD%95%E5%88%B6%23&Refer=top)
    沸
 1. [那英退出中国好声音现场录制](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E7%8E%B0%E5%9C%BA%E5%BD%95%E5%88%B6%23&Refer=top)
-   沸
+   沸 -> 热
 1. [王安宇
    被压抑的人生不是我想要的](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%20%E8%A2%AB%E5%8E%8B%E6%8A%91%E7%9A%84%E4%BA%BA%E7%94%9F%E4%B8%8D%E6%98%AF%E6%88%91%E6%83%B3%E8%A6%81%E7%9A%84&Refer=top)
    -> 新 ->
 1. [云南一蓝莓地一夜长出百斤茶树菇](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E4%B8%80%E8%93%9D%E8%8E%93%E5%9C%B0%E4%B8%80%E5%A4%9C%E9%95%BF%E5%87%BA%E7%99%BE%E6%96%A4%E8%8C%B6%E6%A0%91%E8%8F%87%23&Refer=top)
    新 ->
 1. [芒果TV 恶意剪辑](https://s.weibo.com//weibo?q=%E8%8A%92%E6%9E%9CTV%20%E6%81%B6%E6%84%8F%E5%89%AA%E8%BE%91&Refer=top)
-   沸
+   沸 -> 热
 1. [上海一居民楼发生爆燃1人坠亡](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B1%85%E6%B0%91%E6%A5%BC%E5%8F%91%E7%94%9F%E7%88%86%E7%87%831%E4%BA%BA%E5%9D%A0%E4%BA%A1%23&Refer=top)
    新 ->
 1. [名创优品市值蒸发三分之二](https://s.weibo.com//weibo?q=%23%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E4%B8%89%E5%88%86%E4%B9%8B%E4%BA%8C%23&Refer=top)

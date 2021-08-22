@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 23 2021 04:18:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 23 2021 05:15:19 GMT+0800 (China Standard Time) -->
 
 1. [奔跑的中国梦](https://s.weibo.com//weibo?q=%23%E5%A5%94%E8%B7%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%A2%A6%23&Refer=new_time)
    热
@@ -22,7 +22,7 @@
    被透支的粉丝经济该治治了](https://s.weibo.com//weibo?q=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%20%E8%A2%AB%E9%80%8F%E6%94%AF%E7%9A%84%E7%B2%89%E4%B8%9D%E7%BB%8F%E6%B5%8E%E8%AF%A5%E6%B2%BB%E6%B2%BB%E4%BA%86&Refer=top)
    新 -> 沸
 1. [14岁女孩300元偷纹花臂母亲哭诉](https://s.weibo.com//weibo?q=%2314%E5%B2%81%E5%A5%B3%E5%AD%A9300%E5%85%83%E5%81%B7%E7%BA%B9%E8%8A%B1%E8%87%82%E6%AF%8D%E4%BA%B2%E5%93%AD%E8%AF%89%23&Refer=top)
-   热
+   热 ->
 1. [张雨绮李柄熹退出女儿4剩余录制](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%9D%8E%E6%9F%84%E7%86%B9%E9%80%80%E5%87%BA%E5%A5%B3%E5%84%BF4%E5%89%A9%E4%BD%99%E5%BD%95%E5%88%B6%23&Refer=top)
    沸
 1. [那英退出中国好声音现场录制](https://s.weibo.com//weibo?q=%23%E9%82%A3%E8%8B%B1%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E7%8E%B0%E5%9C%BA%E5%BD%95%E5%88%B6%23&Refer=top)
@@ -113,12 +113,14 @@
 1. [司机喝酒庆祝女儿考上大学被查](https://s.weibo.com//weibo?q=%E5%8F%B8%E6%9C%BA%E5%96%9D%E9%85%92%E5%BA%86%E7%A5%9D%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%A2%AB%E6%9F%A5&Refer=top)
    新 ->
 1. [苏炳添要去巩立姣房间抢金牌](https://s.weibo.com//weibo?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%A6%81%E5%8E%BB%E5%B7%A9%E7%AB%8B%E5%A7%A3%E6%88%BF%E9%97%B4%E6%8A%A2%E9%87%91%E7%89%8C&Refer=top)
-   新
+   新 ->
 1. [偷手机后进派出所送还求表扬](https://s.weibo.com//weibo?q=%23%E5%81%B7%E6%89%8B%E6%9C%BA%E5%90%8E%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80%E9%80%81%E8%BF%98%E6%B1%82%E8%A1%A8%E6%89%AC%23&Refer=top)
-   新
+   新 ->
 1. [南安普顿 曼联](https://s.weibo.com//weibo?q=%E5%8D%97%E5%AE%89%E6%99%AE%E9%A1%BF%20%E6%9B%BC%E8%81%94&Refer=top)
    新
 1. [与君歌](https://s.weibo.com//weibo?q=%E4%B8%8E%E5%90%9B%E6%AD%8C&Refer=top)
+1. [乔峰错杀阿朱](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%B3%B0%E9%94%99%E6%9D%80%E9%98%BF%E6%9C%B1%23&Refer=top)
+   新
 
 <!-- END -->
 

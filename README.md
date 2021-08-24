@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 25 2021 06:18:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 25 2021 07:18:39 GMT+0800 (China Standard Time) -->
 
 1. [发扬塞罕坝精神](https://s.weibo.com//weibo?q=%23%E5%8F%91%E6%89%AC%E5%A1%9E%E7%BD%95%E5%9D%9D%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
    热
@@ -109,6 +109,8 @@
 1. [孙兴给贺芸过生日](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%85%B4%E7%BB%99%E8%B4%BA%E8%8A%B8%E8%BF%87%E7%94%9F%E6%97%A5%23&Refer=top)
    新
 1. [福岛核污水排放方式基本敲定](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%94%BE%E6%96%B9%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%95%B2%E5%AE%9A%23&Refer=top)
+1. [过敏原可以有多离谱](https://s.weibo.com//weibo?q=%23%E8%BF%87%E6%95%8F%E5%8E%9F%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&Refer=top)
+   新
 
 <!-- END -->
 

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 27 2021 06:18:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 27 2021 07:18:23 GMT+0800 (China Standard Time) -->
 
 1. [践行重要训词精神](https://s.weibo.com//weibo?q=%23%E8%B7%B5%E8%A1%8C%E9%87%8D%E8%A6%81%E8%AE%AD%E8%AF%8D%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
    热
@@ -25,7 +25,7 @@
 1. [古剑奇谭 下架](https://s.weibo.com//weibo?q=%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD%20%E4%B8%8B%E6%9E%B6&Refer=top)
    新 -> 沸
 1. [郑爽超话被封](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%88%BD%E8%B6%85%E8%AF%9D%E8%A2%AB%E5%B0%81%23&Refer=top)
-   新 -> 热 ->
+   新 -> 热 -> -> 热
 1. [女子与公公发生口角后被杀害](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8E%E5%85%AC%E5%85%AC%E5%8F%91%E7%94%9F%E5%8F%A3%E8%A7%92%E5%90%8E%E8%A2%AB%E6%9D%80%E5%AE%B3%23&Refer=top)
    沸 -> 热
 1. [广东最大的蟑螂是白云机场](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%9C%80%E5%A4%A7%E7%9A%84%E8%9F%91%E8%9E%82%E6%98%AF%E7%99%BD%E4%BA%91%E6%9C%BA%E5%9C%BA%23&Refer=top)
@@ -103,6 +103,15 @@
 1. [孙红雷再次集结绿藤市民](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%86%8D%E6%AC%A1%E9%9B%86%E7%BB%93%E7%BB%BF%E8%97%A4%E5%B8%82%E6%B0%91%23&Refer=top)
    新 ->
 1. [女子谎报强奸被拘留](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B0%8E%E6%8A%A5%E5%BC%BA%E5%A5%B8%E8%A2%AB%E6%8B%98%E7%95%99%23&Refer=top)
+   新
+1. [魔幻手机3备案](https://s.weibo.com//weibo?q=%23%E9%AD%94%E5%B9%BB%E6%89%8B%E6%9C%BA3%E5%A4%87%E6%A1%88%23&Refer=top)
+   新
+1. [喀布尔机场发生两起爆炸](https://s.weibo.com//weibo?q=%23%E5%96%80%E5%B8%83%E5%B0%94%E6%9C%BA%E5%9C%BA%E5%8F%91%E7%94%9F%E4%B8%A4%E8%B5%B7%E7%88%86%E7%82%B8%23&Refer=top)
+   新
+1. [女孩5岁练舞下腰致截瘫](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A95%E5%B2%81%E7%BB%83%E8%88%9E%E4%B8%8B%E8%85%B0%E8%87%B4%E6%88%AA%E7%98%AB%23&Refer=top)
+1. [秘书否认卡尔扎伊被塔利班软禁](https://s.weibo.com//weibo?q=%23%E7%A7%98%E4%B9%A6%E5%90%A6%E8%AE%A4%E5%8D%A1%E5%B0%94%E6%89%8E%E4%BC%8A%E8%A2%AB%E5%A1%94%E5%88%A9%E7%8F%AD%E8%BD%AF%E7%A6%81%23&Refer=top)
+   新
+1. [79岁T台走秀85岁驾机冲上云霄](https://s.weibo.com//weibo?q=%2379%E5%B2%81T%E5%8F%B0%E8%B5%B0%E7%A7%8085%E5%B2%81%E9%A9%BE%E6%9C%BA%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84%23&Refer=top)
    新
 
 <!-- END -->

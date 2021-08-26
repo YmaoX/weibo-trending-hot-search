@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 27 2021 01:24:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 27 2021 02:21:26 GMT+0800 (China Standard Time) -->
 
 1. [践行重要训词精神](https://s.weibo.com//weibo?q=%23%E8%B7%B5%E8%A1%8C%E9%87%8D%E8%A6%81%E8%AE%AD%E8%AF%8D%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
    热
@@ -37,7 +37,7 @@
 1. [桥本大辉获日本特别功劳表彰](https://s.weibo.com//weibo?q=%23%E6%A1%A5%E6%9C%AC%E5%A4%A7%E8%BE%89%E8%8E%B7%E6%97%A5%E6%9C%AC%E7%89%B9%E5%88%AB%E5%8A%9F%E5%8A%B3%E8%A1%A8%E5%BD%B0%23&Refer=top)
 1. [中美经贸团队保持正常沟通](https://s.weibo.com//weibo?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E5%9B%A2%E9%98%9F%E4%BF%9D%E6%8C%81%E6%AD%A3%E5%B8%B8%E6%B2%9F%E9%80%9A&Refer=top)
 1. [霍尊超话关闭](https://s.weibo.com//weibo?q=%E9%9C%8D%E5%B0%8A%E8%B6%85%E8%AF%9D%E5%85%B3%E9%97%AD&Refer=top)
-   新
+   新 ->
 1. [张恒微博被禁言](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%81%92%E5%BE%AE%E5%8D%9A%E8%A2%AB%E7%A6%81%E8%A8%80%23&Refer=top)
    热
 1. [举报钱枫女子代理律师已递交材料](https://s.weibo.com//weibo?q=%23%E4%B8%BE%E6%8A%A5%E9%92%B1%E6%9E%AB%E5%A5%B3%E5%AD%90%E4%BB%A3%E7%90%86%E5%BE%8B%E5%B8%88%E5%B7%B2%E9%80%92%E4%BA%A4%E6%9D%90%E6%96%99%23&Refer=top)
@@ -48,7 +48,7 @@
 1. [唐嫣连续5年资助藏族女学生](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%AB%A3%E8%BF%9E%E7%BB%AD5%E5%B9%B4%E8%B5%84%E5%8A%A9%E8%97%8F%E6%97%8F%E5%A5%B3%E5%AD%A6%E7%94%9F%23&Refer=top)
    热 ->
 1. [买了会员还要花钱超前点播合理吗](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E4%BA%86%E4%BC%9A%E5%91%98%E8%BF%98%E8%A6%81%E8%8A%B1%E9%92%B1%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD%E5%90%88%E7%90%86%E5%90%97%23&Refer=top)
-   新 ->
+   新 -> -> 新
 1. [女孩5岁练舞下腰致截瘫](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%A95%E5%B2%81%E7%BB%83%E8%88%9E%E4%B8%8B%E8%85%B0%E8%87%B4%E6%88%AA%E7%98%AB&Refer=top)
    新
 1. [今年没有乒乒乓乓了](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%B2%A1%E6%9C%89%E4%B9%92%E4%B9%92%E4%B9%93%E4%B9%93%E4%BA%86%23&Refer=top)
@@ -76,7 +76,7 @@
    新
 1. [这就是人类社交的天花板](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BA%A4%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top)
    新
-1. [阿里](https://s.weibo.com//weibo?q=%E9%98%BF%E9%87%8C&Refer=top) 新
+1. [阿里](https://s.weibo.com//weibo?q=%E9%98%BF%E9%87%8C&Refer=top) 新 -> 热
 1. [王嘉尔一个人就是一个制作团队](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%88%B6%E4%BD%9C%E5%9B%A2%E9%98%9F%23&Refer=top)
    新
 1. [中国驻美使馆向美媒投稿均遭拒绝](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BE%8E%E4%BD%BF%E9%A6%86%E5%90%91%E7%BE%8E%E5%AA%92%E6%8A%95%E7%A8%BF%E5%9D%87%E9%81%AD%E6%8B%92%E7%BB%9D%23&Refer=top)
@@ -95,9 +95,13 @@
 1. [中国共产党的历史使命与行动价值](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BD%BF%E5%91%BD%E4%B8%8E%E8%A1%8C%E5%8A%A8%E4%BB%B7%E5%80%BC%23&Refer=new_time)
    热
 1. [赵薇怎么了](https://s.weibo.com//weibo?q=%E8%B5%B5%E8%96%87%E6%80%8E%E4%B9%88%E4%BA%86&Refer=top)
-   新
+   新 -> 沸
 1. [万惠](https://s.weibo.com//weibo?q=%E4%B8%87%E6%83%A0&Refer=top) 新
 1. [阿富汗前总统卡尔扎伊被软禁](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E5%B0%94%E6%89%8E%E4%BC%8A%E8%A2%AB%E8%BD%AF%E7%A6%81%23&Refer=top)
+1. [Angelababy发文回顾心动的信号](https://s.weibo.com//weibo?q=%23Angelababy%E5%8F%91%E6%96%87%E5%9B%9E%E9%A1%BE%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23&Refer=top)
+   新
+1. [孙红雷再次集结绿藤市民](https://s.weibo.com//weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%86%8D%E6%AC%A1%E9%9B%86%E7%BB%93%E7%BB%BF%E8%97%A4%E5%B8%82%E6%B0%91%23&Refer=top)
+   新
 
 <!-- END -->
 

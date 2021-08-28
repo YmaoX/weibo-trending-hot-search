@@ -107,7 +107,7 @@
   {
     "url": "/weibo?q=%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5&Refer=top",
     "title": "快乐大本营",
-    "mark": "新 ->  -> 热"
+    "mark": "新 ->  -> 热 -> "
   },
   {
     "url": "/weibo?q=%E6%98%A5%E6%97%A5%E5%AE%B4&Refer=top",
@@ -287,11 +287,11 @@
   {
     "url": "/weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E100%E8%BF%9B49&Refer=top",
     "title": "这就是街舞100进49",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E%E8%BD%AE%E6%A4%85%E8%88%9E&Refer=top",
     "title": "这就是街舞轮椅舞",
-    "mark": "新"
+    "mark": "新 -> "
   }
 ]

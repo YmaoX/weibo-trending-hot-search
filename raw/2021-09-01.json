@@ -17,7 +17,7 @@
   {
     "url": "/weibo?q=%23%E5%AE%9D%E9%A9%AC16.33%E4%BA%BF%E8%B4%AD%E4%B8%8B%E5%8D%8E%E6%99%A8%E4%B8%AD%E5%8D%8E%23&Refer=top",
     "title": "宝马16.33亿购下华晨中华",
-    "mark": "新 -> 热"
+    "mark": "新 -> 热 -> 新"
   },
   {
     "url": "/weibo?q=%23%E8%85%BE%E8%AE%AF%E6%94%BE%E5%BC%83%E9%9F%B3%E4%B9%90%E7%89%88%E6%9D%83%E7%8B%AC%E5%AE%B6%E6%8E%88%E6%9D%83%E6%9D%83%E5%88%A9%23&Refer=top",
@@ -217,7 +217,7 @@
   {
     "url": "/weibo?q=%23%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%80%BB%E7%A5%A8%E6%88%BF73.78%E4%BA%BF%23&Refer=top",
     "title": "暑期档总票房73.78亿",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%BF%99%E5%BC%A0%E5%9B%BE%E5%B1%85%E7%84%B6%E6%98%AF%E7%94%BB%E7%9A%84%23&Refer=top",
@@ -262,6 +262,11 @@
   {
     "url": "/weibo?q=%23%E9%82%B1%E7%91%9E%E8%84%B1%E5%8F%A3%E7%A7%80%E5%90%90%E6%A7%BD%E6%8A%A0%E9%97%A8%E8%80%81%E6%9D%BF%E5%A5%BD%E7%B2%BE%E5%87%86%23&Refer=top",
     "title": "邱瑞脱口秀吐槽抠门老板好精准",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%88%98%E8%AF%97%E9%9B%AF%E6%9C%BA%E5%9C%BA%E7%85%A7%23&Refer=top",
+    "title": "樊振东刘诗雯机场照",
     "mark": "新"
   }
 ]

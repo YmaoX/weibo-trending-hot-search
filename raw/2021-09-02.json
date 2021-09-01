@@ -47,7 +47,7 @@
   {
     "url": "/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%B0%86%E6%89%BF%E8%AE%A4%E9%98%BF%E5%AF%8C%E6%B1%97%E6%96%B0%E6%94%BF%E5%BA%9C%23&Refer=top",
     "title": "中方回应是否将承认阿富汗新政府",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9D%8E%E5%A4%A7%E9%92%8A%E7%95%99%E7%BB%99%E5%90%8E%E4%BA%BA%E7%9A%84%E8%B4%A2%E5%AF%8C%23&Refer=top",
@@ -87,7 +87,7 @@
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%B9%BC%E5%B8%88%E5%85%AC%E4%B8%BB%E6%8A%B1%E9%80%81%E5%93%AD%E9%97%B9%E7%94%B7%E5%AD%A9%E8%BF%9B%E6%95%99%E5%AE%A4%23&Refer=top",
     "title": "女幼师公主抱送哭闹男孩进教室",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9C%A8%E5%A9%89%E6%B8%85%E5%BA%94%E8%AF%A5%E6%BC%94%E6%AE%B5%E8%AA%89%23&Refer=top",
@@ -177,7 +177,7 @@
   {
     "url": "/weibo?q=%23%E5%96%9D%E5%A4%9A%E4%BA%86%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%8F%91%E8%AF%AD%E9%9F%B3%23&Refer=top",
     "title": "喝多了千万不要发语音",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8E%E7%A5%A8%E4%BB%B7%E5%85%AC%E5%B8%83%23&Refer=top",
@@ -267,6 +267,16 @@
   {
     "url": "/weibo?q=%23%E6%9D%8E%E9%98%B3%E5%AE%B6%E6%9A%B4%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%8D%8A%E9%83%A8%E5%88%86%E9%9F%B3%E9%A2%91%23&Refer=top",
     "title": "李阳家暴事件后半部分音频",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%E7%8B%AC%E5%B1%85%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E7%AA%81%E5%8F%91%E4%B8%AD%E9%A3%8E%E9%82%BB%E5%B1%85%E7%BF%BB%E7%AA%97%E6%95%91%E4%BA%BA&Refer=top",
+    "title": "独居男子凌晨突发中风邻居翻窗救人",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%B2%A1%E6%9C%89%E7%A5%96%E5%9B%BD%E7%9A%84%E7%95%8C%E7%A2%91%E5%93%AA%E6%9C%89%E6%88%91%E4%BB%AC%E7%9A%84%E7%89%9B%E7%BE%8A%23&Refer=top",
+    "title": "没有祖国的界碑哪有我们的牛羊",
     "mark": ""
   }
 ]

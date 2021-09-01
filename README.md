@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 01 2021 12:24:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 01 2021 13:16:18 GMT+0800 (China Standard Time) -->
 
 1. [我国建立实施北斗基础产品认证制度](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E7%AB%8B%E5%AE%9E%E6%96%BD%E5%8C%97%E6%96%97%E5%9F%BA%E7%A1%80%E4%BA%A7%E5%93%81%E8%AE%A4%E8%AF%81%E5%88%B6%E5%BA%A6%23&Refer=new_time)
    热
@@ -109,7 +109,7 @@
 1. [电子驾照来了](https://s.weibo.com//weibo?q=%E7%94%B5%E5%AD%90%E9%A9%BE%E7%85%A7%E6%9D%A5%E4%BA%86&Refer=top)
    新 ->
 1. [原来喜羊羊和懒羊羊不是一个品种的羊](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%96%9C%E7%BE%8A%E7%BE%8A%E5%92%8C%E6%87%92%E7%BE%8A%E7%BE%8A%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%93%81%E7%A7%8D%E7%9A%84%E7%BE%8A%23&Refer=top)
-   热
+   热 ->
 1. [洗碗机均价破7000元](https://s.weibo.com//weibo?q=%23%E6%B4%97%E7%A2%97%E6%9C%BA%E5%9D%87%E4%BB%B7%E7%A0%B47000%E5%85%83%23&Refer=top)
    新 ->
 1. [阿富汗已为全球第一大鸦片生产国](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B2%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E5%A4%A7%E9%B8%A6%E7%89%87%E7%94%9F%E4%BA%A7%E5%9B%BD%23&Refer=top)
@@ -167,7 +167,7 @@
 1. [我就是普通一个兵](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%B0%B1%E6%98%AF%E6%99%AE%E9%80%9A%E4%B8%80%E4%B8%AA%E5%85%B5%23&Refer=new_time)
    热
 1. [字节跳动取消大小周后薪资普降](https://s.weibo.com//weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%8F%96%E6%B6%88%E5%A4%A7%E5%B0%8F%E5%91%A8%E5%90%8E%E8%96%AA%E8%B5%84%E6%99%AE%E9%99%8D%23&Refer=top)
-   新 -> 热
+   新 -> 热 -> 沸
 1. [九月文案](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E6%9C%88%E6%96%87%E6%A1%88%23&Refer=top)
    沸
 1. [为什么家长要给孩子设置青少年模式](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%B6%E9%95%BF%E8%A6%81%E7%BB%99%E5%AD%A9%E5%AD%90%E8%AE%BE%E7%BD%AE%E9%9D%92%E5%B0%91%E5%B9%B4%E6%A8%A1%E5%BC%8F%23&Refer=top)
@@ -195,7 +195,7 @@
 1. [小狗被遗弃在17楼边缘淋雨2天2夜](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%8B%97%E8%A2%AB%E9%81%97%E5%BC%83%E5%9C%A817%E6%A5%BC%E8%BE%B9%E7%BC%98%E6%B7%8B%E9%9B%A82%E5%A4%A92%E5%A4%9C%23&Refer=top)
    新 ->
 1. [薇娅停止与田园主义全麦面包合作](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E5%81%9C%E6%AD%A2%E4%B8%8E%E7%94%B0%E5%9B%AD%E4%B8%BB%E4%B9%89%E5%85%A8%E9%BA%A6%E9%9D%A2%E5%8C%85%E5%90%88%E4%BD%9C%23&Refer=top)
-   新
+   新 -> 热
 1. [新中国历史上首个教育督导问责文件](https://s.weibo.com//weibo?q=%23%E6%96%B0%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E4%B8%8A%E9%A6%96%E4%B8%AA%E6%95%99%E8%82%B2%E7%9D%A3%E5%AF%BC%E9%97%AE%E8%B4%A3%E6%96%87%E4%BB%B6%23&Refer=top)
    新 ->
 1. [长津湖定档国庆](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B4%A5%E6%B9%96%E5%AE%9A%E6%A1%A3%E5%9B%BD%E5%BA%86%23&Refer=top)
@@ -209,23 +209,23 @@
 1. [兰州交大遇害研究生和凶手无交集](https://s.weibo.com//weibo?q=%23%E5%85%B0%E5%B7%9E%E4%BA%A4%E5%A4%A7%E9%81%87%E5%AE%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%92%8C%E5%87%B6%E6%89%8B%E6%97%A0%E4%BA%A4%E9%9B%86%23&Refer=top)
    新 ->
 1. [张予曦凤离雪造型](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%87%A4%E7%A6%BB%E9%9B%AA%E9%80%A0%E5%9E%8B%23&Refer=top)
-   新
+   新 ->
 1. [一年级新生哭着折返4次抱妈妈](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E6%96%B0%E7%94%9F%E5%93%AD%E7%9D%80%E6%8A%98%E8%BF%944%E6%AC%A1%E6%8A%B1%E5%A6%88%E5%A6%88%23&Refer=top)
-   新
+   新 -> 热
 1. [今年还有10天假期](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%BF%98%E6%9C%8910%E5%A4%A9%E5%81%87%E6%9C%9F%23&Refer=top)
    新 ->
 1. [大量论文在百度文库售卖姓名学号全泄露](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%87%8F%E8%AE%BA%E6%96%87%E5%9C%A8%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E5%94%AE%E5%8D%96%E5%A7%93%E5%90%8D%E5%AD%A6%E5%8F%B7%E5%85%A8%E6%B3%84%E9%9C%B2%23&Refer=top)
-   新
+   新 ->
 1. [开学第一天成都家长贴墙暗中观察](https://s.weibo.com//weibo?q=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%88%90%E9%83%BD%E5%AE%B6%E9%95%BF%E8%B4%B4%E5%A2%99%E6%9A%97%E4%B8%AD%E8%A7%82%E5%AF%9F&Refer=top)
    新
 1. [千秋令开机](https://s.weibo.com//weibo?q=%23%E5%8D%83%E7%A7%8B%E4%BB%A4%E5%BC%80%E6%9C%BA%23&Refer=top)
-   新
+   新 ->
 1. [山东滨州2例炭疽确诊病例详情](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%BB%A8%E5%B7%9E2%E4%BE%8B%E7%82%AD%E7%96%BD%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%AF%A6%E6%83%85%23&Refer=top)
    新
 1. [成都公积金可以按月提取了](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%85%AC%E7%A7%AF%E9%87%91%E5%8F%AF%E4%BB%A5%E6%8C%89%E6%9C%88%E6%8F%90%E5%8F%96%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [义务教育教师平均工资不低于公务员实现](https://s.weibo.com//weibo?q=%23%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E5%B8%88%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E4%B8%8D%E4%BD%8E%E4%BA%8E%E5%85%AC%E5%8A%A1%E5%91%98%E5%AE%9E%E7%8E%B0%23&Refer=top)
-   新
+   新 ->
 1. [地铁安全员拖拽乘客合理吗](https://s.weibo.com//weibo?q=%23%E5%9C%B0%E9%93%81%E5%AE%89%E5%85%A8%E5%91%98%E6%8B%96%E6%8B%BD%E4%B9%98%E5%AE%A2%E5%90%88%E7%90%86%E5%90%97%23&Refer=top)
    新
 1. [父亲半夜院中独自剥玉米](https://s.weibo.com//weibo?q=%E7%88%B6%E4%BA%B2%E5%8D%8A%E5%A4%9C%E9%99%A2%E4%B8%AD%E7%8B%AC%E8%87%AA%E5%89%A5%E7%8E%89%E7%B1%B3&Refer=top)
@@ -247,6 +247,44 @@
 1. [买个床上的桌子写作业](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E4%B8%AA%E5%BA%8A%E4%B8%8A%E7%9A%84%E6%A1%8C%E5%AD%90%E5%86%99%E4%BD%9C%E4%B8%9A%23&Refer=top)
    新
 1. [女子2年没复查甲状腺结节变成癌](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%902%E5%B9%B4%E6%B2%A1%E5%A4%8D%E6%9F%A5%E7%94%B2%E7%8A%B6%E8%85%BA%E7%BB%93%E8%8A%82%E5%8F%98%E6%88%90%E7%99%8C%23&Refer=top)
+   新
+1. [开学第一课理想照亮未来](https://s.weibo.com//weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E7%90%86%E6%83%B3%E7%85%A7%E4%BA%AE%E6%9C%AA%E6%9D%A5%23&Refer=new_time)
+   热
+1. [郎平卸任中国女排主教练](https://s.weibo.com//weibo?q=%E9%83%8E%E5%B9%B3%E5%8D%B8%E4%BB%BB%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%BB%E6%95%99%E7%BB%83&Refer=top)
+   新
+1. [孙颖莎拿锅铲和小学生打乒乓球](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8B%BF%E9%94%85%E9%93%B2%E5%92%8C%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%89%93%E4%B9%92%E4%B9%93%E7%90%83%23&Refer=top)
+   新
+1. [女主人拿走鹅蛋被公鹅追咬大半年](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E4%B8%BB%E4%BA%BA%E6%8B%BF%E8%B5%B0%E9%B9%85%E8%9B%8B%E8%A2%AB%E5%85%AC%E9%B9%85%E8%BF%BD%E5%92%AC%E5%A4%A7%E5%8D%8A%E5%B9%B4%23&Refer=top)
+   新
+1. [刘璇全程贴着膏药拿下奥运冠军](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%92%87%E5%85%A8%E7%A8%8B%E8%B4%B4%E7%9D%80%E8%86%8F%E8%8D%AF%E6%8B%BF%E4%B8%8B%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%23&Refer=top)
+   新
+1. [成都地铁可以戴口罩刷脸了](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%8F%AF%E4%BB%A5%E6%88%B4%E5%8F%A3%E7%BD%A9%E5%88%B7%E8%84%B8%E4%BA%86%23&Refer=top)
+   新
+1. [李子柒品牌助理回应报警](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E5%93%81%E7%89%8C%E5%8A%A9%E7%90%86%E5%9B%9E%E5%BA%94%E6%8A%A5%E8%AD%A6%23&Refer=top)
+   新
+1. [拜登称为美国撤军决定负全部责任](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%92%A4%E5%86%9B%E5%86%B3%E5%AE%9A%E8%B4%9F%E5%85%A8%E9%83%A8%E8%B4%A3%E4%BB%BB%23&Refer=top)
+   新
+1. [天猫京东下架田园主义全麦面包](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E7%8C%AB%E4%BA%AC%E4%B8%9C%E4%B8%8B%E6%9E%B6%E7%94%B0%E5%9B%AD%E4%B8%BB%E4%B9%89%E5%85%A8%E9%BA%A6%E9%9D%A2%E5%8C%85%23&Refer=top)
+   新
+1. [原来猫咪也会控制情绪](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8C%AB%E5%92%AA%E4%B9%9F%E4%BC%9A%E6%8E%A7%E5%88%B6%E6%83%85%E7%BB%AA%23&Refer=top)
+   新
+1. [一直游到海水变蓝定档](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%9B%B4%E6%B8%B8%E5%88%B0%E6%B5%B7%E6%B0%B4%E5%8F%98%E8%93%9D%E5%AE%9A%E6%A1%A3%23&Refer=top)
+   新
+1. [张雨绮哭戏控制度](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%93%AD%E6%88%8F%E6%8E%A7%E5%88%B6%E5%BA%A6%23&Refer=top)
+   新
+1. [大妈拍脑袋治脱发致眼睛晶状体脱落](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%A6%88%E6%8B%8D%E8%84%91%E8%A2%8B%E6%B2%BB%E8%84%B1%E5%8F%91%E8%87%B4%E7%9C%BC%E7%9D%9B%E6%99%B6%E7%8A%B6%E4%BD%93%E8%84%B1%E8%90%BD%23&Refer=top)
+   新
+1. [12306APP爱心版9月上旬上线](https://s.weibo.com//weibo?q=%2312306APP%E7%88%B1%E5%BF%83%E7%89%889%E6%9C%88%E4%B8%8A%E6%97%AC%E4%B8%8A%E7%BA%BF%23&Refer=top)
+   新
+1. [开学第一天家长统一姿势](https://s.weibo.com//weibo?q=%23%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%AE%B6%E9%95%BF%E7%BB%9F%E4%B8%80%E5%A7%BF%E5%8A%BF%23&Refer=top)
+   新
+1. [中国高校首例克隆猫征婚](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E9%A6%96%E4%BE%8B%E5%85%8B%E9%9A%86%E7%8C%AB%E5%BE%81%E5%A9%9A%23&Refer=top)
+   新
+1. [双面神探定档](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E9%9D%A2%E7%A5%9E%E6%8E%A2%E5%AE%9A%E6%A1%A3%23&Refer=top)
+   新
+1. [今夏转会太刺激了](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%8F%E8%BD%AC%E4%BC%9A%E5%A4%AA%E5%88%BA%E6%BF%80%E4%BA%86%23&Refer=top)
+   新
+1. [小米汽车正式完成工商注册](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%AD%A3%E5%BC%8F%E5%AE%8C%E6%88%90%E5%B7%A5%E5%95%86%E6%B3%A8%E5%86%8C%23&Refer=top)
    新
 
 <!-- END -->

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 05 2021 07:17:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 05 2021 09:01:31 GMT+0800 (China Standard Time) -->
 
 1. [冰封不了的青春](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%B0%81%E4%B8%8D%E4%BA%86%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=new_time)
    热
@@ -113,9 +113,9 @@
 1. [十堰一地5000群众转移](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%A0%B0%E4%B8%80%E5%9C%B05000%E7%BE%A4%E4%BC%97%E8%BD%AC%E7%A7%BB%23&Refer=top)
    新 ->
 1. [人没到公司鞋先到了](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B2%A1%E5%88%B0%E5%85%AC%E5%8F%B8%E9%9E%8B%E5%85%88%E5%88%B0%E4%BA%86%23&Refer=top)
-   新
+   新 -> 热
 1. [央视曝职业学校收费乱象](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E8%81%8C%E4%B8%9A%E5%AD%A6%E6%A0%A1%E6%94%B6%E8%B4%B9%E4%B9%B1%E8%B1%A1%23&Refer=top)
-   新
+   新 -> 热
 1. [哪一瞬间让你决定就是他了](https://s.weibo.com//weibo?q=%23%E5%93%AA%E4%B8%80%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BD%A0%E5%86%B3%E5%AE%9A%E5%B0%B1%E6%98%AF%E4%BB%96%E4%BA%86%23&Refer=top)
    新
 1. [哈尔滨一公司用废品回收车送学生餐](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E5%85%AC%E5%8F%B8%E7%94%A8%E5%BA%9F%E5%93%81%E5%9B%9E%E6%94%B6%E8%BD%A6%E9%80%81%E5%AD%A6%E7%94%9F%E9%A4%90%23&Refer=top)
@@ -123,6 +123,25 @@
 1. [被许嵩薛之谦戴佩妮跳舞笑死](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%AE%B8%E5%B5%A9%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%B4%E4%BD%A9%E5%A6%AE%E8%B7%B3%E8%88%9E%E7%AC%91%E6%AD%BB%23&Refer=top)
    综
 1. [刘宪华popping创意](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8Epopping%E5%88%9B%E6%84%8F%23&Refer=top)
+   综
+1. [弟弟见到退伍哥哥后激动到流泪](https://s.weibo.com//weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%A7%81%E5%88%B0%E9%80%80%E4%BC%8D%E5%93%A5%E5%93%A5%E5%90%8E%E6%BF%80%E5%8A%A8%E5%88%B0%E6%B5%81%E6%B3%AA%23&Refer=top)
+   新
+1. [中国已4次包揽残奥金银铜](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%B24%E6%AC%A1%E5%8C%85%E6%8F%BD%E6%AE%8B%E5%A5%A5%E9%87%91%E9%93%B6%E9%93%9C%23&Refer=top)
+   新
+1. [警方通报男子挤压幼儿肚子](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E6%8C%A4%E5%8E%8B%E5%B9%BC%E5%84%BF%E8%82%9A%E5%AD%90%23&Refer=top)
+   新
+1. [吴晓亮演技](https://s.weibo.com//weibo?q=%E5%90%B4%E6%99%93%E4%BA%AE%E6%BC%94%E6%8A%80&Refer=top)
+   剧
+1. [工作前后生活有啥变化](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%89%8D%E5%90%8E%E7%94%9F%E6%B4%BB%E6%9C%89%E5%95%A5%E5%8F%98%E5%8C%96%23&Refer=top)
+   新
+1. [中秋假期火车票开售](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%81%87%E6%9C%9F%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%BC%80%E5%94%AE%23&Refer=top)
+   新
+1. [日本为啥打死不认错](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%95%A5%E6%89%93%E6%AD%BB%E4%B8%8D%E8%AE%A4%E9%94%99%23&Refer=top)
+1. [100秒混剪中国残奥军团名场面](https://s.weibo.com//weibo?q=%23100%E7%A7%92%E6%B7%B7%E5%89%AA%E4%B8%AD%E5%9B%BD%E6%AE%8B%E5%A5%A5%E5%86%9B%E5%9B%A2%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
+   新
+1. [东京残奥会今日闭幕](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E4%BA%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%E4%BB%8A%E6%97%A5%E9%97%AD%E5%B9%95%23&Refer=top)
+   新
+1. [毛不易若有缘由首唱舞台](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E8%8B%A5%E6%9C%89%E7%BC%98%E7%94%B1%E9%A6%96%E5%94%B1%E8%88%9E%E5%8F%B0%23&Refer=top)
    综
 
 <!-- END -->

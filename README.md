@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 07 2021 03:13:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 07 2021 04:19:01 GMT+0800 (China Standard Time) -->
 
 1. [横琴粤澳深度合作区](https://s.weibo.com//weibo?q=%23%E6%A8%AA%E7%90%B4%E7%B2%A4%E6%BE%B3%E6%B7%B1%E5%BA%A6%E5%90%88%E4%BD%9C%E5%8C%BA%23&Refer=new_time)
    热
@@ -41,7 +41,7 @@
 1. [把削发器当成了梳子](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E5%89%8A%E5%8F%91%E5%99%A8%E5%BD%93%E6%88%90%E4%BA%86%E6%A2%B3%E5%AD%90%23&Refer=top)
    新 ->
 1. [北大两次发函要求福建一学校更名](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E4%B8%A4%E6%AC%A1%E5%8F%91%E5%87%BD%E8%A6%81%E6%B1%82%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%AD%A6%E6%A0%A1%E6%9B%B4%E5%90%8D%23&Refer=top)
-   热
+   热 ->
 1. [4岁娃边哭边做动作跳下3米台](https://s.weibo.com//weibo?q=%234%E5%B2%81%E5%A8%83%E8%BE%B9%E5%93%AD%E8%BE%B9%E5%81%9A%E5%8A%A8%E4%BD%9C%E8%B7%B3%E4%B8%8B3%E7%B1%B3%E5%8F%B0%23&Refer=top)
    新 ->
 1. [其实你比想象中更好](https://s.weibo.com//weibo?q=%23%E5%85%B6%E5%AE%9E%E4%BD%A0%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%9B%B4%E5%A5%BD%23&Refer=top)
@@ -102,7 +102,7 @@
 1. [第32届国际航空科学大会](https://s.weibo.com//weibo?q=%23%E7%AC%AC32%E5%B1%8A%E5%9B%BD%E9%99%85%E8%88%AA%E7%A9%BA%E7%A7%91%E5%AD%A6%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
    热
 1. [54岁砌砖大叔自学考上大学](https://s.weibo.com//weibo?q=%2354%E5%B2%81%E7%A0%8C%E7%A0%96%E5%A4%A7%E5%8F%94%E8%87%AA%E5%AD%A6%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%23&Refer=top)
-   新
+   新 ->
 1. [见过最离谱的厕所设计](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E5%8E%95%E6%89%80%E8%AE%BE%E8%AE%A1%23&Refer=top)
    新
 1. [学生时代相互暗恋图鉴](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E6%97%B6%E4%BB%A3%E7%9B%B8%E4%BA%92%E6%9A%97%E6%81%8B%E5%9B%BE%E9%89%B4%23&Refer=top)

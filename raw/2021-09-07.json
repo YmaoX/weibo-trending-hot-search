@@ -17,7 +17,7 @@
   {
     "url": "/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%9A%9D%E6%B2%B9%E6%98%AF%E8%A6%81%E6%94%BE%E5%86%B0%E7%AE%B1%E7%9A%84%23&Refer=top",
     "title": "原来蚝油是要放冰箱的",
-    "mark": "沸"
+    "mark": "沸 -> 热"
   },
   {
     "url": "/weibo?q=%23%E6%9C%89%E4%BA%9B%E9%92%B1%E8%BF%98%E6%98%AF%E8%AE%A9%E7%BE%8E%E7%94%B2%E5%BA%97%E8%B5%9A%E5%90%A7%23&Refer=top",
@@ -307,12 +307,12 @@
   {
     "url": "/weibo?q=%23%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AD%A6%E7%94%9F%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%BC%82%E5%B8%B8%23&Refer=top",
     "title": "西南大学一学生核酸检测结果异常",
-    "mark": "新"
+    "mark": "新 -> 热"
   },
   {
     "url": "/weibo?q=%E7%99%BD%E9%9C%B2&Refer=top",
     "title": "白露",
-    "mark": "新"
+    "mark": "新 -> 沸"
   },
   {
     "url": "/weibo?q=%23%E4%B9%94%E5%9B%9B%E7%BE%8E%E6%96%97%E4%BF%9D%E5%A7%86%23&Refer=top",
@@ -347,7 +347,7 @@
   {
     "url": "/weibo?q=%23%E8%AE%A9%E4%BF%9D%E7%BD%97%E8%B4%9D%E5%B0%94%E8%92%99%E5%A4%9A%E5%8E%BB%E4%B8%96%23&Refer=top",
     "title": "让保罗贝尔蒙多去世",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A6%8F%E5%88%A9%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%B6%89%E5%AB%8C%E5%A5%97%E6%8D%90%23&Refer=top",
@@ -367,6 +367,26 @@
   {
     "url": "/weibo?q=%23%E9%98%BF%E9%87%8C%E4%BE%B5%E5%AE%B3%E6%A1%88%E7%8E%8B%E6%9F%90%E6%96%87%E8%A2%AB%E6%8B%98%E7%95%9915%E6%97%A5%23&Refer=top",
     "title": "阿里侵害案王某文被拘留15日",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%B6%854000%E4%B8%87%E4%BE%8B%23&Refer=top",
+    "title": "美国累计确诊病例超4000万例",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%86%9B%E8%AE%AD%E5%89%8D%E8%BF%98%E6%98%AF%E4%BC%9A%E8%B5%B0%E8%B7%AF%E7%9A%84%23&Refer=top",
+    "title": "军训前还是会走路的",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A1%97%E8%88%9E4%E7%9F%AD%E5%8F%91%E7%85%A7%23&Refer=top",
+    "title": "王一博街舞4短发照",
+    "mark": "综"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%8D%E6%83%B3%E8%84%B1%E5%8F%91%E4%B8%80%E5%AE%9A%E8%A6%81%E7%AE%A1%E4%BD%8F%E5%98%B4%23&Refer=top",
+    "title": "不想脱发一定要管住嘴",
     "mark": "新"
   }
 ]

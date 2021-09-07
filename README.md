@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 07 2021 08:57:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 07 2021 09:59:02 GMT+0800 (China Standard Time) -->
 
 1. [横琴粤澳深度合作区](https://s.weibo.com//weibo?q=%23%E6%A8%AA%E7%90%B4%E7%B2%A4%E6%BE%B3%E6%B7%B1%E5%BA%A6%E5%90%88%E4%BD%9C%E5%8C%BA%23&Refer=new_time)
    热
@@ -23,7 +23,7 @@
 1. [买车3年不知有空调热晕出车祸](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E8%BD%A63%E5%B9%B4%E4%B8%8D%E7%9F%A5%E6%9C%89%E7%A9%BA%E8%B0%83%E7%83%AD%E6%99%95%E5%87%BA%E8%BD%A6%E7%A5%B8%23&Refer=top)
    热 -> -> 热
 1. [原来蚝油是要放冰箱的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%9A%9D%E6%B2%B9%E6%98%AF%E8%A6%81%E6%94%BE%E5%86%B0%E7%AE%B1%E7%9A%84%23&Refer=top)
-   沸
+   沸 -> 热
 1. [有些钱还是让美甲店赚吧](https://s.weibo.com//weibo?q=%23%E6%9C%89%E4%BA%9B%E9%92%B1%E8%BF%98%E6%98%AF%E8%AE%A9%E7%BE%8E%E7%94%B2%E5%BA%97%E8%B5%9A%E5%90%A7%23&Refer=top)
 1. [以色列6名囚犯用勺子挖隧道越狱](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%976%E5%90%8D%E5%9B%9A%E7%8A%AF%E7%94%A8%E5%8B%BA%E5%AD%90%E6%8C%96%E9%9A%A7%E9%81%93%E8%B6%8A%E7%8B%B1%23&Refer=top)
    新 ->
@@ -118,8 +118,8 @@
    新 -> 热
 1. [全运会](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%23&Refer=top)
 1. [西南大学一学生核酸检测结果异常](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AD%A6%E7%94%9F%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%BC%82%E5%B8%B8%23&Refer=top)
-   新
-1. [白露](https://s.weibo.com//weibo?q=%E7%99%BD%E9%9C%B2&Refer=top) 新
+   新 -> 热
+1. [白露](https://s.weibo.com//weibo?q=%E7%99%BD%E9%9C%B2&Refer=top) 新 -> 沸
 1. [乔四美斗保姆](https://s.weibo.com//weibo?q=%23%E4%B9%94%E5%9B%9B%E7%BE%8E%E6%96%97%E4%BF%9D%E5%A7%86%23&Refer=top)
    剧
 1. [腾讯游戏回应租号打游戏](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%9B%9E%E5%BA%94%E7%A7%9F%E5%8F%B7%E6%89%93%E6%B8%B8%E6%88%8F%23&Refer=top)
@@ -131,7 +131,7 @@
 1. [重听袁爷爷对年轻人的嘱托](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%90%AC%E8%A2%81%E7%88%B7%E7%88%B7%E5%AF%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E5%98%B1%E6%89%98%23&Refer=top)
    新
 1. [让保罗贝尔蒙多去世](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E4%BF%9D%E7%BD%97%E8%B4%9D%E5%B0%94%E8%92%99%E5%A4%9A%E5%8E%BB%E4%B8%96%23&Refer=top)
-   新
+   新 ->
 1. [中国社会福利基金会回应涉嫌套捐](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A6%8F%E5%88%A9%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%B6%89%E5%AB%8C%E5%A5%97%E6%8D%90%23&Refer=top)
    新
 1. [上美影厂的冬奥会宣传片](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E7%BE%8E%E5%BD%B1%E5%8E%82%E7%9A%84%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%89%87%23&Refer=top)
@@ -139,6 +139,14 @@
 1. [爷爷奶奶互喂螃蟹反应可爱](https://s.weibo.com//weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E4%BA%92%E5%96%82%E8%9E%83%E8%9F%B9%E5%8F%8D%E5%BA%94%E5%8F%AF%E7%88%B1%23&Refer=top)
    新
 1. [阿里侵害案王某文被拘留15日](https://s.weibo.com//weibo?q=%23%E9%98%BF%E9%87%8C%E4%BE%B5%E5%AE%B3%E6%A1%88%E7%8E%8B%E6%9F%90%E6%96%87%E8%A2%AB%E6%8B%98%E7%95%9915%E6%97%A5%23&Refer=top)
+   新
+1. [美国累计确诊病例超4000万例](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%B6%854000%E4%B8%87%E4%BE%8B%23&Refer=top)
+   新
+1. [军训前还是会走路的](https://s.weibo.com//weibo?q=%23%E5%86%9B%E8%AE%AD%E5%89%8D%E8%BF%98%E6%98%AF%E4%BC%9A%E8%B5%B0%E8%B7%AF%E7%9A%84%23&Refer=top)
+   新
+1. [王一博街舞4短发照](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A1%97%E8%88%9E4%E7%9F%AD%E5%8F%91%E7%85%A7%23&Refer=top)
+   综
+1. [不想脱发一定要管住嘴](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%83%B3%E8%84%B1%E5%8F%91%E4%B8%80%E5%AE%9A%E8%A6%81%E7%AE%A1%E4%BD%8F%E5%98%B4%23&Refer=top)
    新
 
 <!-- END -->

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 11 2021 01:19:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 11 2021 02:21:06 GMT+0800 (China Standard Time) -->
 
 1. [世纪之问中美如何解答](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%BA%AA%E4%B9%8B%E9%97%AE%E4%B8%AD%E7%BE%8E%E5%A6%82%E4%BD%95%E8%A7%A3%E7%AD%94%23&Refer=new_time)
    热
@@ -37,7 +37,7 @@
 1. [皮箱藏尸案出租司机被网暴](https://s.weibo.com//weibo?q=%23%E7%9A%AE%E7%AE%B1%E8%97%8F%E5%B0%B8%E6%A1%88%E5%87%BA%E7%A7%9F%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%BD%91%E6%9A%B4%23&Refer=top)
    新 ->
 1. [帮吴磊看病的医生是陶勇](https://s.weibo.com//weibo?q=%E5%B8%AE%E5%90%B4%E7%A3%8A%E7%9C%8B%E7%97%85%E7%9A%84%E5%8C%BB%E7%94%9F%E6%98%AF%E9%99%B6%E5%8B%87&Refer=top)
-   新
+   新 ->
 1. [顶楼3全员下线](https://s.weibo.com//weibo?q=%23%E9%A1%B6%E6%A5%BC3%E5%85%A8%E5%91%98%E4%B8%8B%E7%BA%BF%23&Refer=top)
    新
 1. [虎鲸被圈养42年后开始严重自残](https://s.weibo.com//weibo?q=%23%E8%99%8E%E9%B2%B8%E8%A2%AB%E5%9C%88%E5%85%BB42%E5%B9%B4%E5%90%8E%E5%BC%80%E5%A7%8B%E4%B8%A5%E9%87%8D%E8%87%AA%E6%AE%8B%23&Refer=top)
@@ -56,7 +56,7 @@
    新
 1. [你发过仅一人可见的朋友圈吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%8F%91%E8%BF%87%E4%BB%85%E4%B8%80%E4%BA%BA%E5%8F%AF%E8%A7%81%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%90%97%23&Refer=top)
 1. [李宁客服回应陈雨菲被运动鞋划伤](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%81%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%99%88%E9%9B%A8%E8%8F%B2%E8%A2%AB%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%88%92%E4%BC%A4%23&Refer=top)
-   热
+   热 ->
 1. [心疼刘端端](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E5%88%98%E7%AB%AF%E7%AB%AF%23&Refer=top)
    综
 1. [人生第一次这么想要小钢腿](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%99%E4%B9%88%E6%83%B3%E8%A6%81%E5%B0%8F%E9%92%A2%E8%85%BF%23&Refer=top)
@@ -104,6 +104,9 @@
 1. [千书真把秀莲推下海](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B9%A6%E7%9C%9F%E6%8A%8A%E7%A7%80%E8%8E%B2%E6%8E%A8%E4%B8%8B%E6%B5%B7%23&Refer=top)
    剧
 1. [成都地铁在建工地坍塌4死14伤](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%9C%A8%E5%BB%BA%E5%B7%A5%E5%9C%B0%E5%9D%8D%E5%A1%8C4%E6%AD%BB14%E4%BC%A4%23&Refer=top)
+1. [革命先辈的教育初心](https://s.weibo.com//weibo?q=%23%E9%9D%A9%E5%91%BD%E5%85%88%E8%BE%88%E7%9A%84%E6%95%99%E8%82%B2%E5%88%9D%E5%BF%83%23&Refer=new_time)
+   热
+1. [塔利班展示占领阿富汗军阀豪宅](https://s.weibo.com//weibo?q=%23%E5%A1%94%E5%88%A9%E7%8F%AD%E5%B1%95%E7%A4%BA%E5%8D%A0%E9%A2%86%E9%98%BF%E5%AF%8C%E6%B1%97%E5%86%9B%E9%98%80%E8%B1%AA%E5%AE%85%23&Refer=top)
 
 <!-- END -->
 

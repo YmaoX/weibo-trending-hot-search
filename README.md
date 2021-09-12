@@ -14,16 +14,16 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 12 2021 07:17:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 12 2021 09:02:14 GMT+0800 (China Standard Time) -->
 
 1. [中方期待同金砖伙伴深化合作](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85%E5%90%8C%E9%87%91%E7%A0%96%E4%BC%99%E4%BC%B4%E6%B7%B1%E5%8C%96%E5%90%88%E4%BD%9C%23&Refer=new_time)
    热
 1. [阿姨吃3年酵素肠子表面像蛇皮](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A7%A8%E5%90%833%E5%B9%B4%E9%85%B5%E7%B4%A0%E8%82%A0%E5%AD%90%E8%A1%A8%E9%9D%A2%E5%83%8F%E8%9B%87%E7%9A%AE%23&Refer=top)
    沸
 1. [8岁男童挖鼻孔出血致颅内感染](https://s.weibo.com//weibo?q=%238%E5%B2%81%E7%94%B7%E7%AB%A5%E6%8C%96%E9%BC%BB%E5%AD%94%E5%87%BA%E8%A1%80%E8%87%B4%E9%A2%85%E5%86%85%E6%84%9F%E6%9F%93%23&Refer=top)
-   热 ->
+   热 -> -> 热
 1. [熬夜的七大好处](https://s.weibo.com//weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9A%84%E4%B8%83%E5%A4%A7%E5%A5%BD%E5%A4%84%23&Refer=top)
-   沸
+   沸 -> 热
 1. [快乐家族首次六人合体](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E4%B9%90%E5%AE%B6%E6%97%8F%E9%A6%96%E6%AC%A1%E5%85%AD%E4%BA%BA%E5%90%88%E4%BD%93%23&Refer=top)
    综
 1. [全上海都在偶遇周深](https://s.weibo.com//weibo?q=%23%E5%85%A8%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%9C%A8%E5%81%B6%E9%81%87%E5%91%A8%E6%B7%B1%23&Refer=top)
@@ -40,7 +40,7 @@
 1. [爱抖腿是个坏习惯吗](https://s.weibo.com//weibo?q=%23%E7%88%B1%E6%8A%96%E8%85%BF%E6%98%AF%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%E5%90%97%23&Refer=top)
    新 ->
 1. [福建疫情](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E7%96%AB%E6%83%85%23&Refer=top)
-   热
+   热 ->
 1. [刘宪华说选人比battle更累](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E8%AF%B4%E9%80%89%E4%BA%BA%E6%AF%94battle%E6%9B%B4%E7%B4%AF%23&Refer=top)
    新 ->
 1. [911事件20年](https://s.weibo.com//weibo?q=%23911%E4%BA%8B%E4%BB%B620%E5%B9%B4%23&Refer=top)
@@ -60,6 +60,7 @@
 1. [王一博战队招人宣言](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%88%98%E9%98%9F%E6%8B%9B%E4%BA%BA%E5%AE%A3%E8%A8%80%23&Refer=top)
    综
 1. [皮箱藏尸案嫌疑人朋友圈](https://s.weibo.com//weibo?q=%23%E7%9A%AE%E7%AE%B1%E8%97%8F%E5%B0%B8%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top)
+   -> 热
 1. [丁程鑫首次以快乐家族身份亮相](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E9%A6%96%E6%AC%A1%E4%BB%A5%E5%BF%AB%E4%B9%90%E5%AE%B6%E6%97%8F%E8%BA%AB%E4%BB%BD%E4%BA%AE%E7%9B%B8%23&Refer=top)
    综
 1. [40元能买100G虐猫视频](https://s.weibo.com//weibo?q=%2340%E5%85%83%E8%83%BD%E4%B9%B0100G%E8%99%90%E7%8C%AB%E8%A7%86%E9%A2%91%23&Refer=top)
@@ -110,6 +111,39 @@
    综
 1. [曼联4比1纽卡斯尔](https://s.weibo.com//weibo?q=%E6%9B%BC%E8%81%944%E6%AF%941%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94&Refer=top)
    新
+1. [福建仙游疑似源头病例曾跨市流动](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E7%96%91%E4%BC%BC%E6%BA%90%E5%A4%B4%E7%97%85%E4%BE%8B%E6%9B%BE%E8%B7%A8%E5%B8%82%E6%B5%81%E5%8A%A8%23&Refer=top)
+   新
+1. [保定致6死羽绒加工厂曾被罚72000元](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E5%AE%9A%E8%87%B46%E6%AD%BB%E7%BE%BD%E7%BB%92%E5%8A%A0%E5%B7%A5%E5%8E%82%E6%9B%BE%E8%A2%AB%E7%BD%9A72000%E5%85%83%23&Refer=top)
+   新
+1. [莆田发公告非必要不离开本市](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E5%8F%91%E5%85%AC%E5%91%8A%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E7%A6%BB%E5%BC%80%E6%9C%AC%E5%B8%82%23&Refer=top)
+   新
+1. [18岁华裔小将夺美网冠军](https://s.weibo.com//weibo?q=%2318%E5%B2%81%E5%8D%8E%E8%A3%94%E5%B0%8F%E5%B0%86%E5%A4%BA%E7%BE%8E%E7%BD%91%E5%86%A0%E5%86%9B%23&Refer=top)
+   新
+1. [三星堆金面罩刚出土时其实是坨金疙瘩](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E9%87%91%E9%9D%A2%E7%BD%A9%E5%88%9A%E5%87%BA%E5%9C%9F%E6%97%B6%E5%85%B6%E5%AE%9E%E6%98%AF%E5%9D%A8%E9%87%91%E7%96%99%E7%98%A9%23&Refer=top)
+   新
+1. [福建仙游火车站禁止上下客](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E7%81%AB%E8%BD%A6%E7%AB%99%E7%A6%81%E6%AD%A2%E4%B8%8A%E4%B8%8B%E5%AE%A2%23&Refer=top)
+   新
+1. [女子哭诉新车被4S店员工撞坏不赔](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E6%96%B0%E8%BD%A6%E8%A2%AB4S%E5%BA%97%E5%91%98%E5%B7%A5%E6%92%9E%E5%9D%8F%E4%B8%8D%E8%B5%94%23&Refer=top)
+   新
+1. [女子去弟弟家打扫却收拾了别人家](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8E%BB%E5%BC%9F%E5%BC%9F%E5%AE%B6%E6%89%93%E6%89%AB%E5%8D%B4%E6%94%B6%E6%8B%BE%E4%BA%86%E5%88%AB%E4%BA%BA%E5%AE%B6%23&Refer=top)
+   新
+1. [C罗梅开二度](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&Refer=top)
+1. [特战队员照镜子34秒反向击灭烛火](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%88%98%E9%98%9F%E5%91%98%E7%85%A7%E9%95%9C%E5%AD%9034%E7%A7%92%E5%8F%8D%E5%90%91%E5%87%BB%E7%81%AD%E7%83%9B%E7%81%AB%23&Refer=top)
+   新
+1. [薛之谦被感动哭](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%A2%AB%E6%84%9F%E5%8A%A8%E5%93%AD%23&Refer=top)
+   综
+1. [31省区市新增20例本土确诊](https://s.weibo.com//weibo?q=%2331%E7%9C%81%E5%8C%BA%E5%B8%82%E6%96%B0%E5%A2%9E20%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+   新
+1. [娜扎掰手腕手劲好大](https://s.weibo.com//weibo?q=%E5%A8%9C%E6%89%8E%E6%8E%B0%E6%89%8B%E8%85%95%E6%89%8B%E5%8A%B2%E5%A5%BD%E5%A4%A7&Refer=top)
+   综
+1. [福建仙游暂时关停网吧电影院等场所](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E6%9A%82%E6%97%B6%E5%85%B3%E5%81%9C%E7%BD%91%E5%90%A7%E7%94%B5%E5%BD%B1%E9%99%A2%E7%AD%89%E5%9C%BA%E6%89%80%23&Refer=top)
+   新
+1. [好好的名字被姓毁了](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%A5%BD%E7%9A%84%E5%90%8D%E5%AD%97%E8%A2%AB%E5%A7%93%E6%AF%81%E4%BA%86%23&Refer=top)
+   新
+1. [能换个成熟点的头像不](https://s.weibo.com//weibo?q=%23%E8%83%BD%E6%8D%A2%E4%B8%AA%E6%88%90%E7%86%9F%E7%82%B9%E7%9A%84%E5%A4%B4%E5%83%8F%E4%B8%8D%23&Refer=top)
+   新
+1. [看王源南三班舞台想去海边](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E7%8E%8B%E6%BA%90%E5%8D%97%E4%B8%89%E7%8F%AD%E8%88%9E%E5%8F%B0%E6%83%B3%E5%8E%BB%E6%B5%B7%E8%BE%B9%23&Refer=top)
+   综
 
 <!-- END -->
 

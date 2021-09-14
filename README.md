@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 14 2021 21:23:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 14 2021 22:16:46 GMT+0800 (China Standard Time) -->
 
 1. [支持数字经济创新发展](https://s.weibo.com//weibo?q=%23%E6%94%AF%E6%8C%81%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%88%9B%E6%96%B0%E5%8F%91%E5%B1%95%23&Refer=new_time)
    热
@@ -318,7 +318,7 @@
 1. [全国健康码行程码实现一页通行](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%81%A5%E5%BA%B7%E7%A0%81%E8%A1%8C%E7%A8%8B%E7%A0%81%E5%AE%9E%E7%8E%B0%E4%B8%80%E9%A1%B5%E9%80%9A%E8%A1%8C%23&Refer=top)
    新 ->
 1. [袁隆平差点进入游泳国家队](https://s.weibo.com//weibo?q=%23%E8%A2%81%E9%9A%86%E5%B9%B3%E5%B7%AE%E7%82%B9%E8%BF%9B%E5%85%A5%E6%B8%B8%E6%B3%B3%E5%9B%BD%E5%AE%B6%E9%98%9F%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [妈妈是不是说漏嘴了](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E6%98%AF%E4%B8%8D%E6%98%AF%E8%AF%B4%E6%BC%8F%E5%98%B4%E4%BA%86%23&Refer=top)
    新 ->
 1. [武汉遇害律师亲属发声](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E9%81%87%E5%AE%B3%E5%BE%8B%E5%B8%88%E4%BA%B2%E5%B1%9E%E5%8F%91%E5%A3%B0%23&Refer=top)
@@ -487,43 +487,43 @@
 1. [把灌汤包从3D蒸成2D](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E7%81%8C%E6%B1%A4%E5%8C%85%E4%BB%8E3D%E8%92%B8%E6%88%902D%23&Refer=top)
    新 ->
 1. [全红婵看个比赛好忙](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9C%8B%E4%B8%AA%E6%AF%94%E8%B5%9B%E5%A5%BD%E5%BF%99%23&Refer=top)
-   新
+   新 ->
 1. [有的狗是真的狗](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%9A%84%E7%8B%97%E6%98%AF%E7%9C%9F%E7%9A%84%E7%8B%97%23&Refer=top)
    新 ->
 1. [当广东人第一次来四川](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E5%9B%9B%E5%B7%9D%23&Refer=top)
    新 ->
 1. [樊振东全红婵的体型差](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%84%E4%BD%93%E5%9E%8B%E5%B7%AE%23&Refer=top)
-   新
+   新 -> 沸
 1. [普京接触新冠感染者将进行自我隔离](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8E%A5%E8%A7%A6%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E8%80%85%E5%B0%86%E8%BF%9B%E8%A1%8C%E8%87%AA%E6%88%91%E9%9A%94%E7%A6%BB%23&Refer=top)
    新 ->
 1. [校方回应老师当堂摔烂手机](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E5%BD%93%E5%A0%82%E6%91%94%E7%83%82%E6%89%8B%E6%9C%BA%23&Refer=top)
-   新
+   新 ->
 1. [新生儿患罕见病全身散发香味](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%94%9F%E5%84%BF%E6%82%A3%E7%BD%95%E8%A7%81%E7%97%85%E5%85%A8%E8%BA%AB%E6%95%A3%E5%8F%91%E9%A6%99%E5%91%B3%23&Refer=top)
    新 ->
 1. [吴丽姿吃醋](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%B8%BD%E5%A7%BF%E5%90%83%E9%86%8B%23&Refer=top)
    新 ->
 1. [南京晚霞](https://s.weibo.com//weibo?q=%E5%8D%97%E4%BA%AC%E6%99%9A%E9%9C%9E&Refer=top)
-   新
+   新 ->
 1. [最后的真相定档](https://s.weibo.com//weibo?q=%23%E6%9C%80%E5%90%8E%E7%9A%84%E7%9C%9F%E7%9B%B8%E5%AE%9A%E6%A1%A3%23&Refer=top)
    新 ->
 1. [工信部正式开通一证通查服务](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%AD%A3%E5%BC%8F%E5%BC%80%E9%80%9A%E4%B8%80%E8%AF%81%E9%80%9A%E6%9F%A5%E6%9C%8D%E5%8A%A1%23&Refer=top)
    新
 1. [许昕刘诗雯全运会跨省配对](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%88%98%E8%AF%97%E9%9B%AF%E5%85%A8%E8%BF%90%E4%BC%9A%E8%B7%A8%E7%9C%81%E9%85%8D%E5%AF%B9%23&Refer=top)
-   新
+   新 ->
 1. [机智的上半场大结局](https://s.weibo.com//weibo?q=%23%E6%9C%BA%E6%99%BA%E7%9A%84%E4%B8%8A%E5%8D%8A%E5%9C%BA%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
    新 ->
 1. [第14届全运会明天开幕](https://s.weibo.com//weibo?q=%23%E7%AC%AC14%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E6%98%8E%E5%A4%A9%E5%BC%80%E5%B9%95%23&Refer=top)
-   新
+   新 ->
 1. [医院的打印机有多耐用](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E9%99%A2%E7%9A%84%E6%89%93%E5%8D%B0%E6%9C%BA%E6%9C%89%E5%A4%9A%E8%80%90%E7%94%A8%23&Refer=top)
-   新
+   新 ->
 1. [小伙4进火场救出邻居一家6口](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%994%E8%BF%9B%E7%81%AB%E5%9C%BA%E6%95%91%E5%87%BA%E9%82%BB%E5%B1%85%E4%B8%80%E5%AE%B66%E5%8F%A3%23&Refer=top)
    新
 1. [莆田确诊包括7名幼小学生](https://s.weibo.com//weibo?q=%23%E8%8E%86%E7%94%B0%E7%A1%AE%E8%AF%8A%E5%8C%85%E6%8B%AC7%E5%90%8D%E5%B9%BC%E5%B0%8F%E5%AD%A6%E7%94%9F%23&Refer=top)
-   新
+   新 ->
 1. [官方回应网传长沙公职人员网络炫富](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%95%BF%E6%B2%99%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%BD%91%E7%BB%9C%E7%82%AB%E5%AF%8C%23&Refer=top)
    新
 1. [时宜又双叒摸周生辰美人骨](https://s.weibo.com//weibo?q=%23%E6%97%B6%E5%AE%9C%E5%8F%88%E5%8F%8C%E5%8F%92%E6%91%B8%E5%91%A8%E7%94%9F%E8%BE%B0%E7%BE%8E%E4%BA%BA%E9%AA%A8%23&Refer=top)
-   新
+   新 ->
 1. [原来密室npc也这么胆小](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AF%86%E5%AE%A4npc%E4%B9%9F%E8%BF%99%E4%B9%88%E8%83%86%E5%B0%8F%23&Refer=top)
    新
 1. [丹麦宣布取消所有新冠防疫措施](https://s.weibo.com//weibo?q=%23%E4%B8%B9%E9%BA%A6%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88%E6%89%80%E6%9C%89%E6%96%B0%E5%86%A0%E9%98%B2%E7%96%AB%E6%8E%AA%E6%96%BD%23&Refer=top)
@@ -533,7 +533,7 @@
 1. [大学生打篮球受伤索赔6.5万元](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%93%E7%AF%AE%E7%90%83%E5%8F%97%E4%BC%A4%E7%B4%A2%E8%B5%946.5%E4%B8%87%E5%85%83%23&Refer=top)
    新
 1. [吉克隽逸说歌手状态比能力重要](https://s.weibo.com//weibo?q=%23%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E8%AF%B4%E6%AD%8C%E6%89%8B%E7%8A%B6%E6%80%81%E6%AF%94%E8%83%BD%E5%8A%9B%E9%87%8D%E8%A6%81%23&Refer=top)
-   新
+   新 ->
 1. [明明刚才还在手里](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%98%8E%E5%88%9A%E6%89%8D%E8%BF%98%E5%9C%A8%E6%89%8B%E9%87%8C%23&Refer=top)
    新
 1. [时宜情话天才](https://s.weibo.com//weibo?q=%23%E6%97%B6%E5%AE%9C%E6%83%85%E8%AF%9D%E5%A4%A9%E6%89%8D%23&Refer=top)
@@ -545,6 +545,26 @@
 1. [飞猪公布环球优速通出票失败解决方案](https://s.weibo.com//weibo?q=%E9%A3%9E%E7%8C%AA%E5%85%AC%E5%B8%83%E7%8E%AF%E7%90%83%E4%BC%98%E9%80%9F%E9%80%9A%E5%87%BA%E7%A5%A8%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88&Refer=top)
    新
 1. [蔡徐坤时尚COSMO封面拍摄花絮](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%97%B6%E5%B0%9ACOSMO%E5%B0%81%E9%9D%A2%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%23&Refer=top)
+   新
+1. [一生一世才是绝世甜剧](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%94%9F%E4%B8%80%E4%B8%96%E6%89%8D%E6%98%AF%E7%BB%9D%E4%B8%96%E7%94%9C%E5%89%A7%23&Refer=top)
+   新
+1. [白举纲和英语角的哥哥们汇合了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E4%B8%BE%E7%BA%B2%E5%92%8C%E8%8B%B1%E8%AF%AD%E8%A7%92%E7%9A%84%E5%93%A5%E5%93%A5%E4%BB%AC%E6%B1%87%E5%90%88%E4%BA%86%23&Refer=top)
+   新
+1. [杨笠段子讲姐弟相处太真实了](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%AC%A0%E6%AE%B5%E5%AD%90%E8%AE%B2%E5%A7%90%E5%BC%9F%E7%9B%B8%E5%A4%84%E5%A4%AA%E7%9C%9F%E5%AE%9E%E4%BA%86%23&Refer=top)
+   新
+1. [销魂鸡蛋酱拌面](https://s.weibo.com//weibo?q=%E9%94%80%E9%AD%82%E9%B8%A1%E8%9B%8B%E9%85%B1%E6%8B%8C%E9%9D%A2&Refer=top)
+   新
+1. [李钟硕32岁状态](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%9532%E5%B2%81%E7%8A%B6%E6%80%81%23&Refer=top)
+   新
+1. [张艺兴晚安电台钢琴曲](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%99%9A%E5%AE%89%E7%94%B5%E5%8F%B0%E9%92%A2%E7%90%B4%E6%9B%B2%23&Refer=top)
+   新
+1. [巨人造型垃圾桶](https://s.weibo.com//weibo?q=%E5%B7%A8%E4%BA%BA%E9%80%A0%E5%9E%8B%E5%9E%83%E5%9C%BE%E6%A1%B6&Refer=top)
+   新
+1. [石磊膨胀了](https://s.weibo.com//weibo?q=%23%E7%9F%B3%E7%A3%8A%E8%86%A8%E8%83%80%E4%BA%86%23&Refer=top)
+   新
+1. [全运会女篮奥运联合队夺冠](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E5%A5%B3%E7%AF%AE%E5%A5%A5%E8%BF%90%E8%81%94%E5%90%88%E9%98%9F%E5%A4%BA%E5%86%A0%23&Refer=top)
+   新
+1. [飞猪公布环球优速通出票失败解决方案](https://s.weibo.com//weibo?q=%23%E9%A3%9E%E7%8C%AA%E5%85%AC%E5%B8%83%E7%8E%AF%E7%90%83%E4%BC%98%E9%80%9F%E9%80%9A%E5%87%BA%E7%A5%A8%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%23&Refer=top)
    新
 
 <!-- END -->

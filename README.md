@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 16 2021 01:20:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 16 2021 02:21:07 GMT+0800 (China Standard Time) -->
 
 1. [关于加强网络文明建设的意见](https://s.weibo.com//weibo?q=%23%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E7%9A%84%E6%84%8F%E8%A7%81%23&Refer=new_time)
    热
@@ -28,7 +28,7 @@
 1. [全运会开幕式](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23&Refer=top)
    沸
 1. [通州霍格沃茨高等职业学校](https://s.weibo.com//weibo?q=%23%E9%80%9A%E5%B7%9E%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E9%AB%98%E7%AD%89%E8%81%8C%E4%B8%9A%E5%AD%A6%E6%A0%A1%23&Refer=top)
-   新
+   新 ->
 1. [北京朝阳临时封控区域已解封](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E4%B8%B4%E6%97%B6%E5%B0%81%E6%8E%A7%E5%8C%BA%E5%9F%9F%E5%B7%B2%E8%A7%A3%E5%B0%81%23&Refer=top)
    新
 1. [全运会](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%23&Refer=top)
@@ -46,6 +46,7 @@
 1. [黄子韬晒海边照](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%99%92%E6%B5%B7%E8%BE%B9%E7%85%A7%23&Refer=top)
    新
 1. [厦门首例确诊开会未戴口罩致扩散](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E9%A6%96%E4%BE%8B%E7%A1%AE%E8%AF%8A%E5%BC%80%E4%BC%9A%E6%9C%AA%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%87%B4%E6%89%A9%E6%95%A3%23&Refer=top)
+   -> 热
 1. [郭京飞说何广智像小土狗](https://s.weibo.com//weibo?q=%23%E9%83%AD%E4%BA%AC%E9%A3%9E%E8%AF%B4%E4%BD%95%E5%B9%BF%E6%99%BA%E5%83%8F%E5%B0%8F%E5%9C%9F%E7%8B%97%23&Refer=top)
 1. [接福建疾控流调电话请说普通话](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E7%A6%8F%E5%BB%BA%E7%96%BE%E6%8E%A7%E6%B5%81%E8%B0%83%E7%94%B5%E8%AF%9D%E8%AF%B7%E8%AF%B4%E6%99%AE%E9%80%9A%E8%AF%9D%23&Refer=top)
    新
@@ -72,7 +73,7 @@
 1. [海南一条街水果店全姓阿](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E4%B8%80%E6%9D%A1%E8%A1%97%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%85%A8%E5%A7%93%E9%98%BF%23&Refer=top)
 1. [许昕晒与全红婵合照](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E6%99%92%E4%B8%8E%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%90%88%E7%85%A7%23&Refer=top)
 1. [呼兰段子解读消费主义陷阱](https://s.weibo.com//weibo?q=%23%E5%91%BC%E5%85%B0%E6%AE%B5%E5%AD%90%E8%A7%A3%E8%AF%BB%E6%B6%88%E8%B4%B9%E4%B8%BB%E4%B9%89%E9%99%B7%E9%98%B1%23&Refer=top)
-   新
+   新 ->
 1. [不是什么粉色都推送给我](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%98%AF%E4%BB%80%E4%B9%88%E7%B2%89%E8%89%B2%E9%83%BD%E6%8E%A8%E9%80%81%E7%BB%99%E6%88%91%23&Refer=top)
 1. [十四届全运会](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%23&Refer=top)
 1. [全运会提前开赛项目已产生超80块金牌](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E6%8F%90%E5%89%8D%E5%BC%80%E8%B5%9B%E9%A1%B9%E7%9B%AE%E5%B7%B2%E4%BA%A7%E7%94%9F%E8%B6%8580%E5%9D%97%E9%87%91%E7%89%8C%23&Refer=top)
@@ -86,6 +87,13 @@
 1. [豆豆口技还原十元快剪全流程](https://s.weibo.com//weibo?q=%23%E8%B1%86%E8%B1%86%E5%8F%A3%E6%8A%80%E8%BF%98%E5%8E%9F%E5%8D%81%E5%85%83%E5%BF%AB%E5%89%AA%E5%85%A8%E6%B5%81%E7%A8%8B%23&Refer=top)
 1. [张婧仪给徐帆擦泪](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%BB%99%E5%BE%90%E5%B8%86%E6%93%A6%E6%B3%AA%23&Refer=top)
 1. [网站平台要严防违法违规账号转世](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%AB%99%E5%B9%B3%E5%8F%B0%E8%A6%81%E4%B8%A5%E9%98%B2%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E8%B4%A6%E5%8F%B7%E8%BD%AC%E4%B8%96%23&Refer=top)
+1. [网站平台不得诱导点击下载消费](https://s.weibo.com//weibo?q=%E7%BD%91%E7%AB%99%E5%B9%B3%E5%8F%B0%E4%B8%8D%E5%BE%97%E8%AF%B1%E5%AF%BC%E7%82%B9%E5%87%BB%E4%B8%8B%E8%BD%BD%E6%B6%88%E8%B4%B9&Refer=top)
+   新
+1. [周生辰说一会儿会出汗你听懂了吗](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E8%AF%B4%E4%B8%80%E4%BC%9A%E5%84%BF%E4%BC%9A%E5%87%BA%E6%B1%97%E4%BD%A0%E5%90%AC%E6%87%82%E4%BA%86%E5%90%97%23&Refer=top)
+   新
+1. [全运会开幕式升国旗奏国歌](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%8D%87%E5%9B%BD%E6%97%97%E5%A5%8F%E5%9B%BD%E6%AD%8C%23&Refer=top)
+   新
+1. [全运会圣火点燃了](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E5%9C%A3%E7%81%AB%E7%82%B9%E7%87%83%E4%BA%86%23&Refer=top)
 
 <!-- END -->
 

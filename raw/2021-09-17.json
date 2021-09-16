@@ -277,7 +277,7 @@
   {
     "url": "/weibo?q=%23%E6%B0%91%E6%88%BF%E5%A4%B1%E7%81%AB%E8%80%81%E4%BA%BA%E8%BF%9B%E5%B1%8B%E5%8F%96%E9%92%B1%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&Refer=top",
     "title": "民房失火老人进屋取钱不幸身亡",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%B0%8F%E5%B0%BC%E4%BB%BB%E9%B2%81%E8%B1%AB%E7%8E%8B%E5%86%B0%E5%86%B0%E5%8E%A8%E6%88%BF%E7%BB%84%E4%B9%90%E9%98%9F%23&Refer=top",
@@ -302,6 +302,11 @@
   {
     "url": "/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B0%86%E5%90%AF%E5%8A%A8%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%8A%A0%E5%BC%BA%E9%92%88%E6%8E%A5%E7%A7%8D%23&Refer=top",
     "title": "河南将启动新冠疫苗加强针接种",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%BB%84%E6%96%87%E7%A7%80%E6%9C%AA%E7%AB%9F%E7%9A%84%E5%BF%83%E6%84%BF%E5%AE%9E%E7%8E%B0%E4%BA%86%23&Refer=top",
+    "title": "黄文秀未竟的心愿实现了",
     "mark": "新"
   }
 ]

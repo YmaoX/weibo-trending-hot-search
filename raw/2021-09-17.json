@@ -292,7 +292,7 @@
   {
     "url": "/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%80%BB%E5%8F%B0%E7%A7%8B%E6%99%9A%E5%BD%A9%E6%8E%92%E7%8E%B0%E5%9C%BA%E6%B7%B1%E6%83%85%E7%8C%AE%E5%94%B1%23&Refer=top",
     "title": "周深总台秋晚彩排现场深情献唱",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%A6%8F%E5%BB%BA%E7%9A%84%E5%AD%A9%E5%AD%90%E6%87%82%E4%BA%8B%E5%BE%97%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%96%BC%23&Refer=top",
@@ -307,6 +307,11 @@
   {
     "url": "/weibo?q=%23%E9%BB%84%E6%96%87%E7%A7%80%E6%9C%AA%E7%AB%9F%E7%9A%84%E5%BF%83%E6%84%BF%E5%AE%9E%E7%8E%B0%E4%BA%86%23&Refer=top",
     "title": "黄文秀未竟的心愿实现了",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%B5%84%E4%BA%A7%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%88%98%E7%95%A5%E8%B5%84%E4%BA%A7%23&Refer=top",
+    "title": "太空资产是国家的战略资产",
     "mark": "新"
   }
 ]

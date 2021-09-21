@@ -62,7 +62,7 @@
   {
     "url": "/weibo?q=%23iPhone13%E8%AF%84%E6%B5%8B%23&Refer=top",
     "title": "iPhone13评测",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E4%B8%AD%E7%A7%8B%E8%8A%82&Refer=top",
@@ -274,5 +274,15 @@
     "url": "/weibo?q=%23%E7%BE%8E%E6%94%BE%E5%AE%BD%E5%AF%B933%E5%9B%BD%E5%85%A5%E5%A2%83%E7%A6%81%E4%BB%A4%23&Refer=top",
     "title": "美放宽对33国入境禁令",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E7%93%9C%E5%AD%90%E8%A2%8B%E5%B1%8F%E8%94%BDETC3%E4%B8%AA%E6%9C%88%E9%80%83%E8%B4%B922%E6%AC%A1%23&Refer=top",
+    "title": "男子用瓜子袋屏蔽ETC3个月逃费22次",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%232021%E5%85%A8%E5%9B%BD%E8%BF%90%E5%8A%A8%E4%BC%9A%23&Refer=top",
+    "title": "2021全国运动会",
+    "mark": "新"
   }
 ]

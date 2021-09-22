@@ -22,7 +22,7 @@
   {
     "url": "/weibo?q=%23%E7%8E%8B%E5%8B%89%E9%80%80%E8%B5%9B%23&Refer=top",
     "title": "王勉退赛",
-    "mark": "沸"
+    "mark": "沸 -> 热"
   },
   {
     "url": "/weibo?q=%23%E4%BB%85%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%E5%AD%98%E5%9C%A8%E7%9A%84%E6%84%8F%E4%B9%89%23&Refer=top",
@@ -57,7 +57,7 @@
   {
     "url": "/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E7%9B%B2%E7%9B%AE%E5%B4%87%E5%B0%9A%E7%98%A6%23&Refer=top",
     "title": "徐冬冬呼吁不要盲目崇尚瘦",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%88%B7%E7%88%B7%E7%9A%84%E7%88%B7%E7%88%B7%E4%B8%8A%E5%AD%A6%E7%94%A8%E7%9A%84%E8%AF%BE%E6%9C%AC%23&Refer=top",
@@ -107,7 +107,7 @@
   {
     "url": "/weibo?q=%23%E5%8E%A6%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E7%A9%BF%E5%85%85%E6%B0%94%E6%B5%B7%E6%B4%8B%E7%90%83%E5%81%9A%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top",
     "title": "厦大一女生穿充气海洋球做核酸检测",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A%E4%B8%8B%E6%9C%9F%E6%9C%89%E5%BE%90%E5%B3%A5%E5%BC%A0%E8%8B%A5%E6%98%80%23&Refer=top",
@@ -283,5 +283,10 @@
     "url": "/weibo?q=%23%E9%99%88%E6%A2%A6%E6%99%8B%E7%BA%A7%E5%85%A8%E8%BF%90%E4%BC%9A%E5%A5%B3%E5%8D%95%E5%8D%81%E5%85%AD%E5%BC%BA%23&Refer=top",
     "title": "陈梦晋级全运会女单十六强",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%96%87%E6%98%8E%E4%BA%A4%E9%80%9A%E7%BB%BF%E8%89%B2%E5%87%BA%E8%A1%8C%23&Refer=new_time",
+    "title": "文明交通绿色出行",
+    "mark": "热"
   }
 ]

@@ -14,14 +14,14 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 07 2021 05:11:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 07 2021 06:13:48 GMT+0800 (China Standard Time) -->
 
 1. [COP26进行时](https://s.weibo.com//weibo?q=%23COP26%E8%BF%9B%E8%A1%8C%E6%97%B6%23&Refer=new_time)
    热
 1. [EDG夺冠flag](https://s.weibo.com//weibo?q=%23EDG%E5%A4%BA%E5%86%A0flag%23&Refer=top)
    热
 1. [熬夜时心脏忽然咯噔一下是咋回事](https://s.weibo.com//weibo?q=%23%E7%86%AC%E5%A4%9C%E6%97%B6%E5%BF%83%E8%84%8F%E5%BF%BD%E7%84%B6%E5%92%AF%E5%99%94%E4%B8%80%E4%B8%8B%E6%98%AF%E5%92%8B%E5%9B%9E%E4%BA%8B%23&Refer=top)
-   热
+   热 ->
 1. [EDG为什么不ban盲僧](https://s.weibo.com//weibo?q=%23EDG%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E7%9B%B2%E5%83%A7%23&Refer=top)
    新
 1. [dk](https://s.weibo.com//weibo?q=dk&Refer=top) 新
@@ -157,8 +157,12 @@
 1. [美数千情报官员或将因拒接疫苗被解雇](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%95%B0%E5%8D%83%E6%83%85%E6%8A%A5%E5%AE%98%E5%91%98%E6%88%96%E5%B0%86%E5%9B%A0%E6%8B%92%E6%8E%A5%E7%96%AB%E8%8B%97%E8%A2%AB%E8%A7%A3%E9%9B%87%23&Refer=top)
 1. [高校运动会医学生抬担架赛跑](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%8C%BB%E5%AD%A6%E7%94%9F%E6%8A%AC%E6%8B%85%E6%9E%B6%E8%B5%9B%E8%B7%91%23&Refer=top)
 1. [ShowMaker的塞拉斯](https://s.weibo.com//weibo?q=ShowMaker%E7%9A%84%E5%A1%9E%E6%8B%89%E6%96%AF&Refer=top)
-   新
+   新 ->
 1. [入冬的第一场雪](https://s.weibo.com//weibo?q=%23%E5%85%A5%E5%86%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%AA%23&Refer=top)
+1. [3个动作要领学会健身走](https://s.weibo.com//weibo?q=%233%E4%B8%AA%E5%8A%A8%E4%BD%9C%E8%A6%81%E9%A2%86%E5%AD%A6%E4%BC%9A%E5%81%A5%E8%BA%AB%E8%B5%B0%23&Refer=top)
+   新
+1. [94年女孩返乡照顾10位留守儿童](https://s.weibo.com//weibo?q=%2394%E5%B9%B4%E5%A5%B3%E5%AD%A9%E8%BF%94%E4%B9%A1%E7%85%A7%E9%A1%BE10%E4%BD%8D%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%23&Refer=top)
+   新
 
 <!-- END -->
 

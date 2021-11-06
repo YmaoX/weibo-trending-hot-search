@@ -43,7 +43,7 @@
   {
     "url": "/weibo?q=%237%E5%8F%B7%E7%9A%84EDG%23&Refer=top",
     "title": "7号的EDG",
-    "mark": "新 -> 热"
+    "mark": "新 -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E6%BB%9E%E7%95%99%E6%97%85%E5%AE%A2%E5%9B%A0%E4%BC%99%E9%A3%9F%E5%A4%AA%E5%A5%BD%E6%B2%A1%E6%9C%BA%E4%BC%9A%E5%90%83%E9%9B%B6%E9%A3%9F%23&Refer=top",
@@ -450,6 +450,11 @@
   {
     "url": "/weibo?q=%2394%E5%B9%B4%E5%A5%B3%E5%AD%A9%E8%BF%94%E4%B9%A1%E7%85%A7%E9%A1%BE10%E4%BD%8D%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%23&Refer=top",
     "title": "94年女孩返乡照顾10位留守儿童",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=2021KPL%E7%A7%8B%E5%AD%A3%E8%B5%9B&Refer=top",
+    "title": "2021KPL秋季赛",
     "mark": "新"
   }
 ]

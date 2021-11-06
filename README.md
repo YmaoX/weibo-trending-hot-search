@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 07 2021 06:13:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 07 2021 07:14:35 GMT+0800 (China Standard Time) -->
 
 1. [COP26进行时](https://s.weibo.com//weibo?q=%23COP26%E8%BF%9B%E8%A1%8C%E6%97%B6%23&Refer=new_time)
    热
@@ -31,7 +31,7 @@
    新
 1. [未来上下班通勤最长只要15分钟](https://s.weibo.com//weibo?q=%23%E6%9C%AA%E6%9D%A5%E4%B8%8A%E4%B8%8B%E7%8F%AD%E9%80%9A%E5%8B%A4%E6%9C%80%E9%95%BF%E5%8F%AA%E8%A6%8115%E5%88%86%E9%92%9F%23&Refer=top)
 1. [7号的EDG](https://s.weibo.com//weibo?q=%237%E5%8F%B7%E7%9A%84EDG%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [滞留旅客因伙食太好没机会吃零食](https://s.weibo.com//weibo?q=%23%E6%BB%9E%E7%95%99%E6%97%85%E5%AE%A2%E5%9B%A0%E4%BC%99%E9%A3%9F%E5%A4%AA%E5%A5%BD%E6%B2%A1%E6%9C%BA%E4%BC%9A%E5%90%83%E9%9B%B6%E9%A3%9F%23&Refer=top)
    新 ->
 1. [EDG上单](https://s.weibo.com//weibo?q=%23EDG%E4%B8%8A%E5%8D%95%23&Refer=top) 新
@@ -162,6 +162,8 @@
 1. [3个动作要领学会健身走](https://s.weibo.com//weibo?q=%233%E4%B8%AA%E5%8A%A8%E4%BD%9C%E8%A6%81%E9%A2%86%E5%AD%A6%E4%BC%9A%E5%81%A5%E8%BA%AB%E8%B5%B0%23&Refer=top)
    新
 1. [94年女孩返乡照顾10位留守儿童](https://s.weibo.com//weibo?q=%2394%E5%B9%B4%E5%A5%B3%E5%AD%A9%E8%BF%94%E4%B9%A1%E7%85%A7%E9%A1%BE10%E4%BD%8D%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%23&Refer=top)
+   新
+1. [2021KPL秋季赛](https://s.weibo.com//weibo?q=2021KPL%E7%A7%8B%E5%AD%A3%E8%B5%9B&Refer=top)
    新
 
 <!-- END -->

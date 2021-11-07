@@ -207,7 +207,7 @@
   {
     "url": "/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E5%91%A8%E5%90%AF%E8%B1%AA%E8%8E%B7%E7%94%B7%E5%8F%8C%E5%86%A0%E5%86%9B%23&Refer=top",
     "title": "林高远周启豪获男双冠军",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B5%B7%E4%B8%8A%E8%88%AA%E8%A1%8C%E9%81%87%E5%88%B0%E7%9A%84%E5%A4%A7%E9%9B%AA%E8%83%BD%E6%9C%89%E5%A4%9A%E6%A2%A6%E5%B9%BB%23&Refer=top",
@@ -302,12 +302,12 @@
   {
     "url": "/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%BA%BA%E8%BF%98%E5%9C%A8%E8%8B%A6%E7%AD%89%E4%B8%8B%E9%9B%AA%23&Refer=top",
     "title": "四川人还在苦等下雪",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%AE%87%E5%AE%99%E9%BB%91%E5%9C%B0%E7%90%83%E8%93%9D%E4%BA%A4%E6%9B%BF%E5%A4%A7%E7%89%87%23&Refer=top",
     "title": "宇宙黑地球蓝交替大片",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%87%B4%E6%95%AC%E4%BA%BA%E6%B0%91%E5%AE%89%E5%85%A8%E5%AE%88%E6%8A%A4%E8%80%85MV%23&Refer=top",
@@ -318,5 +318,10 @@
     "url": "/weibo?q=%23%E8%87%B4%E6%95%AC%E5%BF%99%E7%A2%8C%E7%9A%84%E6%96%B0%E9%97%BB%E5%B7%A5%E4%BD%9C%E8%80%85%23&Refer=top",
     "title": "致敬忙碌的新闻工作者",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E7%94%B5%E7%BD%91%E5%AE%89%E5%85%A8%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C%E4%BE%9B%E9%9C%80%E6%81%A2%E5%A4%8D%E5%B8%B8%E6%80%81%23&Refer=top",
+    "title": "电网安全稳定运行供需恢复常态",
+    "mark": "新"
   }
 ]

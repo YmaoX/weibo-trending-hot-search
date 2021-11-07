@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 07 2021 19:11:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 07 2021 20:21:31 GMT+0800 (China Standard Time) -->
 
 1. [COP26进行时](https://s.weibo.com//weibo?q=%23COP26%E8%BF%9B%E8%A1%8C%E6%97%B6%23&Refer=new_time)
    热
@@ -419,7 +419,7 @@
 1. [寄存的老公领不回来了](https://s.weibo.com//weibo?q=%23%E5%AF%84%E5%AD%98%E7%9A%84%E8%80%81%E5%85%AC%E9%A2%86%E4%B8%8D%E5%9B%9E%E6%9D%A5%E4%BA%86%23&Refer=top)
    新 ->
 1. [EDG背后老板朱一航商业版图](https://s.weibo.com//weibo?q=%23EDG%E8%83%8C%E5%90%8E%E8%80%81%E6%9D%BF%E6%9C%B1%E4%B8%80%E8%88%AA%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE%23&Refer=top)
-   新 -> 热 ->
+   新 -> 热 -> -> 热
 1. [95后当上航天发射分系统指挥员](https://s.weibo.com//weibo?q=%2395%E5%90%8E%E5%BD%93%E4%B8%8A%E8%88%AA%E5%A4%A9%E5%8F%91%E5%B0%84%E5%88%86%E7%B3%BB%E7%BB%9F%E6%8C%87%E6%8C%A5%E5%91%98%23&Refer=top)
    新 ->
 1. [周深新歌光亮和故宫初雪太配了](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E5%85%89%E4%BA%AE%E5%92%8C%E6%95%85%E5%AE%AB%E5%88%9D%E9%9B%AA%E5%A4%AA%E9%85%8D%E4%BA%86%23&Refer=top)
@@ -435,7 +435,7 @@
 1. [以然娜可露露四杀](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E7%84%B6%E5%A8%9C%E5%8F%AF%E9%9C%B2%E9%9C%B2%E5%9B%9B%E6%9D%80%23&Refer=top)
    新
 1. [玛莎拉蒂司机17分钟吹气66次](https://s.weibo.com//weibo?q=%23%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%E5%8F%B8%E6%9C%BA17%E5%88%86%E9%92%9F%E5%90%B9%E6%B0%9466%E6%AC%A1%23&Refer=top)
-   新
+   新 ->
 1. [学习通崩了](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E4%B9%A0%E9%80%9A%E5%B4%A9%E4%BA%86%23&Refer=top)
    新 ->
 1. [没想到我竟然羡慕一只猫](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%88%91%E7%AB%9F%E7%84%B6%E7%BE%A1%E6%85%95%E4%B8%80%E5%8F%AA%E7%8C%AB%23&Refer=top)
@@ -449,30 +449,60 @@
 1. [护理专业学生互相扎针练习](https://s.weibo.com//weibo?q=%23%E6%8A%A4%E7%90%86%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E4%BA%92%E7%9B%B8%E6%89%8E%E9%92%88%E7%BB%83%E4%B9%A0%23&Refer=top)
    新
 1. [雪中的故宫太美了](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E4%B8%AD%E7%9A%84%E6%95%85%E5%AE%AB%E5%A4%AA%E7%BE%8E%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [济南全市中小学幼儿园停课一天](https://s.weibo.com//weibo?q=%23%E6%B5%8E%E5%8D%97%E5%85%A8%E5%B8%82%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%81%9C%E8%AF%BE%E4%B8%80%E5%A4%A9%23&Refer=top)
-   新
+   新 ->
 1. [男子恶意别停公交车获刑8个月](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%81%B6%E6%84%8F%E5%88%AB%E5%81%9C%E5%85%AC%E4%BA%A4%E8%BD%A6%E8%8E%B7%E5%88%918%E4%B8%AA%E6%9C%88%23&Refer=top)
-   新
+   新 ->
 1. [梁家辉汤唯看梅艳芳从头哭到尾](https://s.weibo.com//weibo?q=%23%E6%A2%81%E5%AE%B6%E8%BE%89%E6%B1%A4%E5%94%AF%E7%9C%8B%E6%A2%85%E8%89%B3%E8%8A%B3%E4%BB%8E%E5%A4%B4%E5%93%AD%E5%88%B0%E5%B0%BE%23&Refer=top)
    新
 1. [时代少年团新歌哪吒](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%E5%93%AA%E5%90%92%23&Refer=top)
    新
 1. [记者手机里最舍不得删的照片](https://s.weibo.com//weibo?q=%23%E8%AE%B0%E8%80%85%E6%89%8B%E6%9C%BA%E9%87%8C%E6%9C%80%E8%88%8D%E4%B8%8D%E5%BE%97%E5%88%A0%E7%9A%84%E7%85%A7%E7%89%87%23&Refer=top)
-   新
+   新 ->
 1. [辛集市新增13例确诊病例](https://s.weibo.com//weibo?q=%E8%BE%9B%E9%9B%86%E5%B8%82%E6%96%B0%E5%A2%9E13%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B&Refer=top)
-   新
+   新 ->
 1. [大连新增确诊中6人为冷库员工](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E4%B8%AD6%E4%BA%BA%E4%B8%BA%E5%86%B7%E5%BA%93%E5%91%98%E5%B7%A5%23&Refer=top)
    新
 1. [校方回应学生用电竞队旗换国旗](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E7%94%A8%E7%94%B5%E7%AB%9E%E9%98%9F%E6%97%97%E6%8D%A2%E5%9B%BD%E6%97%97%23&Refer=top)
-   新
+   新 ->
 1. [猴哥当上了农业记者](https://s.weibo.com//weibo?q=%23%E7%8C%B4%E5%93%A5%E5%BD%93%E4%B8%8A%E4%BA%86%E5%86%9C%E4%B8%9A%E8%AE%B0%E8%80%85%23&Refer=top)
    新
 1. [贾跃亭称和马斯克是战友不是竞争对手](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E8%B7%83%E4%BA%AD%E7%A7%B0%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%98%AF%E6%88%98%E5%8F%8B%E4%B8%8D%E6%98%AF%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%23&Refer=top)
-   新
+   新 ->
 1. [河北辛集第三轮核酸初筛阳性17例](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E8%BE%9B%E9%9B%86%E7%AC%AC%E4%B8%89%E8%BD%AE%E6%A0%B8%E9%85%B8%E5%88%9D%E7%AD%9B%E9%98%B3%E6%80%A717%E4%BE%8B%23&Refer=top)
    新
 1. [消防员扑火后带烟熏妆庆生](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%89%91%E7%81%AB%E5%90%8E%E5%B8%A6%E7%83%9F%E7%86%8F%E5%A6%86%E5%BA%86%E7%94%9F%23&Refer=top)
+   新
+1. [薇娅李佳琦同时为进博会带货](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%90%8C%E6%97%B6%E4%B8%BA%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%B8%A6%E8%B4%A7%23&Refer=top)
+   新
+1. [四川被拉进了全国下雪群](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%A2%AB%E6%8B%89%E8%BF%9B%E4%BA%86%E5%85%A8%E5%9B%BD%E4%B8%8B%E9%9B%AA%E7%BE%A4%23&Refer=top)
+   新
+1. [客车司机脑出血用最后意识停好车](https://s.weibo.com//weibo?q=%23%E5%AE%A2%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%84%91%E5%87%BA%E8%A1%80%E7%94%A8%E6%9C%80%E5%90%8E%E6%84%8F%E8%AF%86%E5%81%9C%E5%A5%BD%E8%BD%A6%23&Refer=top)
+   新
+1. [简爱分手发言人间清醒](https://s.weibo.com//weibo?q=%23%E7%AE%80%E7%88%B1%E5%88%86%E6%89%8B%E5%8F%91%E8%A8%80%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%23&Refer=top)
+   新
+1. [电影梅艳芳引众星泪目](https://s.weibo.com//weibo?q=%E7%94%B5%E5%BD%B1%E6%A2%85%E8%89%B3%E8%8A%B3%E5%BC%95%E4%BC%97%E6%98%9F%E6%B3%AA%E7%9B%AE&Refer=top)
+   新
+1. [翟志刚再说我已出舱感觉良好](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E5%BF%97%E5%88%9A%E5%86%8D%E8%AF%B4%E6%88%91%E5%B7%B2%E5%87%BA%E8%88%B1%E6%84%9F%E8%A7%89%E8%89%AF%E5%A5%BD%23&Refer=top)
+   新
+1. [神十三航天员首次出舱](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%89%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E6%AC%A1%E5%87%BA%E8%88%B1%23&Refer=top)
+   新
+1. [嘉南传曾舜晞教科书语录](https://s.weibo.com//weibo?q=%E5%98%89%E5%8D%97%E4%BC%A0%E6%9B%BE%E8%88%9C%E6%99%9E%E6%95%99%E7%A7%91%E4%B9%A6%E8%AF%AD%E5%BD%95&Refer=top)
+   新
+1. [神舟十三号航天员首次出舱](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E8%88%9F%E5%8D%81%E4%B8%89%E5%8F%B7%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E6%AC%A1%E5%87%BA%E8%88%B1%23&Refer=top)
+   新
+1. [司机晕倒前停好车保16位乘客安全](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E6%9C%BA%E6%99%95%E5%80%92%E5%89%8D%E5%81%9C%E5%A5%BD%E8%BD%A6%E4%BF%9D16%E4%BD%8D%E4%B9%98%E5%AE%A2%E5%AE%89%E5%85%A8%23&Refer=top)
+   新
+1. [四川进入下雪群聊](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%BF%9B%E5%85%A5%E4%B8%8B%E9%9B%AA%E7%BE%A4%E8%81%8A%23&Refer=top)
+   新
+1. [eStar对阵TTG](https://s.weibo.com//weibo?q=%23eStar%E5%AF%B9%E9%98%B5TTG%23&Refer=top)
+   新
+1. [相和歌北舞学生威亚吊了37次](https://s.weibo.com//weibo?q=%23%E7%9B%B8%E5%92%8C%E6%AD%8C%E5%8C%97%E8%88%9E%E5%AD%A6%E7%94%9F%E5%A8%81%E4%BA%9A%E5%90%8A%E4%BA%8637%E6%AC%A1%23&Refer=top)
+   新
+1. [互联网boss直播有多卖力](https://s.weibo.com//weibo?q=%E4%BA%92%E8%81%94%E7%BD%91boss%E7%9B%B4%E6%92%AD%E6%9C%89%E5%A4%9A%E5%8D%96%E5%8A%9B&Refer=top)
+   新
+1. [太空出差三人组的花样吃播](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%87%BA%E5%B7%AE%E4%B8%89%E4%BA%BA%E7%BB%84%E7%9A%84%E8%8A%B1%E6%A0%B7%E5%90%83%E6%92%AD%23&Refer=top)
    新
 
 <!-- END -->

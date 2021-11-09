@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 10 2021 05:12:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 10 2021 06:14:15 GMT+0800 (China Standard Time) -->
 
 1. [江山就是人民人民就是江山](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E5%B1%B1%E5%B0%B1%E6%98%AF%E4%BA%BA%E6%B0%91%E4%BA%BA%E6%B0%91%E5%B0%B1%E6%98%AF%E6%B1%9F%E5%B1%B1%23&Refer=new_time)
    热
@@ -101,6 +101,8 @@
 1. [这才是清华学子真正的风范](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E6%B8%85%E5%8D%8E%E5%AD%A6%E5%AD%90%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%A3%8E%E8%8C%83%23&Refer=top)
    新
 1. [谭玹霖喊沐婉卿老婆](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E7%8E%B9%E9%9C%96%E5%96%8A%E6%B2%90%E5%A9%89%E5%8D%BF%E8%80%81%E5%A9%86%23&Refer=top)
+1. [雕塑班学生用雪堆出断臂维纳斯](https://s.weibo.com//weibo?q=%23%E9%9B%95%E5%A1%91%E7%8F%AD%E5%AD%A6%E7%94%9F%E7%94%A8%E9%9B%AA%E5%A0%86%E5%87%BA%E6%96%AD%E8%87%82%E7%BB%B4%E7%BA%B3%E6%96%AF%23&Refer=top)
+   新
 
 <!-- END -->
 

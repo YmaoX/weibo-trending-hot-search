@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 10 2021 02:16:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 10 2021 03:11:38 GMT+0800 (China Standard Time) -->
 
 1. [江山就是人民人民就是江山](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E5%B1%B1%E5%B0%B1%E6%98%AF%E4%BA%BA%E6%B0%91%E4%BA%BA%E6%B0%91%E5%B0%B1%E6%98%AF%E6%B1%9F%E5%B1%B1%23&Refer=new_time)
    热
@@ -95,6 +95,9 @@
 1. [谢谢你医生杀青](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E8%B0%A2%E4%BD%A0%E5%8C%BB%E7%94%9F%E6%9D%80%E9%9D%92%23&Refer=top)
 1. [西藏墨脱迎来首批戍边女兵](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E8%97%8F%E5%A2%A8%E8%84%B1%E8%BF%8E%E6%9D%A5%E9%A6%96%E6%89%B9%E6%88%8D%E8%BE%B9%E5%A5%B3%E5%85%B5%23&Refer=top)
 1. [年轻人脱发的4个主要原因](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%84%B1%E5%8F%91%E7%9A%844%E4%B8%AA%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0%23&Refer=top)
+1. [因为有我请你放心](https://s.weibo.com//weibo?q=%23%E5%9B%A0%E4%B8%BA%E6%9C%89%E6%88%91%E8%AF%B7%E4%BD%A0%E6%94%BE%E5%BF%83%23&Refer=new_time)
+   热
+1. [66岁伤残老兵借助外骨骼重新站立行走](https://s.weibo.com//weibo?q=%2366%E5%B2%81%E4%BC%A4%E6%AE%8B%E8%80%81%E5%85%B5%E5%80%9F%E5%8A%A9%E5%A4%96%E9%AA%A8%E9%AA%BC%E9%87%8D%E6%96%B0%E7%AB%99%E7%AB%8B%E8%A1%8C%E8%B5%B0%23&Refer=top)
 
 <!-- END -->
 

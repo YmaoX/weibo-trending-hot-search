@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 20 2021 09:54:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 20 2021 10:30:22 GMT+0800 (China Standard Time) -->
 
 1. [习近平主席致信祝贺首届中国网络文明大会](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E9%A6%96%E5%B1%8A%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%23&Refer=new_time)
    热
@@ -63,7 +63,7 @@
 1. [帝旭一见钟情的是缇兰吧](https://s.weibo.com//weibo?q=%23%E5%B8%9D%E6%97%AD%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85%E7%9A%84%E6%98%AF%E7%BC%87%E5%85%B0%E5%90%A7%23&Refer=top)
 1. [于和伟一个音都能走调](https://s.weibo.com//weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E4%B8%80%E4%B8%AA%E9%9F%B3%E9%83%BD%E8%83%BD%E8%B5%B0%E8%B0%83%23&Refer=top)
    新
-1. [门锁](https://s.weibo.com//weibo?q=%E9%97%A8%E9%94%81&Refer=top)
+1. [门锁](https://s.weibo.com//weibo?q=%E9%97%A8%E9%94%81&Refer=top) -> 新
 1. [张杰唱最熟悉的陌生人好温柔](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%94%B1%E6%9C%80%E7%86%9F%E6%82%89%E7%9A%84%E9%99%8C%E7%94%9F%E4%BA%BA%E5%A5%BD%E6%B8%A9%E6%9F%94%23&Refer=top)
    新 ->
 1. [重庆1名确诊患者治愈出院](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%861%E5%90%8D%E7%A1%AE%E8%AF%8A%E6%82%A3%E8%80%85%E6%B2%BB%E6%84%88%E5%87%BA%E9%99%A2%23&Refer=top)
@@ -145,19 +145,19 @@
 1. [斛珠夫人预告](https://s.weibo.com//weibo?q=%23%E6%96%9B%E7%8F%A0%E5%A4%AB%E4%BA%BA%E9%A2%84%E5%91%8A%23&Refer=top)
    新
 1. [新一股冷空气给我国大部制冷](https://s.weibo.com//weibo?q=%23%E6%96%B0%E4%B8%80%E8%82%A1%E5%86%B7%E7%A9%BA%E6%B0%94%E7%BB%99%E6%88%91%E5%9B%BD%E5%A4%A7%E9%83%A8%E5%88%B6%E5%86%B7%23&Refer=top)
-   新
+   新 ->
 1. [花式烤羊腿](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%BC%8F%E7%83%A4%E7%BE%8A%E8%85%BF&Refer=top)
    新 ->
 1. [这次你家降温有多猛](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%AC%A1%E4%BD%A0%E5%AE%B6%E9%99%8D%E6%B8%A9%E6%9C%89%E5%A4%9A%E7%8C%9B%23&Refer=top)
-   新
+   新 ->
 1. [欧莱雅撒券补偿评论炸锅](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E8%8E%B1%E9%9B%85%E6%92%92%E5%88%B8%E8%A1%A5%E5%81%BF%E8%AF%84%E8%AE%BA%E7%82%B8%E9%94%85%23&Refer=top)
    新
 1. [本轮疫情近期有望收尾](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E8%BF%91%E6%9C%9F%E6%9C%89%E6%9C%9B%E6%94%B6%E5%B0%BE%23&Refer=top)
-   新
+   新 ->
 1. [安阳狗伤人事件涉事人王某被停职](https://s.weibo.com//weibo?q=%23%E5%AE%89%E9%98%B3%E7%8B%97%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E4%BA%BA%E7%8E%8B%E6%9F%90%E8%A2%AB%E5%81%9C%E8%81%8C%23&Refer=top)
    新
 1. [内娱测试问卷](https://s.weibo.com//weibo?q=%23%E5%86%85%E5%A8%B1%E6%B5%8B%E8%AF%95%E9%97%AE%E5%8D%B7%23&Refer=top)
-   新
+   新 ->
 1. [11月19日新增确诊病例23例](https://s.weibo.com//weibo?q=%2311%E6%9C%8819%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B23%E4%BE%8B%23&Refer=top)
    新
 1. [为什么要坚持考研](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9D%9A%E6%8C%81%E8%80%83%E7%A0%94%23&Refer=top)
@@ -169,16 +169,26 @@
 1. [詹姆斯复出](https://s.weibo.com//weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%A4%8D%E5%87%BA%23&Refer=top)
    新
 1. [国产高教机在迪拜上空画出中国红](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%BA%A7%E9%AB%98%E6%95%99%E6%9C%BA%E5%9C%A8%E8%BF%AA%E6%8B%9C%E4%B8%8A%E7%A9%BA%E7%94%BB%E5%87%BA%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&Refer=top)
-   新
+   新 ->
 1. [唯一会的两句用上了](https://s.weibo.com//weibo?q=%23%E5%94%AF%E4%B8%80%E4%BC%9A%E7%9A%84%E4%B8%A4%E5%8F%A5%E7%94%A8%E4%B8%8A%E4%BA%86%23&Refer=top)
    新
 1. [首批8只北交所主题基金半日售罄](https://s.weibo.com//weibo?q=%23%E9%A6%96%E6%89%B98%E5%8F%AA%E5%8C%97%E4%BA%A4%E6%89%80%E4%B8%BB%E9%A2%98%E5%9F%BA%E9%87%91%E5%8D%8A%E6%97%A5%E5%94%AE%E7%BD%84%23&Refer=top)
-   新
+   新 ->
 1. [日剧最爱](https://s.weibo.com//weibo?q=%E6%97%A5%E5%89%A7%E6%9C%80%E7%88%B1&Refer=top)
    新
 1. [好奇空间站到底有多少宝藏](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%A5%87%E7%A9%BA%E9%97%B4%E7%AB%99%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%91%E5%AE%9D%E8%97%8F%23&Refer=top)
    新
 1. [中国心梗救治日](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BF%83%E6%A2%97%E6%95%91%E6%B2%BB%E6%97%A5%23&Refer=top)
+   新
+1. [11月20日是世界儿童日](https://s.weibo.com//weibo?q=11%E6%9C%8820%E6%97%A5%E6%98%AF%E4%B8%96%E7%95%8C%E5%84%BF%E7%AB%A5%E6%97%A5&Refer=top)
+   新
+1. [王新刚道歉](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%96%B0%E5%88%9A%E9%81%93%E6%AD%89%23&Refer=top)
+   新
+1. [80多年前的幼儿园什么样](https://s.weibo.com//weibo?q=%2380%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top)
+   新
+1. [4个动作养护颈椎](https://s.weibo.com//weibo?q=%234%E4%B8%AA%E5%8A%A8%E4%BD%9C%E5%85%BB%E6%8A%A4%E9%A2%88%E6%A4%8E%23&Refer=top)
+   新
+1. [被苏炳添和妻子的爱情甜哭了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%92%8C%E5%A6%BB%E5%AD%90%E7%9A%84%E7%88%B1%E6%83%85%E7%94%9C%E5%93%AD%E4%BA%86%23&Refer=top)
    新
 
 <!-- END -->

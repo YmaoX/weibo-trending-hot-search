@@ -217,7 +217,7 @@
   {
     "url": "/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E9%87%8E%E7%8C%AA%E7%81%BE%23&Refer=top",
     "title": "多地遭遇野猪灾",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B6%AA%E9%99%B5%E6%A6%A8%E8%8F%9C%E5%9B%9E%E5%BA%94%E5%A4%A9%E4%BB%B7%E7%A4%BC%E7%9B%92%23&Refer=top",
@@ -313,5 +313,10 @@
     "url": "/weibo?q=%23%E6%96%B0%E4%B8%AD%E5%9B%BD%E5%8F%AA%E7%94%A811%E5%B9%B4%E6%B6%88%E7%81%AD%E5%A4%A9%E8%8A%B1%23&Refer=top",
     "title": "新中国只用11年消灭天花",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%E6%9C%80%E5%83%8F%E4%BA%BA%E7%9A%84%E7%99%BD%E7%B4%A0%E8%B4%9E%E5%92%8C%E6%9C%80%E5%9D%9A%E5%AE%9A%E7%9A%84%E8%AE%B8%E4%BB%99&Refer=top",
+    "title": "最像人的白素贞和最坚定的许仙",
+    "mark": "新"
   }
 ]

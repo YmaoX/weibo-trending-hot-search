@@ -302,11 +302,16 @@
   {
     "url": "/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%96%AD%E7%BD%91%E8%87%B4%E8%BD%A6%E4%B8%BB%E8%A2%AB%E9%94%81%E8%BD%A6%E5%A4%96%23&Refer=top",
     "title": "特斯拉断网致车主被锁车外",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%8E%A9%E9%9B%AA%E7%9A%84%E6%96%B9%E5%BC%8F%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%AB%98%E7%BA%A7%E4%BA%86%23&Refer=top",
     "title": "玩雪的方式越来越高级了",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%2322%E5%9C%B0%E7%BB%9D%E7%BE%8E%E9%9B%AA%E6%99%AF%E6%B7%B7%E5%89%AA%23&Refer=top",
+    "title": "22地绝美雪景混剪",
+    "mark": "新"
   }
 ]

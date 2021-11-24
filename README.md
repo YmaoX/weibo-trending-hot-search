@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 24 2021 10:30:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 24 2021 11:15:01 GMT+0800 (China Standard Time) -->
 
 1. [学习十九届六中全会精神](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E4%B9%A0%E5%8D%81%E4%B9%9D%E5%B1%8A%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
    热
@@ -154,23 +154,23 @@
 1. [早期静电驯服人类珍贵录像](https://s.weibo.com//weibo?q=%23%E6%97%A9%E6%9C%9F%E9%9D%99%E7%94%B5%E9%A9%AF%E6%9C%8D%E4%BA%BA%E7%B1%BB%E7%8F%8D%E8%B4%B5%E5%BD%95%E5%83%8F%23&Refer=top)
    新
 1. [人民日报评吴亦凡等进警示名单](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%90%B4%E4%BA%A6%E5%87%A1%E7%AD%89%E8%BF%9B%E8%AD%A6%E7%A4%BA%E5%90%8D%E5%8D%95%23&Refer=top)
-   新
+   新 -> 热
 1. [怀孕后会发生哪些变化](https://s.weibo.com//weibo?q=%23%E6%80%80%E5%AD%95%E5%90%8E%E4%BC%9A%E5%8F%91%E7%94%9F%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96%23&Refer=top)
-   新
+   新 ->
 1. [冬天起床困难并不只是因为懒](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A4%A9%E8%B5%B7%E5%BA%8A%E5%9B%B0%E9%9A%BE%E5%B9%B6%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%87%92%23&Refer=top)
    新 ->
 1. [央视新闻AI手语主播正式亮相](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BBAI%E6%89%8B%E8%AF%AD%E4%B8%BB%E6%92%AD%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8%23&Refer=top)
-   新
+   新 ->
 1. [多部门整治娱乐圈乱象举措](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E9%83%A8%E9%97%A8%E6%95%B4%E6%B2%BB%E5%A8%B1%E4%B9%90%E5%9C%88%E4%B9%B1%E8%B1%A1%E4%B8%BE%E6%8E%AA%23&Refer=top)
    新 ->
 1. [11月23日新增确诊病例22例](https://s.weibo.com//weibo?q=%2311%E6%9C%8823%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B22%E4%BE%8B%23&Refer=top)
-   新
+   新 ->
 1. [女心理师台词](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%BF%83%E7%90%86%E5%B8%88%E5%8F%B0%E8%AF%8D%23&Refer=top)
-   新
+   新 ->
 1. [飞行员逼退外机后唱我和我的祖国](https://s.weibo.com//weibo?q=%23%E9%A3%9E%E8%A1%8C%E5%91%98%E9%80%BC%E9%80%80%E5%A4%96%E6%9C%BA%E5%90%8E%E5%94%B1%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%23&Refer=top)
    新
 1. [扬名立万](https://s.weibo.com//weibo?q=%E6%89%AC%E5%90%8D%E7%AB%8B%E4%B8%87&Refer=top)
-   新
+   新 ->
 1. [中美混双组合迎来开门红](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%BE%8E%E6%B7%B7%E5%8F%8C%E7%BB%84%E5%90%88%E8%BF%8E%E6%9D%A5%E5%BC%80%E9%97%A8%E7%BA%A2%23&Refer=top)
    新 ->
 1. [休斯敦世乒赛](https://s.weibo.com//weibo?q=%E4%BC%91%E6%96%AF%E6%95%A6%E4%B8%96%E4%B9%92%E8%B5%9B&Refer=top)
@@ -197,8 +197,27 @@
 1. [被没睡醒的熊猫宝宝可爱到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%B2%A1%E7%9D%A1%E9%86%92%E7%9A%84%E7%86%8A%E7%8C%AB%E5%AE%9D%E5%AE%9D%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&Refer=top)
    新
 1. [休斯敦世乒赛](https://s.weibo.com//weibo?q=%23%E4%BC%91%E6%96%AF%E6%95%A6%E4%B8%96%E4%B9%92%E8%B5%9B%23&Refer=top)
-   新
+   新 ->
 1. [云南新增本土确诊2例](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A2%E4%BE%8B%23&Refer=top)
+   新
+1. [fenfen](https://s.weibo.com//weibo?q=fenfen&Refer=top) 新
+1. [小猫咪找到了肉但舍不得吃](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E6%89%BE%E5%88%B0%E4%BA%86%E8%82%89%E4%BD%86%E8%88%8D%E4%B8%8D%E5%BE%97%E5%90%83%23&Refer=top)
+   新
+1. [杨紫钱男友](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%92%B1%E7%94%B7%E5%8F%8B%23&Refer=top)
+   新
+1. [卖肉夹馍带潼关俩字被告](https://s.weibo.com//weibo?q=%23%E5%8D%96%E8%82%89%E5%A4%B9%E9%A6%8D%E5%B8%A6%E6%BD%BC%E5%85%B3%E4%BF%A9%E5%AD%97%E8%A2%AB%E5%91%8A%23&Refer=top)
+   新
+1. [阿姨深陷杀猪盘执意跟特种兵网恋](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A7%A8%E6%B7%B1%E9%99%B7%E6%9D%80%E7%8C%AA%E7%9B%98%E6%89%A7%E6%84%8F%E8%B7%9F%E7%89%B9%E7%A7%8D%E5%85%B5%E7%BD%91%E6%81%8B%23&Refer=top)
+   新
+1. [我恋3观察员无效剧透](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%81%8B3%E8%A7%82%E5%AF%9F%E5%91%98%E6%97%A0%E6%95%88%E5%89%A7%E9%80%8F%23&Refer=top)
+   新
+1. [冬天赖床5分钟保护血管](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A4%A9%E8%B5%96%E5%BA%8A5%E5%88%86%E9%92%9F%E4%BF%9D%E6%8A%A4%E8%A1%80%E7%AE%A1%23&Refer=top)
+   新
+1. [乡村校长帮贫困女孩改造房间](https://s.weibo.com//weibo?q=%23%E4%B9%A1%E6%9D%91%E6%A0%A1%E9%95%BF%E5%B8%AE%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E6%94%B9%E9%80%A0%E6%88%BF%E9%97%B4%23&Refer=top)
+   新
+1. [丈夫见义勇为重度烧伤妻子割皮救治](https://s.weibo.com//weibo?q=%23%E4%B8%88%E5%A4%AB%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E9%87%8D%E5%BA%A6%E7%83%A7%E4%BC%A4%E5%A6%BB%E5%AD%90%E5%89%B2%E7%9A%AE%E6%95%91%E6%B2%BB%23&Refer=top)
+   新
+1. [爸爸骑摩托护送第一次开车上班的女儿](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E9%AA%91%E6%91%A9%E6%89%98%E6%8A%A4%E9%80%81%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BC%80%E8%BD%A6%E4%B8%8A%E7%8F%AD%E7%9A%84%E5%A5%B3%E5%84%BF%23&Refer=top)
    新
 
 <!-- END -->

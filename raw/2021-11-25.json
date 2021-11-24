@@ -327,11 +327,16 @@
   {
     "url": "/weibo?q=%23%E5%92%8C%E7%8B%97%E7%8B%97%E4%B8%80%E8%B5%B7%E6%95%A3%E6%AD%A5%E6%9C%89%E5%A4%9A%E6%B2%BB%E6%84%88%23&Refer=top",
     "title": "和狗狗一起散步有多治愈",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%2367%E5%B2%81%E5%A5%B3%E5%AD%90%E6%B6%89%E5%AB%8C%E4%BC%A0%E6%92%AD%E6%80%A7%E7%97%85%E8%A2%AB%E5%85%AC%E8%AF%89%23&Refer=top",
     "title": "67岁女子涉嫌传播性病被公诉",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%A4%E5%90%8D%E5%A5%B3%E6%9D%91%E9%9C%B8%E8%90%BD%E7%BD%91%E5%85%B6%E4%B8%AD%E4%B8%80%E4%BA%BA%E4%B8%BA%E7%BD%91%E7%BA%A2%23&Refer=top",
+    "title": "两名女村霸落网其中一人为网红",
     "mark": "新"
   }
 ]

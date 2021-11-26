@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 27 2021 05:12:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 27 2021 06:14:30 GMT+0800 (China Standard Time) -->
 
 1. [跟着纪录片学党史](https://s.weibo.com//weibo?q=%23%E8%B7%9F%E7%9D%80%E7%BA%AA%E5%BD%95%E7%89%87%E5%AD%A6%E5%85%9A%E5%8F%B2%23&Refer=new_time)
    热
@@ -111,10 +111,12 @@
 1. [一年一度喜剧大赛](https://s.weibo.com//weibo?q=%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%96%9C%E5%89%A7%E5%A4%A7%E8%B5%9B&Refer=top)
 1. [72岁无腿大爷每天100个引体向上](https://s.weibo.com//weibo?q=%2372%E5%B2%81%E6%97%A0%E8%85%BF%E5%A4%A7%E7%88%B7%E6%AF%8F%E5%A4%A9100%E4%B8%AA%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A%23&Refer=top)
 1. [到2035年北京现代化城市副中心基本建成](https://s.weibo.com//weibo?q=%23%E5%88%B02035%E5%B9%B4%E5%8C%97%E4%BA%AC%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%9F%8E%E5%B8%82%E5%89%AF%E4%B8%AD%E5%BF%83%E5%9F%BA%E6%9C%AC%E5%BB%BA%E6%88%90%23&Refer=top)
-   新
+   新 ->
 1. [上海华山医院核酸检测窗口全开](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8D%8E%E5%B1%B1%E5%8C%BB%E9%99%A2%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%AA%97%E5%8F%A3%E5%85%A8%E5%BC%80%23&Refer=top)
 1. [美离间祸众国的滑稽专场](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E7%A6%BB%E9%97%B4%E7%A5%B8%E4%BC%97%E5%9B%BD%E7%9A%84%E6%BB%91%E7%A8%BD%E4%B8%93%E5%9C%BA%23&Refer=top)
 1. [熊猫宝宝演示什么叫一脸懵](https://s.weibo.com//weibo?q=%23%E7%86%8A%E7%8C%AB%E5%AE%9D%E5%AE%9D%E6%BC%94%E7%A4%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E4%B8%80%E8%84%B8%E6%87%B5%23&Refer=top)
+1. [被缇兰送嫁华服惊艳到](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%BC%87%E5%85%B0%E9%80%81%E5%AB%81%E5%8D%8E%E6%9C%8D%E6%83%8A%E8%89%B3%E5%88%B0%23&Refer=top)
+   新
 
 <!-- END -->
 

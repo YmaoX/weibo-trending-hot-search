@@ -57,7 +57,7 @@
   {
     "url": "/weibo?q=%23%E5%BD%93%E5%AE%B6%E4%B8%BB%E6%AF%8D%E7%BE%A4%E6%BC%94%E7%A7%B0%E7%8C%AB%E8%A2%AB%E7%94%B5%E6%AD%BB%23&Refer=top",
     "title": "当家主母群演称猫被电死",
-    "mark": " -> 热"
+    "mark": " -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%AD%85%E5%BD%B1%E9%97%AA%E7%94%B5%E5%A6%86%E9%80%A0%E5%9E%8B%23&Refer=top",
@@ -302,11 +302,21 @@
   {
     "url": "/weibo?q=%23%E6%8E%89%E8%BF%9B%E5%86%B0%E7%AA%9F%E7%AA%BF%E5%A6%82%E4%BD%95%E8%87%AA%E6%95%91%23&Refer=top",
     "title": "掉进冰窟窿如何自救",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%81%87%E5%88%B0%E5%86%B0%E9%9D%A2%E5%87%BA%E7%8E%B0%E8%A3%82%E7%BC%9D%E8%A6%81%E8%B5%B6%E5%BF%AB%E8%B6%B4%E4%B8%8B%23&Refer=top",
     "title": "遇到冰面出现裂缝要赶快趴下",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%9B%BD%E8%80%83%E8%80%83%E5%90%8E%E7%9A%84%E5%BF%83%E6%83%85%23&Refer=top",
+    "title": "国考考后的心情",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%AF%8D%E9%BC%A0%E5%92%AC%E6%96%AD%E9%80%9A%E8%AE%AF%E7%BA%BF%E7%94%B7%E5%AD%90%E6%89%8B%E6%8C%81%E9%BC%A0%E5%B4%BD%E5%A8%81%E8%83%81%23&Refer=top",
+    "title": "母鼠咬断通讯线男子手持鼠崽威胁",
+    "mark": "新"
   }
 ]

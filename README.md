@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 29 2021 03:11:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 29 2021 04:14:22 GMT+0800 (China Standard Time) -->
 
 1. [要读懂中国就必须了解中国共产党](https://s.weibo.com//weibo?q=%23%E8%A6%81%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%B0%B1%E5%BF%85%E9%A1%BB%E4%BA%86%E8%A7%A3%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%23&Refer=new_time)
    热
@@ -104,6 +104,9 @@
    热
 1. [今年国考约46人录取1人](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%9B%BD%E8%80%83%E7%BA%A646%E4%BA%BA%E5%BD%95%E5%8F%961%E4%BA%BA%23&Refer=top)
 1. [冰窟救人3男生获评见义勇为大学生称号](https://s.weibo.com//weibo?q=%23%E5%86%B0%E7%AA%9F%E6%95%91%E4%BA%BA3%E7%94%B7%E7%94%9F%E8%8E%B7%E8%AF%84%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%8F%B7%23&Refer=top)
+1. [掉进冰窟窿如何自救](https://s.weibo.com//weibo?q=%23%E6%8E%89%E8%BF%9B%E5%86%B0%E7%AA%9F%E7%AA%BF%E5%A6%82%E4%BD%95%E8%87%AA%E6%95%91%23&Refer=top)
+   新
+1. [遇到冰面出现裂缝要赶快趴下](https://s.weibo.com//weibo?q=%23%E9%81%87%E5%88%B0%E5%86%B0%E9%9D%A2%E5%87%BA%E7%8E%B0%E8%A3%82%E7%BC%9D%E8%A6%81%E8%B5%B6%E5%BF%AB%E8%B6%B4%E4%B8%8B%23&Refer=top)
 
 <!-- END -->
 

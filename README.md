@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 01 2021 04:15:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 01 2021 05:12:48 GMT+0800 (China Standard Time) -->
 
 1. [同世界上一切进步力量携手前进](https://s.weibo.com//weibo?q=%23%E5%90%8C%E4%B8%96%E7%95%8C%E4%B8%8A%E4%B8%80%E5%88%87%E8%BF%9B%E6%AD%A5%E5%8A%9B%E9%87%8F%E6%90%BA%E6%89%8B%E5%89%8D%E8%BF%9B%23&Refer=new_time)
    热
@@ -96,6 +96,8 @@
 1. [12月天象预报](https://s.weibo.com//weibo?q=%2312%E6%9C%88%E5%A4%A9%E8%B1%A1%E9%A2%84%E6%8A%A5%23&Refer=top)
    新
 1. [外交部驳斥福奇涉疫情不当言论](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5%E7%A6%8F%E5%A5%87%E6%B6%89%E7%96%AB%E6%83%85%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&Refer=top)
+1. [山东全面推行先验房后收房](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%A1%8C%E5%85%88%E9%AA%8C%E6%88%BF%E5%90%8E%E6%94%B6%E6%88%BF%23&Refer=top)
+   新
 
 <!-- END -->
 

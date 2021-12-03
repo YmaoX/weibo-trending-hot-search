@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 04 2021 04:15:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 04 2021 05:12:30 GMT+0800 (China Standard Time) -->
 
 1. [贯彻落实六中全会精神](https://s.weibo.com//weibo?q=%23%E8%B4%AF%E5%BD%BB%E8%90%BD%E5%AE%9E%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
    热
@@ -24,7 +24,7 @@
    新 ->
 1. [卓越的力量有多大](https://s.weibo.com//weibo?q=%23%E5%8D%93%E8%B6%8A%E7%9A%84%E5%8A%9B%E9%87%8F%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top)
 1. [上海确诊母女感染德尔塔变异株](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%A1%AE%E8%AF%8A%E6%AF%8D%E5%A5%B3%E6%84%9F%E6%9F%93%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top)
-   -> 热
+   -> 热 ->
 1. [Rookie成为自由人](https://s.weibo.com//weibo?q=%23Rookie%E6%88%90%E4%B8%BA%E8%87%AA%E7%94%B1%E4%BA%BA%23&Refer=top)
    新 ->
 1. [马航MH370](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E8%88%AAMH370%23&Refer=top)
@@ -112,6 +112,8 @@
    热
 1. [北京是全球唯一的双奥之城](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%AF%E5%85%A8%E7%90%83%E5%94%AF%E4%B8%80%E7%9A%84%E5%8F%8C%E5%A5%A5%E4%B9%8B%E5%9F%8E%23&Refer=top)
 1. [斛珠夫人](https://s.weibo.com//weibo?q=%E6%96%9B%E7%8F%A0%E5%A4%AB%E4%BA%BA&Refer=top)
+1. [情侣吵架男子将女友头按进火锅](https://s.weibo.com//weibo?q=%23%E6%83%85%E4%BE%A3%E5%90%B5%E6%9E%B6%E7%94%B7%E5%AD%90%E5%B0%86%E5%A5%B3%E5%8F%8B%E5%A4%B4%E6%8C%89%E8%BF%9B%E7%81%AB%E9%94%85%23&Refer=top)
+   新
 
 <!-- END -->
 

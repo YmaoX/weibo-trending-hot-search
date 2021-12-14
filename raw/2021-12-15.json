@@ -297,7 +297,7 @@
   {
     "url": "/weibo?q=%E5%9C%A3%E8%AF%9E%E6%A0%91%E7%AE%80%E7%AC%94%E7%94%BB&Refer=top",
     "title": "圣诞树简笔画",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%89%E5%85%AC%E8%88%9E%E5%8F%B0&Refer=top",
@@ -317,6 +317,11 @@
   {
     "url": "/weibo?q=%E6%88%90%E9%83%BD%E5%AB%A9%E7%88%86%E7%88%86%E8%BE%A3%E5%86%92%E8%8F%9C&Refer=top",
     "title": "成都嫩爆爆辣冒菜",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=2021%E5%80%92%E8%AE%A1%E6%97%B6&Refer=top",
+    "title": "2021倒计时",
     "mark": ""
   }
 ]

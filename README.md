@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 15 2021 10:00:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 15 2021 10:38:49 GMT+0800 (China Standard Time) -->
 
 1. [习近平向拜登致慰问电](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E6%8B%9C%E7%99%BB%E8%87%B4%E6%85%B0%E9%97%AE%E7%94%B5%23&Refer=new_time)
    热
@@ -135,7 +135,7 @@
    新
 1. [周迅感叹好大一个儿](https://s.weibo.com//weibo?q=%23%E5%91%A8%E8%BF%85%E6%84%9F%E5%8F%B9%E5%A5%BD%E5%A4%A7%E4%B8%80%E4%B8%AA%E5%84%BF%23&Refer=top)
 1. [奥密克戎正以前所未有速度传播](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E6%AD%A3%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E9%80%9F%E5%BA%A6%E4%BC%A0%E6%92%AD%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [交大一附院](https://s.weibo.com//weibo?q=%23%E4%BA%A4%E5%A4%A7%E4%B8%80%E9%99%84%E9%99%A2%23&Refer=top)
 1. [原来戴帽子也有技巧](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%88%B4%E5%B8%BD%E5%AD%90%E4%B9%9F%E6%9C%89%E6%8A%80%E5%B7%A7%23&Refer=top)
    新 ->
@@ -168,11 +168,11 @@
 1. [幼崽哭声与二胡能有多配](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%B4%BD%E5%93%AD%E5%A3%B0%E4%B8%8E%E4%BA%8C%E8%83%A1%E8%83%BD%E6%9C%89%E5%A4%9A%E9%85%8D%23&Refer=top)
    新 ->
 1. [雷阿伦米勒现场观战库里冲击三分王](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E9%98%BF%E4%BC%A6%E7%B1%B3%E5%8B%92%E7%8E%B0%E5%9C%BA%E8%A7%82%E6%88%98%E5%BA%93%E9%87%8C%E5%86%B2%E5%87%BB%E4%B8%89%E5%88%86%E7%8E%8B%23&Refer=top)
-   新
+   新 ->
 1. [在街上对路人展开疯狂夸夸](https://s.weibo.com//weibo?q=%E5%9C%A8%E8%A1%97%E4%B8%8A%E5%AF%B9%E8%B7%AF%E4%BA%BA%E5%B1%95%E5%BC%80%E7%96%AF%E7%8B%82%E5%A4%B8%E5%A4%B8&Refer=top)
    新
 1. [西安交大一附全员应急核酸结果阴性](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E4%B8%80%E9%99%84%E5%85%A8%E5%91%98%E5%BA%94%E6%80%A5%E6%A0%B8%E9%85%B8%E7%BB%93%E6%9E%9C%E9%98%B4%E6%80%A7%23&Refer=top)
-   新
+   新 ->
 1. [vivo S12全面出色](https://s.weibo.com//weibo?q=vivo%20S12%E5%85%A8%E9%9D%A2%E5%87%BA%E8%89%B2&Refer=top)
    新
 1. [勇士vs尼克斯](https://s.weibo.com//weibo?q=%23%E5%8B%87%E5%A3%ABvs%E5%B0%BC%E5%85%8B%E6%96%AF%23&Refer=top)
@@ -186,9 +186,9 @@
 1. [长安大学](https://s.weibo.com//weibo?q=%23%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6%23&Refer=top)
    新
 1. [库里NBA历史三分王](https://s.weibo.com//weibo?q=%23%E5%BA%93%E9%87%8CNBA%E5%8E%86%E5%8F%B2%E4%B8%89%E5%88%86%E7%8E%8B%23&Refer=top)
-   新
+   新 ->
 1. [李不言病例汇报时哭了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%B8%8D%E8%A8%80%E7%97%85%E4%BE%8B%E6%B1%87%E6%8A%A5%E6%97%B6%E5%93%AD%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [首例奥密克戎变异株感染者身体状况稳定](https://s.weibo.com//weibo?q=%23%E9%A6%96%E4%BE%8B%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%8F%98%E5%BC%82%E6%A0%AA%E6%84%9F%E6%9F%93%E8%80%85%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E7%A8%B3%E5%AE%9A%23&Refer=top)
    新
 1. [东莞新增本土确诊2例](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E8%8E%9E%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A2%E4%BE%8B%23&Refer=top)
@@ -199,7 +199,7 @@
    新
 1. [王力宏](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F&Refer=top) 新
 1. [玩玩合影](https://s.weibo.com//weibo?q=%E7%8E%A9%E7%8E%A9%E5%90%88%E5%BD%B1&Refer=top)
-   新
+   新 ->
 1. [广西一男子骑电动车拖行女子](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E7%94%B7%E5%AD%90%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%8B%96%E8%A1%8C%E5%A5%B3%E5%AD%90%23&Refer=top)
    新
 1. [库里是不是历史最佳三分投手](https://s.weibo.com//weibo?q=%23%E5%BA%93%E9%87%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%B3%E4%B8%89%E5%88%86%E6%8A%95%E6%89%8B%23&Refer=top)
@@ -209,10 +209,28 @@
 1. [冯琛病例汇报考核第一](https://s.weibo.com//weibo?q=%23%E5%86%AF%E7%90%9B%E7%97%85%E4%BE%8B%E6%B1%87%E6%8A%A5%E8%80%83%E6%A0%B8%E7%AC%AC%E4%B8%80%23&Refer=top)
    新
 1. [文艺工作者不自重就得不到尊重](https://s.weibo.com//weibo?q=%23%E6%96%87%E8%89%BA%E5%B7%A5%E4%BD%9C%E8%80%85%E4%B8%8D%E8%87%AA%E9%87%8D%E5%B0%B1%E5%BE%97%E4%B8%8D%E5%88%B0%E5%B0%8A%E9%87%8D%23&Refer=top)
-   新
+   新 ->
 1. [李宏毅陈芳彤互撩](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%AE%8F%E6%AF%85%E9%99%88%E8%8A%B3%E5%BD%A4%E4%BA%92%E6%92%A9%23&Refer=top)
-   新
+   新 ->
 1. [在街上对路人展开疯狂夸夸](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E8%A1%97%E4%B8%8A%E5%AF%B9%E8%B7%AF%E4%BA%BA%E5%B1%95%E5%BC%80%E7%96%AF%E7%8B%82%E5%A4%B8%E5%A4%B8%23&Refer=top)
+   新
+1. [长安大学](https://s.weibo.com//weibo?q=%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6&Refer=top)
+   热
+1. [浙世界那么多人抗疫MV](https://s.weibo.com//weibo?q=%23%E6%B5%99%E4%B8%96%E7%95%8C%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%E6%8A%97%E7%96%ABMV%23&Refer=top)
+   新
+1. [展昭小七拉灯吻](https://s.weibo.com//weibo?q=%23%E5%B1%95%E6%98%AD%E5%B0%8F%E4%B8%83%E6%8B%89%E7%81%AF%E5%90%BB%23&Refer=top)
+   新
+1. [我独居的生活日常](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%8B%AC%E5%B1%85%E7%9A%84%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8%23&Refer=top)
+   新
+1. [这首歌刷屏了浙江人朋友圈](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%A6%96%E6%AD%8C%E5%88%B7%E5%B1%8F%E4%BA%86%E6%B5%99%E6%B1%9F%E4%BA%BA%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top)
+   新
+1. [北极圈内最高温去年达38摄氏度](https://s.weibo.com//weibo?q=%23%E5%8C%97%E6%9E%81%E5%9C%88%E5%86%85%E6%9C%80%E9%AB%98%E6%B8%A9%E5%8E%BB%E5%B9%B4%E8%BE%BE38%E6%91%84%E6%B0%8F%E5%BA%A6%23&Refer=top)
+   新
+1. [华为笔记本将支持超声波操控](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%B0%86%E6%94%AF%E6%8C%81%E8%B6%85%E5%A3%B0%E6%B3%A2%E6%93%8D%E6%8E%A7%23&Refer=top)
+   新
+1. [当女儿穿上妈妈的婚纱](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%A5%B3%E5%84%BF%E7%A9%BF%E4%B8%8A%E5%A6%88%E5%A6%88%E7%9A%84%E5%A9%9A%E7%BA%B1%23&Refer=top)
+   新
+1. [体验冰上公园的冰滑梯](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%AA%8C%E5%86%B0%E4%B8%8A%E5%85%AC%E5%9B%AD%E7%9A%84%E5%86%B0%E6%BB%91%E6%A2%AF%23&Refer=top)
    新
 
 <!-- END -->

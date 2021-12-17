@@ -19,7 +19,7 @@
     "title": "高质量发展是以人民为中心的发展",
     "mark": ""
   },
-  { "url": "/weibo?q=XYG&Refer=top", "title": "XYG", "mark": "新" },
+  { "url": "/weibo?q=XYG&Refer=top", "title": "XYG", "mark": "新 -> 热" },
   {
     "url": "/weibo?q=%E8%A5%BF%E5%9F%8E%E7%94%B7%E5%AD%A9&Refer=top",
     "title": "西城男孩",
@@ -78,7 +78,7 @@
   {
     "url": "/weibo?q=%E8%B6%85%E6%96%B0%E6%98%9F%E8%BF%90%E5%8A%A8%E4%BC%9A&Refer=top",
     "title": "超新星运动会",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%AB%8B%E6%B3%95%E4%BC%9A%E4%BC%9A%E8%AE%AE%E5%8E%85%E6%94%B9%E6%8C%82%E5%9B%BD%E5%BE%BD%23&Refer=top",
@@ -93,7 +93,7 @@
   {
     "url": "/weibo?q=%E5%8F%88%E6%98%AF%E8%A2%AB%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E7%A7%8D%E8%8D%89%E7%9A%84%E4%B8%80%E5%A4%A9&Refer=top",
     "title": "又是被空气炸锅种草的一天",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%95%85%E6%84%8F%E7%82%B9%E7%87%83%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%B2%B9%E6%9E%AA%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7%23&Refer=top",
@@ -150,7 +150,7 @@
   {
     "url": "/weibo?q=%23%E5%BF%97%E8%83%9C%E4%B8%80%E5%87%BB%23&Refer=top",
     "title": "志胜一击",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=KBS%E6%AD%8C%E8%B0%A3%E5%A4%A7%E7%A5%9D%E7%A5%AD&Refer=top",
@@ -180,7 +180,7 @@
   {
     "url": "/weibo?q=%23%E5%86%AC%E5%A4%A9%E5%9C%A8%E9%9D%92%E5%B2%9B%E5%93%88%E5%95%A4%E9%85%92%E6%9C%89%E5%A4%9A%E7%88%BD%23&Refer=top",
     "title": "冬天在青岛哈啤酒有多爽",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%AD%9D%E4%B9%89%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%85%8D%E8%81%8C%23&Refer=top",
@@ -220,7 +220,7 @@
   {
     "url": "/weibo?q=%E4%BD%8E%E8%87%B3%E5%87%A0%E5%85%83%E7%9A%84%E4%B8%8A%E5%A6%86%E5%B7%A5%E5%85%B7&Refer=top",
     "title": "低至几元的上妆工具",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23XYG%E6%AD%A2%E6%AD%A5KPL%E5%9B%9B%E5%BC%BA%23&Refer=top",
@@ -245,16 +245,31 @@
   {
     "url": "/weibo?q=%E5%AD%99%E5%8D%93&Refer=top",
     "title": "孙卓",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%B8%A1%E8%9B%8B%E7%A5%9E%E4%BB%99%E5%90%83%E6%B3%95%23&Refer=top",
     "title": "鸡蛋神仙吃法",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%AD%9D%E4%B9%89%E7%9B%97%E9%87%87%E7%85%A4%E7%9F%BF%E9%80%8F%E6%B0%B4%E4%BA%8B%E6%95%85%E9%A6%96%E5%90%8D%E8%A2%AB%E5%9B%B0%E8%80%85%E5%8D%87%E4%BA%95%23&Refer=top",
     "title": "孝义盗采煤矿透水事故首名被困者升井",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E8%88%92%E6%B7%87%E9%99%88%E6%80%9D%E8%AF%9A%E6%8A%95%E8%B5%84%E5%9E%AB%E5%BA%95%E4%BA%92%E7%9B%B8%E4%BC%A4%E5%AE%B3%23&Refer=top",
+    "title": "舒淇陈思诚投资垫底互相伤害",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E8%BA%AB%E9%AB%981%E7%B1%B3%E6%9D%91%E5%8C%BB%E5%AE%88%E6%8A%A4%E5%85%A8%E6%9D%912000%E4%BA%BA%E5%81%A5%E5%BA%B7%23&Refer=top",
+    "title": "身高1米村医守护全村2000人健康",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%232022%E8%AE%B0%E5%BE%97%E7%BB%99%E8%BF%99%E4%BA%9B%E6%89%93%E9%92%A9%23&Refer=top",
+    "title": "2022记得给这些打钩",
+    "mark": "新"
   }
 ]

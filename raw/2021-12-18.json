@@ -19,7 +19,7 @@
     "title": "高质量发展是以人民为中心的发展",
     "mark": ""
   },
-  { "url": "/weibo?q=XYG&Refer=top", "title": "XYG", "mark": "新 -> 热" },
+  { "url": "/weibo?q=XYG&Refer=top", "title": "XYG", "mark": "新 -> 热 -> " },
   {
     "url": "/weibo?q=%E8%A5%BF%E5%9F%8E%E7%94%B7%E5%AD%A9&Refer=top",
     "title": "西城男孩",
@@ -325,21 +325,41 @@
   {
     "url": "/weibo?q=%23%E8%A2%AB%E9%97%AE%E6%98%AF%E5%90%A6%E5%BA%94%E4%B8%BA%E7%BE%8E%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E7%A0%B480%E4%B8%87%E8%B4%9F%E8%B4%A3%23&Refer=top",
     "title": "被问是否应为美新冠死亡人数破80万负责",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E8%BF%B7%E4%BD%A0%E8%9B%8B%E6%8C%9E%E6%8A%AB%E8%90%A8&Refer=top",
     "title": "迷你蛋挞披萨",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E6%96%B0%E5%93%81%E6%9C%89%E4%BA%BA%E8%BD%AC%E6%89%8B%E5%8D%96%E5%87%BA3500%E5%85%83%23&Refer=top",
     "title": "玲娜贝儿新品有人转手卖出3500元",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%AF%AF%E6%9D%801%E5%8E%9F%E7%89%88%E7%BB%AD%E9%9B%86%E8%AE%B2%E7%9A%84%E4%BB%80%E4%B9%88%23&Refer=top",
     "title": "误杀1原版续集讲的什么",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%80%E6%8B%9B%E5%BF%AB%E9%80%9F%E5%81%9C%E6%AD%A2%E6%89%93%E5%97%9D%23&Refer=top",
+    "title": "一招快速停止打嗝",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%97%A0%E9%94%A1%E5%A4%B1%E8%81%948%E5%A4%A9%E5%A5%B3%E5%AD%A9%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%93%E6%8D%9E%E4%B8%8A%E5%B2%B8%23&Refer=top",
+    "title": "无锡失联8天女孩遗体被打捞上岸",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%9D%8E%E6%B2%81%E8%AF%B7%E5%90%9B%E9%9D%99%E5%80%99%23&Refer=top",
+    "title": "李沁请君静候",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%232021%E6%96%B0%E6%98%9F%E5%B9%B4%E7%BB%88%E7%9B%9B%E5%85%B8%23&Refer=top",
+    "title": "2021新星年终盛典",
     "mark": "新"
   }
 ]

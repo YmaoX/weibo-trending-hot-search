@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 20 2021 02:16:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 20 2021 03:11:52 GMT+0800 (China Standard Time) -->
 
 1. [把党的伟大自我革命进行到底](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E5%85%9A%E7%9A%84%E4%BC%9F%E5%A4%A7%E8%87%AA%E6%88%91%E9%9D%A9%E5%91%BD%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%23&Refer=new_time)
    热
@@ -94,6 +94,8 @@
    热
 1. [2021年羽毛球世锦赛](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E9%94%A6%E8%B5%9B%23&Refer=top)
 1. [风格大赏红毯](https://s.weibo.com//weibo?q=%23%E9%A3%8E%E6%A0%BC%E5%A4%A7%E8%B5%8F%E7%BA%A2%E6%AF%AF%23&Refer=top)
+1. [男孩课堂上向妈妈表白收获超暖回应](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E8%AF%BE%E5%A0%82%E4%B8%8A%E5%90%91%E5%A6%88%E5%A6%88%E8%A1%A8%E7%99%BD%E6%94%B6%E8%8E%B7%E8%B6%85%E6%9A%96%E5%9B%9E%E5%BA%94%23&Refer=top)
+1. [广州城5比0北京国安](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9F%8E5%E6%AF%940%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%23&Refer=top)
 
 <!-- END -->
 

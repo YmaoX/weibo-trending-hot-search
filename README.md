@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 20 2021 04:15:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 20 2021 05:12:41 GMT+0800 (China Standard Time) -->
 
 1. [把党的伟大自我革命进行到底](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E5%85%9A%E7%9A%84%E4%BC%9F%E5%A4%A7%E8%87%AA%E6%88%91%E9%9D%A9%E5%91%BD%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%23&Refer=new_time)
    热
@@ -28,7 +28,7 @@
 1. [大妈摊3个煎饼才成功被怀疑身份](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%A6%88%E6%91%8A3%E4%B8%AA%E7%85%8E%E9%A5%BC%E6%89%8D%E6%88%90%E5%8A%9F%E8%A2%AB%E6%80%80%E7%96%91%E8%BA%AB%E4%BB%BD%23&Refer=top)
    新 ->
 1. [医生建议连续使用耳机听歌不超60分钟](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E8%BF%9E%E7%BB%AD%E4%BD%BF%E7%94%A8%E8%80%B3%E6%9C%BA%E5%90%AC%E6%AD%8C%E4%B8%8D%E8%B6%8560%E5%88%86%E9%92%9F%23&Refer=top)
-   热
+   热 ->
 1. [白桃星座](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23&Refer=top)
    新 ->
 1. [小狗中毒跑到派出所躲避仍被拖走](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%8B%97%E4%B8%AD%E6%AF%92%E8%B7%91%E5%88%B0%E6%B4%BE%E5%87%BA%E6%89%80%E8%BA%B2%E9%81%BF%E4%BB%8D%E8%A2%AB%E6%8B%96%E8%B5%B0%23&Refer=top)
@@ -100,6 +100,8 @@
    新
 1. [网易获DOTA2互联网员工杯冠军](https://s.weibo.com//weibo?q=%23%E7%BD%91%E6%98%93%E8%8E%B7DOTA2%E4%BA%92%E8%81%94%E7%BD%91%E5%91%98%E5%B7%A5%E6%9D%AF%E5%86%A0%E5%86%9B%23&Refer=top)
 1. [女子多地流窜专业碰瓷近30年](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%9A%E5%9C%B0%E6%B5%81%E7%AA%9C%E4%B8%93%E4%B8%9A%E7%A2%B0%E7%93%B7%E8%BF%9130%E5%B9%B4%23&Refer=top)
+   新
+1. [官方通报网传城固教师殴打学生致残](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%9F%8E%E5%9B%BA%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%87%B4%E6%AE%8B%23&Refer=top)
    新
 
 <!-- END -->

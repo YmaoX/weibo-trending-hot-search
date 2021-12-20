@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 20 2021 22:14:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 20 2021 23:15:35 GMT+0800 (China Standard Time) -->
 
 1. [把党的伟大自我革命进行到底](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E5%85%9A%E7%9A%84%E4%BC%9F%E5%A4%A7%E8%87%AA%E6%88%91%E9%9D%A9%E5%91%BD%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%23&Refer=new_time)
    热
@@ -299,7 +299,7 @@
 1. [十九届六中全会精神](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B9%9D%E5%B1%8A%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%B2%BE%E7%A5%9E%23&Refer=new_time)
    热
 1. [薇娅偷逃税被追缴并处罚款13.41亿元](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E5%81%B7%E9%80%83%E7%A8%8E%E8%A2%AB%E8%BF%BD%E7%BC%B4%E5%B9%B6%E5%A4%84%E7%BD%9A%E6%AC%BE13.41%E4%BA%BF%E5%85%83%23&Refer=top)
-   爆 -> 热
+   爆 -> 热 ->
 1. [被奶奶煮的面整破防了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%A5%B6%E5%A5%B6%E7%85%AE%E7%9A%84%E9%9D%A2%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top)
    新 ->
 1. [做菜一定要晚放盐](https://s.weibo.com//weibo?q=%23%E5%81%9A%E8%8F%9C%E4%B8%80%E5%AE%9A%E8%A6%81%E6%99%9A%E6%94%BE%E7%9B%90%23&Refer=top)
@@ -363,7 +363,7 @@
 1. [罗永浩](https://s.weibo.com//weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9&Refer=top) 新
    -> 热
 1. [揭秘薇娅的商业版图](https://s.weibo.com//weibo?q=%23%E6%8F%AD%E7%A7%98%E8%96%87%E5%A8%85%E7%9A%84%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE%23&Refer=top)
-   新 ->
+   新 -> -> 热
 1. [她好像知道自己很可爱](https://s.weibo.com//weibo?q=%23%E5%A5%B9%E5%A5%BD%E5%83%8F%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E5%BE%88%E5%8F%AF%E7%88%B1%23&Refer=top)
    新 ->
 1. [雪梨 薇娅](https://s.weibo.com//weibo?q=%E9%9B%AA%E6%A2%A8%20%E8%96%87%E5%A8%85&Refer=top)
@@ -472,21 +472,21 @@
 1. [人民的事就是总书记心头牵挂的事](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E7%9A%84%E4%BA%8B%E5%B0%B1%E6%98%AF%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E5%A4%B4%E7%89%B5%E6%8C%82%E7%9A%84%E4%BA%8B%23&Refer=new_time)
    热
 1. [李佳琦](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%23&Refer=top)
-   爆
+   爆 -> 热
 1. [一爽](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%88%BD%23&Refer=top) 热
 1. [民警找回走失山羊次日收到羊汤](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E6%89%BE%E5%9B%9E%E8%B5%B0%E5%A4%B1%E5%B1%B1%E7%BE%8A%E6%AC%A1%E6%97%A5%E6%94%B6%E5%88%B0%E7%BE%8A%E6%B1%A4%23&Refer=top)
    新 ->
 1. [玩安琪拉的都是什么人](https://s.weibo.com//weibo?q=%23%E7%8E%A9%E5%AE%89%E7%90%AA%E6%8B%89%E7%9A%84%E9%83%BD%E6%98%AF%E4%BB%80%E4%B9%88%E4%BA%BA%23&Refer=top)
 1. [发往杭州绍兴的快递箱内被塞口罩](https://s.weibo.com//weibo?q=%23%E5%8F%91%E5%BE%80%E6%9D%AD%E5%B7%9E%E7%BB%8D%E5%85%B4%E7%9A%84%E5%BF%AB%E9%80%92%E7%AE%B1%E5%86%85%E8%A2%AB%E5%A1%9E%E5%8F%A3%E7%BD%A9%23&Refer=top)
-   新
+   新 ->
 1. [本人12.20工作日报](https://s.weibo.com//weibo?q=%E6%9C%AC%E4%BA%BA12.20%E5%B7%A5%E4%BD%9C%E6%97%A5%E6%8A%A5&Refer=top)
-   新
+   新 ->
 1. [官方回应充气城堡被吹翻多名儿童摔伤](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%85%E6%B0%94%E5%9F%8E%E5%A0%A1%E8%A2%AB%E5%90%B9%E7%BF%BB%E5%A4%9A%E5%90%8D%E5%84%BF%E7%AB%A5%E6%91%94%E4%BC%A4%23&Refer=top)
-   新
+   新 ->
 1. [非正式跨年派对](https://s.weibo.com//weibo?q=%E9%9D%9E%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%B9%B4%E6%B4%BE%E5%AF%B9&Refer=top)
-   新
+   新 ->
 1. [文房四宝消费者90后00后翻倍](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%88%BF%E5%9B%9B%E5%AE%9D%E6%B6%88%E8%B4%B9%E8%80%8590%E5%90%8E00%E5%90%8E%E7%BF%BB%E5%80%8D%23&Refer=top)
-   新
+   新 ->
 1. [平原上的火焰延期上映](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E5%8E%9F%E4%B8%8A%E7%9A%84%E7%81%AB%E7%84%B0%E5%BB%B6%E6%9C%9F%E4%B8%8A%E6%98%A0%23&Refer=top)
    新
 1. [薇娅全网被封](https://s.weibo.com//weibo?q=%E8%96%87%E5%A8%85%E5%85%A8%E7%BD%91%E8%A2%AB%E5%B0%81&Refer=top)
@@ -495,6 +495,20 @@
 1. [收入几十亿是种什么体验](https://s.weibo.com//weibo?q=%23%E6%94%B6%E5%85%A5%E5%87%A0%E5%8D%81%E4%BA%BF%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
    新
 1. [赵丽颖沈雨](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B2%88%E9%9B%A8%23&Refer=top)
+   新
+1. [薇娅全网被封](https://s.weibo.com//weibo?q=%23%E8%96%87%E5%A8%85%E5%85%A8%E7%BD%91%E8%A2%AB%E5%B0%81%23&Refer=top)
+   爆
+1. [12月21日23时59分迎来冬至](https://s.weibo.com//weibo?q=%2312%E6%9C%8821%E6%97%A523%E6%97%B659%E5%88%86%E8%BF%8E%E6%9D%A5%E5%86%AC%E8%87%B3%23&Refer=top)
+   新
+1. [迈巴赫等多辆车被熊孩子泼漆放弃索赔](https://s.weibo.com//weibo?q=%23%E8%BF%88%E5%B7%B4%E8%B5%AB%E7%AD%89%E5%A4%9A%E8%BE%86%E8%BD%A6%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E6%B3%BC%E6%BC%86%E6%94%BE%E5%BC%83%E7%B4%A2%E8%B5%94%23&Refer=top)
+   新
+1. [王毅说台湾是游子不应是棋子](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%AF%85%E8%AF%B4%E5%8F%B0%E6%B9%BE%E6%98%AF%E6%B8%B8%E5%AD%90%E4%B8%8D%E5%BA%94%E6%98%AF%E6%A3%8B%E5%AD%90%23&Refer=top)
+   新
+1. [中国最穷的动物园](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%80%E7%A9%B7%E7%9A%84%E5%8A%A8%E7%89%A9%E5%9B%AD%23&Refer=top)
+   新
+1. [八宝饭配咖啡成下午茶新时尚](https://s.weibo.com//weibo?q=%23%E5%85%AB%E5%AE%9D%E9%A5%AD%E9%85%8D%E5%92%96%E5%95%A1%E6%88%90%E4%B8%8B%E5%8D%88%E8%8C%B6%E6%96%B0%E6%97%B6%E5%B0%9A%23&Refer=top)
+   新
+1. [三亚现绝美双彩虹](https://s.weibo.com//weibo?q=%23%E4%B8%89%E4%BA%9A%E7%8E%B0%E7%BB%9D%E7%BE%8E%E5%8F%8C%E5%BD%A9%E8%99%B9%23&Refer=top)
    新
 
 <!-- END -->

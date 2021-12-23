@@ -87,7 +87,7 @@
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%86%8D%E5%A9%9A%E6%8B%92%E7%BB%9D%E7%94%9F%E8%82%B2%E4%B8%88%E5%A4%AB%E7%B4%A2%E8%B5%9415%E4%B8%87%23&Refer=top",
     "title": "女子再婚拒绝生育丈夫索赔15万",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%85%94%E5%AD%90%E7%9A%84%E8%84%9A%E8%BF%99%E4%B9%88%E5%A4%A7%23&Refer=top",
@@ -273,16 +273,21 @@
   {
     "url": "/weibo?q=%232021%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%23&Refer=top",
     "title": "2021中国人的仪式感",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%B9%B3%E5%AE%89%E5%A4%9C%E6%96%87%E6%A1%88&Refer=top",
     "title": "平安夜文案",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%8F%97%E4%BC%A4%E7%A7%83%E9%B9%AB%E8%8E%B7%E6%95%91%E5%90%8E%E8%B5%96%E7%9D%80%E4%B8%8D%E8%B5%B0%23&Refer=top",
     "title": "四川一受伤秃鹫获救后赖着不走",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E8%A5%BF%E5%AE%89%E5%B0%81%E9%97%AD%E7%AE%A1%E7%90%86%E7%AC%AC%E4%B8%80%E5%A4%A9&Refer=top",
+    "title": "西安封闭管理第一天",
     "mark": "新"
   }
 ]

@@ -52,7 +52,7 @@
   {
     "url": "/weibo?q=256g%E7%9A%84%E8%8B%B9%E6%9E%9C&Refer=top",
     "title": "256g的苹果",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%AF%AF%E5%BD%93%E9%87%8E%E7%8C%AA%E5%B0%84%E5%87%BB%E5%90%8E%E5%9F%8B%E5%B0%B8%E5%AE%B6%E5%B1%9E%E6%8B%92%E7%BB%9D%E8%B0%85%E8%A7%A3%23&Refer=top",
@@ -254,7 +254,7 @@
   {
     "url": "/weibo?q=%23%E6%9E%97%E5%BF%97%E7%82%AB%E5%94%B1%E7%9F%A5%E5%90%A6%E5%A5%BD%E5%83%8F%E5%AE%8B%E4%BB%A3%E8%AF%8D%E4%BA%BA%23&Refer=top",
     "title": "林志炫唱知否好像宋代词人",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%9C%A3%E8%AF%9E%E6%A0%91&Refer=top",
@@ -270,5 +270,10 @@
     "url": "/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%89%B9%E6%96%AF%E6%8B%89%E5%9D%A0%E6%B2%B3%E4%BA%8B%E6%95%85%23&Refer=top",
     "title": "警方通报特斯拉坠河事故",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E9%86%92%E7%8B%AE%E8%88%9E%E8%B9%88%E8%9E%8D%E5%85%A5%E5%8D%97%E6%8B%B3%E9%A9%AC%E6%AD%A5%E5%8D%97%E6%B4%BE%E8%88%9E%E7%8B%AE%23&Refer=top",
+    "title": "醒狮舞蹈融入南拳马步南派舞狮",
+    "mark": "新"
   }
 ]

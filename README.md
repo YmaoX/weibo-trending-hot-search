@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 24 2021 11:14:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 24 2021 12:19:43 GMT+0800 (China Standard Time) -->
 
 1. [全国交通运输工作会议](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%23&Refer=new_time)
    热
@@ -27,7 +27,7 @@
 1. [陈露被抓](https://s.weibo.com//weibo?q=%23%E9%99%88%E9%9C%B2%E8%A2%AB%E6%8A%93%23&Refer=top)
    热 ->
 1. [沈腾回应杨洋逐渐腾化](https://s.weibo.com//weibo?q=%23%E6%B2%88%E8%85%BE%E5%9B%9E%E5%BA%94%E6%9D%A8%E6%B4%8B%E9%80%90%E6%B8%90%E8%85%BE%E5%8C%96%23&Refer=top)
-   新 -> -> 热
+   新 -> -> 热 ->
 1. [10个山东人有9个爱吃这些](https://s.weibo.com//weibo?q=%2310%E4%B8%AA%E5%B1%B1%E4%B8%9C%E4%BA%BA%E6%9C%899%E4%B8%AA%E7%88%B1%E5%90%83%E8%BF%99%E4%BA%9B%23&Refer=top)
    新 ->
 1. [多国拒绝禁用杀手机器人](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9B%BD%E6%8B%92%E7%BB%9D%E7%A6%81%E7%94%A8%E6%9D%80%E6%89%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%23&Refer=top)
@@ -182,7 +182,7 @@
 1. [西安处理26名防疫不力相关责任人](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E5%A4%84%E7%90%8626%E5%90%8D%E9%98%B2%E7%96%AB%E4%B8%8D%E5%8A%9B%E7%9B%B8%E5%85%B3%E8%B4%A3%E4%BB%BB%E4%BA%BA%23&Refer=top)
    新 ->
 1. [霍尊回应陈露被抓](https://s.weibo.com//weibo?q=%23%E9%9C%8D%E5%B0%8A%E5%9B%9E%E5%BA%94%E9%99%88%E9%9C%B2%E8%A2%AB%E6%8A%93%23&Refer=top)
-   新
+   新 -> 热
 1. [西安新增本土确诊49例](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A49%E4%BE%8B%23&Refer=top)
    新 ->
 1. [12月23日新增确诊87例](https://s.weibo.com//weibo?q=%2312%E6%9C%8823%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A87%E4%BE%8B%23&Refer=top)
@@ -201,7 +201,7 @@
    新
 1. [最适合适合跨年的浪漫城市](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%80%82%E5%90%88%E9%80%82%E5%90%88%E8%B7%A8%E5%B9%B4%E7%9A%84%E6%B5%AA%E6%BC%AB%E5%9F%8E%E5%B8%82%23&Refer=top)
 1. [西安超级传播链初步厘清](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E8%B6%85%E7%BA%A7%E4%BC%A0%E6%92%AD%E9%93%BE%E5%88%9D%E6%AD%A5%E5%8E%98%E6%B8%85%23&Refer=top)
-   新
+   新 ->
 1. [圣诞妆容](https://s.weibo.com//weibo?q=%E5%9C%A3%E8%AF%9E%E5%A6%86%E5%AE%B9&Refer=top)
    新
 1. [大熊猫的舌头能卷几层褶子](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%9A%84%E8%88%8C%E5%A4%B4%E8%83%BD%E5%8D%B7%E5%87%A0%E5%B1%82%E8%A4%B6%E5%AD%90%23&Refer=top)
@@ -214,19 +214,19 @@
 1. [INTO1新歌风吹沙成海画面感](https://s.weibo.com//weibo?q=%23INTO1%E6%96%B0%E6%AD%8C%E9%A3%8E%E5%90%B9%E6%B2%99%E6%88%90%E6%B5%B7%E7%94%BB%E9%9D%A2%E6%84%9F%23&Refer=top)
    新
 1. [26岁程序员尿液竟引来一群蚂蚁](https://s.weibo.com//weibo?q=%2326%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B0%BF%E6%B6%B2%E7%AB%9F%E5%BC%95%E6%9D%A5%E4%B8%80%E7%BE%A4%E8%9A%82%E8%9A%81%23&Refer=top)
-   新
+   新 -> 热
 1. [学生时期暗恋的女生长啥样](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E6%97%B6%E6%9C%9F%E6%9A%97%E6%81%8B%E7%9A%84%E5%A5%B3%E7%94%9F%E9%95%BF%E5%95%A5%E6%A0%B7%23&Refer=top)
-   新
+   新 ->
 1. [考研前一天的心情](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%A0%94%E5%89%8D%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BF%83%E6%83%85%23&Refer=top)
-   新
+   新 ->
 1. [吕秀才像极了emo时的我](https://s.weibo.com//weibo?q=%23%E5%90%95%E7%A7%80%E6%89%8D%E5%83%8F%E6%9E%81%E4%BA%86emo%E6%97%B6%E7%9A%84%E6%88%91%23&Refer=top)
-   新
+   新 ->
 1. [湘西就李田田事件成立调查组](https://s.weibo.com//weibo?q=%23%E6%B9%98%E8%A5%BF%E5%B0%B1%E6%9D%8E%E7%94%B0%E7%94%B0%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%23&Refer=top)
-   新
+   新 ->
 1. [看误杀2爸爸的信破防了](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E8%AF%AF%E6%9D%802%E7%88%B8%E7%88%B8%E7%9A%84%E4%BF%A1%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [被考研人整破防了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [空气炸锅追剧零食](https://s.weibo.com//weibo?q=%23%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E8%BF%BD%E5%89%A7%E9%9B%B6%E9%A3%9F%23&Refer=top)
    新
 1. [Jingle bells](https://s.weibo.com//weibo?q=Jingle%20bells&Refer=top) 新
@@ -237,11 +237,50 @@
 1. [天津38岁民警因公牺牲](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A538%E5%B2%81%E6%B0%91%E8%AD%A6%E5%9B%A0%E5%85%AC%E7%89%BA%E7%89%B2%23&Refer=top)
    新
 1. [圣诞拍照万能公式](https://s.weibo.com//weibo?q=%23%E5%9C%A3%E8%AF%9E%E6%8B%8D%E7%85%A7%E4%B8%87%E8%83%BD%E5%85%AC%E5%BC%8F%23&Refer=top)
-   新
+   新 ->
 1. [听障小伙跑81分钟为西安加油](https://s.weibo.com//weibo?q=%23%E5%90%AC%E9%9A%9C%E5%B0%8F%E4%BC%99%E8%B7%9181%E5%88%86%E9%92%9F%E4%B8%BA%E8%A5%BF%E5%AE%89%E5%8A%A0%E6%B2%B9%23&Refer=top)
    新
 1. [对手](https://s.weibo.com//weibo?q=%E5%AF%B9%E6%89%8B&Refer=top) 新
 1. [海獭的口袋有多能装](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E7%8D%AD%E7%9A%84%E5%8F%A3%E8%A2%8B%E6%9C%89%E5%A4%9A%E8%83%BD%E8%A3%85%23&Refer=top)
+   新
+1. [墨迹天气](https://s.weibo.com//weibo?q=%23%E5%A2%A8%E8%BF%B9%E5%A4%A9%E6%B0%94%23&Refer=top)
+   新
+1. [江苏苏州市姑苏区发生1.0级地震](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E5%8F%91%E7%94%9F1.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
+   新
+1. [王源新剧灿烂官宣](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E6%96%B0%E5%89%A7%E7%81%BF%E7%83%82%E5%AE%98%E5%AE%A3%23&Refer=top)
+   新
+1. [食人鱼溶液](https://s.weibo.com//weibo?q=%E9%A3%9F%E4%BA%BA%E9%B1%BC%E6%BA%B6%E6%B6%B2&Refer=top)
+   新
+1. [绝对演绎](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E5%AF%B9%E6%BC%94%E7%BB%8E%23&Refer=top)
+1. [这发型跟王嘉尔毫无关系](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%8F%91%E5%9E%8B%E8%B7%9F%E7%8E%8B%E5%98%89%E5%B0%94%E6%AF%AB%E6%97%A0%E5%85%B3%E7%B3%BB%23&Refer=top)
+   新
+1. [这些居然全是道具](https://s.weibo.com//weibo?q=%E8%BF%99%E4%BA%9B%E5%B1%85%E7%84%B6%E5%85%A8%E6%98%AF%E9%81%93%E5%85%B7&Refer=top)
+   新
+1. [西安将在考点门口设核酸检测点](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E5%B0%86%E5%9C%A8%E8%80%83%E7%82%B9%E9%97%A8%E5%8F%A3%E8%AE%BE%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%82%B9%23&Refer=top)
+   新
+1. [分手时哪些钱不能要](https://s.weibo.com//weibo?q=%23%E5%88%86%E6%89%8B%E6%97%B6%E5%93%AA%E4%BA%9B%E9%92%B1%E4%B8%8D%E8%83%BD%E8%A6%81%23&Refer=top)
+   新
+1. [东北7旬夫妻自驾20万公里游遍全国](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%977%E6%97%AC%E5%A4%AB%E5%A6%BB%E8%87%AA%E9%A9%BE20%E4%B8%87%E5%85%AC%E9%87%8C%E6%B8%B8%E9%81%8D%E5%85%A8%E5%9B%BD%23&Refer=top)
+   新
+1. [催婚的苦我是真吃不下了](https://s.weibo.com//weibo?q=%23%E5%82%AC%E5%A9%9A%E7%9A%84%E8%8B%A6%E6%88%91%E6%98%AF%E7%9C%9F%E5%90%83%E4%B8%8D%E4%B8%8B%E4%BA%86%23&Refer=top)
+   新
+1. [INTO1大漠国风大片](https://s.weibo.com//weibo?q=%23INTO1%E5%A4%A7%E6%BC%A0%E5%9B%BD%E9%A3%8E%E5%A4%A7%E7%89%87%23&Refer=top)
+   新
+1. [山姆 新疆](https://s.weibo.com//weibo?q=%E5%B1%B1%E5%A7%86%20%E6%96%B0%E7%96%86&Refer=top)
+   新
+1. [为什么大多数人减肥会失败](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E5%87%8F%E8%82%A5%E4%BC%9A%E5%A4%B1%E8%B4%A5%23&Refer=top)
+   新
+1. [圣诞草莓小丑仿妆](https://s.weibo.com//weibo?q=%23%E5%9C%A3%E8%AF%9E%E8%8D%89%E8%8E%93%E5%B0%8F%E4%B8%91%E4%BB%BF%E5%A6%86%23&Refer=top)
+   新
+1. [考研人图鉴](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%A0%94%E4%BA%BA%E5%9B%BE%E9%89%B4%23&Refer=top)
+   新
+1. [西安累计报告本土确诊255例](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E7%B4%AF%E8%AE%A1%E6%8A%A5%E5%91%8A%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A255%E4%BE%8B%23&Refer=top)
+   新
+1. [考研期间西安公共交通正常运转](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%A0%94%E6%9C%9F%E9%97%B4%E8%A5%BF%E5%AE%89%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E6%AD%A3%E5%B8%B8%E8%BF%90%E8%BD%AC%23&Refer=top)
+   新
+1. [这些奔跑瞬间治好了我的emo](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%BA%9B%E5%A5%94%E8%B7%91%E7%9E%AC%E9%97%B4%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E7%9A%84emo%23&Refer=top)
+   新
+1. [火箭划过天空的云上视角](https://s.weibo.com//weibo?q=%23%E7%81%AB%E7%AE%AD%E5%88%92%E8%BF%87%E5%A4%A9%E7%A9%BA%E7%9A%84%E4%BA%91%E4%B8%8A%E8%A7%86%E8%A7%92%23&Refer=top)
    新
 
 <!-- END -->

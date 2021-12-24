@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 25 2021 05:12:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 25 2021 06:14:31 GMT+0800 (China Standard Time) -->
 
 1. [我国新能源年发电量首次突破1万亿千瓦时](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E5%B9%B4%E5%8F%91%E7%94%B5%E9%87%8F%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%8D%83%E7%93%A6%E6%97%B6%23&Refer=new_time)
    热
@@ -107,6 +107,12 @@
 1. [感受中国温度的一年](https://s.weibo.com//weibo?q=%23%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E6%B8%A9%E5%BA%A6%E7%9A%84%E4%B8%80%E5%B9%B4%23&Refer=top)
    新
 1. [西安](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89&Refer=top)
+1. [圣诞节最惊喜的礼物](https://s.weibo.com//weibo?q=%23%E5%9C%A3%E8%AF%9E%E8%8A%82%E6%9C%80%E6%83%8A%E5%96%9C%E7%9A%84%E7%A4%BC%E7%89%A9%23&Refer=top)
+   新
+1. [请不要欺负小兔子](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%AC%BA%E8%B4%9F%E5%B0%8F%E5%85%94%E5%AD%90%23&Refer=top)
+   新
+1. [打工人是可爱天花板吧](https://s.weibo.com//weibo?q=%23%E6%89%93%E5%B7%A5%E4%BA%BA%E6%98%AF%E5%8F%AF%E7%88%B1%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%90%A7%23&Refer=top)
+   新
 
 <!-- END -->
 

@@ -337,7 +337,7 @@
   {
     "url": "/weibo?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E9%80%9F%E5%BA%A6%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%AD%E7%BB%83%E4%B8%AD%E5%BF%83%E8%90%BD%E6%88%B7%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6&Refer=top",
     "title": "苏炳添速度研究与训练中心落户暨南大学",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%232021%E6%9C%80%E6%83%B3%E7%8F%8D%E8%97%8F%E7%9A%84%E7%85%A7%E7%89%87%23&Refer=top",
@@ -362,11 +362,21 @@
   {
     "url": "/weibo?q=%E9%9B%84%E7%8B%AE%E5%B0%91%E5%B9%B4&Refer=top",
     "title": "雄狮少年",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%AE%87%E5%AE%99%E7%9A%84%E5%B0%BD%E5%A4%B4%E5%B0%B1%E6%98%AF%E5%85%BB%E7%94%9F%23&Refer=top",
     "title": "宇宙的尽头就是养生",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E7%9F%AD%E6%9C%9F%E5%A4%B1%E7%9C%A0%E8%B6%853%E4%B8%AA%E6%9C%88%E4%BC%9A%E6%88%90%E4%B8%BA%E6%85%A2%E6%80%A7%E5%A4%B1%E7%9C%A0%23&Refer=top",
+    "title": "短期失眠超3个月会成为慢性失眠",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%8F%88%E6%98%AF%E5%BF%83%E7%96%BC%E6%9D%8E%E8%90%8D%E7%9A%84%E4%B8%80%E5%A4%A9%23&Refer=top",
+    "title": "又是心疼李萍的一天",
     "mark": "新"
   }
 ]

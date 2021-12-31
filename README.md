@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 01 2022 03:12:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 01 2022 04:16:03 GMT+0800 (China Standard Time) -->
 
 1. [2022新年贺词](https://s.weibo.com//weibo?q=%232022%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
    热
@@ -23,7 +23,7 @@
    新 ->
 1. [新年贺词里的暖心话](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E6%9A%96%E5%BF%83%E8%AF%9D%23&Refer=top)
 1. [湖南卫视跨年晚会](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A&Refer=top)
-   热
+   热 ->
 1. [张光北朗诵谁是最可爱的人](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%85%89%E5%8C%97%E6%9C%97%E8%AF%B5%E8%B0%81%E6%98%AF%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA%23&Refer=top)
    新 ->
 1. [跨年文案](https://s.weibo.com//weibo?q=%E8%B7%A8%E5%B9%B4%E6%96%87%E6%A1%88&Refer=top)
@@ -115,6 +115,10 @@
    新 ->
 1. [让我们一起向未来](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=new_time)
    热
+1. [MBC歌谣大祭典](https://s.weibo.com//weibo?q=MBC%E6%AD%8C%E8%B0%A3%E5%A4%A7%E7%A5%AD%E5%85%B8&Refer=top)
+1. [总台启航2022迎新年特别节目](https://s.weibo.com//weibo?q=%E6%80%BB%E5%8F%B0%E5%90%AF%E8%88%AA2022%E8%BF%8E%E6%96%B0%E5%B9%B4%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE&Refer=top)
+1. [感谢你温暖我的2021](https://s.weibo.com//weibo?q=%23%E6%84%9F%E8%B0%A2%E4%BD%A0%E6%B8%A9%E6%9A%96%E6%88%91%E7%9A%842021%23&Refer=top)
+   新
 
 <!-- END -->
 

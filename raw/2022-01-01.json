@@ -12,7 +12,7 @@
   {
     "url": "/weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&Refer=top",
     "title": "新年快乐",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E6%9A%96%E5%BF%83%E8%AF%9D%23&Refer=top",
@@ -87,7 +87,7 @@
   {
     "url": "/weibo?q=%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F&Refer=top",
     "title": "新年祝福",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=2021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93&Refer=top",
@@ -107,12 +107,12 @@
   {
     "url": "/weibo?q=%E5%90%B4%E6%98%95%20%E8%B7%A8%E5%B9%B4&Refer=top",
     "title": "吴昕 跨年",
-    "mark": "新"
+    "mark": "新 -> 热"
   },
   {
     "url": "/weibo?q=fx%E5%88%9D%E6%99%BA%E9%BD%BF%E8%88%9E%E5%8F%B0&Refer=top",
     "title": "fx初智齿舞台",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%94%B1&Refer=top",
@@ -137,7 +137,7 @@
   {
     "url": "/weibo?q=%23%E6%88%91%E6%83%B3%E5%AF%B92022%E8%AF%B4%23&Refer=top",
     "title": "我想对2022说",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%85%A4%E6%B0%94%E4%B8%AD%E6%AF%92%E8%A2%AB%E8%87%AA%E5%AE%B6%E7%8B%97%E8%88%94%E8%84%B8%E5%94%A4%E9%86%92%23&Refer=top",
@@ -162,7 +162,7 @@
   {
     "url": "/weibo?q=%23%E8%AE%B8%E5%B5%A9B%E7%AB%99%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E5%86%8D%E5%94%B1%E7%B4%A0%E9%A2%9C%23&Refer=top",
     "title": "许嵩B站跨年晚会再唱素颜",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%9D%8E%E5%81%A5%E8%B7%B3%E8%88%9E&Refer=top",
@@ -207,7 +207,7 @@
   {
     "url": "/weibo?q=%23%E7%AA%81%E7%84%B6%E5%A5%BD%E6%83%B3%E4%BD%A0%23&Refer=top",
     "title": "突然好想你",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%232021%E5%B9%B4%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%9C%23&Refer=top",
@@ -252,17 +252,17 @@
   {
     "url": "/weibo?q=%23%E5%88%98%E4%BC%AF%E6%98%8E%E5%9C%A8%E5%A4%AA%E7%A9%BA%E4%B8%8E%E5%A6%BB%E5%AD%90%E5%BA%A6%E8%BF%87%E7%8F%8D%E7%8F%A0%E5%A9%9A%23&Refer=top",
     "title": "刘伯明在太空与妻子度过珍珠婚",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=2022%E6%9C%8B%E5%8F%8B%E5%9C%88&Refer=top",
     "title": "2022朋友圈",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E8%B7%A8%E5%B9%B4&Refer=top",
     "title": "跨年",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%232022%E7%AC%AC%E4%B8%80%E5%A4%A9%23&Refer=top",
@@ -272,12 +272,12 @@
   {
     "url": "/weibo?q=%E5%B9%B3%E5%AE%89%E5%96%9C%E4%B9%90&Refer=top",
     "title": "平安喜乐",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B%23&Refer=top",
     "title": "新年愿望",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E7%83%9F%E8%8A%B1&Refer=top",
@@ -287,17 +287,17 @@
   {
     "url": "/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%94%B1%23&Refer=top",
     "title": "五月天周杰伦合唱",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%94%B1%E4%BA%86%E5%B7%A6%E8%BE%B9%23&Refer=top",
     "title": "杨丞琳唱了左边",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E9%A3%9E%E5%A4%A9&Refer=top",
     "title": "张艺兴 飞天",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%84%BF2022%E6%89%80%E6%9C%89%E7%BE%8E%E5%A5%BD%E9%83%BD%E5%8A%A0%E5%80%8D&Refer=top",
@@ -312,11 +312,16 @@
   {
     "url": "/weibo?q=%232022%E5%B9%B4%E8%A6%81%E8%BF%87%E6%B2%A1%E6%9C%89%E7%96%AB%E6%83%85%E7%9A%84%E8%B7%A8%E5%B9%B4%E5%A4%9C%23&Refer=top",
     "title": "2022年要过没有疫情的跨年夜",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92&Refer=top",
     "title": "哈利波特魔法觉醒",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=new_time",
+    "title": "让我们一起向未来",
+    "mark": "热"
   }
 ]

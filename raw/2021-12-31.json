@@ -367,7 +367,7 @@
   {
     "url": "/weibo?q=%23%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E8%AF%89%E5%88%98%E9%91%AB%E6%A1%88%E5%AE%A3%E5%88%A4%E6%9A%82%E6%97%B6%E5%8F%96%E6%B6%88%23&Refer=top",
     "title": "江歌母亲诉刘鑫案宣判暂时取消",
-    "mark": "新 -> "
+    "mark": "新 ->  -> 热"
   },
   {
     "url": "/weibo?q=%23%E5%80%AA%E5%A6%AE%E6%9D%8E%E6%98%93%E5%B3%B0%E9%87%91%E9%B8%A1%E5%A5%96%E5%BC%80%E5%A5%96%23&Refer=top",
@@ -387,7 +387,7 @@
   {
     "url": "/weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E8%AF%B4%E7%9C%8B%E5%BE%90%E6%AD%A3%E5%8F%91%E7%97%85%E6%9C%89%E9%98%B4%E5%BD%B1%E4%BA%86%23&Refer=top",
     "title": "陈小纭说看徐正发病有阴影了",
-    "mark": "新 ->  -> 热"
+    "mark": "新 ->  -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B7%B2%E7%BB%8F%E6%B2%A1%E6%9C%89%E6%9C%8B%E5%8F%8B%E4%BA%86%23&Refer=top",
@@ -567,7 +567,7 @@
   {
     "url": "/weibo?q=12%E6%98%9F%E5%BA%A7%E8%B0%81%E6%9B%B4%E6%B0%B4%E9%80%86&Refer=top",
     "title": "12星座谁更水逆",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23INTO1%E6%96%B0%E6%AD%8C%E6%98%8E%E6%97%A9%E8%80%81%E5%9C%B0%E6%96%B9%E5%87%BA%E5%8F%91%E5%A5%BD%E6%B2%BB%E6%84%88%23&Refer=top",
@@ -617,27 +617,27 @@
   {
     "url": "/weibo?q=%23%E7%A7%A6%E5%A7%8B%E7%9A%87%E4%B9%9F%E5%BE%97%E5%81%9A%E6%A0%B8%E9%85%B8%23&Refer=top",
     "title": "秦始皇也得做核酸",
-    "mark": "新"
+    "mark": "新 -> 热"
   },
   {
     "url": "/weibo?q=%23%E8%BF%99%E4%B8%AA%E6%9D%80%E6%89%8B%E4%B8%8D%E5%A4%AA%E5%86%B7%E9%9D%99%E6%BC%94%E5%BE%97%E5%BE%88%E5%A5%BD%E7%89%88%E9%A2%84%E5%91%8A%23&Refer=top",
     "title": "这个杀手不太冷静演得很好版预告",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E5%90%93%E5%94%AC%E9%82%BB%E5%B1%85%E4%BC%AA%E9%80%A0%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%23&Refer=top",
     "title": "男子为吓唬邻居伪造核酸阳性",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E8%90%8C%E5%A8%83%E4%B8%BA%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%AD%A9%E6%A1%88%E5%AE%A3%E5%88%A4%23&Refer=top",
     "title": "造谣中国萌娃为日本小孩案宣判",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%B9%96%E5%8D%97%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E5%BD%A9%E6%8E%92%23&Refer=top",
     "title": "王一博湖南跨年晚会彩排",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%862022%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95%23&Refer=top",
@@ -687,6 +687,86 @@
   {
     "url": "/weibo?q=%23%E5%AE%9C%E5%AE%B6%E5%AE%A3%E5%B8%83%E5%B0%86%E5%B9%B3%E5%9D%87%E6%8F%90%E4%BB%B79%25%23&Refer=top",
     "title": "宜家宣布将平均提价9%",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%89%AE%E6%BC%94%E7%9A%84%E6%99%AF%E6%B5%A9%E4%B8%BA%E7%AD%B9%E5%A6%B9%E5%A6%B9%E6%89%8B%E6%9C%AF%E8%B4%B9%E7%BB%84%E9%98%9F%E5%88%9B%E4%B8%9A%23&Refer=top",
+    "title": "易烊千玺扮演的景浩为筹妹妹手术费组队创业",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9A%842022%E5%BF%83%E6%84%BF%23&Refer=top",
+    "title": "蔡徐坤的2022心愿",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23JackeyLove%E8%A2%ABZoom%E8%A3%85%E5%88%B0%E4%BA%86%23&Refer=top",
+    "title": "JackeyLove被Zoom装到了",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E5%B0%B1%E6%98%AF%E6%B2%BB%E6%84%88%E7%AC%AC%E4%B8%80%E5%90%8D%23&Refer=top",
+    "title": "人类幼崽就是治愈第一名",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%9C%B4%E5%AE%B0%E8%8C%83%E8%BE%9E%E8%81%8C%23&Refer=top",
+    "title": "朴宰范辞职",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E4%BB%8A%E5%A4%A9%E6%91%B8%E9%B1%BC%E6%98%8E%E5%B9%B4%E5%B9%B4%E5%B9%B4%E6%9C%89%E4%BD%99&Refer=top",
+    "title": "今天摸鱼明年年年有余",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8CU%E5%9E%8B%E5%9C%BA%E5%9C%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%23&Refer=top",
+    "title": "谷爱凌U型场地世界杯夺冠",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A22022%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E5%BD%A9%E6%8E%92%23&Refer=top",
+    "title": "时代少年团2022东方卫视跨年彩排",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B9%90%E5%8D%8E%E6%96%B0%E7%94%B7%E5%9B%A2TEMPEST%E5%85%AC%E5%BC%80logo%23&Refer=top",
+    "title": "乐华新男团TEMPEST公开logo",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%B7%A8%E5%B9%B4%E8%88%9E%E5%8F%B0%E4%B8%87%E8%8A%B1%E7%AD%92%E8%88%9E%E7%BE%8E%E5%89%A7%E9%80%8F%23&Refer=top",
+    "title": "华晨宇跨年舞台万花筒舞美剧透",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%89%E5%A4%9A%E6%AC%A2%E4%B9%90%23&Refer=top",
+    "title": "公司跨年晚会有多欢乐",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top",
+    "title": "原神",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%B0%B4%E4%B8%8B%E8%88%9E%E8%B9%88%E8%BF%98%E5%8E%9F%E8%8E%AB%E9%AB%98%E7%AA%9F%E5%A3%81%E7%94%BB&Refer=top",
+    "title": "水下舞蹈还原莫高窟壁画",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%232022%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95%23&Refer=top",
+    "title": "2022浙江卫视跨年节目单",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=GEN%E5%85%A8%E5%91%98%E5%85%A5%E9%A9%BB%E5%BE%AE%E5%8D%9A&Refer=top",
+    "title": "GEN全员入驻微博",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%80%81%E5%B9%B4%E9%97%BA%E8%9C%9C%E5%9B%A2%E7%BA%A6%E9%A5%AD%E4%B8%80%E4%BA%BA%E4%B8%80%E6%9D%A1%E7%B3%96%E9%86%8B%E9%B1%BC%23&Refer=top",
+    "title": "老年闺蜜团约饭一人一条糖醋鱼",
     "mark": "新"
   }
 ]

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 02 2022 06:14:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 02 2022 07:14:53 GMT+0800 (China Standard Time) -->
 
 1. [2022新年贺词](https://s.weibo.com//weibo?q=%232022%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
    热
@@ -106,6 +106,8 @@
    热
 1. [丁真呼吁保护野生动物守好家乡山水](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%9C%9F%E5%91%BC%E5%90%81%E4%BF%9D%E6%8A%A4%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%AE%88%E5%A5%BD%E5%AE%B6%E4%B9%A1%E5%B1%B1%E6%B0%B4%23&Refer=top)
 1. [新年伊始国歌响彻喀喇昆仑山谷](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%B9%B4%E4%BC%8A%E5%A7%8B%E5%9B%BD%E6%AD%8C%E5%93%8D%E5%BD%BB%E5%96%80%E5%96%87%E6%98%86%E4%BB%91%E5%B1%B1%E8%B0%B7%23&Refer=top)
+   新
+1. [成都有条500公里长的绿道](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E6%9C%89%E6%9D%A1500%E5%85%AC%E9%87%8C%E9%95%BF%E7%9A%84%E7%BB%BF%E9%81%93%23&Refer=top)
    新
 
 <!-- END -->

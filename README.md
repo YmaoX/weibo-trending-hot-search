@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 01 2022 07:14:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 01 2022 08:53:31 GMT+0800 (China Standard Time) -->
 
 1. [2022新年贺词](https://s.weibo.com//weibo?q=%232022%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%23&Refer=new_time)
    热
@@ -47,7 +47,7 @@
 1. [北京卫视跨年](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4&Refer=top)
 1. [民之所忧我必念之民之所盼我必行之](https://s.weibo.com//weibo?q=%23%E6%B0%91%E4%B9%8B%E6%89%80%E5%BF%A7%E6%88%91%E5%BF%85%E5%BF%B5%E4%B9%8B%E6%B0%91%E4%B9%8B%E6%89%80%E7%9B%BC%E6%88%91%E5%BF%85%E8%A1%8C%E4%B9%8B%23&Refer=top)
 1. [吴昕 跨年](https://s.weibo.com//weibo?q=%E5%90%B4%E6%98%95%20%E8%B7%A8%E5%B9%B4&Refer=top)
-   新 -> 热 ->
+   新 -> 热 -> -> 热
 1. [fx初智齿舞台](https://s.weibo.com//weibo?q=fx%E5%88%9D%E6%99%BA%E9%BD%BF%E8%88%9E%E5%8F%B0&Refer=top)
    新 ->
 1. [五月天周杰伦合唱](https://s.weibo.com//weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%94%B1&Refer=top)
@@ -122,6 +122,14 @@
 1. [罗振宇 跨年](https://s.weibo.com//weibo?q=%E7%BD%97%E6%8C%AF%E5%AE%87%20%E8%B7%A8%E5%B9%B4&Refer=top)
    新 ->
 1. [西安小伙买馒头被群殴](https://s.weibo.com//weibo?q=%E8%A5%BF%E5%AE%89%E5%B0%8F%E4%BC%99%E4%B9%B0%E9%A6%92%E5%A4%B4%E8%A2%AB%E7%BE%A4%E6%AE%B4&Refer=top)
+   新
+1. [祝福国泰民安](https://s.weibo.com//weibo?q=%23%E7%A5%9D%E7%A6%8F%E5%9B%BD%E6%B3%B0%E6%B0%91%E5%AE%89%23&Refer=top)
+1. [没有跨年计划的你](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%9C%89%E8%B7%A8%E5%B9%B4%E8%AE%A1%E5%88%92%E7%9A%84%E4%BD%A0%23&Refer=top)
+   新
+1. [宋茜迪斯科唱跳舞台](https://s.weibo.com//weibo?q=%E5%AE%8B%E8%8C%9C%E8%BF%AA%E6%96%AF%E7%A7%91%E5%94%B1%E8%B7%B3%E8%88%9E%E5%8F%B0&Refer=top)
+   新
+1. [时间的朋友](https://s.weibo.com//weibo?q=%23%E6%97%B6%E9%97%B4%E7%9A%84%E6%9C%8B%E5%8F%8B%23&Refer=top)
+1. [周深邓丽君跨时空合唱](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E9%82%93%E4%B8%BD%E5%90%9B%E8%B7%A8%E6%97%B6%E7%A9%BA%E5%90%88%E5%94%B1%23&Refer=top)
    新
 
 <!-- END -->

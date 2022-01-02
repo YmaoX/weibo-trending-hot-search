@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 03 2022 03:11:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 03 2022 04:15:37 GMT+0800 (China Standard Time) -->
 
 1. [2022让我们一起向未来](https://s.weibo.com//weibo?q=%232022%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=new_time)
    热
@@ -95,6 +95,8 @@
 1. [谭俊彦TVB视帝](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E4%BF%8A%E5%BD%A6TVB%E8%A7%86%E5%B8%9D%23&Refer=top)
    新 ->
 1. [禹州](https://s.weibo.com//weibo?q=%23%E7%A6%B9%E5%B7%9E%23&Refer=top)
+1. [江南征决定上战场](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E5%8D%97%E5%BE%81%E5%86%B3%E5%AE%9A%E4%B8%8A%E6%88%98%E5%9C%BA%23&Refer=top)
+   新
 
 <!-- END -->
 

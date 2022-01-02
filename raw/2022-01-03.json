@@ -12,7 +12,7 @@
   {
     "url": "/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%9B%81%E5%A1%94%E5%8C%BA%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%85%8D%E8%81%8C%23&Refer=top",
     "title": "西安雁塔区委书记被免职",
-    "mark": " -> 热"
+    "mark": " -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E6%97%A0%E6%95%B0%E8%BF%BD%E6%A2%A6%E4%BA%BA%E8%BF%98%E5%9C%A8%E5%A5%8B%E6%96%97%E5%A5%89%E7%8C%AE%23&Refer=top",
@@ -263,6 +263,11 @@
   {
     "url": "/weibo?q=%23%E8%B0%AD%E4%BF%8A%E5%BD%A6TVB%E8%A7%86%E5%B8%9D%23&Refer=top",
     "title": "谭俊彦TVB视帝",
-    "mark": "新"
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E7%A6%B9%E5%B7%9E%23&Refer=top",
+    "title": "禹州",
+    "mark": ""
   }
 ]

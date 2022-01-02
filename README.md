@@ -14,14 +14,14 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 03 2022 02:16:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 03 2022 03:11:50 GMT+0800 (China Standard Time) -->
 
 1. [2022让我们一起向未来](https://s.weibo.com//weibo?q=%232022%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=new_time)
    热
 1. [小敏家陈卓得癌](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%95%8F%E5%AE%B6%E9%99%88%E5%8D%93%E5%BE%97%E7%99%8C%23&Refer=top)
    新 ->
 1. [西安雁塔区委书记被免职](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E9%9B%81%E5%A1%94%E5%8C%BA%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%85%8D%E8%81%8C%23&Refer=top)
-   -> 热
+   -> 热 ->
 1. [无数追梦人还在奋斗奉献](https://s.weibo.com//weibo?q=%23%E6%97%A0%E6%95%B0%E8%BF%BD%E6%A2%A6%E4%BA%BA%E8%BF%98%E5%9C%A8%E5%A5%8B%E6%96%97%E5%A5%89%E7%8C%AE%23&Refer=top)
 1. [妲己女仆咖啡](https://s.weibo.com//weibo?q=%23%E5%A6%B2%E5%B7%B1%E5%A5%B3%E4%BB%86%E5%92%96%E5%95%A1%23&Refer=top)
 1. [林夏薇TVB最佳女主角](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%A4%8F%E8%96%87TVB%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23&Refer=top)
@@ -93,7 +93,8 @@
 1. [荣梓杉哥控有多严重](https://s.weibo.com//weibo?q=%23%E8%8D%A3%E6%A2%93%E6%9D%89%E5%93%A5%E6%8E%A7%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D%23&Refer=top)
    新 ->
 1. [谭俊彦TVB视帝](https://s.weibo.com//weibo?q=%23%E8%B0%AD%E4%BF%8A%E5%BD%A6TVB%E8%A7%86%E5%B8%9D%23&Refer=top)
-   新
+   新 ->
+1. [禹州](https://s.weibo.com//weibo?q=%23%E7%A6%B9%E5%B7%9E%23&Refer=top)
 
 <!-- END -->
 

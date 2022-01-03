@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 04 2022 02:17:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 04 2022 03:12:06 GMT+0800 (China Standard Time) -->
 
 1. [2022让我们一起向未来](https://s.weibo.com//weibo?q=%232022%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=new_time)
    热
@@ -92,7 +92,7 @@
 1. [乌克兰俄罗斯](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BF%84%E7%BD%97%E6%96%AF&Refer=top)
    新 ->
 1. [对着流星雨许下新年愿望](https://s.weibo.com//weibo?q=%23%E5%AF%B9%E7%9D%80%E6%B5%81%E6%98%9F%E9%9B%A8%E8%AE%B8%E4%B8%8B%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B%23&Refer=top)
-   新
+   新 ->
 1. [河南禹州疫情](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E7%A6%B9%E5%B7%9E%E7%96%AB%E6%83%85%23&Refer=top)
 
 <!-- END -->

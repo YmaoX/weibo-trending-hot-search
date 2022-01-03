@@ -27,7 +27,7 @@
   {
     "url": "/weibo?q=%23%E7%BC%96%E5%89%A7%E8%BF%99%E6%98%AF%E7%96%AF%E4%BA%86%E5%90%A7%23&Refer=top",
     "title": "编剧这是疯了吧",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%85%AC%E5%AE%89%E9%80%9A%E6%8A%A5%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%A6%92%E5%A4%B4%E6%B6%A8%E4%BB%B7%E4%B8%80%E4%BA%8B%23&Refer=top",
@@ -113,7 +113,7 @@
   {
     "url": "/weibo?q=%23%E6%9D%8E%E8%90%8D%E4%B8%BA%E6%82%A3%E7%99%8C%E5%89%8D%E5%A4%AB%E5%93%AD%E4%BA%86%23&Refer=top",
     "title": "李萍为患癌前夫哭了",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E9%99%A2%E5%A3%AB%E5%BE%90%E6%80%A7%E5%88%9D%E9%80%9D%E4%B8%96%23&Refer=top",
@@ -213,7 +213,7 @@
   {
     "url": "/weibo?q=%238%E7%A7%8D%E4%BD%93%E6%A3%80%E5%B8%B8%E8%A7%81%E5%BC%82%E5%B8%B8%E7%9A%84%E6%94%B9%E5%96%84%E5%BB%BA%E8%AE%AE%23&Refer=top",
     "title": "8种体检常见异常的改善建议",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%81%AB%E8%BD%A6%E4%B8%8A8%E5%90%8D%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%BB%84%E5%9B%A2%E6%95%91%E5%9B%9E%E5%BF%83%E6%A2%97%E7%94%B7%E5%AD%90%23&Refer=top",
@@ -233,7 +233,7 @@
   {
     "url": "/weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0&Refer=top",
     "title": "乌克兰",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%231%E6%9C%881%E6%97%A5%E4%BB%A5%E6%9D%A5%E5%AE%81%E6%B3%A2%E7%B4%AF%E8%AE%A123%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top",
@@ -258,11 +258,16 @@
   {
     "url": "/weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BF%84%E7%BD%97%E6%96%AF&Refer=top",
     "title": "乌克兰俄罗斯",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%AF%B9%E7%9D%80%E6%B5%81%E6%98%9F%E9%9B%A8%E8%AE%B8%E4%B8%8B%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B%23&Refer=top",
     "title": "对着流星雨许下新年愿望",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%A6%B9%E5%B7%9E%E7%96%AB%E6%83%85%23&Refer=top",
+    "title": "河南禹州疫情",
+    "mark": ""
   }
 ]

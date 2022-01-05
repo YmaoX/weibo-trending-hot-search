@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 06 2022 02:18:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 06 2022 03:12:28 GMT+0800 (China Standard Time) -->
 
 1. [双奥之城城市之光](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E5%A5%A5%E4%B9%8B%E5%9F%8E%E5%9F%8E%E5%B8%82%E4%B9%8B%E5%85%89%23&Refer=new_time)
    热
@@ -90,6 +90,8 @@
    热
 1. [谁能拒绝在网上学挖掘机呢](https://s.weibo.com//weibo?q=%23%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E5%9C%A8%E7%BD%91%E4%B8%8A%E5%AD%A6%E6%8C%96%E6%8E%98%E6%9C%BA%E5%91%A2%23&Refer=top)
 1. [iQOO9](https://s.weibo.com//weibo?q=%23iQOO9%23&Refer=top)
+1. [张雨绮说女人不用生得好看要干得漂亮](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%AF%B4%E5%A5%B3%E4%BA%BA%E4%B8%8D%E7%94%A8%E7%94%9F%E5%BE%97%E5%A5%BD%E7%9C%8B%E8%A6%81%E5%B9%B2%E5%BE%97%E6%BC%82%E4%BA%AE%23&Refer=top)
+   新
 
 <!-- END -->
 

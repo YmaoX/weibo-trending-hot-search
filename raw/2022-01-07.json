@@ -42,7 +42,7 @@
   {
     "url": "/weibo?q=%23%E5%9B%BD%E9%99%85%E5%8C%BB%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E6%B5%81%E4%BA%A7%E4%BA%8B%E4%BB%B6%23&Refer=top",
     "title": "国际医学回应孕妇流产事件",
-    "mark": ""
+    "mark": " -> 热"
   },
   {
     "url": "/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%8A%97%E7%96%AB%E6%B1%82%E5%8A%A9%23&Refer=top",
@@ -207,7 +207,7 @@
   {
     "url": "/weibo?q=%23%E6%AD%BC20%E6%AD%BC16%E5%BC%82%E5%9E%8B%E6%9C%BA%E7%A9%BA%E6%88%98%E5%AF%B9%E6%8A%97%23&Refer=top",
     "title": "歼20歼16异型机空战对抗",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%9F%B3%E4%B9%90%E5%B9%B3%E5%8F%B0%E4%B8%8D%E5%BE%97%E7%AD%BE%E7%BD%B2%E7%8B%AC%E5%AE%B6%E7%89%88%E6%9D%83%E5%8D%8F%E8%AE%AE%23&Refer=top",
@@ -258,11 +258,16 @@
   {
     "url": "/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%BA%BA%E5%BF%85%E8%83%BD%E6%88%98%E8%83%9C%E7%96%AB%E6%83%85%23&Refer=top",
     "title": "河南人必能战胜疫情",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%A1%BE%E4%B8%80%E9%87%8E%E5%BC%80%E5%A7%8B%E8%AE%A4%E7%9C%9F%E6%90%9E%E4%BA%8B%E4%B8%9A%E4%BA%86%23&Refer=top",
     "title": "顾一野开始认真搞事业了",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%8D%81%E4%B9%9D%E5%B1%8A%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A%E8%A7%A3%E8%AF%BB%23&Refer=new_time",
+    "title": "十九届六中全会解读",
+    "mark": "热"
   }
 ]

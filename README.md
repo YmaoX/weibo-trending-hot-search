@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 07 2022 05:13:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 07 2022 06:15:17 GMT+0800 (China Standard Time) -->
 
 1. [2022北京两会](https://s.weibo.com//weibo?q=%232022%E5%8C%97%E4%BA%AC%E4%B8%A4%E4%BC%9A%23&Refer=new_time)
    热

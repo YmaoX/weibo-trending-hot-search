@@ -292,11 +292,17 @@
   {
     "url": "/weibo?q=%E9%9D%92%E6%B5%B7%E9%97%A8%E6%BA%906.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top",
     "title": "青海门源6.9级地震",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%85%B0%E5%B7%9E%E5%9C%B0%E9%9C%87&Refer=top",
     "title": "兰州地震",
     "mark": "新"
-  }
+  },
+  {
+    "url": "/weibo?q=%23%E5%85%B0%E5%B7%9E%E5%9C%B0%E9%9C%87%23&Refer=top",
+    "title": "兰州地震",
+    "mark": ""
+  },
+  { "url": "/weibo?q=%E5%9D%82%E7%94%B0&Refer=top", "title": "坂田", "mark": "新" }
 ]

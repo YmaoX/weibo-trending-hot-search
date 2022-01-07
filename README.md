@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 07 2022 14:18:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 07 2022 15:14:39 GMT+0800 (China Standard Time) -->
 
 1. [2022北京两会](https://s.weibo.com//weibo?q=%232022%E5%8C%97%E4%BA%AC%E4%B8%A4%E4%BC%9A%23&Refer=new_time)
    热
@@ -257,37 +257,37 @@
 1. [日本纳豆老仙人](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E7%BA%B3%E8%B1%86%E8%80%81%E4%BB%99%E4%BA%BA&Refer=top)
    新 ->
 1. [李庚希从小泥人变成小冰人](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E4%BB%8E%E5%B0%8F%E6%B3%A5%E4%BA%BA%E5%8F%98%E6%88%90%E5%B0%8F%E5%86%B0%E4%BA%BA%23&Refer=top)
-   新
+   新 ->
 1. [曾舜晞梁洁二搭新剧杀青](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E6%A2%81%E6%B4%81%E4%BA%8C%E6%90%AD%E6%96%B0%E5%89%A7%E6%9D%80%E9%9D%92%23&Refer=top)
    新
 1. [23岁姑娘胃疼2周没重视确诊胃癌](https://s.weibo.com//weibo?q=%2323%E5%B2%81%E5%A7%91%E5%A8%98%E8%83%83%E7%96%BC2%E5%91%A8%E6%B2%A1%E9%87%8D%E8%A7%86%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%23&Refer=top)
-   新
+   新 -> 热
 1. [亮出党员徽章的大叔曾戍边12年](https://s.weibo.com//weibo?q=%23%E4%BA%AE%E5%87%BA%E5%85%9A%E5%91%98%E5%BE%BD%E7%AB%A0%E7%9A%84%E5%A4%A7%E5%8F%94%E6%9B%BE%E6%88%8D%E8%BE%B912%E5%B9%B4%23&Refer=top)
    新
 1. [简易版蝎子麻花辫](https://s.weibo.com//weibo?q=%23%E7%AE%80%E6%98%93%E7%89%88%E8%9D%8E%E5%AD%90%E9%BA%BB%E8%8A%B1%E8%BE%AB%23&Refer=top)
    新
 1. [朴槿惠出狱变身畅销作家](https://s.weibo.com//weibo?q=%23%E6%9C%B4%E6%A7%BF%E6%83%A0%E5%87%BA%E7%8B%B1%E5%8F%98%E8%BA%AB%E7%95%85%E9%94%80%E4%BD%9C%E5%AE%B6%23&Refer=top)
-   新
+   新 -> 热
 1. [日本711承认使用过期食材](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC711%E6%89%BF%E8%AE%A4%E4%BD%BF%E7%94%A8%E8%BF%87%E6%9C%9F%E9%A3%9F%E6%9D%90%23&Refer=top)
-   新
+   新 -> 热
 1. [张杰张靓颖安徽卫视春晚](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%BC%A0%E9%9D%93%E9%A2%96%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A%23&Refer=top)
    新
 1. [迟到一次扣一千公司负责人道歉](https://s.weibo.com//weibo?q=%23%E8%BF%9F%E5%88%B0%E4%B8%80%E6%AC%A1%E6%89%A3%E4%B8%80%E5%8D%83%E5%85%AC%E5%8F%B8%E8%B4%9F%E8%B4%A3%E4%BA%BA%E9%81%93%E6%AD%89%23&Refer=top)
    新
 1. [吴京人民日报撰文谈电影](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%92%B0%E6%96%87%E8%B0%88%E7%94%B5%E5%BD%B1%23&Refer=top)
-   新
+   新 ->
 1. [毛晓彤刘佳母女戏好感人](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E5%88%98%E4%BD%B3%E6%AF%8D%E5%A5%B3%E6%88%8F%E5%A5%BD%E6%84%9F%E4%BA%BA%23&Refer=top)
    新
 1. [12岁男孩天生肌无力渴望站起来行走](https://s.weibo.com//weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E5%A4%A9%E7%94%9F%E8%82%8C%E6%97%A0%E5%8A%9B%E6%B8%B4%E6%9C%9B%E7%AB%99%E8%B5%B7%E6%9D%A5%E8%A1%8C%E8%B5%B0%23&Refer=top)
-   新
+   新 ->
 1. [西安累计确诊1913例](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A1913%E4%BE%8B%23&Refer=top)
    新
 1. [当北方人匹配到了南方人](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%8C%97%E6%96%B9%E4%BA%BA%E5%8C%B9%E9%85%8D%E5%88%B0%E4%BA%86%E5%8D%97%E6%96%B9%E4%BA%BA%23&Refer=top)
-   新
+   新 ->
 1. [高粱故意放走顾一野](https://s.weibo.com//weibo?q=%23%E9%AB%98%E7%B2%B1%E6%95%85%E6%84%8F%E6%94%BE%E8%B5%B0%E9%A1%BE%E4%B8%80%E9%87%8E%23&Refer=top)
    新
 1. [山村学校奖励优秀学生小猪](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E6%9D%91%E5%AD%A6%E6%A0%A1%E5%A5%96%E5%8A%B1%E4%BC%98%E7%A7%80%E5%AD%A6%E7%94%9F%E5%B0%8F%E7%8C%AA%23&Refer=top)
-   新
+   新 ->
 1. [李彩桦家族荣耀剧本杀高级玩家](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%BD%A9%E6%A1%A6%E5%AE%B6%E6%97%8F%E8%8D%A3%E8%80%80%E5%89%A7%E6%9C%AC%E6%9D%80%E9%AB%98%E7%BA%A7%E7%8E%A9%E5%AE%B6%23&Refer=top)
    新
 1. [乐山男子驾车拖行辅警600米被刑拘](https://s.weibo.com//weibo?q=%23%E4%B9%90%E5%B1%B1%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%8B%96%E8%A1%8C%E8%BE%85%E8%AD%A6600%E7%B1%B3%E8%A2%AB%E5%88%91%E6%8B%98%23&Refer=top)
@@ -297,6 +297,34 @@
 1. [枯草上结出冰蝴蝶美不胜收](https://s.weibo.com//weibo?q=%23%E6%9E%AF%E8%8D%89%E4%B8%8A%E7%BB%93%E5%87%BA%E5%86%B0%E8%9D%B4%E8%9D%B6%E7%BE%8E%E4%B8%8D%E8%83%9C%E6%94%B6%23&Refer=top)
    新
 1. [郑州组建妇产科应急后备救治队伍](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E7%BB%84%E5%BB%BA%E5%A6%87%E4%BA%A7%E7%A7%91%E5%BA%94%E6%80%A5%E5%90%8E%E5%A4%87%E6%95%91%E6%B2%BB%E9%98%9F%E4%BC%8D%23&Refer=top)
+   新
+1. [西安和咸阳人民可免费观看爱奇艺1个月](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E5%92%8C%E5%92%B8%E9%98%B3%E4%BA%BA%E6%B0%91%E5%8F%AF%E5%85%8D%E8%B4%B9%E8%A7%82%E7%9C%8B%E7%88%B1%E5%A5%87%E8%89%BA1%E4%B8%AA%E6%9C%88%23&Refer=top)
+   新
+1. [当父亲得知女儿癌症痊愈时](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%88%B6%E4%BA%B2%E5%BE%97%E7%9F%A5%E5%A5%B3%E5%84%BF%E7%99%8C%E7%97%87%E7%97%8A%E6%84%88%E6%97%B6%23&Refer=top)
+   新
+1. [西部战区官方微博正式上线](https://s.weibo.com//weibo?q=%E8%A5%BF%E9%83%A8%E6%88%98%E5%8C%BA%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF&Refer=top)
+   新
+1. [人类的舌头可以有多长](https://s.weibo.com//weibo?q=%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%88%8C%E5%A4%B4%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E9%95%BF&Refer=top)
+   新
+1. [重庆市武隆区凤山街道发生爆炸](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E5%B8%82%E6%AD%A6%E9%9A%86%E5%8C%BA%E5%87%A4%E5%B1%B1%E8%A1%97%E9%81%93%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&Refer=top)
+   新
+1. [河南推迟中小学教资考试面试](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%8E%A8%E8%BF%9F%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E8%B5%84%E8%80%83%E8%AF%95%E9%9D%A2%E8%AF%95%23&Refer=top)
+   新
+1. [王霏霏为孟佳东方MV打call](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E9%9C%8F%E9%9C%8F%E4%B8%BA%E5%AD%9F%E4%BD%B3%E4%B8%9C%E6%96%B9MV%E6%89%93call%23&Refer=top)
+   新
+1. [汪峰新歌](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E5%B3%B0%E6%96%B0%E6%AD%8C%23&Refer=top)
+   新
+1. [全面叫停偶像养成类综艺和耽改剧](https://s.weibo.com//weibo?q=%23%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C%E5%81%B6%E5%83%8F%E5%85%BB%E6%88%90%E7%B1%BB%E7%BB%BC%E8%89%BA%E5%92%8C%E8%80%BD%E6%94%B9%E5%89%A7%23&Refer=top)
+   新
+1. [拜登最新讲话大骂特朗普](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E6%9C%80%E6%96%B0%E8%AE%B2%E8%AF%9D%E5%A4%A7%E9%AA%82%E7%89%B9%E6%9C%97%E6%99%AE%23&Refer=top)
+   新
+1. [加了手臂的鸟类有多魔性](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E4%BA%86%E6%89%8B%E8%87%82%E7%9A%84%E9%B8%9F%E7%B1%BB%E6%9C%89%E5%A4%9A%E9%AD%94%E6%80%A7%23&Refer=top)
+   新
+1. [朴槿惠新书受到韩国老年男性热捧](https://s.weibo.com//weibo?q=%23%E6%9C%B4%E6%A7%BF%E6%83%A0%E6%96%B0%E4%B9%A6%E5%8F%97%E5%88%B0%E9%9F%A9%E5%9B%BD%E8%80%81%E5%B9%B4%E7%94%B7%E6%80%A7%E7%83%AD%E6%8D%A7%23&Refer=top)
+   新
+1. [丈夫亏损百万留守妻子创业还债](https://s.weibo.com//weibo?q=%23%E4%B8%88%E5%A4%AB%E4%BA%8F%E6%8D%9F%E7%99%BE%E4%B8%87%E7%95%99%E5%AE%88%E5%A6%BB%E5%AD%90%E5%88%9B%E4%B8%9A%E8%BF%98%E5%80%BA%23&Refer=top)
+   新
+1. [流浪狗救助者建狗别墅办小狗幼儿园](https://s.weibo.com//weibo?q=%23%E6%B5%81%E6%B5%AA%E7%8B%97%E6%95%91%E5%8A%A9%E8%80%85%E5%BB%BA%E7%8B%97%E5%88%AB%E5%A2%85%E5%8A%9E%E5%B0%8F%E7%8B%97%E5%B9%BC%E5%84%BF%E5%9B%AD%23&Refer=top)
    新
 
 <!-- END -->

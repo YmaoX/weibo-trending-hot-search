@@ -304,5 +304,9 @@
     "title": "兰州地震",
     "mark": ""
   },
-  { "url": "/weibo?q=%E5%9D%82%E7%94%B0&Refer=top", "title": "坂田", "mark": "新" }
+  {
+    "url": "/weibo?q=%E5%9D%82%E7%94%B0&Refer=top",
+    "title": "坂田",
+    "mark": "新 -> "
+  }
 ]

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 09 2022 05:13:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 09 2022 06:17:01 GMT+0800 (China Standard Time) -->
 
 1. [十九届六中全会解读](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B9%9D%E5%B1%8A%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A%E8%A7%A3%E8%AF%BB%23&Refer=new_time)
    热
@@ -106,6 +106,13 @@
 1. [2021王者荣耀挑战者杯](https://s.weibo.com//weibo?q=2021%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF&Refer=top)
    新 ->
 1. [3X3黄金联赛](https://s.weibo.com//weibo?q=3X3%E9%BB%84%E9%87%91%E8%81%94%E8%B5%9B&Refer=top)
+   新
+1. [天津疫情](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%96%AB%E6%83%85%23&Refer=top)
+1. [张文宏称奥密克戎不是大号流感](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%8F%B7%E6%B5%81%E6%84%9F%23&Refer=top)
+   新
+1. [和大部分人的最后一面](https://s.weibo.com//weibo?q=%23%E5%92%8C%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2%23&Refer=top)
+   新
+1. [黄轩演戏反着来才有新鲜感](https://s.weibo.com//weibo?q=%23%E9%BB%84%E8%BD%A9%E6%BC%94%E6%88%8F%E5%8F%8D%E7%9D%80%E6%9D%A5%E6%89%8D%E6%9C%89%E6%96%B0%E9%B2%9C%E6%84%9F%23&Refer=top)
    新
 
 <!-- END -->

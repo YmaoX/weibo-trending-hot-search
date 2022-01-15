@@ -12,7 +12,7 @@
   {
     "url": "/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%A1%AE%E8%AF%8A%E8%BF%9114%E5%A4%A9%E6%97%A0%E5%A4%96%E7%9C%81%E5%B8%82%E6%97%85%E5%B1%85%E5%8F%B2%23&Refer=top",
     "title": "北京确诊近14天无外省市旅居史",
-    "mark": ""
+    "mark": " -> 热"
   },
   {
     "url": "/weibo?q=%23%E8%AE%A9%E6%AD%A3%E5%8F%B2%E6%88%90%E4%B8%BA%E5%85%A8%E5%85%9A%E5%85%A8%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%85%B1%E8%AF%86%23&Refer=top",
@@ -52,7 +52,7 @@
   {
     "url": "/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9C%89%E7%BF%A1%E5%8E%9F%E5%A3%B0%E6%88%8F%E8%85%94%E8%A7%86%E9%A2%91%23&Refer=top",
     "title": "王一博有翡原声戏腔视频",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9D%A8%E8%BF%AA%E7%AC%AC%E4%B8%80%E5%AE%8B%E7%A5%96%E5%84%BF%E7%AC%AC%E4%BA%8C%E5%88%B0%E5%BA%95%E6%98%AF%E5%95%A5%E6%8E%92%E5%90%8D%23&Refer=top",
@@ -82,7 +82,7 @@
   {
     "url": "/weibo?q=%23%E5%8D%B5%E5%B7%A2%E5%8A%9F%E8%83%BD%E8%A1%B0%E9%80%80%E4%BC%9A%E5%A2%9E%E5%8A%A0%E6%97%A9%E6%AD%BB%E9%A3%8E%E9%99%A9%23&Refer=top",
     "title": "卵巢功能衰退会增加早死风险",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%E7%8E%8B%E7%89%8C%E9%83%A8%E9%98%9F&Refer=top",
@@ -253,11 +253,26 @@
   {
     "url": "/weibo?q=%23%E6%B7%B1%E5%9C%B31%E6%9C%8815%E6%97%A5%E6%9A%82%E6%97%A0%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B%23&Refer=top",
     "title": "深圳1月15日暂无新增病例",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%87%91%E6%B3%B0%E5%A6%8D%E6%96%B0%E6%AD%8C%E9%A2%84%E5%91%8A%E8%A7%86%E9%A2%91%23&Refer=top",
     "title": "金泰妍新歌预告视频",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E7%AA%91%E6%B4%9E%E4%B9%8B%E9%97%AE%E7%9A%84%E7%AD%94%E5%8D%B7%E4%BA%BA%23&Refer=new_time",
+    "title": "窑洞之问的答卷人",
+    "mark": "热"
+  },
+  {
+    "url": "/weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E5%91%8A%E5%88%AB%E8%B0%A2%E6%80%9C%23&Refer=top",
+    "title": "翟潇闻告别谢怜",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E9%97%AA%E5%85%89%E7%9A%84%E4%B9%90%E9%98%9F&Refer=top",
+    "title": "闪光的乐队",
+    "mark": ""
   }
 ]

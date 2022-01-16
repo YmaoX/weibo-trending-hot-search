@@ -63,7 +63,7 @@
   {
     "url": "/weibo?q=%E6%B8%85%E6%B8%85&Refer=top",
     "title": "清清",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94%E8%A2%81%E5%92%8F%E4%BB%AA%E5%81%9A%E9%98%B2%E7%96%AB%E5%BF%97%E6%84%BF%E8%80%85%23&Refer=top",
@@ -278,6 +278,11 @@
   {
     "url": "/weibo?q=%23%E9%AA%97%E5%AD%90%E6%89%93%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D%E5%BF%98%E8%AF%8D%E7%AC%91%E5%9C%BA%23&Refer=top",
     "title": "骗子打诈骗电话忘词笑场",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%232%E5%90%8D%E5%AD%A9%E5%AD%90%E5%B0%8F%E5%8C%BA%E7%8E%A9%E7%81%AB%E7%83%A7%E6%AF%81%E9%82%BB%E5%B1%85%E8%BD%BF%E8%BD%A6%23&Refer=top",
+    "title": "2名孩子小区玩火烧毁邻居轿车",
     "mark": "新"
   }
 ]

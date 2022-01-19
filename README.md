@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 20 2022 03:11:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 20 2022 04:14:42 GMT+0800 (China Standard Time) -->
 
 1. [勇于自我革命全面从严治党](https://s.weibo.com//weibo?q=%23%E5%8B%87%E4%BA%8E%E8%87%AA%E6%88%91%E9%9D%A9%E5%91%BD%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%23&Refer=new_time)
    热
@@ -92,6 +92,8 @@
 1. [2022WTT澳门冠军赛](https://s.weibo.com//weibo?q=%232022WTT%E6%BE%B3%E9%97%A8%E5%86%A0%E5%86%9B%E8%B5%9B%23&Refer=top)
 1. [新冠病毒在纸上可存活2小时](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%9C%A8%E7%BA%B8%E4%B8%8A%E5%8F%AF%E5%AD%98%E6%B4%BB2%E5%B0%8F%E6%97%B6%23&Refer=top)
    新 ->
+1. [WE对战TES](https://s.weibo.com//weibo?q=%23WE%E5%AF%B9%E6%88%98TES%23&Refer=top)
+   新
 
 <!-- END -->
 

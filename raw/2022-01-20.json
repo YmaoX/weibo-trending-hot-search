@@ -7,7 +7,7 @@
   {
     "url": "/weibo?q=%23%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E5%8F%88%E8%A6%81%E8%A2%AB%E7%BF%BB%E6%8B%8D%E4%BA%86%23&Refer=top",
     "title": "还珠格格又要被翻拍了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%8C%A4%E7%97%98%E7%97%98%E8%AF%B1%E5%8F%91%E8%B4%A5%E8%A1%80%E7%97%87%23&Refer=top",
@@ -72,7 +72,7 @@
   {
     "url": "/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AE%80%E5%8D%95%E8%AE%B2%E4%B8%A4%E7%82%B9%23&Refer=top",
     "title": "白敬亭简单讲两点",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%A2%AB%E5%A7%90%E5%A4%AB%E6%8A%95%E6%AF%92%E7%99%BE%E8%8D%89%E6%9E%AF%E5%A5%B3%E5%AD%A9%E5%87%BA%E9%99%A2%23&Refer=top",
@@ -198,7 +198,7 @@
   {
     "url": "/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%BD%AE%E6%B1%95%E7%89%9B%E8%82%89%E4%B8%B8%E7%99%BB%E4%B8%8A%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%A4%90%E6%A1%8C%23&Refer=top",
     "title": "广东潮汕牛肉丸登上冬奥会餐桌",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E7%87%83%E6%96%99%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%80%92%E5%8D%96%E8%BF%9B%E5%8F%A3%E5%8E%9F%E6%B2%B9%23&Refer=top",
@@ -238,7 +238,7 @@
   {
     "url": "/weibo?q=%E9%82%A3%E5%B9%B4%E6%88%91%E4%BB%AC&Refer=top",
     "title": "那年我们",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%93%A5%E5%93%A5%E7%A6%BB%E4%B8%96%E5%89%8D%E5%98%B1%E5%92%90%E5%A6%88%E5%A6%88%E8%AE%A9%E5%A6%B9%E5%A6%B9%E6%B4%BB%E4%B8%8B%E5%8E%BB%23&Refer=top",
@@ -269,5 +269,10 @@
     "url": "/weibo?q=%232022WTT%E6%BE%B3%E9%97%A8%E5%86%A0%E5%86%9B%E8%B5%9B%23&Refer=top",
     "title": "2022WTT澳门冠军赛",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%9C%A8%E7%BA%B8%E4%B8%8A%E5%8F%AF%E5%AD%98%E6%B4%BB2%E5%B0%8F%E6%97%B6%23&Refer=top",
+    "title": "新冠病毒在纸上可存活2小时",
+    "mark": "新"
   }
 ]

@@ -308,32 +308,32 @@
   {
     "url": "/weibo?q=%23%E6%95%AC%E4%B8%9A%E7%A6%8F%23&Refer=top",
     "title": "敬业福",
-    "mark": "新"
+    "mark": "新 -> 热"
   },
   {
     "url": "/weibo?q=%23%E7%81%AB%E5%B1%B1%E7%81%B0%E6%B1%A1%E6%9F%93%E4%BA%86%E6%95%B4%E4%B8%AA%E6%B1%A4%E5%8A%A0%E7%9A%84%E6%B0%B4%E6%BA%90%23&Refer=top",
     "title": "火山灰污染了整个汤加的水源",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%80%81%E4%BA%BA%E7%97%85%E9%80%9D%E5%90%8E%E7%8C%AB%E5%92%AA%E4%B8%A4%E5%A4%A9%E4%B8%8D%E5%90%83%E4%B8%8D%E5%96%9D%E8%BA%AB%E4%BA%A1%23&Refer=top",
     "title": "老人病逝后猫咪两天不吃不喝身亡",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E4%BA%94%E7%A6%8F&Refer=top",
     "title": "五福",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%80%E5%AE%A0%E7%89%A9%E5%BA%9711%E5%8F%AA%E4%BB%93%E9%BC%A0%E6%A0%B7%E6%9C%AC%E9%98%B3%E6%80%A7%23&Refer=top",
     "title": "香港一宠物店11只仓鼠样本阳性",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%82%96%E9%B9%A4%E4%BA%91%E6%9D%8E%E8%AF%97%E6%83%85%E5%9D%A0%E5%85%A5%E7%88%B1%E6%B2%B3%23&Refer=top",
     "title": "肖鹤云李诗情坠入爱河",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%AF%B4%E6%9C%80%E8%BF%91%E5%BD%95%E7%9A%84%E5%A5%BD%E6%AD%8C%E5%A4%AA%E5%A4%9A%E4%BA%86%23&Refer=top",
@@ -343,17 +343,17 @@
   {
     "url": "/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%88%B6%E6%AF%8D%E7%9C%8B%E6%88%91%E4%BB%AC%E4%B8%8D%E9%A1%BA%E7%9C%BC%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top",
     "title": "当年父母看我们不顺眼的原因",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%87%AA%E6%88%91%E7%AE%A1%E7%90%86%E7%9A%849%E4%B8%AA%E5%A5%BD%E4%B9%A0%E6%83%AF%23&Refer=top",
     "title": "自我管理的9个好习惯",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%AF%8F%E4%B8%AA%E8%88%9E%E6%AD%A5%E9%83%BD%E6%98%AF%E7%B2%BE%E5%BF%83%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%9A%84&Refer=top",
     "title": "每个舞步都是精心设计过的",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%BE%BD%E5%AE%81%E7%90%83%E8%BF%B7%E6%8B%89%E6%A8%AA%E5%B9%85%E6%83%B3%E5%BF%B5%E9%83%AD%E5%A3%AB%E5%BC%BA%23&Refer=top",
@@ -363,6 +363,66 @@
   {
     "url": "/weibo?q=%23%E6%B0%94%E8%B4%A8%E4%BD%93%E6%80%81%E6%80%A5%E6%95%91%E7%9F%AB%E6%AD%A3%E5%8C%85%23&Refer=top",
     "title": "气质体态急救矫正包",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A14%E4%BE%8B%23&Refer=top",
+    "title": "天津新增本土确诊14例",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%93%B6%E8%A1%8C%E4%B8%80%E6%8A%8A%E6%89%8B%E5%8F%97%E8%B4%BF%E4%B8%8D%E6%94%B6%E7%8E%B0%E9%87%91%23&Refer=top",
+    "title": "银行一把手受贿不收现金",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A33%E4%BE%8B%23&Refer=top",
+    "title": "河南新增本土确诊33例",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A7%E4%BE%8B%23&Refer=top",
+    "title": "广东增本土确诊7例",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%BC%80%E7%AB%AF%E9%87%8C%E7%9A%84%E8%AE%B0%E8%80%85%E6%98%AF%E5%BE%97%E5%AE%9D%E5%92%8C%E9%BA%A6%E8%8B%97%23&Refer=top",
+    "title": "开端里的记者是得宝和麦苗",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%B2%BE%E6%B2%BE%E5%8D%A1&Refer=top",
+    "title": "沾沾卡",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E9%9B%B6%E6%96%B0%E5%A2%9E%23&Refer=top",
+    "title": "西安终于迎来零新增",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%99%95%E8%A5%BF%E6%98%A8%E6%97%A5%E6%97%A0%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top",
+    "title": "陕西昨日无新增本土确诊",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%231%E6%9C%8818%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A87%E4%BE%8B%23&Refer=top",
+    "title": "1月18日新增确诊87例",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%E6%89%8B%E6%B8%B8%23&Refer=top",
+    "title": "阴阳师手游",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%8F%A0%E6%B5%B7%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A6%E4%BE%8B%23&Refer=top",
+    "title": "珠海新增本土确诊6例",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%8E%B0%E5%AE%9E%E7%89%88%E6%97%A5%E8%BD%AE%E5%88%80%E8%83%BD%E6%9C%89%E5%A4%9A%E7%82%AB%E9%85%B7%23&Refer=top",
+    "title": "现实版日轮刀能有多炫酷",
     "mark": "新"
   }
 ]

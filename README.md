@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 20 2022 05:12:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 20 2022 06:13:59 GMT+0800 (China Standard Time) -->
 
 1. [勇于自我革命全面从严治党](https://s.weibo.com//weibo?q=%23%E5%8B%87%E4%BA%8E%E8%87%AA%E6%88%91%E9%9D%A9%E5%91%BD%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%23&Refer=new_time)
    热
@@ -94,6 +94,8 @@
    新 ->
 1. [WE对战TES](https://s.weibo.com//weibo?q=%23WE%E5%AF%B9%E6%88%98TES%23&Refer=top)
    新 ->
+1. [坚持以零容忍态度惩治腐败](https://s.weibo.com//weibo?q=%23%E5%9D%9A%E6%8C%81%E4%BB%A5%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%80%81%E5%BA%A6%E6%83%A9%E6%B2%BB%E8%85%90%E8%B4%A5%23&Refer=new_time)
+   热
 
 <!-- END -->
 

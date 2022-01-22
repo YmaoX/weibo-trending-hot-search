@@ -330,7 +330,7 @@
   {
     "url": "/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%BA%E5%9D%87%E5%B9%B4%E7%BB%88%E5%A5%9612196%E5%85%83%23&Refer=top",
     "title": "杭州人均年终奖12196元",
-    "mark": "新 -> 热"
+    "mark": "新 -> 热 -> "
   },
   { "url": "/weibo?q=zzr&Refer=top", "title": "zzr", "mark": "新 -> 热" },
   {
@@ -351,7 +351,7 @@
   {
     "url": "/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%BF%99%E5%9C%BA%E9%99%8D%E9%9B%AA%E5%B0%86%E8%BF%9E%E4%B8%8B7%E5%A4%A9%23&Refer=top",
     "title": "河南这场降雪将连下7天",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A6%88%E5%A6%88%E9%98%B2%E5%A8%83%E8%B4%AA%E7%8E%A9%E6%8A%8A%E5%B9%B3%E6%9D%BF%E8%97%8F%E4%B9%A6%E5%8C%85%23&Refer=top",
@@ -376,7 +376,7 @@
   {
     "url": "/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E4%BA%B2%E7%88%B1%E7%9A%84%E7%83%AD%E7%88%B1%E7%9A%84%23&Refer=top",
     "title": "如何评价电视剧亲爱的热爱的",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%BA%BA%E5%9C%A8%E4%BD%8E%E8%B0%B7%E6%9C%9F%E5%8F%AF%E4%BB%A5%E5%81%9A%E7%9A%84%E4%BA%8B%23&Refer=top",
@@ -396,12 +396,12 @@
   {
     "url": "/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A2%9E4%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top",
     "title": "河南增4例本土确诊",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%B8%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%93%81%E5%91%B3%E5%A5%BD&Refer=top",
     "title": "周杰伦夸英雄联盟品味好",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E8%99%8E%E5%8D%A1&Refer=top",
@@ -411,12 +411,12 @@
   {
     "url": "/weibo?q=%E6%95%85%E5%AE%AB%20%E9%9B%AA&Refer=top",
     "title": "故宫 雪",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8E%BB%E5%A5%B3%E6%96%B9%E5%AE%B65%E5%A4%A9%E8%A2%AB%E6%9C%AA%E6%9D%A5%E5%B2%B3%E7%88%B6%E7%81%8C%E5%80%923%E6%AC%A1%23&Refer=top",
     "title": "男子去女方家5天被未来岳父灌倒3次",
-    "mark": "新"
+    "mark": "新 -> 热"
   },
   {
     "url": "/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%AA%81%E7%84%B6%E8%A2%AB%E7%82%B9%E5%90%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top",
@@ -466,6 +466,26 @@
   {
     "url": "/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%B4%AF%E8%AE%A1%E6%8A%A5%E5%91%8A%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%B6%857000%E4%B8%87%E4%BE%8B%23&Refer=top",
     "title": "美国累计报告新冠确诊超7000万例",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%E9%99%86%E6%B2%89%E7%94%9F%E6%97%A5&Refer=top",
+    "title": "陆沉生日",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%8D%A2%E5%BE%AE%E5%8D%9A%E8%83%8C%E6%99%AF%E5%9B%BE%23&Refer=top",
+    "title": "白敬亭换微博背景图",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E6%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top",
+    "title": "北京新增6例本土无症状",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9B%9B%E8%83%9E%E8%83%8E%E5%90%8C%E6%97%B6%E8%80%83%E5%85%A5%E4%BC%AF%E5%85%8B%E5%88%A9%E6%88%90%E7%AB%8B%E7%BB%84%E5%90%88%23&Refer=top",
+    "title": "南京四胞胎同时考入伯克利成立组合",
     "mark": "新"
   }
 ]

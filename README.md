@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 26 2022 06:14:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 26 2022 07:15:03 GMT+0800 (China Standard Time) -->
 
 1. [相约冰雪一起来](https://s.weibo.com//weibo?q=%23%E7%9B%B8%E7%BA%A6%E5%86%B0%E9%9B%AA%E4%B8%80%E8%B5%B7%E6%9D%A5%23&Refer=new_time)
    热
@@ -105,6 +105,10 @@
    热
 1. [开端](https://s.weibo.com//weibo?q=%E5%BC%80%E7%AB%AF&Refer=top)
 1. [用前世今生打开开端](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F%E6%89%93%E5%BC%80%E5%BC%80%E7%AB%AF%23&Refer=top)
+   新
+1. [2021年我国财政收入突破20万亿元](https://s.weibo.com//weibo?q=%232021%E5%B9%B4%E6%88%91%E5%9B%BD%E8%B4%A2%E6%94%BF%E6%94%B6%E5%85%A5%E7%AA%81%E7%A0%B420%E4%B8%87%E4%BA%BF%E5%85%83%23&Refer=top)
+   新
+1. [猫咪不急狗子急](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E5%92%AA%E4%B8%8D%E6%80%A5%E7%8B%97%E5%AD%90%E6%80%A5%23&Refer=top)
    新
 
 <!-- END -->

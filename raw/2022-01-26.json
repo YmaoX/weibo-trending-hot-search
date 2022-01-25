@@ -22,7 +22,7 @@
   {
     "url": "/weibo?q=%E6%97%A0%E6%AF%9B%E7%8C%AB%20%E5%8D%A2%E7%AC%9B&Refer=top",
     "title": "无毛猫 卢笛",
-    "mark": "新 -> "
+    "mark": "新 ->  -> 热"
   },
   {
     "url": "/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%E6%96%B0%E8%BA%AB%E4%BB%BD%E6%98%AF%E7%A4%BC%E5%AE%BE%E9%83%A8%E7%BB%8F%E7%90%86%23&Refer=top",
@@ -288,12 +288,17 @@
   {
     "url": "/weibo?q=%23%E6%9D%80%E4%BA%BA%E7%9A%84%E7%BD%91%E7%BB%9C%E6%9A%B4%E5%8A%9B%E4%B8%8D%E6%95%B4%E6%B2%BB%E4%B8%8D%E8%A1%8C%E4%BA%86%23&Refer=top",
     "title": "杀人的网络暴力不整治不行了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8D%81%E4%B9%9D%E5%B1%8A%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A%E8%A7%A3%E8%AF%BB%23&Refer=new_time",
     "title": "十九届六中全会解读",
     "mark": "热"
   },
-  { "url": "/weibo?q=%E5%BC%80%E7%AB%AF&Refer=top", "title": "开端", "mark": "" }
+  { "url": "/weibo?q=%E5%BC%80%E7%AB%AF&Refer=top", "title": "开端", "mark": "" },
+  {
+    "url": "/weibo?q=%23%E7%94%A8%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F%E6%89%93%E5%BC%80%E5%BC%80%E7%AB%AF%23&Refer=top",
+    "title": "用前世今生打开开端",
+    "mark": "新"
+  }
 ]

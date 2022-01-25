@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 26 2022 03:12:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 26 2022 04:14:29 GMT+0800 (China Standard Time) -->
 
 1. [相约冰雪一起来](https://s.weibo.com//weibo?q=%23%E7%9B%B8%E7%BA%A6%E5%86%B0%E9%9B%AA%E4%B8%80%E8%B5%B7%E6%9D%A5%23&Refer=new_time)
    热
@@ -23,7 +23,7 @@
 1. [学生参观私人博物馆打碎130万文物](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E5%8F%82%E8%A7%82%E7%A7%81%E4%BA%BA%E5%8D%9A%E7%89%A9%E9%A6%86%E6%89%93%E7%A2%8E130%E4%B8%87%E6%96%87%E7%89%A9%23&Refer=top)
 1. [党和人民共同创造的精神财富](https://s.weibo.com//weibo?q=%23%E5%85%9A%E5%92%8C%E4%BA%BA%E6%B0%91%E5%85%B1%E5%90%8C%E5%88%9B%E9%80%A0%E7%9A%84%E7%B2%BE%E7%A5%9E%E8%B4%A2%E5%AF%8C%23&Refer=top)
 1. [无毛猫 卢笛](https://s.weibo.com//weibo?q=%E6%97%A0%E6%AF%9B%E7%8C%AB%20%E5%8D%A2%E7%AC%9B&Refer=top)
-   新 ->
+   新 -> -> 热
 1. [张艺兴扫黑风暴新身份是礼宾部经理](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4%E6%96%B0%E8%BA%AB%E4%BB%BD%E6%98%AF%E7%A4%BC%E5%AE%BE%E9%83%A8%E7%BB%8F%E7%90%86%23&Refer=top)
    新 ->
 1. [大学生返乡被家人安排住老屋隔离](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%94%E4%B9%A1%E8%A2%AB%E5%AE%B6%E4%BA%BA%E5%AE%89%E6%8E%92%E4%BD%8F%E8%80%81%E5%B1%8B%E9%9A%94%E7%A6%BB%23&Refer=top)
@@ -99,10 +99,12 @@
 1. [王者荣耀](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top)
 1. [今天小年](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%B0%8F%E5%B9%B4%23&Refer=top)
 1. [杀人的网络暴力不整治不行了](https://s.weibo.com//weibo?q=%23%E6%9D%80%E4%BA%BA%E7%9A%84%E7%BD%91%E7%BB%9C%E6%9A%B4%E5%8A%9B%E4%B8%8D%E6%95%B4%E6%B2%BB%E4%B8%8D%E8%A1%8C%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [十九届六中全会解读](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B9%9D%E5%B1%8A%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A%E8%A7%A3%E8%AF%BB%23&Refer=new_time)
    热
 1. [开端](https://s.weibo.com//weibo?q=%E5%BC%80%E7%AB%AF&Refer=top)
+1. [用前世今生打开开端](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F%E6%89%93%E5%BC%80%E5%BC%80%E7%AB%AF%23&Refer=top)
+   新
 
 <!-- END -->
 

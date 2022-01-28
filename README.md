@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 29 2022 06:13:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 29 2022 07:14:05 GMT+0800 (China Standard Time) -->
 
 1. [人民群众过得好不好是他始终如一的牵挂](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E8%BF%87%E5%BE%97%E5%A5%BD%E4%B8%8D%E5%A5%BD%E6%98%AF%E4%BB%96%E5%A7%8B%E7%BB%88%E5%A6%82%E4%B8%80%E7%9A%84%E7%89%B5%E6%8C%82%23&Refer=new_time)
    热
@@ -96,6 +96,8 @@
 1. [过年应付亲戚的满分回答](https://s.weibo.com//weibo?q=%23%E8%BF%87%E5%B9%B4%E5%BA%94%E4%BB%98%E4%BA%B2%E6%88%9A%E7%9A%84%E6%BB%A1%E5%88%86%E5%9B%9E%E7%AD%94%23&Refer=top)
    新 ->
 1. [雅西高速](https://s.weibo.com//weibo?q=%E9%9B%85%E8%A5%BF%E9%AB%98%E9%80%9F&Refer=top)
+   新 ->
+1. [开端为什么会输在结局](https://s.weibo.com//weibo?q=%23%E5%BC%80%E7%AB%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%BE%93%E5%9C%A8%E7%BB%93%E5%B1%80%23&Refer=top)
    新
 
 <!-- END -->

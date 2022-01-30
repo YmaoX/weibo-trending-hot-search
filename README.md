@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 31 2022 02:15:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 31 2022 03:10:41 GMT+0800 (China Standard Time) -->
 
 1. [总书记始终不变的牵挂](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A7%8B%E7%BB%88%E4%B8%8D%E5%8F%98%E7%9A%84%E7%89%B5%E6%8C%82%23&Refer=new_time)
    热
@@ -33,6 +33,7 @@
 1. [明天除夕](https://s.weibo.com//weibo?q=%23%E6%98%8E%E5%A4%A9%E9%99%A4%E5%A4%95%23&Refer=top)
    沸
 1. [TFBOYS不合体](https://s.weibo.com//weibo?q=%23TFBOYS%E4%B8%8D%E5%90%88%E4%BD%93%23&Refer=top)
+   -> 热
 1. [白桃星座](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23&Refer=top)
    新 ->
 1. [春晚没有张杰](https://s.weibo.com//weibo?q=%E6%98%A5%E6%99%9A%E6%B2%A1%E6%9C%89%E5%BC%A0%E6%9D%B0&Refer=top)
@@ -88,10 +89,12 @@
 1. [余霜孤勇者](https://s.weibo.com//weibo?q=%E4%BD%99%E9%9C%9C%E5%AD%A4%E5%8B%87%E8%80%85&Refer=top)
    新 ->
 1. [万物皆可变成虎](https://s.weibo.com//weibo?q=%23%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E5%8F%98%E6%88%90%E8%99%8E%23&Refer=top)
-   新
+   新 ->
 1. [沈腾说马丽能用嘴拔罐](https://s.weibo.com//weibo?q=%23%E6%B2%88%E8%85%BE%E8%AF%B4%E9%A9%AC%E4%B8%BD%E8%83%BD%E7%94%A8%E5%98%B4%E6%8B%94%E7%BD%90%23&Refer=top)
-   新
+   新 ->
 1. [李马克新歌概念照](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%A9%AC%E5%85%8B%E6%96%B0%E6%AD%8C%E6%A6%82%E5%BF%B5%E7%85%A7&Refer=top)
+   新
+1. [王祖蓝一家四口同台唱健康歌](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%90%8C%E5%8F%B0%E5%94%B1%E5%81%A5%E5%BA%B7%E6%AD%8C%23&Refer=top)
    新
 
 <!-- END -->

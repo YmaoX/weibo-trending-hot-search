@@ -27,7 +27,7 @@
   {
     "url": "/weibo?q=%E6%BE%B3%E7%BD%91&Refer=top",
     "title": "澳网",
-    "mark": "沸"
+    "mark": "沸 -> "
   },
   {
     "url": "/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E4%B8%80%E5%AE%B6%E7%9A%84%E6%99%AE%E9%80%9A%E5%8D%88%E9%A5%AD%23&Refer=top",
@@ -72,7 +72,7 @@
   {
     "url": "/weibo?q=%E5%B9%B4%E5%A4%9C%E9%A5%AD&Refer=top",
     "title": "年夜饭",
-    "mark": ""
+    "mark": " -> 沸"
   },
   {
     "url": "/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%89%B6%E6%B2%9F%E5%8F%91%E7%8E%B0%E5%A4%9A%E5%90%8D%E6%9D%AD%E5%B7%9E%E7%97%85%E4%BE%8B%E5%AF%86%E6%8E%A5%E8%80%85%23&Refer=top",
@@ -282,7 +282,7 @@
   {
     "url": "/weibo?q=%23%E5%9C%A8%E5%AD%A6%E6%A0%A1%E8%BF%87%E5%B9%B4%E6%98%AF%E7%A7%8D%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C%23&Refer=top",
     "title": "在学校过年是种怎样的体验",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E4%BA%BA%E4%B8%96%E9%97%B4&Refer=top",

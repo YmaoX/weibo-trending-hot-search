@@ -52,12 +52,12 @@
   {
     "url": "/weibo?q=%23%E4%B8%8D%E8%B7%9F%E7%88%B8%E5%A6%88%E4%BD%8F%E7%9A%84%E8%A3%85%E4%BF%AE%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%23&Refer=top",
     "title": "不跟爸妈住的装修是怎样的",
-    "mark": "热 -> "
+    "mark": "热 ->  -> 热"
   },
   {
     "url": "/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AF%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%23&Refer=top",
     "title": "还得是沈腾马丽",
-    "mark": "热 -> "
+    "mark": "热 ->  -> 热"
   },
   {
     "url": "/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E9%9D%92%E9%93%9C%E5%A4%A7%E9%9D%A2%E5%85%B7%E4%BA%AE%E7%9B%B8%E6%98%A5%E6%99%9A%23&Refer=top",
@@ -328,7 +328,7 @@
   {
     "url": "/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%83%81%E5%8F%AF%E5%94%AF%E6%98%A5%E6%99%9A%E5%8E%8B%E8%BD%B4%23&Refer=top",
     "title": "朱一龙赵丽颖王俊凯郁可唯春晚压轴",
-    "mark": "新 -> 沸"
+    "mark": "新 -> 沸 -> "
   },
   {
     "url": "/weibo?q=%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B&Refer=top",
@@ -363,7 +363,7 @@
   {
     "url": "/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%BA%A2%E5%8C%85%23&Refer=top",
     "title": "微博红包",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E7%83%9F%E7%81%AB%20%E6%96%B0%E5%B9%B4&Refer=top",
@@ -388,7 +388,7 @@
   {
     "url": "/weibo?q=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E8%BF%87%E5%B9%B4%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F&Refer=top",
     "title": "广东人过年的仪式感",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%232022%E8%83%BD%E9%87%8F%E6%BB%A1%E6%BB%A1%23&Refer=top",
@@ -403,7 +403,7 @@
   {
     "url": "/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%8E%8B%E5%8B%89%E5%B0%B4%E5%B0%AC%23&Refer=top",
     "title": "大张伟王勉尴尬",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%92%92%E8%B4%9D%E5%AE%81%E8%B4%B7%E6%AC%BE%E4%B8%8A%E7%8F%AD&Refer=top",
@@ -413,6 +413,11 @@
   {
     "url": "/weibo?q=%E5%8D%81%E5%A4%A7%E7%A5%9E%E4%BB%99%E6%B0%B4%E9%A5%BA&Refer=top",
     "title": "十大神仙水饺",
-    "mark": "新"
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23&Refer=new_time",
+    "title": "听妈妈的话",
+    "mark": "热"
   }
 ]

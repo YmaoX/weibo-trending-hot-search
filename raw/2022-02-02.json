@@ -67,7 +67,7 @@
   {
     "url": "/weibo?q=%23%E5%9B%BD%E8%B6%B3%E9%80%80%E9%92%B1%23&Refer=top",
     "title": "国足退钱",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9D%8E%E9%9C%84%E9%B9%8F%E9%81%93%E6%AD%89%23&Refer=top",
@@ -314,5 +314,6 @@
     "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%88%91%E7%9A%84%E6%A2%A6%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%23&Refer=new_time",
     "title": "中国梦我的梦网络视听年度盛典",
     "mark": "热"
-  }
+  },
+  { "url": "/weibo?q=%E6%9D%8E%E7%92%87&Refer=top", "title": "李璇", "mark": "新" }
 ]

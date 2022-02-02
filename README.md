@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 03 2022 04:15:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 03 2022 05:12:47 GMT+0800 (China Standard Time) -->
 
 1. [听妈妈的话](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23&Refer=new_time)
    热
@@ -95,7 +95,9 @@
 1. [保罗一条龙压哨上篮](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E7%BD%97%E4%B8%80%E6%9D%A1%E9%BE%99%E5%8E%8B%E5%93%A8%E4%B8%8A%E7%AF%AE%23&Refer=top)
    新
 1. [春节刷片计划](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E5%88%B7%E7%89%87%E8%AE%A1%E5%88%92%23&Refer=top)
-   新
+   新 ->
+1. [羽生结弦](https://s.weibo.com//weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6&Refer=top)
+1. [北京地震](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%9C%87%23&Refer=top)
 
 <!-- END -->
 

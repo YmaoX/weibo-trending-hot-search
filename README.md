@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 04 2022 04:14:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 04 2022 05:11:57 GMT+0800 (China Standard Time) -->
 
 1. [听妈妈的话](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23&Refer=new_time)
    热
@@ -35,7 +35,7 @@
    热 ->
 1. [如何看待易烊千玺成为百亿票房演员](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%88%90%E4%B8%BA%E7%99%BE%E4%BA%BF%E7%A5%A8%E6%88%BF%E6%BC%94%E5%91%98%23&Refer=top)
 1. [初三送穷鬼](https://s.weibo.com//weibo?q=%E5%88%9D%E4%B8%89%E9%80%81%E7%A9%B7%E9%AC%BC&Refer=top)
-   热
+   热 ->
 1. [2008到2022](https://s.weibo.com//weibo?q=%232008%E5%88%B02022%23&Refer=top)
 1. [迪丽热巴泰国wetv最佳女演员](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B3%B0%E5%9B%BDwetv%E6%9C%80%E4%BD%B3%E5%A5%B3%E6%BC%94%E5%91%98%23&Refer=top)
 1. [花滑选手版只此青绿](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%BB%91%E9%80%89%E6%89%8B%E7%89%88%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%23&Refer=top)
@@ -85,7 +85,7 @@
 1. [中国女足点球淘汰日本](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%82%B9%E7%90%83%E6%B7%98%E6%B1%B0%E6%97%A5%E6%9C%AC%23&Refer=top)
    新 -> 沸
 1. [女足精神](https://s.weibo.com//weibo?q=%E5%A5%B3%E8%B6%B3%E7%B2%BE%E7%A5%9E&Refer=top)
-   新 -> 沸
+   新 -> 沸 ->
 1. [立春](https://s.weibo.com//weibo?q=%E7%AB%8B%E6%98%A5&Refer=top) 新 -> 沸
 1. [中国女足晋级决赛](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&Refer=top)
    新 -> 沸

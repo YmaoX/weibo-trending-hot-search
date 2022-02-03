@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 04 2022 06:14:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 04 2022 07:12:15 GMT+0800 (China Standard Time) -->
 
 1. [听妈妈的话](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23&Refer=new_time)
    热
@@ -96,6 +96,12 @@
 1. [郑素年妈妈癌症晚期确诊](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%B4%A0%E5%B9%B4%E5%A6%88%E5%A6%88%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
 1. [冰墩墩雪容融又双叒叕卡门](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%9B%AA%E5%AE%B9%E8%9E%8D%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E5%8D%A1%E9%97%A8&Refer=top)
    新 ->
+1. [成龙担任火炬手](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%BE%99%E6%8B%85%E4%BB%BB%E7%81%AB%E7%82%AC%E6%89%8B%23&Refer=top)
+   新
+1. [长津湖之水门桥票房破15亿](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B4%A5%E6%B9%96%E4%B9%8B%E6%B0%B4%E9%97%A8%E6%A1%A5%E7%A5%A8%E6%88%BF%E7%A0%B415%E4%BA%BF%23&Refer=top)
+1. [为什么说朋友是无血缘关系的家人](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%9C%8B%E5%8F%8B%E6%98%AF%E6%97%A0%E8%A1%80%E7%BC%98%E5%85%B3%E7%B3%BB%E7%9A%84%E5%AE%B6%E4%BA%BA%23&Refer=top)
+1. [黑龙江绝美星空延时大片](https://s.weibo.com//weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E7%BB%9D%E7%BE%8E%E6%98%9F%E7%A9%BA%E5%BB%B6%E6%97%B6%E5%A4%A7%E7%89%87%23&Refer=top)
+   新
 
 <!-- END -->
 

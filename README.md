@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 03 2022 17:13:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 03 2022 18:14:51 GMT+0800 (China Standard Time) -->
 
 1. [听妈妈的话](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23&Refer=new_time)
    热
@@ -31,7 +31,7 @@
 1. [大年初二](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C%23&Refer=top)
    沸 ->
 1. [除夕牺牲2名消防员被评为烈士](https://s.weibo.com//weibo?q=%23%E9%99%A4%E5%A4%95%E7%89%BA%E7%89%B22%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E8%A2%AB%E8%AF%84%E4%B8%BA%E7%83%88%E5%A3%AB%23&Refer=top)
-1. [四海](https://s.weibo.com//weibo?q=%E5%9B%9B%E6%B5%B7&Refer=top)
+1. [四海](https://s.weibo.com//weibo?q=%E5%9B%9B%E6%B5%B7&Refer=top) -> 新
 1. [叙利亚解散国家队相关人员](https://s.weibo.com//weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E8%A7%A3%E6%95%A3%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98%23&Refer=top)
    热 ->
 1. [网络视听年度盛典快剪宣传片发布](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%E5%BF%AB%E5%89%AA%E5%AE%A3%E4%BC%A0%E7%89%87%E5%8F%91%E5%B8%83%23&Refer=top)
@@ -117,7 +117,7 @@
 1. [深圳此前4例均为奥密克戎](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AD%A4%E5%89%8D4%E4%BE%8B%E5%9D%87%E4%B8%BA%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%23&Refer=top)
    新 ->
 1. [大年初三睡到饱](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89%E7%9D%A1%E5%88%B0%E9%A5%B1%23&Refer=top)
-   新 -> 沸 -> 热
+   新 -> 沸 -> 热 ->
 1. [大年初三](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89&Refer=top)
    -> 沸 ->
 1. [何同学](https://s.weibo.com//weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%23&Refer=top)
@@ -332,7 +332,7 @@
 1. [宋妍霏为赵小棠新剧打call](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E4%B8%BA%E8%B5%B5%E5%B0%8F%E6%A3%A0%E6%96%B0%E5%89%A7%E6%89%93call%23&Refer=top)
    新 ->
 1. [冰壶堪称学霸的运动](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A3%B6%E5%A0%AA%E7%A7%B0%E5%AD%A6%E9%9C%B8%E7%9A%84%E8%BF%90%E5%8A%A8%23&Refer=top)
-   新
+   新 ->
 1. [冰球是冬奥会唯一集体球类项目](https://s.weibo.com//weibo?q=%23%E5%86%B0%E7%90%83%E6%98%AF%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%94%AF%E4%B8%80%E9%9B%86%E4%BD%93%E7%90%83%E7%B1%BB%E9%A1%B9%E7%9B%AE%23&Refer=top)
    新 ->
 1. [刘宇的一天](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%E7%9A%84%E4%B8%80%E5%A4%A9&Refer=top)
@@ -348,23 +348,52 @@
 1. [王亚平丁宁冰新一代太空连线](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BA%9A%E5%B9%B3%E4%B8%81%E5%AE%81%E5%86%B0%E6%96%B0%E4%B8%80%E4%BB%A3%E5%A4%AA%E7%A9%BA%E8%BF%9E%E7%BA%BF%23&Refer=top)
    新
 1. [狙击手](https://s.weibo.com//weibo?q=%E7%8B%99%E5%87%BB%E6%89%8B&Refer=top) 新
+   ->
 1. [过年表演才艺能多社死](https://s.weibo.com//weibo?q=%23%E8%BF%87%E5%B9%B4%E8%A1%A8%E6%BC%94%E6%89%8D%E8%89%BA%E8%83%BD%E5%A4%9A%E7%A4%BE%E6%AD%BB%23&Refer=top)
    新
 1. [凌智身材绝了](https://s.weibo.com//weibo?q=%23%E5%87%8C%E6%99%BA%E8%BA%AB%E6%9D%90%E7%BB%9D%E4%BA%86%23&Refer=top)
-   新
+   新 -> 热
 1. [杭州疫情拐点已经出现](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%96%AB%E6%83%85%E6%8B%90%E7%82%B9%E5%B7%B2%E7%BB%8F%E5%87%BA%E7%8E%B0%23&Refer=top)
-   新
+   新 ->
 1. [蔡斌任国家女排主教练](https://s.weibo.com//weibo?q=%23%E8%94%A1%E6%96%8C%E4%BB%BB%E5%9B%BD%E5%AE%B6%E5%A5%B3%E6%8E%92%E4%B8%BB%E6%95%99%E7%BB%83%23&Refer=top)
-   新
+   新 ->
 1. [YG艺人练乒乓球有多努力](https://s.weibo.com//weibo?q=%23YG%E8%89%BA%E4%BA%BA%E7%BB%83%E4%B9%92%E4%B9%93%E7%90%83%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&Refer=top)
    新
 1. [凌智一笑](https://s.weibo.com//weibo?q=%23%E5%87%8C%E6%99%BA%E4%B8%80%E7%AC%91%23&Refer=top)
-   新
+   新 ->
 1. [江苏南山竹海雪中舞狮太绝了](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8D%97%E5%B1%B1%E7%AB%B9%E6%B5%B7%E9%9B%AA%E4%B8%AD%E8%88%9E%E7%8B%AE%E5%A4%AA%E7%BB%9D%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [福原爱的东北话说着说着就藏不住了](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E7%9A%84%E4%B8%9C%E5%8C%97%E8%AF%9D%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%B0%B1%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86%23&Refer=top)
    新
 1. [15岁少年用游戏建模还原奥运场馆](https://s.weibo.com//weibo?q=%2315%E5%B2%81%E5%B0%91%E5%B9%B4%E7%94%A8%E6%B8%B8%E6%88%8F%E5%BB%BA%E6%A8%A1%E8%BF%98%E5%8E%9F%E5%A5%A5%E8%BF%90%E5%9C%BA%E9%A6%86%23&Refer=top)
+   新
+1. [Angelababy小羊造型加盟超滑](https://s.weibo.com//weibo?q=%23Angelababy%E5%B0%8F%E7%BE%8A%E9%80%A0%E5%9E%8B%E5%8A%A0%E7%9B%9F%E8%B6%85%E6%BB%91%23&Refer=top)
+   新
+1. [电影票价格影响你春节观影吗](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%BD%B1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%98%A5%E8%8A%82%E8%A7%82%E5%BD%B1%E5%90%97%23&Refer=top)
+   新
+1. [杭州本轮疫情传播自进口咖啡机机芯](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E4%BC%A0%E6%92%AD%E8%87%AA%E8%BF%9B%E5%8F%A3%E5%92%96%E5%95%A1%E6%9C%BA%E6%9C%BA%E8%8A%AF%23&Refer=top)
+   新
+1. [朱一龙吃了滴在手上的糖](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%90%83%E4%BA%86%E6%BB%B4%E5%9C%A8%E6%89%8B%E4%B8%8A%E7%9A%84%E7%B3%96%23&Refer=top)
+   新
+1. [警方通报网上卖虎皮虎肉案件](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%B8%8A%E5%8D%96%E8%99%8E%E7%9A%AE%E8%99%8E%E8%82%89%E6%A1%88%E4%BB%B6%23&Refer=top)
+   新
+1. [六年级小学生除夕夜做20道菜](https://s.weibo.com//weibo?q=%23%E5%85%AD%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%99%A4%E5%A4%95%E5%A4%9C%E5%81%9A20%E9%81%93%E8%8F%9C%23&Refer=top)
+   新
+1. [白虎不是患白化病](https://s.weibo.com//weibo?q=%23%E7%99%BD%E8%99%8E%E4%B8%8D%E6%98%AF%E6%82%A3%E7%99%BD%E5%8C%96%E7%97%85%23&Refer=top)
+   新
+1. [王俊凯画奥特曼糖画](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%BB%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%B3%96%E7%94%BB%23&Refer=top)
+   新
+1. [罗一舟是当代年轻人写照吧](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%B8%80%E8%88%9F%E6%98%AF%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%86%99%E7%85%A7%E5%90%A7%23&Refer=top)
+   新
+1. [东北人如何为冬奥会助威](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%A6%82%E4%BD%95%E4%B8%BA%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%8A%A9%E5%A8%81%23&Refer=top)
+   新
+1. [时代少年团虎年新春祝福私信](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E8%99%8E%E5%B9%B4%E6%96%B0%E6%98%A5%E7%A5%9D%E7%A6%8F%E7%A7%81%E4%BF%A1%23&Refer=top)
+   新
+1. [左航打鼓好帅](https://s.weibo.com//weibo?q=%23%E5%B7%A6%E8%88%AA%E6%89%93%E9%BC%93%E5%A5%BD%E5%B8%85%23&Refer=top)
+   新
+1. [南方小伙伴堆了个金钱豹雪人](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%96%B9%E5%B0%8F%E4%BC%99%E4%BC%B4%E5%A0%86%E4%BA%86%E4%B8%AA%E9%87%91%E9%92%B1%E8%B1%B9%E9%9B%AA%E4%BA%BA%23&Refer=top)
+   新
+1. [看一遍快乐一遍的采访](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E4%B8%80%E9%81%8D%E5%BF%AB%E4%B9%90%E4%B8%80%E9%81%8D%E7%9A%84%E9%87%87%E8%AE%BF%23&Refer=top)
    新
 
 <!-- END -->

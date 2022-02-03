@@ -14,11 +14,11 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 03 2022 07:14:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 03 2022 08:49:07 GMT+0800 (China Standard Time) -->
 
 1. [听妈妈的话](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23&Refer=new_time)
    热
-1. [冰壶](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A3%B6&Refer=top) 沸
+1. [冰壶](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A3%B6&Refer=top) 沸 ->
 1. [羽生结弦](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%23&Refer=top)
    热 ->
 1. [冬奥健儿超燃水墨动画](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E8%B6%85%E7%87%83%E6%B0%B4%E5%A2%A8%E5%8A%A8%E7%94%BB%23&Refer=top)
@@ -47,6 +47,7 @@
 1. [2022北京冬奥首战](https://s.weibo.com//weibo?q=%232022%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E9%A6%96%E6%88%98%23&Refer=top)
 1. [杨洋迪丽热巴烟火星辰致敬中国航天](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%83%9F%E7%81%AB%E6%98%9F%E8%BE%B0%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%23&Refer=top)
 1. [新年快乐](https://s.weibo.com//weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&Refer=top)
+   -> 新
 1. [朱一龙演唱送别](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%BC%94%E5%94%B1%E9%80%81%E5%88%AB%23&Refer=top)
 1. [看不懂冰壶但看得津津有味](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E4%B8%8D%E6%87%82%E5%86%B0%E5%A3%B6%E4%BD%86%E7%9C%8B%E5%BE%97%E6%B4%A5%E6%B4%A5%E6%9C%89%E5%91%B3%23&Refer=top)
 1. [中国跳水队入围劳伦斯最佳团队候选](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F%E5%85%A5%E5%9B%B4%E5%8A%B3%E4%BC%A6%E6%96%AF%E6%9C%80%E4%BD%B3%E5%9B%A2%E9%98%9F%E5%80%99%E9%80%89%23&Refer=top)
@@ -105,13 +106,66 @@
 1. [春节做得最多的事是什么](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E5%81%9A%E5%BE%97%E6%9C%80%E5%A4%9A%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top)
    新
 1. [张智霖谈理想型求生欲好强](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%B0%88%E7%90%86%E6%83%B3%E5%9E%8B%E6%B1%82%E7%94%9F%E6%AC%B2%E5%A5%BD%E5%BC%BA%23&Refer=top)
-   新
+   新 ->
 1. [春节家里瘫要小心这些疾病](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E5%AE%B6%E9%87%8C%E7%98%AB%E8%A6%81%E5%B0%8F%E5%BF%83%E8%BF%99%E4%BA%9B%E7%96%BE%E7%97%85%23&Refer=top)
-   新
+   新 ->
 1. [吴京担任北京冬奥会火炬手](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E6%8B%85%E4%BB%BB%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E7%81%AB%E7%82%AC%E6%89%8B%23&Refer=top)
 1. [深圳累计报告8例均属同一传播链](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E7%B4%AF%E8%AE%A1%E6%8A%A5%E5%91%8A8%E4%BE%8B%E5%9D%87%E5%B1%9E%E5%90%8C%E4%B8%80%E4%BC%A0%E6%92%AD%E9%93%BE%23&Refer=top)
-   新
+   新 ->
 1. [深圳此前4例均为奥密克戎](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AD%A4%E5%89%8D4%E4%BE%8B%E5%9D%87%E4%B8%BA%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%23&Refer=top)
+   新 ->
+1. [大年初三睡到饱](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89%E7%9D%A1%E5%88%B0%E9%A5%B1%23&Refer=top)
+   新
+1. [大年初三](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%89&Refer=top)
+1. [何同学](https://s.weibo.com//weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%23&Refer=top)
+   沸
+1. [俞悦罗拉](https://s.weibo.com//weibo?q=%E4%BF%9E%E6%82%A6%E7%BD%97%E6%8B%89&Refer=top)
+   新
+1. [日本记者买太多冰墩墩徽章被吐槽](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E4%B9%B0%E5%A4%AA%E5%A4%9A%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%BE%BD%E7%AB%A0%E8%A2%AB%E5%90%90%E6%A7%BD%23&Refer=top)
+   新
+1. [光与夜之恋](https://s.weibo.com//weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B&Refer=top)
+   新
+1. [为什么吃饭快容易变胖](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%83%E9%A5%AD%E5%BF%AB%E5%AE%B9%E6%98%93%E5%8F%98%E8%83%96%23&Refer=top)
+   新
+1. [奇迹笨小孩票房破3亿](https://s.weibo.com//weibo?q=%23%E5%A5%87%E8%BF%B9%E7%AC%A8%E5%B0%8F%E5%AD%A9%E7%A5%A8%E6%88%BF%E7%A0%B43%E4%BA%BF%23&Refer=top)
+   新
+1. [这就是文化猖狂症吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%96%87%E5%8C%96%E7%8C%96%E7%8B%82%E7%97%87%E5%90%A7%23&Refer=top)
+   新
+1. [为什么今年春节电影票那么贵](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8A%E5%B9%B4%E6%98%A5%E8%8A%82%E7%94%B5%E5%BD%B1%E7%A5%A8%E9%82%A3%E4%B9%88%E8%B4%B5%23&Refer=top)
+   新
+1. [春节假期过一半了](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E8%BF%87%E4%B8%80%E5%8D%8A%E4%BA%86%23&Refer=top)
+   新
+1. [朝阳区发生2.7级地震](https://s.weibo.com//weibo?q=%23%E6%9C%9D%E9%98%B3%E5%8C%BA%E5%8F%91%E7%94%9F2.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
+   新
+1. [爱读书的人独处也不会孤独](https://s.weibo.com//weibo?q=%23%E7%88%B1%E8%AF%BB%E4%B9%A6%E7%9A%84%E4%BA%BA%E7%8B%AC%E5%A4%84%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%AD%A4%E7%8B%AC%23&Refer=top)
+   新
+1. [女子把虎头鞋搬到餐桌上](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8A%8A%E8%99%8E%E5%A4%B4%E9%9E%8B%E6%90%AC%E5%88%B0%E9%A4%90%E6%A1%8C%E4%B8%8A%23&Refer=top)
+   新
+1. [又被中国人浪漫到了](https://s.weibo.com//weibo?q=%23%E5%8F%88%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B5%AA%E6%BC%AB%E5%88%B0%E4%BA%86%23&Refer=top)
+   新
+1. [干果零食吃多了或引发急性胰腺炎](https://s.weibo.com//weibo?q=%23%E5%B9%B2%E6%9E%9C%E9%9B%B6%E9%A3%9F%E5%90%83%E5%A4%9A%E4%BA%86%E6%88%96%E5%BC%95%E5%8F%91%E6%80%A5%E6%80%A7%E8%83%B0%E8%85%BA%E7%82%8E%23&Refer=top)
+   新
+1. [一口一个柿子饭](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%8F%A3%E4%B8%80%E4%B8%AA%E6%9F%BF%E5%AD%90%E9%A5%AD%23&Refer=top)
+   新
+1. [黄瑞恩罗颖原地结婚吧](https://s.weibo.com//weibo?q=%23%E9%BB%84%E7%91%9E%E6%81%A9%E7%BD%97%E9%A2%96%E5%8E%9F%E5%9C%B0%E7%BB%93%E5%A9%9A%E5%90%A7%23&Refer=top)
+   新
+1. [北京冬奥会明天开幕](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%98%8E%E5%A4%A9%E5%BC%80%E5%B9%95%23&Refer=top)
+   新
+1. [普京说要与中国朋友分享冬奥喜悦](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E8%A6%81%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%8B%E5%8F%8B%E5%88%86%E4%BA%AB%E5%86%AC%E5%A5%A5%E5%96%9C%E6%82%A6%23&Refer=top)
+   新
+1. [胡冰卿晒plog告别特战行动](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%86%B0%E5%8D%BF%E6%99%92plog%E5%91%8A%E5%88%AB%E7%89%B9%E6%88%98%E8%A1%8C%E5%8A%A8%23&Refer=top)
+   新
+1. [初三就要睡到饱](https://s.weibo.com//weibo?q=%23%E5%88%9D%E4%B8%89%E5%B0%B1%E8%A6%81%E7%9D%A1%E5%88%B0%E9%A5%B1%23&Refer=top)
+   新
+1. [吃了吃了很多](https://s.weibo.com//weibo?q=%23%E5%90%83%E4%BA%86%E5%90%83%E4%BA%86%E5%BE%88%E5%A4%9A%23&Refer=top)
+   新
+1. [用古诗形容冬奥会有多惊艳](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%8F%A4%E8%AF%97%E5%BD%A2%E5%AE%B9%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3%23&Refer=top)
+   新
+1. [肖战网络视听年度盛典剧照](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%E5%89%A7%E7%85%A7%23&Refer=top)
+   新
+1. [耗时101天的浪漫](https://s.weibo.com//weibo?q=%23%E8%80%97%E6%97%B6101%E5%A4%A9%E7%9A%84%E6%B5%AA%E6%BC%AB%23&Refer=top)
+   新
+1. [冰壶比赛科普贴](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A3%B6%E6%AF%94%E8%B5%9B%E7%A7%91%E6%99%AE%E8%B4%B4%23&Refer=top)
    新
 
 <!-- END -->

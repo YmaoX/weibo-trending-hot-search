@@ -37,7 +37,7 @@
   {
     "url": "/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E5%90%8E%E7%BB%99%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%A1%A5%E5%BC%A0%E7%94%B5%E5%BD%B1%E7%A5%A8%23&Refer=top",
     "title": "开幕式后给张艺谋补张电影票",
-    "mark": "新 -> 热"
+    "mark": "新 -> 热 -> "
   },
   {
     "url": "/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%87%BA%E5%9C%BA%20%E4%B8%8D%E6%83%B3%E9%95%BF%E5%A4%A7&Refer=top",
@@ -57,7 +57,7 @@
   {
     "url": "/weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E6%98%AF%E5%86%AC%E5%A5%A5%E7%81%AB%E7%82%AC%E6%89%8B%23&Refer=top",
     "title": "黄明昊是冬奥火炬手",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%90%B4%E4%BA%AC%E8%80%81%E5%B8%88%E8%AF%A5%E4%B8%8A%E7%8F%AD%E4%BA%86%23&Refer=top",
@@ -107,7 +107,7 @@
   {
     "url": "/weibo?q=%E9%9F%A9%E5%9B%BD%E6%97%97%E6%89%8B%20%E7%B2%89%E5%A4%B4%E5%8F%91&Refer=top",
     "title": "韩国旗手 粉头发",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23&Refer=top",
@@ -142,7 +142,7 @@
   {
     "url": "/weibo?q=%23%E6%9C%9F%E5%BE%85%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E7%94%A8%E5%BF%83%E6%84%9F%E5%8F%97%E4%B8%80%E4%B8%8B%E4%B8%AD%E5%9B%BD%23&Refer=top",
     "title": "期待外国运动员用心感受一下中国",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E5%AE%9E%E7%8E%B0%E4%BA%86%E5%86%AC%E5%A5%A5%E4%B9%8B%E7%BA%A6%23&Refer=top",
@@ -187,7 +187,7 @@
   {
     "url": "/weibo?q=%23imagine%E6%98%AF%E5%A5%A5%E8%BF%90%E4%BF%9D%E7%95%99%E6%9B%B2%E7%9B%AE%23&Refer=top",
     "title": "imagine是奥运保留曲目",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=top",
@@ -262,21 +262,31 @@
   {
     "url": "/weibo?q=%E4%BD%A0%E7%9A%84%E7%88%B8%E7%88%B8%E6%80%8E%E4%B9%88%E4%BC%9A%E6%98%AF%E4%B8%80%E5%8F%AA%E5%8D%8A%E4%BA%BA%E9%A9%AC&Refer=top",
     "title": "你的爸爸怎么会是一只半人马",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%90%B4%E4%BA%AC%E4%B8%BA%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%94%B5%E5%BD%B1%E5%A5%87%E8%BF%B9%E7%AC%A8%E5%B0%8F%E5%AD%A9%E6%89%93call%23&Refer=top",
     "title": "吴京为易烊千玺电影奇迹笨小孩打call",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%89%A7%E9%80%8F%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8D%E6%90%9E%E4%BA%BA%E6%B5%B7%E6%88%98%E6%9C%AF%23&Refer=top",
     "title": "张艺谋剧透冬奥会开幕式不搞人海战术",
-    "mark": ""
+    "mark": " -> 热"
   },
   {
     "url": "/weibo?q=%2314%E5%B9%B4%E5%90%8E%E9%B8%9F%E5%B7%A2%E5%86%8D%E6%AC%A1%E5%8D%87%E8%B5%B7%E4%BA%94%E7%8E%AF%23&Refer=top",
     "title": "14年后鸟巢再次升起五环",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9B%9B%E4%BC%9A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23&Refer=new_time",
+    "title": "冬奥盛会的中国式浪漫",
+    "mark": "热"
+  },
+  {
+    "url": "/weibo?q=%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F&Refer=top",
+    "title": "一闪一闪亮星星",
+    "mark": "新"
   }
 ]

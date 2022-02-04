@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 04 2022 15:11:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 04 2022 16:13:50 GMT+0800 (China Standard Time) -->
 
 1. [听妈妈的话](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23&Refer=new_time)
    热
@@ -242,10 +242,10 @@
 1. [四海票房破4亿](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E6%B5%B7%E7%A5%A8%E6%88%BF%E7%A0%B44%E4%BA%BF%23&Refer=top)
    新
 1. [范丞丞蓝盈莹新剧cp剧照](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%93%9D%E7%9B%88%E8%8E%B9%E6%96%B0%E5%89%A7cp%E5%89%A7%E7%85%A7%23&Refer=top)
-   新
+   新 ->
 1. [张继科檀健次滑出新高度](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E6%AA%80%E5%81%A5%E6%AC%A1%E6%BB%91%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6%23&Refer=top)
-   新
-1. [冰壶](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A3%B6%23&Refer=top) 新
+   新 ->
+1. [冰壶](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A3%B6%23&Refer=top) 新 ->
 1. [女足的韧劲看哭了](https://s.weibo.com//weibo?q=%E5%A5%B3%E8%B6%B3%E7%9A%84%E9%9F%A7%E5%8A%B2%E7%9C%8B%E5%93%AD%E4%BA%86&Refer=top)
 1. [邢菲问胡一天十级美颜女友够标准吗](https://s.weibo.com//weibo?q=%23%E9%82%A2%E8%8F%B2%E9%97%AE%E8%83%A1%E4%B8%80%E5%A4%A9%E5%8D%81%E7%BA%A7%E7%BE%8E%E9%A2%9C%E5%A5%B3%E5%8F%8B%E5%A4%9F%E6%A0%87%E5%87%86%E5%90%97%23&Refer=top)
    新
@@ -254,7 +254,7 @@
 1. [支付宝 女足](https://s.weibo.com//weibo?q=%E6%94%AF%E4%BB%98%E5%AE%9D%20%E5%A5%B3%E8%B6%B3&Refer=top)
    新 ->
 1. [冰墩墩脱衣胖墩墩](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%84%B1%E8%A1%A3%E8%83%96%E5%A2%A9%E5%A2%A9%23&Refer=top)
-   新
+   新 ->
 1. [王者荣耀皮肤](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9A%AE%E8%82%A4&Refer=top)
    新
 1. [冰壶混双中国VS加拿大](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A3%B6%E6%B7%B7%E5%8F%8C%E4%B8%AD%E5%9B%BDVS%E5%8A%A0%E6%8B%BF%E5%A4%A7%23&Refer=top)
@@ -266,29 +266,29 @@
 1. [四海票房破4亿](https://s.weibo.com//weibo?q=%E5%9B%9B%E6%B5%B7%E7%A5%A8%E6%88%BF%E7%A0%B44%E4%BA%BF&Refer=top)
 1. [冰墩墩抖雪](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%8A%96%E9%9B%AA&Refer=top)
 1. [普京 开幕式](https://s.weibo.com//weibo?q=%E6%99%AE%E4%BA%AC%20%E5%BC%80%E5%B9%95%E5%BC%8F&Refer=top)
-   新
+   新 -> 热
 1. [隋文静韩聪赛季最高分](https://s.weibo.com//weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E8%B5%9B%E5%AD%A3%E6%9C%80%E9%AB%98%E5%88%86%23&Refer=top)
    新
 1. [中国女冰北京冬奥首胜](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%86%B0%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E9%A6%96%E8%83%9C%23&Refer=top)
-   新
+   新 ->
 1. [易烊千玺奇迹成功人士造型](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%A5%87%E8%BF%B9%E6%88%90%E5%8A%9F%E4%BA%BA%E5%A3%AB%E9%80%A0%E5%9E%8B%23&Refer=top)
    新
 1. [王者荣耀皮肤](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9A%AE%E8%82%A4%23&Refer=top)
-   新
+   新 ->
 1. [隋文静韩聪北京冬奥首秀](https://s.weibo.com//weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E9%A6%96%E7%A7%80%23&Refer=top)
    新
 1. [中国人到底有多爱嗑瓜子](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%88%B1%E5%97%91%E7%93%9C%E5%AD%90%23&Refer=top)
-   新
+   新 ->
 1. [朴宰范确定出演Showdown](https://s.weibo.com//weibo?q=%23%E6%9C%B4%E5%AE%B0%E8%8C%83%E7%A1%AE%E5%AE%9A%E5%87%BA%E6%BC%94Showdown%23&Refer=top)
-   新
+   新 ->
 1. [雪容融 设计](https://s.weibo.com//weibo?q=%E9%9B%AA%E5%AE%B9%E8%9E%8D%20%E8%AE%BE%E8%AE%A1&Refer=top)
-   新
+   新 ->
 1. [双人滑 花样滑冰](https://s.weibo.com//weibo?q=%E5%8F%8C%E4%BA%BA%E6%BB%91%20%E8%8A%B1%E6%A0%B7%E6%BB%91%E5%86%B0&Refer=top)
    新
 1. [白敬亭开端收官也循环了](https://s.weibo.com//weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%BC%80%E7%AB%AF%E6%94%B6%E5%AE%98%E4%B9%9F%E5%BE%AA%E7%8E%AF%E4%BA%86%23&Refer=top)
    新
 1. [李斯丹妮催马思纯白客更新gkd](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E5%82%AC%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%99%BD%E5%AE%A2%E6%9B%B4%E6%96%B0gkd%23&Refer=top)
-   新
+   新 ->
 1. [隋文静韩聪上演花滑版碟中谍](https://s.weibo.com//weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E4%B8%8A%E6%BC%94%E8%8A%B1%E6%BB%91%E7%89%88%E7%A2%9F%E4%B8%AD%E8%B0%8D%23&Refer=top)
    新
 1. [张佳宁 一闪一闪亮星星](https://s.weibo.com//weibo?q=%E5%BC%A0%E4%BD%B3%E5%AE%81%20%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F&Refer=top)
@@ -296,6 +296,22 @@
 1. [黄明昊就是嗑cp的我本人吧](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E5%B0%B1%E6%98%AF%E5%97%91cp%E7%9A%84%E6%88%91%E6%9C%AC%E4%BA%BA%E5%90%A7%23&Refer=top)
    新
 1. [花滑团体赛中国队升至第三](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%BB%91%E5%9B%A2%E4%BD%93%E8%B5%9B%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8D%87%E8%87%B3%E7%AC%AC%E4%B8%89%23&Refer=top)
+   新
+1. [立春](https://s.weibo.com//weibo?q=%23%E7%AB%8B%E6%98%A5%23&Refer=top) 沸
+1. [听妈妈的话](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23&Refer=top)
+   新
+1. [男足](https://s.weibo.com//weibo?q=%23%E7%94%B7%E8%B6%B3%23&Refer=top) 沸
+1. [冰壶混双中国不敌加拿大](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A3%B6%E6%B7%B7%E5%8F%8C%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%95%8C%E5%8A%A0%E6%8B%BF%E5%A4%A7%23&Refer=top)
+   新
+1. [李瑞渊确诊新冠](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%91%9E%E6%B8%8A%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&Refer=top)
+   新
+1. [南北方的红包差异](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%8C%97%E6%96%B9%E7%9A%84%E7%BA%A2%E5%8C%85%E5%B7%AE%E5%BC%82%23&Refer=top)
+   新
+1. [丁程鑫是忽悠大师吧](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%98%AF%E5%BF%BD%E6%82%A0%E5%A4%A7%E5%B8%88%E5%90%A7%23&Refer=top)
+   新
+1. [人类高质量开幕式长这样](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E5%BC%80%E5%B9%95%E5%BC%8F%E9%95%BF%E8%BF%99%E6%A0%B7%23&Refer=top)
+   新
+1. [虎年第一份砂糖桔怎么吃](https://s.weibo.com//weibo?q=%23%E8%99%8E%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%BB%BD%E7%A0%82%E7%B3%96%E6%A1%94%E6%80%8E%E4%B9%88%E5%90%83%23&Refer=top)
    新
 
 <!-- END -->

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 05 2022 07:12:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 05 2022 08:43:16 GMT+0800 (China Standard Time) -->
 
 1. [习近平出席北京冬奥开幕式](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E5%BC%80%E5%B9%95%E5%BC%8F%23&Refer=new_time)
    热
@@ -24,7 +24,7 @@
    热
 1. [听妈妈的话](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23&Refer=top)
 1. [张艺谋太懂中国人的浪漫了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%AA%E6%87%82%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B5%AA%E6%BC%AB%E4%BA%86%23&Refer=top)
-   沸
+   沸 -> 热
 1. [最后一棒火炬就是主火炬](https://s.weibo.com//weibo?q=%23%E6%9C%80%E5%90%8E%E4%B8%80%E6%A3%92%E7%81%AB%E7%82%AC%E5%B0%B1%E6%98%AF%E4%B8%BB%E7%81%AB%E7%82%AC%23&Refer=top)
    沸
 1. [中国人懂中国人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%87%82%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&Refer=top)
@@ -47,7 +47,7 @@
 1. [鸽子灯](https://s.weibo.com//weibo?q=%E9%B8%BD%E5%AD%90%E7%81%AF&Refer=top) 新
    ->
 1. [冰墩墩](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top)
-   热 -> 沸 -> 热
+   热 -> 沸 -> 热 ->
 1. [黑山举旗手好帅](https://s.weibo.com//weibo?q=%23%E9%BB%91%E5%B1%B1%E4%B8%BE%E6%97%97%E6%89%8B%E5%A5%BD%E5%B8%85%23&Refer=top)
    新 ->
 1. [谢谢emo](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E8%B0%A2emo%23&Refer=top)
@@ -62,7 +62,7 @@
 1. [冬奥会](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top)
 1. [东道主中国队入场](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E9%81%93%E4%B8%BB%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%23&Refer=top)
 1. [24节气倒计时](https://s.weibo.com//weibo?q=%2324%E8%8A%82%E6%B0%94%E5%80%92%E8%AE%A1%E6%97%B6%23&Refer=top)
-   -> 沸 -> -> 沸
+   -> 沸 -> -> 沸 ->
 1. [期待外国运动员用心感受一下中国](https://s.weibo.com//weibo?q=%23%E6%9C%9F%E5%BE%85%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E7%94%A8%E5%BF%83%E6%84%9F%E5%8F%97%E4%B8%80%E4%B8%8B%E4%B8%AD%E5%9B%BD%23&Refer=top)
    新 ->
 1. [中俄元首实现了冬奥之约](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E5%AE%9E%E7%8E%B0%E4%BA%86%E5%86%AC%E5%A5%A5%E4%B9%8B%E7%BA%A6%23&Refer=top)
@@ -70,7 +70,7 @@
 1. [春晚今天才开始](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%99%9A%E4%BB%8A%E5%A4%A9%E6%89%8D%E5%BC%80%E5%A7%8B%23&Refer=top)
    新
 1. [芬兰羽绒服](https://s.weibo.com//weibo?q=%E8%8A%AC%E5%85%B0%E7%BE%BD%E7%BB%92%E6%9C%8D&Refer=top)
-   -> 热 ->
+   -> 热 -> -> 热
 1. [俞悦罗拉](https://s.weibo.com//weibo?q=%E4%BF%9E%E6%82%A6%E7%BD%97%E6%8B%89&Refer=top)
    新 ->
 1. [冬奥史上最佳代表团](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%B3%E4%BB%A3%E8%A1%A8%E5%9B%A2%23&Refer=top)
@@ -112,7 +112,7 @@
 1. [做一桌年夜饭有多不容易](https://s.weibo.com//weibo?q=%23%E5%81%9A%E4%B8%80%E6%A1%8C%E5%B9%B4%E5%A4%9C%E9%A5%AD%E6%9C%89%E5%A4%9A%E4%B8%8D%E5%AE%B9%E6%98%93%23&Refer=top)
    新 ->
 1. [克宫回应白宫把俄罗斯比作狐狸](https://s.weibo.com//weibo?q=%23%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%99%BD%E5%AE%AB%E6%8A%8A%E4%BF%84%E7%BD%97%E6%96%AF%E6%AF%94%E4%BD%9C%E7%8B%90%E7%8B%B8%23&Refer=top)
-   新
+   新 ->
 1. [冬奥就是科技和人文的完美结合](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E5%B0%B1%E6%98%AF%E7%A7%91%E6%8A%80%E5%92%8C%E4%BA%BA%E6%96%87%E7%9A%84%E5%AE%8C%E7%BE%8E%E7%BB%93%E5%90%88%23&Refer=top)
    新
 1. [冰雪五环如何雕刻](https://s.weibo.com//weibo?q=%23%E5%86%B0%E9%9B%AA%E4%BA%94%E7%8E%AF%E5%A6%82%E4%BD%95%E9%9B%95%E5%88%BB%23&Refer=top)
@@ -120,14 +120,32 @@
 1. [初五迎财神](https://s.weibo.com//weibo?q=%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E&Refer=top)
    新
 1. [河南大范围雨雪将上线](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E5%B0%86%E4%B8%8A%E7%BA%BF%23&Refer=top)
-   新
+   新 ->
 1. [24节气用英文怎么说](https://s.weibo.com//weibo?q=%2324%E8%8A%82%E6%B0%94%E7%94%A8%E8%8B%B1%E6%96%87%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=top)
-   新
+   新 ->
 1. [英国代表团大衣](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%A4%A7%E8%A1%A3&Refer=top)
-   新
+   新 -> 热
 1. [老谋深算](https://s.weibo.com//weibo?q=%E8%80%81%E8%B0%8B%E6%B7%B1%E7%AE%97&Refer=top)
-   新
+   新 ->
 1. [冰墩墩热销折射全民冬奥热情](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%83%AD%E9%94%80%E6%8A%98%E5%B0%84%E5%85%A8%E6%B0%91%E5%86%AC%E5%A5%A5%E7%83%AD%E6%83%85%23&Refer=top)
+1. [初五迎财神](https://s.weibo.com//weibo?q=%23%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E%23&Refer=top)
+   沸
+1. [冬奥开幕式短片有丁程鑫](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E5%BC%80%E5%B9%95%E5%BC%8F%E7%9F%AD%E7%89%87%E6%9C%89%E4%B8%81%E7%A8%8B%E9%91%AB%23&Refer=top)
+   新
+1. [扬名立万](https://s.weibo.com//weibo?q=%E6%89%AC%E5%90%8D%E7%AB%8B%E4%B8%87&Refer=top)
+   新
+1. [巴铁上场的欢呼声](https://s.weibo.com//weibo?q=%E5%B7%B4%E9%93%81%E4%B8%8A%E5%9C%BA%E7%9A%84%E6%AC%A2%E5%91%BC%E5%A3%B0&Refer=top)
+   新
+1. [香港旗手好帅](https://s.weibo.com//weibo?q=%E9%A6%99%E6%B8%AF%E6%97%97%E6%89%8B%E5%A5%BD%E5%B8%85&Refer=top)
+   新
+1. [3分钟回看审美天花板](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E7%9C%8B%E5%AE%A1%E7%BE%8E%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top)
+   新
+1. [张艺谋说北京冬奥点火有两个独特](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%82%B9%E7%81%AB%E6%9C%89%E4%B8%A4%E4%B8%AA%E7%8B%AC%E7%89%B9%23&Refer=top)
+   新
+1. [财神](https://s.weibo.com//weibo?q=%E8%B4%A2%E7%A5%9E&Refer=top) 新
+1. [亢奋](https://s.weibo.com//weibo?q=%E4%BA%A2%E5%A5%8B&Refer=top) 新
+1. [用实际行动支持张emo](https://s.weibo.com//weibo?q=%23%E7%94%A8%E5%AE%9E%E9%99%85%E8%A1%8C%E5%8A%A8%E6%94%AF%E6%8C%81%E5%BC%A0emo%23&Refer=top)
+   新
 
 <!-- END -->
 

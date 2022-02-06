@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 06 2022 09:50:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 06 2022 10:14:14 GMT+0800 (China Standard Time) -->
 
 1. [冬奥会2022](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A2022%23&Refer=new_time)
    热
 1. [短道速滑摘中国队北京冬奥首金](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E6%91%98%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E9%A6%96%E9%87%91%23&Refer=top)
-   沸
+   沸 -> 热
 1. [王濛解说](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%A7%A3%E8%AF%B4%23&Refer=top)
    沸 -> 热
 1. [冬奥梦与中国梦的历史交汇](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E6%A2%A6%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%A2%A6%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BA%A4%E6%B1%87%23&Refer=top)
@@ -138,11 +138,11 @@
    新 ->
 1. [徐克对吴京有很高的期待和要求](https://s.weibo.com//weibo?q=%23%E5%BE%90%E5%85%8B%E5%AF%B9%E5%90%B4%E4%BA%AC%E6%9C%89%E5%BE%88%E9%AB%98%E7%9A%84%E6%9C%9F%E5%BE%85%E5%92%8C%E8%A6%81%E6%B1%82%23&Refer=top)
 1. [奇迹笨小孩票房逆跌](https://s.weibo.com//weibo?q=%E5%A5%87%E8%BF%B9%E7%AC%A8%E5%B0%8F%E5%AD%A9%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C&Refer=top)
-   新
+   新 -> 热
 1. [王濛教中国boy别了了啥意思](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E6%95%99%E4%B8%AD%E5%9B%BDboy%E5%88%AB%E4%BA%86%E4%BA%86%E5%95%A5%E6%84%8F%E6%80%9D%23&Refer=top)
    热
 1. [假期最后一天](https://s.weibo.com//weibo?q=%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9&Refer=top)
-   新 -> 沸
+   新 -> 沸 ->
 1. [冰墩墩奖牌](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%A5%96%E7%89%8C&Refer=top)
    新 ->
 1. [殷桃人世间哭戏在我心里封神了](https://s.weibo.com//weibo?q=%23%E6%AE%B7%E6%A1%83%E4%BA%BA%E4%B8%96%E9%97%B4%E5%93%AD%E6%88%8F%E5%9C%A8%E6%88%91%E5%BF%83%E9%87%8C%E5%B0%81%E7%A5%9E%E4%BA%86%23&Refer=top)
@@ -180,6 +180,17 @@
 1. [2月5日广西新增本土确诊病例6例](https://s.weibo.com//weibo?q=%232%E6%9C%885%E6%97%A5%E5%B9%BF%E8%A5%BF%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B6%E4%BE%8B%23&Refer=top)
    新
 1. [狙击手](https://s.weibo.com//weibo?q=%E7%8B%99%E5%87%BB%E6%89%8B&Refer=top) 新
+1. [大年初六](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%85%AD%23&Refer=top)
+   沸
+1. [花滑](https://s.weibo.com//weibo?q=%E8%8A%B1%E6%BB%91&Refer=top) 新
+1. [安贤洙武大靖](https://s.weibo.com//weibo?q=%E5%AE%89%E8%B4%A4%E6%B4%99%E6%AD%A6%E5%A4%A7%E9%9D%96&Refer=top)
+   新
+1. [天津新增本土确诊2例](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A2%E4%BE%8B%23&Refer=top)
+   新
+1. [苏炳添说中国速度牛](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%AF%B4%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6%E7%89%9B%23&Refer=top)
+   新
+1. [花滑团体女单短节目](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%BB%91%E5%9B%A2%E4%BD%93%E5%A5%B3%E5%8D%95%E7%9F%AD%E8%8A%82%E7%9B%AE%23&Refer=top)
+   新
 
 <!-- END -->
 

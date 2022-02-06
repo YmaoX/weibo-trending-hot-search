@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 07 2022 01:13:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 07 2022 02:15:23 GMT+0800 (China Standard Time) -->
 
 1. [冬奥会2022](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A2022%23&Refer=new_time)
    热
@@ -24,20 +24,20 @@
    沸 -> 热
 1. [人生能得几回搏](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%94%9F%E8%83%BD%E5%BE%97%E5%87%A0%E5%9B%9E%E6%90%8F%23&Refer=top)
 1. [蒙牛首个奖励中国女足夺冠](https://s.weibo.com//weibo?q=%23%E8%92%99%E7%89%9B%E9%A6%96%E4%B8%AA%E5%A5%96%E5%8A%B1%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%A4%BA%E5%86%A0%23&Refer=top)
-   新
+   新 -> 热
 1. [我们是冠军](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E6%98%AF%E5%86%A0%E5%86%9B%23&Refer=top)
    沸
 1. [六公主 中国女足](https://s.weibo.com//weibo?q=%E5%85%AD%E5%85%AC%E4%B8%BB%20%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3&Refer=top)
    新 ->
 1. [娜扎说女足姑娘太棒了](https://s.weibo.com//weibo?q=%23%E5%A8%9C%E6%89%8E%E8%AF%B4%E5%A5%B3%E8%B6%B3%E5%A7%91%E5%A8%98%E5%A4%AA%E6%A3%92%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [足协或将重奖女足超1000万元](https://s.weibo.com//weibo?q=%23%E8%B6%B3%E5%8D%8F%E6%88%96%E5%B0%86%E9%87%8D%E5%A5%96%E5%A5%B3%E8%B6%B3%E8%B6%851000%E4%B8%87%E5%85%83%23&Refer=top)
    新 ->
 1. [广西百色第一轮核酸检测初筛阳性98人](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%99%BE%E8%89%B2%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%88%9D%E7%AD%9B%E9%98%B3%E6%80%A798%E4%BA%BA%23&Refer=top)
    热
 1. [广西百色确诊病例增至43例](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%99%BE%E8%89%B2%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E5%A2%9E%E8%87%B343%E4%BE%8B%23&Refer=top)
 1. [屈楚萧 张万森](https://s.weibo.com//weibo?q=%E5%B1%88%E6%A5%9A%E8%90%A7%20%E5%BC%A0%E4%B8%87%E6%A3%AE&Refer=top)
-   新
+   新 ->
 1. [中国女足3比2韩国女足](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33%E6%AF%942%E9%9F%A9%E5%9B%BD%E5%A5%B3%E8%B6%B3%23&Refer=top)
    -> 沸
 1. [黄健翔哭了](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%81%A5%E7%BF%94%E5%93%AD%E4%BA%86%23&Refer=top)
@@ -56,7 +56,7 @@
 1. [铿锵玫瑰](https://s.weibo.com//weibo?q=%E9%93%BF%E9%94%B5%E7%8E%AB%E7%91%B0&Refer=top)
 1. [冬奥赛场上播放了王一博的无感](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E8%B5%9B%E5%9C%BA%E4%B8%8A%E6%92%AD%E6%94%BE%E4%BA%86%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%9A%84%E6%97%A0%E6%84%9F%23&Refer=top)
 1. [热刺 中国女足](https://s.weibo.com//weibo?q=%E7%83%AD%E5%88%BA%20%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3&Refer=top)
-   新
+   新 ->
 1. [0比2又如何](https://s.weibo.com//weibo?q=%230%E6%AF%942%E5%8F%88%E5%A6%82%E4%BD%95%23&Refer=top)
 1. [你永远可以相信我们中国女足](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%B0%B8%E8%BF%9C%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BF%A1%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%23&Refer=top)
 1. [中国女足绝杀](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%BB%9D%E6%9D%80%23&Refer=top)
@@ -92,8 +92,12 @@
    热
 1. [北京冬奥会](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top)
 1. [奇迹笨小孩票房连续四日超预期](https://s.weibo.com//weibo?q=%23%E5%A5%87%E8%BF%B9%E7%AC%A8%E5%B0%8F%E5%AD%A9%E7%A5%A8%E6%88%BF%E8%BF%9E%E7%BB%AD%E5%9B%9B%E6%97%A5%E8%B6%85%E9%A2%84%E6%9C%9F%23&Refer=top)
-   新
+   新 ->
 1. [冬奥会](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top)
+1. [冰墩墩汤圆](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%B1%A4%E5%9C%86%23&Refer=top)
+   新
+1. [神奇逆转女将张琳艳](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E5%A5%87%E9%80%86%E8%BD%AC%E5%A5%B3%E5%B0%86%E5%BC%A0%E7%90%B3%E8%89%B3%23&Refer=top)
+   新
 
 <!-- END -->
 

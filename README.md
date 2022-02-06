@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 07 2022 05:12:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 07 2022 06:13:12 GMT+0800 (China Standard Time) -->
 
 1. [冬奥会2022](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A2022%23&Refer=new_time)
    热
@@ -105,7 +105,7 @@
 1. [朱易谈冬奥首秀落泪](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E6%98%93%E8%B0%88%E5%86%AC%E5%A5%A5%E9%A6%96%E7%A7%80%E8%90%BD%E6%B3%AA%23&Refer=top)
    新 ->
 1. [狙击手拍得有多真实](https://s.weibo.com//weibo?q=%23%E7%8B%99%E5%87%BB%E6%89%8B%E6%8B%8D%E5%BE%97%E6%9C%89%E5%A4%9A%E7%9C%9F%E5%AE%9E%23&Refer=top)
-   新
+   新 ->
 
 <!-- END -->
 

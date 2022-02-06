@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 07 2022 02:15:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 07 2022 03:10:26 GMT+0800 (China Standard Time) -->
 
 1. [冬奥会2022](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A2022%23&Refer=new_time)
    热
@@ -95,8 +95,10 @@
    新 ->
 1. [冬奥会](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top)
 1. [冰墩墩汤圆](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%B1%A4%E5%9C%86%23&Refer=top)
-   新
+   新 ->
 1. [神奇逆转女将张琳艳](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E5%A5%87%E9%80%86%E8%BD%AC%E5%A5%B3%E5%B0%86%E5%BC%A0%E7%90%B3%E8%89%B3%23&Refer=top)
+   新
+1. [坐多久才能算久坐](https://s.weibo.com//weibo?q=%23%E5%9D%90%E5%A4%9A%E4%B9%85%E6%89%8D%E8%83%BD%E7%AE%97%E4%B9%85%E5%9D%90%23&Refer=top)
    新
 
 <!-- END -->

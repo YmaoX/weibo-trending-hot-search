@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 07 2022 14:17:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 07 2022 16:17:20 GMT+0800 (China Standard Time) -->
 
 1. [冬奥会2022](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A2022%23&Refer=new_time)
    热
@@ -216,7 +216,7 @@
 1. [不会恋爱的我们太会拍吻戏了](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E4%BC%9A%E6%81%8B%E7%88%B1%E7%9A%84%E6%88%91%E4%BB%AC%E5%A4%AA%E4%BC%9A%E6%8B%8D%E5%90%BB%E6%88%8F%E4%BA%86%23&Refer=top)
    新
 1. [谷爱凌失误后表情好可爱](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%B1%E8%AF%AF%E5%90%8E%E8%A1%A8%E6%83%85%E5%A5%BD%E5%8F%AF%E7%88%B1%23&Refer=top)
-   爆 -> 热
+   爆 -> 热 ->
 1. [苏翊鸣](https://s.weibo.com//weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3&Refer=top) 新
    -> 爆
 1. [谷爱凌女子大跳台](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A5%B3%E5%AD%90%E5%A4%A7%E8%B7%B3%E5%8F%B0%23&Refer=top)
@@ -243,7 +243,7 @@
 1. [苏翊鸣加油](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8A%A0%E6%B2%B9%23&Refer=top)
    新 ->
 1. [弟弟分手后姐姐有多欢乐](https://s.weibo.com//weibo?q=%23%E5%BC%9F%E5%BC%9F%E5%88%86%E6%89%8B%E5%90%8E%E5%A7%90%E5%A7%90%E6%9C%89%E5%A4%9A%E6%AC%A2%E4%B9%90%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [苏翊鸣出战](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%87%BA%E6%88%98%23&Refer=top)
    新
 1. [朱易女单自由滑](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E6%98%93%E5%A5%B3%E5%8D%95%E8%87%AA%E7%94%B1%E6%BB%91%23&Refer=top)
@@ -251,7 +251,7 @@
 1. [朱易冬奥首秀不完美](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E6%98%93%E5%86%AC%E5%A5%A5%E9%A6%96%E7%A7%80%E4%B8%8D%E5%AE%8C%E7%BE%8E%23&Refer=top)
    新 ->
 1. [苏翊鸣说希望决赛玩得更开心](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%AF%B4%E5%B8%8C%E6%9C%9B%E5%86%B3%E8%B5%9B%E7%8E%A9%E5%BE%97%E6%9B%B4%E5%BC%80%E5%BF%83%23&Refer=top)
-   新
+   新 ->
 1. [花滑K宝](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%BB%91K%E5%AE%9D%23&Refer=top)
    新
 1. [苏翊鸣首轮排名第4](https://s.weibo.com//weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%A6%96%E8%BD%AE%E6%8E%92%E5%90%8D%E7%AC%AC4&Refer=top)
@@ -260,16 +260,16 @@
    新
 1. [小栓子一飞冲天](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%A0%93%E5%AD%90%E4%B8%80%E9%A3%9E%E5%86%B2%E5%A4%A9%23&Refer=top)
    新
-1. [1800](https://s.weibo.com//weibo?q=1800&Refer=top) 爆
-1. [B站](https://s.weibo.com//weibo?q=B%E7%AB%99&Refer=top) 新
+1. [1800](https://s.weibo.com//weibo?q=1800&Refer=top) 爆 -> 沸
+1. [B站](https://s.weibo.com//weibo?q=B%E7%AB%99&Refer=top) 新 -> 沸
 1. [苏翊鸣银牌](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%93%B6%E7%89%8C%23&Refer=top)
-   新
+   新 ->
 1. [苏翊鸣创造历史](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%23&Refer=top)
-   新
+   新 ->
 1. [加拿大裁判](https://s.weibo.com//weibo?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%A3%81%E5%88%A4&Refer=top)
    新
 1. [男子单板坡面障碍决赛](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%95%E6%9D%BF%E5%9D%A1%E9%9D%A2%E9%9A%9C%E7%A2%8D%E5%86%B3%E8%B5%9B%23&Refer=top)
-   新
+   新 ->
 1. [为什么他不是第一](https://s.weibo.com//weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%96%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80&Refer=top)
    新
 1. [苏翊鸣分数](https://s.weibo.com//weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%88%86%E6%95%B0&Refer=top)
@@ -291,12 +291,59 @@
 1. [谷爱凌决赛](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%B3%E8%B5%9B%23&Refer=top)
    新
 1. [朱易再度泪洒冰场](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E6%98%93%E5%86%8D%E5%BA%A6%E6%B3%AA%E6%B4%92%E5%86%B0%E5%9C%BA%23&Refer=top)
-   新
+   新 ->
 1. [看苏翊鸣比赛连连惊呼](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%AF%94%E8%B5%9B%E8%BF%9E%E8%BF%9E%E6%83%8A%E5%91%BC%23&Refer=top)
    新
 1. [大侦探7首发阵容](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A27%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9%23&Refer=top)
    新
 1. [花滑团体赛](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%BB%91%E5%9B%A2%E4%BD%93%E8%B5%9B%23&Refer=top)
+1. [人类应该和衷共济和合共生](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%BA%94%E8%AF%A5%E5%92%8C%E8%A1%B7%E5%85%B1%E6%B5%8E%E5%92%8C%E5%90%88%E5%85%B1%E7%94%9F%23&Refer=new_time)
+   热
+1. [苏翊鸣](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%23&Refer=top)
+   沸
+1. [这张冬奥大合影弥足珍贵](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%BC%A0%E5%86%AC%E5%A5%A5%E5%A4%A7%E5%90%88%E5%BD%B1%E5%BC%A5%E8%B6%B3%E7%8F%8D%E8%B4%B5%23&Refer=top)
+   新
+1. [鹿晗承包了冬奥会歌单吧](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E6%89%BF%E5%8C%85%E4%BA%86%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%AD%8C%E5%8D%95%E5%90%A7%23&Refer=top)
+   新
+1. [为什么他不是第一](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%96%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%23&Refer=top)
+   沸
+1. [加拿大裁判](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%A3%81%E5%88%A4%23&Refer=top)
+   热
+1. [徐克 苏翊鸣](https://s.weibo.com//weibo?q=%E5%BE%90%E5%85%8B%20%E8%8B%8F%E7%BF%8A%E9%B8%A3&Refer=top)
+   新
+1. [宋慧乔曾是花滑运动员](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E6%9B%BE%E6%98%AF%E8%8A%B1%E6%BB%91%E8%BF%90%E5%8A%A8%E5%91%98%23&Refer=top)
+   新
+1. [体育总局发贺信祝贺苏翊鸣](https://s.weibo.com//weibo?q=%23%E4%BD%93%E8%82%B2%E6%80%BB%E5%B1%80%E5%8F%91%E8%B4%BA%E4%BF%A1%E7%A5%9D%E8%B4%BA%E8%8B%8F%E7%BF%8A%E9%B8%A3%23&Refer=top)
+   新
+1. [热血番男主苏翊鸣](https://s.weibo.com//weibo?q=%23%E7%83%AD%E8%A1%80%E7%95%AA%E7%94%B7%E4%B8%BB%E8%8B%8F%E7%BF%8A%E9%B8%A3%23&Refer=top)
+   新
+1. [羽生结弦](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%23&Refer=top)
+   热
+1. [你就是我们心中的滑雪王者](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E5%BF%83%E4%B8%AD%E7%9A%84%E6%BB%91%E9%9B%AA%E7%8E%8B%E8%80%85%23&Refer=top)
+1. [张靓颖说被花滑的氛围感染了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E8%AF%B4%E8%A2%AB%E8%8A%B1%E6%BB%91%E7%9A%84%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%9F%93%E4%BA%86%23&Refer=top)
+   新
+1. [羽生结弦终于来了](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%23&Refer=top)
+   新
+1. [广西百色全员核酸检测](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%99%BE%E8%89%B2%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top)
+   新
+1. [王一博说李梦雯了不起](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%B4%E6%9D%8E%E6%A2%A6%E9%9B%AF%E4%BA%86%E4%B8%8D%E8%B5%B7%23&Refer=top)
+1. [你可以永远相信苏翊鸣](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E8%8B%8F%E7%BF%8A%E9%B8%A3%23&Refer=top)
+   新
+1. [羽生结弦亮相首体](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E4%BA%AE%E7%9B%B8%E9%A6%96%E4%BD%93%23&Refer=top)
+   新
+1. [李荣浩问马思纯演的江照还是黎明](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E9%97%AE%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%BC%94%E7%9A%84%E6%B1%9F%E7%85%A7%E8%BF%98%E6%98%AF%E9%BB%8E%E6%98%8E%23&Refer=top)
+   新
+1. [英雄出少年](https://s.weibo.com//weibo?q=%E8%8B%B1%E9%9B%84%E5%87%BA%E5%B0%91%E5%B9%B4&Refer=top)
+   新
+1. [苏翊鸣创历史](https://s.weibo.com//weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%88%9B%E5%8E%86%E5%8F%B2&Refer=top)
+   新
+1. [苏翊鸣说要为国争光](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%AF%B4%E8%A6%81%E4%B8%BA%E5%9B%BD%E4%BA%89%E5%85%89%23&Refer=top)
+1. [苏翊鸣靠实力赢得冰墩墩](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%9D%A0%E5%AE%9E%E5%8A%9B%E8%B5%A2%E5%BE%97%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top)
+1. [男子大跳台](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%A4%A7%E8%B7%B3%E5%8F%B0&Refer=top)
+   新
+1. [中国男子单板滑雪第一枚冬奥奖牌](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%86%AC%E5%A5%A5%E5%A5%96%E7%89%8C%23&Refer=top)
+1. [奶奶是怎么保存照片的](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E5%A5%B6%E6%98%AF%E6%80%8E%E4%B9%88%E4%BF%9D%E5%AD%98%E7%85%A7%E7%89%87%E7%9A%84%23&Refer=top)
+   新
 
 <!-- END -->
 

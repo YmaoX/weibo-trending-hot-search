@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 07 2022 21:17:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 07 2022 22:13:26 GMT+0800 (China Standard Time) -->
 
 1. [冬奥会2022](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A2022%23&Refer=new_time)
    热
@@ -93,7 +93,8 @@
 1. [北京冬奥会](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top)
 1. [奇迹笨小孩票房连续四日超预期](https://s.weibo.com//weibo?q=%23%E5%A5%87%E8%BF%B9%E7%AC%A8%E5%B0%8F%E5%AD%A9%E7%A5%A8%E6%88%BF%E8%BF%9E%E7%BB%AD%E5%9B%9B%E6%97%A5%E8%B6%85%E9%A2%84%E6%9C%9F%23&Refer=top)
    新 ->
-1. [冬奥会](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top)
+1. [冬奥会](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top) ->
+   新
 1. [冰墩墩汤圆](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%B1%A4%E5%9C%86%23&Refer=top)
    新 ->
 1. [神奇逆转女将张琳艳](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E5%A5%87%E9%80%86%E8%BD%AC%E5%A5%B3%E5%B0%86%E5%BC%A0%E7%90%B3%E8%89%B3%23&Refer=top)
@@ -402,7 +403,7 @@
 1. [第一次见这么精致的微缩景观](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E7%B2%BE%E8%87%B4%E7%9A%84%E5%BE%AE%E7%BC%A9%E6%99%AF%E8%A7%82%23&Refer=top)
    新
 1. [橘墩墩](https://s.weibo.com//weibo?q=%E6%A9%98%E5%A2%A9%E5%A2%A9&Refer=top) 新
-   -> 沸 -> 热
+   -> 沸 -> 热 ->
 1. [疑似B站猝死员工表妹发声](https://s.weibo.com//weibo?q=%23%E7%96%91%E4%BC%BCB%E7%AB%99%E7%8C%9D%E6%AD%BB%E5%91%98%E5%B7%A5%E8%A1%A8%E5%A6%B9%E5%8F%91%E5%A3%B0%23&Refer=top)
    新 -> 热
 1. [羽生结弦首次接受采访](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E9%A6%96%E6%AC%A1%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%23&Refer=top)
@@ -428,7 +429,7 @@
 1. [要不你还是把灯关了吧](https://s.weibo.com//weibo?q=%23%E8%A6%81%E4%B8%8D%E4%BD%A0%E8%BF%98%E6%98%AF%E6%8A%8A%E7%81%AF%E5%85%B3%E4%BA%86%E5%90%A7%23&Refer=top)
    新
 1. [武大靖被撞](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%A2%AB%E6%92%9E%23&Refer=top)
-   爆
+   爆 -> 热
 1. [范可新摔倒](https://s.weibo.com//weibo?q=%E8%8C%83%E5%8F%AF%E6%96%B0%E6%91%94%E5%80%92&Refer=top)
    新 -> 热
 1. [王濛解说](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%A7%A3%E8%AF%B4%23&Refer=top)
@@ -446,15 +447,15 @@
 1. [TF家族三代宿舍真不错](https://s.weibo.com//weibo?q=%23TF%E5%AE%B6%E6%97%8F%E4%B8%89%E4%BB%A3%E5%AE%BF%E8%88%8D%E7%9C%9F%E4%B8%8D%E9%94%99%23&Refer=top)
    新
 1. [短道速滑男子1000米](https://s.weibo.com//weibo?q=%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%901000%E7%B1%B3&Refer=top)
-   新
+   新 ->
 1. [任子威被撞](https://s.weibo.com//weibo?q=%E4%BB%BB%E5%AD%90%E5%A8%81%E8%A2%AB%E6%92%9E&Refer=top)
-   新
+   新 ->
 1. [张雨婷晋级500米半决赛](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E5%A9%B7%E6%99%8B%E7%BA%A7500%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23&Refer=top)
    新
 1. [阿根廷总统参观毛主席纪念堂](https://s.weibo.com//weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%E5%8F%82%E8%A7%82%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%BA%AA%E5%BF%B5%E5%A0%82&Refer=top)
    新
 1. [短道速滑太刺激了](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%A4%AA%E5%88%BA%E6%BF%80%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [为中国冬奥健儿加油](https://s.weibo.com//weibo?q=%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9&Refer=top)
    新 ->
 1. [王嘉尔为中国女足骄傲](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E9%AA%84%E5%82%B2%23&Refer=top)
@@ -472,11 +473,11 @@
 1. [这花滑真的滑到我心里去了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E8%8A%B1%E6%BB%91%E7%9C%9F%E7%9A%84%E6%BB%91%E5%88%B0%E6%88%91%E5%BF%83%E9%87%8C%E5%8E%BB%E4%BA%86%23&Refer=top)
    新
 1. [黄大宪犯规](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A4%A7%E5%AE%AA%E7%8A%AF%E8%A7%84%23&Refer=top)
-   爆
+   爆 -> 新
 1. [韩国教练](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E6%95%99%E7%BB%83&Refer=top)
    新
 1. [犯规 短道](https://s.weibo.com//weibo?q=%E7%8A%AF%E8%A7%84%20%E7%9F%AD%E9%81%93&Refer=top)
-   新
+   新 ->
 1. [这裁判能处](https://s.weibo.com//weibo?q=%E8%BF%99%E8%A3%81%E5%88%A4%E8%83%BD%E5%A4%84&Refer=top)
    新
 1. [看短道速滑太需要强心脏了](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%A4%AA%E9%9C%80%E8%A6%81%E5%BC%BA%E5%BF%83%E8%84%8F%E4%BA%86%23&Refer=top)
@@ -512,7 +513,7 @@
 1. [韩国李俊瑞](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E6%9D%8E%E4%BF%8A%E7%91%9E&Refer=top)
    新
 1. [原来冰墩墩蹦迪去了](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%B9%A6%E8%BF%AA%E5%8E%BB%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [小范日记本也可能是周记本](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%8C%83%E6%97%A5%E8%AE%B0%E6%9C%AC%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E5%91%A8%E8%AE%B0%E6%9C%AC%23&Refer=top)
    新
 1. [山东海鲜太绝了](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B5%B7%E9%B2%9C%E5%A4%AA%E7%BB%9D%E4%BA%86%23&Refer=top)
@@ -520,6 +521,44 @@
 1. [方塔娜蝉联冠军](https://s.weibo.com//weibo?q=%E6%96%B9%E5%A1%94%E5%A8%9C%E8%9D%89%E8%81%94%E5%86%A0%E5%86%9B&Refer=top)
    新
 1. [刘少林 刘少昂](https://s.weibo.com//weibo?q=%E5%88%98%E5%B0%91%E6%9E%97%20%E5%88%98%E5%B0%91%E6%98%82&Refer=top)
+   新 -> 爆
+1. [任子威获金牌](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E8%8E%B7%E9%87%91%E7%89%8C%23&Refer=top)
+   爆
+1. [李文龙获得银牌](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%96%87%E9%BE%99%E8%8E%B7%E5%BE%97%E9%93%B6%E7%89%8C%23&Refer=top)
+   新
+1. [这裁判能处](https://s.weibo.com//weibo?q=%23%E8%BF%99%E8%A3%81%E5%88%A4%E8%83%BD%E5%A4%84%23&Refer=top)
+   新
+1. [刘少林犯规](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%B0%91%E6%9E%97%E7%8A%AF%E8%A7%84%23&Refer=top)
+   新
+1. [任子威穿了鲨鱼皮](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E7%A9%BF%E4%BA%86%E9%B2%A8%E9%B1%BC%E7%9A%AE%23&Refer=top)
+   新
+1. [全民的小儿子李文龙](https://s.weibo.com//weibo?q=%23%E5%85%A8%E6%B0%91%E7%9A%84%E5%B0%8F%E5%84%BF%E5%AD%90%E6%9D%8E%E6%96%87%E9%BE%99%23&Refer=top)
+   新
+1. [林孝俊黄大宪](https://s.weibo.com//weibo?q=%E6%9E%97%E5%AD%9D%E4%BF%8A%E9%BB%84%E5%A4%A7%E5%AE%AA&Refer=top)
+   新
+1. [土耳其大哥](https://s.weibo.com//weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A4%A7%E5%93%A5%23&Refer=top)
+1. [阿根廷总统参观毛主席纪念堂](https://s.weibo.com//weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%E5%8F%82%E8%A7%82%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%BA%AA%E5%BF%B5%E5%A0%82%23&Refer=top)
+1. [为什么短道速滑总是撞](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E6%80%BB%E6%98%AF%E6%92%9E%23&Refer=top)
+   新
+1. [王濛说画眼线会看得更准](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E7%94%BB%E7%9C%BC%E7%BA%BF%E4%BC%9A%E7%9C%8B%E5%BE%97%E6%9B%B4%E5%87%86%23&Refer=top)
+   新
+1. [黄牌 短道](https://s.weibo.com//weibo?q=%E9%BB%84%E7%89%8C%20%E7%9F%AD%E9%81%93&Refer=top)
+   新
+1. [任子威在短道速滑现场高举国旗](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E5%9C%A8%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%8E%B0%E5%9C%BA%E9%AB%98%E4%B8%BE%E5%9B%BD%E6%97%97%23&Refer=top)
+   新
+1. [中国队第2金](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%AC%AC2%E9%87%91%23&Refer=top)
+   新
+1. [吴京说不介意用自己表情包多多益善](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E8%AF%B4%E4%B8%8D%E4%BB%8B%E6%84%8F%E7%94%A8%E8%87%AA%E5%B7%B1%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%9A%E5%A4%9A%E7%9B%8A%E5%96%84%23&Refer=top)
+   新
+1. [TF家族三代发文总结新年音乐会](https://s.weibo.com//weibo?q=%23TF%E5%AE%B6%E6%97%8F%E4%B8%89%E4%BB%A3%E5%8F%91%E6%96%87%E6%80%BB%E7%BB%93%E6%96%B0%E5%B9%B4%E9%9F%B3%E4%B9%90%E4%BC%9A%23&Refer=top)
+   新
+1. [中国队北京冬奥第二金](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%AC%AC%E4%BA%8C%E9%87%91%23&Refer=top)
+   新
+1. [逐梦北京冬奥](https://s.weibo.com//weibo?q=%23%E9%80%90%E6%A2%A6%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%23&Refer=top)
+   新
+1. [王者之师不可阻挡](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E4%B9%8B%E5%B8%88%E4%B8%8D%E5%8F%AF%E9%98%BB%E6%8C%A1%23&Refer=top)
+   新
+1. [为中国冬奥健儿比心](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E6%AF%94%E5%BF%83%23&Refer=top)
    新
 
 <!-- END -->

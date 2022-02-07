@@ -268,7 +268,7 @@
   {
     "url": "/weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top",
     "title": "冬奥会",
-    "mark": ""
+    "mark": " -> 新"
   },
   {
     "url": "/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%B1%A4%E5%9C%86%23&Refer=top",
@@ -1079,7 +1079,7 @@
   {
     "url": "/weibo?q=%E6%A9%98%E5%A2%A9%E5%A2%A9&Refer=top",
     "title": "橘墩墩",
-    "mark": "新 -> 沸 -> 热"
+    "mark": "新 -> 沸 -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E7%96%91%E4%BC%BCB%E7%AB%99%E7%8C%9D%E6%AD%BB%E5%91%98%E5%B7%A5%E8%A1%A8%E5%A6%B9%E5%8F%91%E5%A3%B0%23&Refer=top",
@@ -1144,7 +1144,7 @@
   {
     "url": "/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%A2%AB%E6%92%9E%23&Refer=top",
     "title": "武大靖被撞",
-    "mark": "爆"
+    "mark": "爆 -> 热"
   },
   {
     "url": "/weibo?q=%E8%8C%83%E5%8F%AF%E6%96%B0%E6%91%94%E5%80%92&Refer=top",
@@ -1189,12 +1189,12 @@
   {
     "url": "/weibo?q=%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%901000%E7%B1%B3&Refer=top",
     "title": "短道速滑男子1000米",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E4%BB%BB%E5%AD%90%E5%A8%81%E8%A2%AB%E6%92%9E&Refer=top",
     "title": "任子威被撞",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%BC%A0%E9%9B%A8%E5%A9%B7%E6%99%8B%E7%BA%A7500%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23&Refer=top",
@@ -1209,7 +1209,7 @@
   {
     "url": "/weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%A4%AA%E5%88%BA%E6%BF%80%E4%BA%86%23&Refer=top",
     "title": "短道速滑太刺激了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9&Refer=top",
@@ -1254,7 +1254,7 @@
   {
     "url": "/weibo?q=%23%E9%BB%84%E5%A4%A7%E5%AE%AA%E7%8A%AF%E8%A7%84%23&Refer=top",
     "title": "黄大宪犯规",
-    "mark": "爆"
+    "mark": "爆 -> 新"
   },
   {
     "url": "/weibo?q=%E9%9F%A9%E5%9B%BD%E6%95%99%E7%BB%83&Refer=top",
@@ -1264,7 +1264,7 @@
   {
     "url": "/weibo?q=%E7%8A%AF%E8%A7%84%20%E7%9F%AD%E9%81%93&Refer=top",
     "title": "犯规 短道",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E8%BF%99%E8%A3%81%E5%88%A4%E8%83%BD%E5%A4%84&Refer=top",
@@ -1354,7 +1354,7 @@
   {
     "url": "/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%B9%A6%E8%BF%AA%E5%8E%BB%E4%BA%86%23&Refer=top",
     "title": "原来冰墩墩蹦迪去了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%B0%8F%E8%8C%83%E6%97%A5%E8%AE%B0%E6%9C%AC%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E5%91%A8%E8%AE%B0%E6%9C%AC%23&Refer=top",
@@ -1374,6 +1374,106 @@
   {
     "url": "/weibo?q=%E5%88%98%E5%B0%91%E6%9E%97%20%E5%88%98%E5%B0%91%E6%98%82&Refer=top",
     "title": "刘少林 刘少昂",
+    "mark": "新 -> 爆"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E8%8E%B7%E9%87%91%E7%89%8C%23&Refer=top",
+    "title": "任子威获金牌",
+    "mark": "爆"
+  },
+  {
+    "url": "/weibo?q=%23%E6%9D%8E%E6%96%87%E9%BE%99%E8%8E%B7%E5%BE%97%E9%93%B6%E7%89%8C%23&Refer=top",
+    "title": "李文龙获得银牌",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%BF%99%E8%A3%81%E5%88%A4%E8%83%BD%E5%A4%84%23&Refer=top",
+    "title": "这裁判能处",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%88%98%E5%B0%91%E6%9E%97%E7%8A%AF%E8%A7%84%23&Refer=top",
+    "title": "刘少林犯规",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E7%A9%BF%E4%BA%86%E9%B2%A8%E9%B1%BC%E7%9A%AE%23&Refer=top",
+    "title": "任子威穿了鲨鱼皮",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%85%A8%E6%B0%91%E7%9A%84%E5%B0%8F%E5%84%BF%E5%AD%90%E6%9D%8E%E6%96%87%E9%BE%99%23&Refer=top",
+    "title": "全民的小儿子李文龙",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%9E%97%E5%AD%9D%E4%BF%8A%E9%BB%84%E5%A4%A7%E5%AE%AA&Refer=top",
+    "title": "林孝俊黄大宪",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A4%A7%E5%93%A5%23&Refer=top",
+    "title": "土耳其大哥",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%E5%8F%82%E8%A7%82%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%BA%AA%E5%BF%B5%E5%A0%82%23&Refer=top",
+    "title": "阿根廷总统参观毛主席纪念堂",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E6%80%BB%E6%98%AF%E6%92%9E%23&Refer=top",
+    "title": "为什么短道速滑总是撞",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E7%94%BB%E7%9C%BC%E7%BA%BF%E4%BC%9A%E7%9C%8B%E5%BE%97%E6%9B%B4%E5%87%86%23&Refer=top",
+    "title": "王濛说画眼线会看得更准",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E9%BB%84%E7%89%8C%20%E7%9F%AD%E9%81%93&Refer=top",
+    "title": "黄牌 短道",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E5%9C%A8%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%8E%B0%E5%9C%BA%E9%AB%98%E4%B8%BE%E5%9B%BD%E6%97%97%23&Refer=top",
+    "title": "任子威在短道速滑现场高举国旗",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%AC%AC2%E9%87%91%23&Refer=top",
+    "title": "中国队第2金",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%90%B4%E4%BA%AC%E8%AF%B4%E4%B8%8D%E4%BB%8B%E6%84%8F%E7%94%A8%E8%87%AA%E5%B7%B1%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%9A%E5%A4%9A%E7%9B%8A%E5%96%84%23&Refer=top",
+    "title": "吴京说不介意用自己表情包多多益善",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E4%B8%89%E4%BB%A3%E5%8F%91%E6%96%87%E6%80%BB%E7%BB%93%E6%96%B0%E5%B9%B4%E9%9F%B3%E4%B9%90%E4%BC%9A%23&Refer=top",
+    "title": "TF家族三代发文总结新年音乐会",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%AC%AC%E4%BA%8C%E9%87%91%23&Refer=top",
+    "title": "中国队北京冬奥第二金",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%80%90%E6%A2%A6%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%23&Refer=top",
+    "title": "逐梦北京冬奥",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%8E%8B%E8%80%85%E4%B9%8B%E5%B8%88%E4%B8%8D%E5%8F%AF%E9%98%BB%E6%8C%A1%23&Refer=top",
+    "title": "王者之师不可阻挡",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E6%AF%94%E5%BF%83%23&Refer=top",
+    "title": "为中国冬奥健儿比心",
     "mark": "新"
   }
 ]

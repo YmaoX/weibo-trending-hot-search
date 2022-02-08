@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 08 2022 11:14:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 08 2022 12:17:32 GMT+0800 (China Standard Time) -->
 
 1. [在大国担当中破解时代课题](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%A4%A7%E5%9B%BD%E6%8B%85%E5%BD%93%E4%B8%AD%E7%A0%B4%E8%A7%A3%E6%97%B6%E4%BB%A3%E8%AF%BE%E9%A2%98%23&Refer=new_time)
    热
@@ -23,6 +23,7 @@
 1. [武大靖碰任子威的手示意他先走](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%A2%B0%E4%BB%BB%E5%AD%90%E5%A8%81%E7%9A%84%E6%89%8B%E7%A4%BA%E6%84%8F%E4%BB%96%E5%85%88%E8%B5%B0%23&Refer=top)
    沸 -> 热 ->
 1. [这张冬奥大合影弥足珍贵](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%BC%A0%E5%86%AC%E5%A5%A5%E5%A4%A7%E5%90%88%E5%BD%B1%E5%BC%A5%E8%B6%B3%E7%8F%8D%E8%B4%B5%23&Refer=top)
+   -> 热
 1. [刘少林犯规](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%B0%91%E6%9E%97%E7%8A%AF%E8%A7%84%23&Refer=top)
    沸 -> 热
 1. [被武大靖李文龙整破防了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%AD%A6%E5%A4%A7%E9%9D%96%E6%9D%8E%E6%96%87%E9%BE%99%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top)
@@ -132,7 +133,7 @@
 1. [北体校友包揽金银牌](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BD%93%E6%A0%A1%E5%8F%8B%E5%8C%85%E6%8F%BD%E9%87%91%E9%93%B6%E7%89%8C%23&Refer=top)
    新
 1. [国际滑联驳回韩国队匈牙利队申诉](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%99%85%E6%BB%91%E8%81%94%E9%A9%B3%E5%9B%9E%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%8C%88%E7%89%99%E5%88%A9%E9%98%9F%E7%94%B3%E8%AF%89%23&Refer=top)
-   新 -> 沸 -> 热
+   新 -> 沸 -> 热 ->
 1. [金博洋和羽生结弦竞技](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E5%92%8C%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%AB%9E%E6%8A%80%23&Refer=top)
    新 -> 沸
 1. [金善台抱任子威](https://s.weibo.com//weibo?q=%E9%87%91%E5%96%84%E5%8F%B0%E6%8A%B1%E4%BB%BB%E5%AD%90%E5%A8%81&Refer=top)
@@ -185,27 +186,27 @@
 1. [原来冰墩墩是个大长腿](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%98%AF%E4%B8%AA%E5%A4%A7%E9%95%BF%E8%85%BF%23&Refer=top)
    新
 1. [老兵挑着女儿穿越长津湖战场](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%85%B5%E6%8C%91%E7%9D%80%E5%A5%B3%E5%84%BF%E7%A9%BF%E8%B6%8A%E9%95%BF%E6%B4%A5%E6%B9%96%E6%88%98%E5%9C%BA%23&Refer=top)
-   新
+   新 ->
 1. [谷爱凌第一跳93.75](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E8%B7%B393.75%23&Refer=top)
-   新
+   新 ->
 1. [金博洋哭了](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E5%93%AD%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [谷爱凌冲击个人首枚奥运奖牌](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%B2%E5%87%BB%E4%B8%AA%E4%BA%BA%E9%A6%96%E6%9E%9A%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C%23&Refer=top)
    新
 1. [金博洋演绎卧虎藏龙](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E6%BC%94%E7%BB%8E%E5%8D%A7%E8%99%8E%E8%97%8F%E9%BE%99%23&Refer=top)
    新
 1. [天天太棒了](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%A4%A9%E5%A4%AA%E6%A3%92%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [为金博洋加油](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E9%87%91%E5%8D%9A%E6%B4%8B%E5%8A%A0%E6%B2%B9%23&Refer=top)
    新
 1. [谷爱凌世界最高难度](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E9%9A%BE%E5%BA%A6%23&Refer=top)
    新 -> 爆
 1. [开工大吉](https://s.weibo.com//weibo?q=%E5%BC%80%E5%B7%A5%E5%A4%A7%E5%90%89&Refer=top)
-   新
+   新 ->
 1. [陈滢解说](https://s.weibo.com//weibo?q=%E9%99%88%E6%BB%A2%E8%A7%A3%E8%AF%B4&Refer=top)
    新
 1. [谷爱凌1440](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C1440%23&Refer=top)
-   新
+   新 ->
 1. [药明康德跌停](https://s.weibo.com//weibo?q=%E8%8D%AF%E6%98%8E%E5%BA%B7%E5%BE%B7%E8%B7%8C%E5%81%9C&Refer=top)
    新
 1. [谷爱凌北京冬奥进决赛](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E8%BF%9B%E5%86%B3%E8%B5%9B%23&Refer=top)
@@ -219,7 +220,7 @@
 1. [谷爱凌金牌](https://s.weibo.com//weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E9%87%91%E7%89%8C&Refer=top)
    新
 1. [金博洋暂列男单花滑第一](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E6%9A%82%E5%88%97%E7%94%B7%E5%8D%95%E8%8A%B1%E6%BB%91%E7%AC%AC%E4%B8%80%23&Refer=top)
-   新
+   新 -> 热
 1. [谷爱凌第二跳88.5](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%BA%8C%E8%B7%B388.5%23&Refer=top)
    新
 1. [1620](https://s.weibo.com//weibo?q=1620&Refer=top) 新
@@ -233,6 +234,56 @@
 1. [林孝俊微博](https://s.weibo.com//weibo?q=%E6%9E%97%E5%AD%9D%E4%BF%8A%E5%BE%AE%E5%8D%9A&Refer=top)
    新
 1. [高原战士用雪做冰墩墩](https://s.weibo.com//weibo?q=%E9%AB%98%E5%8E%9F%E6%88%98%E5%A3%AB%E7%94%A8%E9%9B%AA%E5%81%9A%E5%86%B0%E5%A2%A9%E5%A2%A9&Refer=top)
+   新
+1. [谷爱凌金牌](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E9%87%91%E7%89%8C%23&Refer=top)
+   爆
+1. [谷爱凌哭了](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%93%AD%E4%BA%86%23&Refer=top)
+   新
+1. [上帝到底给她关了哪扇窗](https://s.weibo.com//weibo?q=%E4%B8%8A%E5%B8%9D%E5%88%B0%E5%BA%95%E7%BB%99%E5%A5%B9%E5%85%B3%E4%BA%86%E5%93%AA%E6%89%87%E7%AA%97&Refer=top)
+   新
+1. [林孝埈微博](https://s.weibo.com//weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E5%BE%AE%E5%8D%9A&Refer=top)
+   新
+1. [谷爱凌是天才少女吧](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%98%AF%E5%A4%A9%E6%89%8D%E5%B0%91%E5%A5%B3%E5%90%A7%23&Refer=top)
+   新
+1. [谷爱凌第三跳](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%89%E8%B7%B3%23&Refer=top)
+   新
+1. [巴赫为谷爱凌鼓掌](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%B5%AB%E4%B8%BA%E8%B0%B7%E7%88%B1%E5%87%8C%E9%BC%93%E6%8E%8C%23&Refer=top)
+   新
+1. [李文龙拉架](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%96%87%E9%BE%99%E6%8B%89%E6%9E%B6%23&Refer=top)
+   新
+1. [恭喜谷爱凌](https://s.weibo.com//weibo?q=%23%E6%81%AD%E5%96%9C%E8%B0%B7%E7%88%B1%E5%87%8C%23&Refer=top)
+   新
+1. [谷爱凌人生最高兴的一秒](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E4%BA%BA%E7%94%9F%E6%9C%80%E9%AB%98%E5%85%B4%E7%9A%84%E4%B8%80%E7%A7%92%23&Refer=top)
+   新
+1. [谷爱凌不是最强项还是这么稳](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B8%8D%E6%98%AF%E6%9C%80%E5%BC%BA%E9%A1%B9%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%A8%B3%23&Refer=top)
+   新
+1. [谷爱凌第一个金墩墩到手](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%87%91%E5%A2%A9%E5%A2%A9%E5%88%B0%E6%89%8B%23&Refer=top)
+   新
+1. [谷爱凌拿下中国雪上首金](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%8B%BF%E4%B8%8B%E4%B8%AD%E5%9B%BD%E9%9B%AA%E4%B8%8A%E9%A6%96%E9%87%91%23&Refer=top)
+   新
+1. [谷爱凌跪地安慰失误的银牌选手](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%B7%AA%E5%9C%B0%E5%AE%89%E6%85%B0%E5%A4%B1%E8%AF%AF%E7%9A%84%E9%93%B6%E7%89%8C%E9%80%89%E6%89%8B%23&Refer=top)
+   新
+1. [泰丝](https://s.weibo.com//weibo?q=%E6%B3%B0%E4%B8%9D&Refer=top) 新
+1. [不是主项拿到金牌是什么实力](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%98%AF%E4%B8%BB%E9%A1%B9%E6%8B%BF%E5%88%B0%E9%87%91%E7%89%8C%E6%98%AF%E4%BB%80%E4%B9%88%E5%AE%9E%E5%8A%9B%23&Refer=top)
+   新
+1. [谷爱凌做出难以置信的难度](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%81%9A%E5%87%BA%E9%9A%BE%E4%BB%A5%E7%BD%AE%E4%BF%A1%E7%9A%84%E9%9A%BE%E5%BA%A6%23&Refer=top)
+   新
+1. [葫芦岛市新增1例本土确诊病例](https://s.weibo.com//weibo?q=%23%E8%91%AB%E8%8A%A6%E5%B2%9B%E5%B8%82%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top)
+   新
+1. [中国雪上项目首金](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%9B%AA%E4%B8%8A%E9%A1%B9%E7%9B%AE%E9%A6%96%E9%87%91%23&Refer=top)
+   新
+1. [什么时候才能实现冰墩墩自由](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%89%8D%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%87%AA%E7%94%B1%23&Refer=top)
+   新
+1. [冠军对冠军](https://s.weibo.com//weibo?q=%E5%86%A0%E5%86%9B%E5%AF%B9%E5%86%A0%E5%86%9B&Refer=top)
+   新
+1. [冬奥第一块女子大跳台金牌属于中国](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E7%AC%AC%E4%B8%80%E5%9D%97%E5%A5%B3%E5%AD%90%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%87%91%E7%89%8C%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%23&Refer=top)
+   新
+1. [谷爱凌决赛](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%B3%E8%B5%9B%23&Refer=top)
+1. [一张纸巾制作眼镜防雾口罩](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%BC%A0%E7%BA%B8%E5%B7%BE%E5%88%B6%E4%BD%9C%E7%9C%BC%E9%95%9C%E9%98%B2%E9%9B%BE%E5%8F%A3%E7%BD%A9%23&Refer=top)
+   新
+1. [这就是我们中国的00后](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E7%9A%8400%E5%90%8E%23&Refer=top)
+   新
+1. [自信的中国人是最美的](https://s.weibo.com//weibo?q=%23%E8%87%AA%E4%BF%A1%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%98%AF%E6%9C%80%E7%BE%8E%E7%9A%84%23&Refer=top)
    新
 
 <!-- END -->

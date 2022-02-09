@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 10 2022 05:12:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 10 2022 06:13:25 GMT+0800 (China Standard Time) -->
 
 1. [冰天雪地里炙热的青春力量](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A4%A9%E9%9B%AA%E5%9C%B0%E9%87%8C%E7%82%99%E7%83%AD%E7%9A%84%E9%9D%92%E6%98%A5%E5%8A%9B%E9%87%8F%23&Refer=new_time)
    热
 1. [短道速滑男子1500米黄大宪获得金牌](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%901500%E7%B1%B3%E9%BB%84%E5%A4%A7%E5%AE%AA%E8%8E%B7%E5%BE%97%E9%87%91%E7%89%8C%23&Refer=top)
-   沸
+   沸 ->
 1. [任子威一人参加五项比赛](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E4%B8%80%E4%BA%BA%E5%8F%82%E5%8A%A0%E4%BA%94%E9%A1%B9%E6%AF%94%E8%B5%9B%23&Refer=top)
 1. [微观北京冬奥](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E8%A7%82%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%23&Refer=top)
 1. [永远可以相信沈腾电影的爆梗](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E8%BF%9C%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BF%A1%E6%B2%88%E8%85%BE%E7%94%B5%E5%BD%B1%E7%9A%84%E7%88%86%E6%A2%97%23&Refer=top)
@@ -106,8 +106,10 @@
 1. [嫣语赋](https://s.weibo.com//weibo?q=%E5%AB%A3%E8%AF%AD%E8%B5%8B&Refer=top) 新
    ->
 1. [自测腰椎间盘是否突出](https://s.weibo.com//weibo?q=%E8%87%AA%E6%B5%8B%E8%85%B0%E6%A4%8E%E9%97%B4%E7%9B%98%E6%98%AF%E5%90%A6%E7%AA%81%E5%87%BA&Refer=top)
-   新
+   新 ->
 1. [谷爱凌的教育启示](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%9A%84%E6%95%99%E8%82%B2%E5%90%AF%E7%A4%BA%23&Refer=top)
+   新 ->
+1. [女子开车拒听丈夫唠叨用胶带封嘴绑手](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%80%E8%BD%A6%E6%8B%92%E5%90%AC%E4%B8%88%E5%A4%AB%E5%94%A0%E5%8F%A8%E7%94%A8%E8%83%B6%E5%B8%A6%E5%B0%81%E5%98%B4%E7%BB%91%E6%89%8B%23&Refer=top)
    新
 
 <!-- END -->

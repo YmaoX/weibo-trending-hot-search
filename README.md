@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 10 2022 12:17:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 10 2022 13:13:14 GMT+0800 (China Standard Time) -->
 
 1. [冰天雪地里炙热的青春力量](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A4%A9%E9%9B%AA%E5%9C%B0%E9%87%8C%E7%82%99%E7%83%AD%E7%9A%84%E9%9D%92%E6%98%A5%E5%8A%9B%E9%87%8F%23&Refer=new_time)
    热
@@ -134,7 +134,7 @@
 1. [任天堂直面会](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%A4%A9%E5%A0%82%E7%9B%B4%E9%9D%A2%E4%BC%9A%23&Refer=top)
    新 ->
 1. [羽生结弦](https://s.weibo.com//weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6&Refer=top)
-   新 ->
+   新 -> -> 热
 1. [金博洋羽生结弦同组竞技](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%90%8C%E7%BB%84%E7%AB%9E%E6%8A%80%23&Refer=top)
    新 ->
 1. [冬奥5位夺冠选手全来自黑龙江](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A55%E4%BD%8D%E5%A4%BA%E5%86%A0%E9%80%89%E6%89%8B%E5%85%A8%E6%9D%A5%E8%87%AA%E9%BB%91%E9%BE%99%E6%B1%9F%23&Refer=top)
@@ -172,7 +172,7 @@
 1. [黄大宪称这是一场干净的比赛](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A4%A7%E5%AE%AA%E7%A7%B0%E8%BF%99%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B9%B2%E5%87%80%E7%9A%84%E6%AF%94%E8%B5%9B%23&Refer=top)
    新
 1. [鞠婧祎进组仙剑奇侠传四](https://s.weibo.com//weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%BF%9B%E7%BB%84%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0%E5%9B%9B%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [这个杀手不太冷静票房破17亿](https://s.weibo.com//weibo?q=%E8%BF%99%E4%B8%AA%E6%9D%80%E6%89%8B%E4%B8%8D%E5%A4%AA%E5%86%B7%E9%9D%99%E7%A5%A8%E6%88%BF%E7%A0%B417%E4%BA%BF&Refer=top)
 1. [羽生结弦](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%23&Refer=top)
    新 ->
@@ -199,12 +199,12 @@
 1. [苏翊鸣比赛裁判长承认给冠军分打高了](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%AF%94%E8%B5%9B%E8%A3%81%E5%88%A4%E9%95%BF%E6%89%BF%E8%AE%A4%E7%BB%99%E5%86%A0%E5%86%9B%E5%88%86%E6%89%93%E9%AB%98%E4%BA%86%23&Refer=top)
    新 -> 沸
 1. [羽生结弦冲击三连冠](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%86%B2%E5%87%BB%E4%B8%89%E8%BF%9E%E5%86%A0%23&Refer=top)
-   新 -> 热
+   新 -> 热 -> 爆
 1. [天天加油](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%8A%A0%E6%B2%B9&Refer=top)
    新 ->
 1. [林孝埈说等我回来](https://s.weibo.com//weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E8%AF%B4%E7%AD%89%E6%88%91%E5%9B%9E%E6%9D%A5&Refer=top)
 1. [金博洋男单自由滑](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E7%94%B7%E5%8D%95%E8%87%AA%E7%94%B1%E6%BB%91%23&Refer=top)
-   新 -> 沸
+   新 -> 沸 ->
 1. [羽生结弦要完成的4A有多难](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%A6%81%E5%AE%8C%E6%88%90%E7%9A%844A%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
    新 ->
 1. [爷爷为孙女做出棕叶版冰墩墩](https://s.weibo.com//weibo?q=%23%E7%88%B7%E7%88%B7%E4%B8%BA%E5%AD%99%E5%A5%B3%E5%81%9A%E5%87%BA%E6%A3%95%E5%8F%B6%E7%89%88%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top)
@@ -220,9 +220,9 @@
 1. [蔡雪桐81.25分](https://s.weibo.com//weibo?q=%23%E8%94%A1%E9%9B%AA%E6%A1%9081.25%E5%88%86%23&Refer=top)
    新
 1. [被韩网民网暴的安贤洙有多艰难](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%9F%A9%E7%BD%91%E6%B0%91%E7%BD%91%E6%9A%B4%E7%9A%84%E5%AE%89%E8%B4%A4%E6%B4%99%E6%9C%89%E5%A4%9A%E8%89%B0%E9%9A%BE%23&Refer=top)
-   新
-1. [谷爱凌到现场给中国队加油](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%88%B0%E7%8E%B0%E5%9C%BA%E7%BB%99%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8A%A0%E6%B2%B9%23&Refer=top)
    新 -> 热
+1. [谷爱凌到现场给中国队加油](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%88%B0%E7%8E%B0%E5%9C%BA%E7%BB%99%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8A%A0%E6%B2%B9%23&Refer=top)
+   新 -> 热 ->
 1. [胡一天邢菲床底吻](https://s.weibo.com//weibo?q=%23%E8%83%A1%E4%B8%80%E5%A4%A9%E9%82%A2%E8%8F%B2%E5%BA%8A%E5%BA%95%E5%90%BB%23&Refer=top)
    新 ->
 1. [羽生结弦出场时间](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%87%BA%E5%9C%BA%E6%97%B6%E9%97%B4%23&Refer=top)
@@ -251,7 +251,7 @@
 1. [金博洋哭了](https://s.weibo.com//weibo?q=%E9%87%91%E5%8D%9A%E6%B4%8B%E5%93%AD%E4%BA%86&Refer=top)
    新
 1. [宁德时代](https://s.weibo.com//weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%23&Refer=top)
-   新
+   新 ->
 1. [金博洋勾手四周跳](https://s.weibo.com//weibo?q=%E9%87%91%E5%8D%9A%E6%B4%8B%E5%8B%BE%E6%89%8B%E5%9B%9B%E5%91%A8%E8%B7%B3&Refer=top)
    新
 1. [林墨模仿金博洋冰上魔性舞蹈](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%A2%A8%E6%A8%A1%E4%BB%BF%E9%87%91%E5%8D%9A%E6%B4%8B%E5%86%B0%E4%B8%8A%E9%AD%94%E6%80%A7%E8%88%9E%E8%B9%88%23&Refer=top)
@@ -273,6 +273,62 @@
 1. [奇迹中婚礼是平凡的幸福苦难的乐观](https://s.weibo.com//weibo?q=%23%E5%A5%87%E8%BF%B9%E4%B8%AD%E5%A9%9A%E7%A4%BC%E6%98%AF%E5%B9%B3%E5%87%A1%E7%9A%84%E5%B9%B8%E7%A6%8F%E8%8B%A6%E9%9A%BE%E7%9A%84%E4%B9%90%E8%A7%82%23&Refer=top)
    新
 1. [小伙用4000张扑克牌摆出冰墩墩](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E7%94%A84000%E5%BC%A0%E6%89%91%E5%85%8B%E7%89%8C%E6%91%86%E5%87%BA%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top)
+   新
+1. [羽生结弦摔倒](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%91%94%E5%80%92%23&Refer=top)
+   爆
+1. [金博洋哭了](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E5%93%AD%E4%BA%86%23&Refer=top)
+   新
+1. [羽生结弦暂排第1](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%9A%82%E6%8E%92%E7%AC%AC1%23&Refer=top)
+   新
+1. [花滑排名](https://s.weibo.com//weibo?q=%E8%8A%B1%E6%BB%91%E6%8E%92%E5%90%8D&Refer=top)
+   新
+1. [羽生结弦4A失败](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A64A%E5%A4%B1%E8%B4%A5%23&Refer=top)
+   新
+1. [羽生结弦谢幕抚摸冰面](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%B0%A2%E5%B9%95%E6%8A%9A%E6%91%B8%E5%86%B0%E9%9D%A2%23&Refer=top)
+   新
+1. [你可以永远相信陈滢的解说](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E9%99%88%E6%BB%A2%E7%9A%84%E8%A7%A3%E8%AF%B4%23&Refer=top)
+   新
+1. [金博洋羽生结弦同框](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%90%8C%E6%A1%86%23&Refer=top)
+   新
+1. [金博洋无缘奖牌](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E6%97%A0%E7%BC%98%E5%A5%96%E7%89%8C%23&Refer=top)
+   新
+1. [陈巍 自由滑](https://s.weibo.com//weibo?q=%E9%99%88%E5%B7%8D%20%E8%87%AA%E7%94%B1%E6%BB%91&Refer=top)
+   新
+1. [金博洋战胜金博洋](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E6%88%98%E8%83%9C%E9%87%91%E5%8D%9A%E6%B4%8B%23&Refer=top)
+   新
+1. [网友称海底捞自制锅底需额外收费](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%87%AA%E5%88%B6%E9%94%85%E5%BA%95%E9%9C%80%E9%A2%9D%E5%A4%96%E6%94%B6%E8%B4%B9%23&Refer=top)
+   新
+1. [羽生结弦解说词](https://s.weibo.com//weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%A7%A3%E8%AF%B4%E8%AF%8D&Refer=top)
+   新
+1. [陈萍萍演陈芊芊师傅](https://s.weibo.com//weibo?q=%23%E9%99%88%E8%90%8D%E8%90%8D%E6%BC%94%E9%99%88%E8%8A%8A%E8%8A%8A%E5%B8%88%E5%82%85%23&Refer=top)
+   新
+1. [羽生结弦太可惜了](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%A4%AA%E5%8F%AF%E6%83%9C%E4%BA%86%23&Refer=top)
+   新
+1. [我们的金博洋回来了](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E9%87%91%E5%8D%9A%E6%B4%8B%E5%9B%9E%E6%9D%A5%E4%BA%86%23&Refer=top)
+   新
+1. [最高检对蔡鄂生作出逮捕决定](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E5%AF%B9%E8%94%A1%E9%84%82%E7%94%9F%E4%BD%9C%E5%87%BA%E9%80%AE%E6%8D%95%E5%86%B3%E5%AE%9A%23&Refer=top)
+   新
+1. [广东人最怕的回南天要来了](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%9C%80%E6%80%95%E7%9A%84%E5%9B%9E%E5%8D%97%E5%A4%A9%E8%A6%81%E6%9D%A5%E4%BA%86%23&Refer=top)
+   新
+1. [毕雯珺孙伊涵高质量情侣](https://s.weibo.com//weibo?q=%23%E6%AF%95%E9%9B%AF%E7%8F%BA%E5%AD%99%E4%BC%8A%E6%B6%B5%E9%AB%98%E8%B4%A8%E9%87%8F%E6%83%85%E4%BE%A3%23&Refer=top)
+   新
+1. [红衣金博洋没看够](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E8%A1%A3%E9%87%91%E5%8D%9A%E6%B4%8B%E6%B2%A1%E7%9C%8B%E5%A4%9F%23&Refer=top)
+   新
+1. [金博洋勾手四周跳](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E5%8B%BE%E6%89%8B%E5%9B%9B%E5%91%A8%E8%B7%B3%23&Refer=top)
+   新
+1. [花滑解说](https://s.weibo.com//weibo?q=%E8%8A%B1%E6%BB%91%E8%A7%A3%E8%AF%B4&Refer=top)
+   新
+1. [冬奥直播](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A5%A5%E7%9B%B4%E6%92%AD&Refer=top)
+   新
+1. [吴磊收到冰墩墩雪容融后的反应](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E6%94%B6%E5%88%B0%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%9B%AA%E5%AE%B9%E8%9E%8D%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top)
+   新
+1. [李易峰张婧仪操场开机饭拍路透](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%93%8D%E5%9C%BA%E5%BC%80%E6%9C%BA%E9%A5%AD%E6%8B%8D%E8%B7%AF%E9%80%8F%23&Refer=top)
+   新
+1. [羽生结弦已经尽力了](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B7%B2%E7%BB%8F%E5%B0%BD%E5%8A%9B%E4%BA%86%23&Refer=top)
+   新
+1. [金珉奎希望所有的选手都不要受伤](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%8F%89%E5%A5%8E%E5%B8%8C%E6%9C%9B%E6%89%80%E6%9C%89%E7%9A%84%E9%80%89%E6%89%8B%E9%83%BD%E4%B8%8D%E8%A6%81%E5%8F%97%E4%BC%A4%23&Refer=top)
+   新
+1. [羽生结弦赛程](https://s.weibo.com//weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%B5%9B%E7%A8%8B&Refer=top)
    新
 
 <!-- END -->

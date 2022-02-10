@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 10 2022 18:15:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 10 2022 19:11:40 GMT+0800 (China Standard Time) -->
 
 1. [冰天雪地里炙热的青春力量](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A4%A9%E9%9B%AA%E5%9C%B0%E9%87%8C%E7%82%99%E7%83%AD%E7%9A%84%E9%9D%92%E6%98%A5%E5%8A%9B%E9%87%8F%23&Refer=new_time)
    热
@@ -198,7 +198,7 @@
 1. [龚俊冬奥播报](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%86%AC%E5%A5%A5%E6%92%AD%E6%8A%A5%23&Refer=top)
    新
 1. [苏翊鸣比赛裁判长承认给冠军分打高了](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%AF%94%E8%B5%9B%E8%A3%81%E5%88%A4%E9%95%BF%E6%89%BF%E8%AE%A4%E7%BB%99%E5%86%A0%E5%86%9B%E5%88%86%E6%89%93%E9%AB%98%E4%BA%86%23&Refer=top)
-   新 -> 沸 -> 热 -> 沸 -> 热
+   新 -> 沸 -> 热 -> 沸 -> 热 ->
 1. [羽生结弦冲击三连冠](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%86%B2%E5%87%BB%E4%B8%89%E8%BF%9E%E5%86%A0%23&Refer=top)
    新 -> 热 -> 爆
 1. [天天加油](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%A4%A9%E5%8A%A0%E6%B2%B9&Refer=top)
@@ -368,7 +368,7 @@
 1. [知网崩了](https://s.weibo.com//weibo?q=%E7%9F%A5%E7%BD%91%E5%B4%A9%E4%BA%86&Refer=top)
    新 ->
 1. [广西百色市急需口罩等防疫物资](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%99%BE%E8%89%B2%E5%B8%82%E6%80%A5%E9%9C%80%E5%8F%A3%E7%BD%A9%E7%AD%89%E9%98%B2%E7%96%AB%E7%89%A9%E8%B5%84%23&Refer=top)
-   -> 沸
+   -> 沸 ->
 1. [王濛真的好有格局](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%9C%89%E6%A0%BC%E5%B1%80%23&Refer=top)
    新 ->
 1. [广西百色急需核酸采样试剂](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%99%BE%E8%89%B2%E6%80%A5%E9%9C%80%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E8%AF%95%E5%89%82%23&Refer=top)
@@ -417,11 +417,11 @@
 1. [国际滑联坚持不接受韩方申诉](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%99%85%E6%BB%91%E8%81%94%E5%9D%9A%E6%8C%81%E4%B8%8D%E6%8E%A5%E5%8F%97%E9%9F%A9%E6%96%B9%E7%94%B3%E8%AF%89%23&Refer=top)
    新 -> 热
 1. [羽生结弦赛后采访](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF%23&Refer=top)
-   新
+   新 -> 沸
 1. [好时撤柜闭店](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E6%97%B6%E6%92%A4%E6%9F%9C%E9%97%AD%E5%BA%97%23&Refer=top)
    新 ->
 1. [苏翊鸣去年也遇到了裁判判分问题](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8E%BB%E5%B9%B4%E4%B9%9F%E9%81%87%E5%88%B0%E4%BA%86%E8%A3%81%E5%88%A4%E5%88%A4%E5%88%86%E9%97%AE%E9%A2%98%23&Refer=top)
-   新
+   新 ->
 1. [奥运冠军谌利军结婚](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E8%B0%8C%E5%88%A9%E5%86%9B%E7%BB%93%E5%A9%9A%23&Refer=top)
    新 ->
 1. [羽生结弦说这是他最接近4A的一次](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%AF%B4%E8%BF%99%E6%98%AF%E4%BB%96%E6%9C%80%E6%8E%A5%E8%BF%914A%E7%9A%84%E4%B8%80%E6%AC%A1%23&Refer=top)
@@ -433,7 +433,7 @@
 1. [村长回应连夜解救冰墩墩](https://s.weibo.com//weibo?q=%23%E6%9D%91%E9%95%BF%E5%9B%9E%E5%BA%94%E8%BF%9E%E5%A4%9C%E8%A7%A3%E6%95%91%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top)
    新 ->
 1. [冰墩墩早期证件照曝光](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%97%A9%E6%9C%9F%E8%AF%81%E4%BB%B6%E7%85%A7%E6%9B%9D%E5%85%89%23&Refer=top)
-   新
+   新 ->
 1. [三百年前的孙悟空长啥样](https://s.weibo.com//weibo?q=%23%E4%B8%89%E7%99%BE%E5%B9%B4%E5%89%8D%E7%9A%84%E5%AD%99%E6%82%9F%E7%A9%BA%E9%95%BF%E5%95%A5%E6%A0%B7%23&Refer=top)
    新
 1. [羽生结弦4a难在哪](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A64a%E9%9A%BE%E5%9C%A8%E5%93%AA%23&Refer=top)
@@ -445,7 +445,7 @@
 1. [金博洋说这就是体育精神](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E8%AF%B4%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BD%93%E8%82%B2%E7%B2%BE%E7%A5%9E%23&Refer=top)
    新 ->
 1. [冰刀那么锋利为什么不会嵌进冰里](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%88%80%E9%82%A3%E4%B9%88%E9%94%8B%E5%88%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%BC%9A%E5%B5%8C%E8%BF%9B%E5%86%B0%E9%87%8C%23&Refer=top)
-   新
+   新 ->
 1. [花样滑冰为什么越转越快](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%A0%B7%E6%BB%91%E5%86%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E8%BD%AC%E8%B6%8A%E5%BF%AB%23&Refer=top)
    新
 1. [9岁患癌女孩重新站立兴奋竖起拇指](https://s.weibo.com//weibo?q=%239%E5%B2%81%E6%82%A3%E7%99%8C%E5%A5%B3%E5%AD%A9%E9%87%8D%E6%96%B0%E7%AB%99%E7%AB%8B%E5%85%B4%E5%A5%8B%E7%AB%96%E8%B5%B7%E6%8B%87%E6%8C%87%23&Refer=top)
@@ -455,21 +455,21 @@
 1. [全场最低分笑得比第1名还开心](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9C%BA%E6%9C%80%E4%BD%8E%E5%88%86%E7%AC%91%E5%BE%97%E6%AF%94%E7%AC%AC1%E5%90%8D%E8%BF%98%E5%BC%80%E5%BF%83%23&Refer=top)
    新
 1. [5岁男童误吞11颗磁力珠](https://s.weibo.com//weibo?q=%235%E5%B2%81%E7%94%B7%E7%AB%A5%E8%AF%AF%E5%90%9E11%E9%A2%97%E7%A3%81%E5%8A%9B%E7%8F%A0%23&Refer=top)
-   新
+   新 -> 热
 1. [2岁女童抹光整罐遮瑕膏原地换脸](https://s.weibo.com//weibo?q=%232%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%8A%B9%E5%85%89%E6%95%B4%E7%BD%90%E9%81%AE%E7%91%95%E8%86%8F%E5%8E%9F%E5%9C%B0%E6%8D%A2%E8%84%B8%23&Refer=top)
-   新
+   新 ->
 1. [再次被景甜清醒发言爽到](https://s.weibo.com//weibo?q=%23%E5%86%8D%E6%AC%A1%E8%A2%AB%E6%99%AF%E7%94%9C%E6%B8%85%E9%86%92%E5%8F%91%E8%A8%80%E7%88%BD%E5%88%B0%23&Refer=top)
-   新
+   新 ->
 1. [存款多少能实现蟹肉棒自由](https://s.weibo.com//weibo?q=%23%E5%AD%98%E6%AC%BE%E5%A4%9A%E5%B0%91%E8%83%BD%E5%AE%9E%E7%8E%B0%E8%9F%B9%E8%82%89%E6%A3%92%E8%87%AA%E7%94%B1%23&Refer=top)
-   新
+   新 ->
 1. [吴京担任世界冰球大使](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E6%8B%85%E4%BB%BB%E4%B8%96%E7%95%8C%E5%86%B0%E7%90%83%E5%A4%A7%E4%BD%BF%23&Refer=top)
    新
 1. [马嘉祺翻唱让她降落播放量破600万](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E7%BF%BB%E5%94%B1%E8%AE%A9%E5%A5%B9%E9%99%8D%E8%90%BD%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B4600%E4%B8%87%23&Refer=top)
-   新
+   新 ->
 1. [冰墩墩官方宣传片](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%AE%98%E6%96%B9%E5%AE%A3%E4%BC%A0%E7%89%87%23&Refer=top)
-   新
+   新 ->
 1. [表志勋将3月28日入伍](https://s.weibo.com//weibo?q=%23%E8%A1%A8%E5%BF%97%E5%8B%8B%E5%B0%863%E6%9C%8828%E6%97%A5%E5%85%A5%E4%BC%8D%23&Refer=top)
-   新
+   新 ->
 1. [戚薇说我不是美羊羊](https://s.weibo.com//weibo?q=%23%E6%88%9A%E8%96%87%E8%AF%B4%E6%88%91%E4%B8%8D%E6%98%AF%E7%BE%8E%E7%BE%8A%E7%BE%8A%23&Refer=top)
    新
 1. [谷爱凌说自己没有去过海南](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%B2%A1%E6%9C%89%E5%8E%BB%E8%BF%87%E6%B5%B7%E5%8D%97%23&Refer=top)
@@ -487,6 +487,30 @@
 1. [广州春节期间新房成交量仅17套](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E6%96%B0%E6%88%BF%E6%88%90%E4%BA%A4%E9%87%8F%E4%BB%8517%E5%A5%97%23&Refer=top)
    新
 1. [小伙坐拥近百个冰墩墩打造民间博物馆](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E5%9D%90%E6%8B%A5%E8%BF%91%E7%99%BE%E4%B8%AA%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%89%93%E9%80%A0%E6%B0%91%E9%97%B4%E5%8D%9A%E7%89%A9%E9%A6%86%23&Refer=top)
+   新
+1. [辽宁新增20例本土确诊](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%96%B0%E5%A2%9E20%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top)
+   新
+1. [羽生结弦和冰墩墩合照](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%92%8C%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%90%88%E7%85%A7%23&Refer=top)
+   新
+1. [用一句话来证明你英文水平](https://s.weibo.com//weibo?q=%23%E7%94%A8%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%9D%A5%E8%AF%81%E6%98%8E%E4%BD%A0%E8%8B%B1%E6%96%87%E6%B0%B4%E5%B9%B3%23&Refer=top)
+   新
+1. [大侦探算是把替身文学玩明白了](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%E7%AE%97%E6%98%AF%E6%8A%8A%E6%9B%BF%E8%BA%AB%E6%96%87%E5%AD%A6%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top)
+   新
+1. [老九门之青山海棠](https://s.weibo.com//weibo?q=%E8%80%81%E4%B9%9D%E9%97%A8%E4%B9%8B%E9%9D%92%E5%B1%B1%E6%B5%B7%E6%A3%A0&Refer=top)
+   新
+1. [南极发现地球最古老的冰](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%9E%81%E5%8F%91%E7%8E%B0%E5%9C%B0%E7%90%83%E6%9C%80%E5%8F%A4%E8%80%81%E7%9A%84%E5%86%B0%23&Refer=top)
+   新
+1. [会自我安慰的人类幼崽](https://s.weibo.com//weibo?q=%23%E4%BC%9A%E8%87%AA%E6%88%91%E5%AE%89%E6%85%B0%E7%9A%84%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%23&Refer=top)
+   新
+1. [济南一地成冰墩墩网红打卡地](https://s.weibo.com//weibo?q=%23%E6%B5%8E%E5%8D%97%E4%B8%80%E5%9C%B0%E6%88%90%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%BD%91%E7%BA%A2%E6%89%93%E5%8D%A1%E5%9C%B0%23&Refer=top)
+   新
+1. [广西交通护送1891名医护人员前往百色](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%BA%A4%E9%80%9A%E6%8A%A4%E9%80%811891%E5%90%8D%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E5%89%8D%E5%BE%80%E7%99%BE%E8%89%B2%23&Refer=top)
+   新
+1. [克洛伊金力挺谷爱凌](https://s.weibo.com//weibo?q=%23%E5%85%8B%E6%B4%9B%E4%BC%8A%E9%87%91%E5%8A%9B%E6%8C%BA%E8%B0%B7%E7%88%B1%E5%87%8C%23&Refer=top)
+   新
+1. [冰墩墩也叫饼墩墩](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E4%B9%9F%E5%8F%AB%E9%A5%BC%E5%A2%A9%E5%A2%A9%23&Refer=top)
+   新
+1. [7个月大宠物梅花鹿爱吃面条麻花](https://s.weibo.com//weibo?q=%237%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%AE%A0%E7%89%A9%E6%A2%85%E8%8A%B1%E9%B9%BF%E7%88%B1%E5%90%83%E9%9D%A2%E6%9D%A1%E9%BA%BB%E8%8A%B1%23&Refer=top)
    新
 
 <!-- END -->

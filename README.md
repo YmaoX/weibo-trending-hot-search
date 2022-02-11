@@ -14,14 +14,14 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 12 2022 01:13:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 12 2022 02:16:48 GMT+0800 (China Standard Time) -->
 
 1. [生活安全科普季](https://s.weibo.com//weibo?q=%23%E7%94%9F%E6%B4%BB%E5%AE%89%E5%85%A8%E7%A7%91%E6%99%AE%E5%AD%A3%23&Refer=new_time)
    热
 1. [老友记删减](https://s.weibo.com//weibo?q=%E8%80%81%E5%8F%8B%E8%AE%B0%E5%88%A0%E5%87%8F&Refer=top)
    新 -> 沸
 1. [钢架雪车](https://s.weibo.com//weibo?q=%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6&Refer=top)
-   沸
+   沸 ->
 1. [中国00后逐梦冬奥赛场](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD00%E5%90%8E%E9%80%90%E6%A2%A6%E5%86%AC%E5%A5%A5%E8%B5%9B%E5%9C%BA%23&Refer=top)
 1. [王濛说踢刀了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E8%B8%A2%E5%88%80%E4%BA%86%23&Refer=top)
    沸
@@ -46,13 +46,13 @@
 1. [结婚登记大热门214遇冷了](https://s.weibo.com//weibo?q=%23%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%A4%A7%E7%83%AD%E9%97%A8214%E9%81%87%E5%86%B7%E4%BA%86%23&Refer=top)
 1. [冬奥纪念币](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%BF%B5%E5%B8%81&Refer=top)
 1. [林孝埈终于发博了](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E7%BB%88%E4%BA%8E%E5%8F%91%E5%8D%9A%E4%BA%86%23&Refer=top)
-   热
+   热 ->
 1. [武大靖好帅](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%A5%BD%E5%B8%85%23&Refer=top)
 1. [油墩子阿婆生前已基本还清债务](https://s.weibo.com//weibo?q=%23%E6%B2%B9%E5%A2%A9%E5%AD%90%E9%98%BF%E5%A9%86%E7%94%9F%E5%89%8D%E5%B7%B2%E5%9F%BA%E6%9C%AC%E8%BF%98%E6%B8%85%E5%80%BA%E5%8A%A1%23&Refer=top)
    新 ->
 1. [江歌母亲诉刘鑫案2月16日二审开庭](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E6%AD%8C%E6%AF%8D%E4%BA%B2%E8%AF%89%E5%88%98%E9%91%AB%E6%A1%882%E6%9C%8816%E6%97%A5%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%23&Refer=top)
 1. [韩国粉头发运动员](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E7%B2%89%E5%A4%B4%E5%8F%91%E8%BF%90%E5%8A%A8%E5%91%98&Refer=top)
-   新
+   新 ->
 1. [短道速滑运动员唐剑被劝退](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E8%BF%90%E5%8A%A8%E5%91%98%E5%94%90%E5%89%91%E8%A2%AB%E5%8A%9D%E9%80%80%23&Refer=top)
 1. [钢架雪车队长耿文强观赛解说](https://s.weibo.com//weibo?q=%23%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6%E9%98%9F%E9%95%BF%E8%80%BF%E6%96%87%E5%BC%BA%E8%A7%82%E8%B5%9B%E8%A7%A3%E8%AF%B4%23&Refer=top)
    新 ->
@@ -91,9 +91,9 @@
 1. [北京冬奥我们来了](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86%23&Refer=new_time)
    热
 1. [王濛王源梦幻联动](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E7%8E%8B%E6%BA%90%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%23&Refer=top)
-   新
+   新 ->
 1. [假如王濛黄健翔说相声](https://s.weibo.com//weibo?q=%23%E5%81%87%E5%A6%82%E7%8E%8B%E6%BF%9B%E9%BB%84%E5%81%A5%E7%BF%94%E8%AF%B4%E7%9B%B8%E5%A3%B0%23&Refer=top)
-   新
+   新 ->
 1. [住在热带雨林是种什么感觉](https://s.weibo.com//weibo?q=%23%E4%BD%8F%E5%9C%A8%E7%83%AD%E5%B8%A6%E9%9B%A8%E6%9E%97%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23&Refer=top)
    新
 1. [蔡洋洋连续两次无效作答](https://s.weibo.com//weibo?q=%23%E8%94%A1%E6%B4%8B%E6%B4%8B%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%AC%A1%E6%97%A0%E6%95%88%E4%BD%9C%E7%AD%94%23&Refer=top)
@@ -101,6 +101,14 @@
 1. [李文龙摔倒](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%96%87%E9%BE%99%E6%91%94%E5%80%92&Refer=top)
 1. [短道速滑女子1000米崔敏静银牌](https://s.weibo.com//weibo?q=%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%A5%B3%E5%AD%901000%E7%B1%B3%E5%B4%94%E6%95%8F%E9%9D%99%E9%93%B6%E7%89%8C&Refer=top)
 1. [相约冰雪一起来](https://s.weibo.com//weibo?q=%23%E7%9B%B8%E7%BA%A6%E5%86%B0%E9%9B%AA%E4%B8%80%E8%B5%B7%E6%9D%A5%23&Refer=top)
+   新
+1. [王濛说踢刀了](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%BF%9B%E8%AF%B4%E8%B8%A2%E5%88%80%E4%BA%86&Refer=top)
+   沸
+1. [陈赫演技爆发力](https://s.weibo.com//weibo?q=%23%E9%99%88%E8%B5%AB%E6%BC%94%E6%8A%80%E7%88%86%E5%8F%91%E5%8A%9B%23&Refer=top)
+   新
+1. [速度滑冰是地表最快的运动](https://s.weibo.com//weibo?q=%23%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E6%98%AF%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BF%AB%E7%9A%84%E8%BF%90%E5%8A%A8%23&Refer=top)
+   新
+1. [姜文的电影台词能多有内涵](https://s.weibo.com//weibo?q=%23%E5%A7%9C%E6%96%87%E7%9A%84%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D%E8%83%BD%E5%A4%9A%E6%9C%89%E5%86%85%E6%B6%B5%23&Refer=top)
    新
 
 <!-- END -->

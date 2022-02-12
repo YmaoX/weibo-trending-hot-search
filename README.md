@@ -14,17 +14,17 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 12 2022 07:13:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 12 2022 08:55:45 GMT+0800 (China Standard Time) -->
 
 1. [生活安全科普季](https://s.weibo.com//weibo?q=%23%E7%94%9F%E6%B4%BB%E5%AE%89%E5%85%A8%E7%A7%91%E6%99%AE%E5%AD%A3%23&Refer=new_time)
    热
 1. [老友记删减](https://s.weibo.com//weibo?q=%E8%80%81%E5%8F%8B%E8%AE%B0%E5%88%A0%E5%87%8F&Refer=top)
-   新 -> 沸
+   新 -> 沸 ->
 1. [钢架雪车](https://s.weibo.com//weibo?q=%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6&Refer=top)
    沸 ->
 1. [中国00后逐梦冬奥赛场](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD00%E5%90%8E%E9%80%90%E6%A2%A6%E5%86%AC%E5%A5%A5%E8%B5%9B%E5%9C%BA%23&Refer=top)
 1. [王濛说踢刀了](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E8%B8%A2%E5%88%80%E4%BA%86%23&Refer=top)
-   沸 -> 热
+   沸 -> 热 ->
 1. [湖南是唯一有省服的地方吧](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E6%98%AF%E5%94%AF%E4%B8%80%E6%9C%89%E7%9C%81%E6%9C%8D%E7%9A%84%E5%9C%B0%E6%96%B9%E5%90%A7%23&Refer=top)
    热
 1. [短道速滑男子5000米接力](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%905000%E7%B1%B3%E6%8E%A5%E5%8A%9B%23&Refer=top)
@@ -124,14 +124,60 @@
 1. [任子威好稳](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E5%A5%BD%E7%A8%B3%23&Refer=top)
    新
 1. [国际滑联上诉要求对瓦利耶娃恢复禁赛](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%99%85%E6%BB%91%E8%81%94%E4%B8%8A%E8%AF%89%E8%A6%81%E6%B1%82%E5%AF%B9%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E6%81%A2%E5%A4%8D%E7%A6%81%E8%B5%9B%23&Refer=top)
-   新
+   新 -> 热
 1. [俄奥委会回应运动员药检阳性](https://s.weibo.com//weibo?q=%23%E4%BF%84%E5%A5%A5%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E8%BF%90%E5%8A%A8%E5%91%98%E8%8D%AF%E6%A3%80%E9%98%B3%E6%80%A7%23&Refer=top)
-   新
+   新 ->
 1. [美国自己戴上胁迫这顶帽子才是当之无愧](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%B7%B1%E6%88%B4%E4%B8%8A%E8%83%81%E8%BF%AB%E8%BF%99%E9%A1%B6%E5%B8%BD%E5%AD%90%E6%89%8D%E6%98%AF%E5%BD%93%E4%B9%8B%E6%97%A0%E6%84%A7&Refer=top)
-   新
+   新 ->
 1. [AG600首架全状态适航验证机试车成功](https://s.weibo.com//weibo?q=%23AG600%E9%A6%96%E6%9E%B6%E5%85%A8%E7%8A%B6%E6%80%81%E9%80%82%E8%88%AA%E9%AA%8C%E8%AF%81%E6%9C%BA%E8%AF%95%E8%BD%A6%E6%88%90%E5%8A%9F%23&Refer=top)
    新
 1. [中国女篮晋级2022女篮世界杯](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%99%8B%E7%BA%A72022%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF&Refer=top)
+   新
+1. [禁止违法失德艺人经电视剧发声出镜](https://s.weibo.com//weibo?q=%23%E7%A6%81%E6%AD%A2%E8%BF%9D%E6%B3%95%E5%A4%B1%E5%BE%B7%E8%89%BA%E4%BA%BA%E7%BB%8F%E7%94%B5%E8%A7%86%E5%89%A7%E5%8F%91%E5%A3%B0%E5%87%BA%E9%95%9C%23&Refer=top)
+   新
+1. [zhuo](https://s.weibo.com//weibo?q=zhuo&Refer=top) 新
+1. [男生会跟喜欢的女生借钱吗](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E4%BC%9A%E8%B7%9F%E5%96%9C%E6%AC%A2%E7%9A%84%E5%A5%B3%E7%94%9F%E5%80%9F%E9%92%B1%E5%90%97%23&Refer=top)
+   新
+1. [家有儿女播出17周年](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E6%92%AD%E5%87%BA17%E5%91%A8%E5%B9%B4%23&Refer=top)
+   新
+1. [武大靖第1双轮滑鞋是父亲2个月工资](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%AC%AC1%E5%8F%8C%E8%BD%AE%E6%BB%91%E9%9E%8B%E6%98%AF%E7%88%B6%E4%BA%B22%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84%23&Refer=top)
+   新
+1. [国家卫健委回应尊严死立法](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%B0%8A%E4%B8%A5%E6%AD%BB%E7%AB%8B%E6%B3%95%23&Refer=top)
+   新
+1. [中国冬奥历史首枚钢架雪车奖牌](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E5%8E%86%E5%8F%B2%E9%A6%96%E6%9E%9A%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6%E5%A5%96%E7%89%8C%23&Refer=top)
+   新
+1. [王濛周洋](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%91%A8%E6%B4%8B%23&Refer=top)
+   新
+1. [中国女篮晋级2022女篮世界杯](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%99%8B%E7%BA%A72022%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top)
+1. [南京2月16日起恢复冰墩墩线下销售](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC2%E6%9C%8816%E6%97%A5%E8%B5%B7%E6%81%A2%E5%A4%8D%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%BA%BF%E4%B8%8B%E9%94%80%E5%94%AE%23&Refer=top)
+   新
+1. [王者荣耀瑶](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%91%B6&Refer=top)
+1. [胡一天算是把恋爱魔方玩明白了](https://s.weibo.com//weibo?q=%23%E8%83%A1%E4%B8%80%E5%A4%A9%E7%AE%97%E6%98%AF%E6%8A%8A%E6%81%8B%E7%88%B1%E9%AD%94%E6%96%B9%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top)
+   新
+1. [帮理不帮亲的狗狗](https://s.weibo.com//weibo?q=%23%E5%B8%AE%E7%90%86%E4%B8%8D%E5%B8%AE%E4%BA%B2%E7%9A%84%E7%8B%97%E7%8B%97%23&Refer=top)
+   新
+1. [莆田地震](https://s.weibo.com//weibo?q=%E8%8E%86%E7%94%B0%E5%9C%B0%E9%9C%87&Refer=top)
+1. [中国代表团旗手高亭宇首秀](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%97%97%E6%89%8B%E9%AB%98%E4%BA%AD%E5%AE%87%E9%A6%96%E7%A7%80%23&Refer=top)
+   新
+1. [老友记为什么那么火](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%8F%8B%E8%AE%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E7%81%AB%23&Refer=top)
+   新
+1. [任子威头盔上有绝影两字](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E5%A4%B4%E7%9B%94%E4%B8%8A%E6%9C%89%E7%BB%9D%E5%BD%B1%E4%B8%A4%E5%AD%97%23&Refer=top)
+   新
+1. [钢架雪车国家队成立3年达到世界水平](https://s.weibo.com//weibo?q=%23%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%88%90%E7%AB%8B3%E5%B9%B4%E8%BE%BE%E5%88%B0%E4%B8%96%E7%95%8C%E6%B0%B4%E5%B9%B3%23&Refer=top)
+   新
+1. [紫星币 王者](https://s.weibo.com//weibo?q=%E7%B4%AB%E6%98%9F%E5%B8%81%20%E7%8E%8B%E8%80%85&Refer=top)
+   新
+1. [因为山在那里](https://s.weibo.com//weibo?q=%E5%9B%A0%E4%B8%BA%E5%B1%B1%E5%9C%A8%E9%82%A3%E9%87%8C&Refer=top)
+   新
+1. [瑞典记者回应直播时喜极而泣](https://s.weibo.com//weibo?q=%23%E7%91%9E%E5%85%B8%E8%AE%B0%E8%80%85%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E6%97%B6%E5%96%9C%E6%9E%81%E8%80%8C%E6%B3%A3%23&Refer=top)
+   新
+1. [奥林匹克从来就不止于冠军](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E4%BB%8E%E6%9D%A5%E5%B0%B1%E4%B8%8D%E6%AD%A2%E4%BA%8E%E5%86%A0%E5%86%9B%23&Refer=top)
+   新
+1. [惊艳世界的24节气](https://s.weibo.com//weibo?q=%23%E6%83%8A%E8%89%B3%E4%B8%96%E7%95%8C%E7%9A%8424%E8%8A%82%E6%B0%94%23&Refer=top)
+   新
+1. [当运动员时未圆梦冬奥做记者参与](https://s.weibo.com//weibo?q=%23%E5%BD%93%E8%BF%90%E5%8A%A8%E5%91%98%E6%97%B6%E6%9C%AA%E5%9C%86%E6%A2%A6%E5%86%AC%E5%A5%A5%E5%81%9A%E8%AE%B0%E8%80%85%E5%8F%82%E4%B8%8E%23&Refer=top)
+   新
+1. [王濛预判](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E9%A2%84%E5%88%A4%23&Refer=top)
    新
 
 <!-- END -->

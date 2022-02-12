@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 13 2022 05:11:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 13 2022 06:12:33 GMT+0800 (China Standard Time) -->
 
 1. [正确认识和把握碳达峰碳中和](https://s.weibo.com//weibo?q=%23%E6%AD%A3%E7%A1%AE%E8%AE%A4%E8%AF%86%E5%92%8C%E6%8A%8A%E6%8F%A1%E7%A2%B3%E8%BE%BE%E5%B3%B0%E7%A2%B3%E4%B8%AD%E5%92%8C%23&Refer=new_time)
    热
@@ -36,7 +36,7 @@
 1. [这水果吃法南方人都害怕](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%B0%B4%E6%9E%9C%E5%90%83%E6%B3%95%E5%8D%97%E6%96%B9%E4%BA%BA%E9%83%BD%E5%AE%B3%E6%80%95%23&Refer=top)
    新 ->
 1. [王濛评价韩国选手擦领奖台](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%84%E4%BB%B7%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%93%A6%E9%A2%86%E5%A5%96%E5%8F%B0%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [速度滑冰颁奖](https://s.weibo.com//weibo?q=%23%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E9%A2%81%E5%A5%96%23&Refer=top)
 1. [21岁小伙长期喝饮料吃外卖住进EICU](https://s.weibo.com//weibo?q=%2321%E5%B2%81%E5%B0%8F%E4%BC%99%E9%95%BF%E6%9C%9F%E5%96%9D%E9%A5%AE%E6%96%99%E5%90%83%E5%A4%96%E5%8D%96%E4%BD%8F%E8%BF%9BEICU%23&Refer=top)
    热
@@ -119,8 +119,13 @@
 1. [重130吨美国军火运抵乌克兰](https://s.weibo.com//weibo?q=%23%E9%87%8D130%E5%90%A8%E7%BE%8E%E5%9B%BD%E5%86%9B%E7%81%AB%E8%BF%90%E6%8A%B5%E4%B9%8C%E5%85%8B%E5%85%B0%23&Refer=top)
    新
 1. [永劫无间](https://s.weibo.com//weibo?q=%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4&Refer=top)
-   新
+   新 ->
 1. [打破旗手魔咒夺金](https://s.weibo.com//weibo?q=%E6%89%93%E7%A0%B4%E6%97%97%E6%89%8B%E9%AD%94%E5%92%92%E5%A4%BA%E9%87%91&Refer=top)
+   新
+1. [韩国20年后在校大学生数量减半](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD20%E5%B9%B4%E5%90%8E%E5%9C%A8%E6%A0%A1%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E9%87%8F%E5%87%8F%E5%8D%8A%23&Refer=top)
+   新
+1. [打破旗手魔咒夺金](https://s.weibo.com//weibo?q=%23%E6%89%93%E7%A0%B4%E6%97%97%E6%89%8B%E9%AD%94%E5%92%92%E5%A4%BA%E9%87%91%23&Refer=top)
+1. [冬奥村一天中午最高峰消耗80只烤鸭](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E6%9D%91%E4%B8%80%E5%A4%A9%E4%B8%AD%E5%8D%88%E6%9C%80%E9%AB%98%E5%B3%B0%E6%B6%88%E8%80%9780%E5%8F%AA%E7%83%A4%E9%B8%AD%23&Refer=top)
    新
 
 <!-- END -->

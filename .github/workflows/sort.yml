@@ -2,7 +2,7 @@ name: sort
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 19 * * *"
 
 jobs:
   build:

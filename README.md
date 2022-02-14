@@ -14,21 +14,21 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 14 2022 09:55:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 14 2022 10:24:47 GMT+0800 (China Standard Time) -->
 
 1. [聚焦2022北京冬奥](https://s.weibo.com//weibo?q=%23%E8%81%9A%E7%84%A62022%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%23&Refer=new_time)
    热
 1. [武大靖赛后反复提到的两个字](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%B5%9B%E5%90%8E%E5%8F%8D%E5%A4%8D%E6%8F%90%E5%88%B0%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%AD%97%23&Refer=top)
    新 -> 热 -> -> 热
 1. [王濛说努力练习就是怕这样的](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E5%8A%AA%E5%8A%9B%E7%BB%83%E4%B9%A0%E5%B0%B1%E6%98%AF%E6%80%95%E8%BF%99%E6%A0%B7%E7%9A%84%23&Refer=top)
-   沸
+   沸 -> 热
 1. [冬奥会上有哪些中国风元素](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E4%B8%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%AD%E5%9B%BD%E9%A3%8E%E5%85%83%E7%B4%A0%23&Refer=top)
 1. [为什么人喜欢微醺的状态](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%BE%AE%E9%86%BA%E7%9A%84%E7%8A%B6%E6%80%81%23&Refer=top)
    新 ->
 1. [武大靖妈妈说了4个挺好](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%A6%88%E5%A6%88%E8%AF%B4%E4%BA%864%E4%B8%AA%E6%8C%BA%E5%A5%BD%23&Refer=top)
    新 ->
 1. [微博实现一墩一融](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%AE%9E%E7%8E%B0%E4%B8%80%E5%A2%A9%E4%B8%80%E8%9E%8D%23&Refer=top)
-   沸 ->
+   沸 -> -> 沸
 1. [武大靖曾说能不能让短道速滑的场地干净一点](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E6%9B%BE%E8%AF%B4%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%9A%84%E5%9C%BA%E5%9C%B0%E5%B9%B2%E5%87%80%E4%B8%80%E7%82%B9%23&Refer=top)
    热
 1. [情人节礼物](https://s.weibo.com//weibo?q=%E6%83%85%E4%BA%BA%E8%8A%82%E7%A4%BC%E7%89%A9&Refer=top)
@@ -129,7 +129,7 @@
 1. [奇异博士2新预告](https://s.weibo.com//weibo?q=%23%E5%A5%87%E5%BC%82%E5%8D%9A%E5%A3%AB2%E6%96%B0%E9%A2%84%E5%91%8A%23&Refer=top)
    新 ->
 1. [星巴克驱赶执勤民警](https://s.weibo.com//weibo?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E9%A9%B1%E8%B5%B6%E6%89%A7%E5%8B%A4%E6%B0%91%E8%AD%A6&Refer=top)
-   新
+   新 ->
 1. [江苏苏州中小学幼儿园暂缓开学](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%8B%8F%E5%B7%9E%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%9A%82%E7%BC%93%E5%BC%80%E5%AD%A6%23&Refer=top)
    新 ->
 1. [情人节礼物](https://s.weibo.com//weibo?q=%23%E6%83%85%E4%BA%BA%E8%8A%82%E7%A4%BC%E7%89%A9%23&Refer=top)
@@ -144,17 +144,17 @@
 1. [祝贺中国短道速滑队](https://s.weibo.com//weibo?q=%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%98%9F&Refer=top)
    新
 1. [女子网购前后客服戏精变脸](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E5%89%8D%E5%90%8E%E5%AE%A2%E6%9C%8D%E6%88%8F%E7%B2%BE%E5%8F%98%E8%84%B8%23&Refer=top)
-   新
+   新 ->
 1. [马嘉祺声音好甜](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%A3%B0%E9%9F%B3%E5%A5%BD%E7%94%9C%23&Refer=top)
-   新
+   新 ->
 1. [姜云升 浪漫主义2.0](https://s.weibo.com//weibo?q=%E5%A7%9C%E4%BA%91%E5%8D%87%20%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%892.0&Refer=top)
    新 ->
 1. [2022超级碗](https://s.weibo.com//weibo?q=%232022%E8%B6%85%E7%BA%A7%E7%A2%97%23&Refer=top)
-   新
+   新 ->
 1. [中国女篮vs法国女篮](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%B3%95%E5%9B%BD%E5%A5%B3%E7%AF%AE%23&Refer=top)
    新
 1. [今天是景浩的生日](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E6%99%AF%E6%B5%A9%E7%9A%84%E7%94%9F%E6%97%A5%23&Refer=top)
-   新
+   新 ->
 1. [新疆开都河现绝美冰裂景观](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%BC%80%E9%83%BD%E6%B2%B3%E7%8E%B0%E7%BB%9D%E7%BE%8E%E5%86%B0%E8%A3%82%E6%99%AF%E8%A7%82%23&Refer=top)
    新
 1. [实探冰墩墩外壳生产商](https://s.weibo.com//weibo?q=%23%E5%AE%9E%E6%8E%A2%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%A4%96%E5%A3%B3%E7%94%9F%E4%BA%A7%E5%95%86%23&Refer=top)
@@ -187,6 +187,36 @@
 1. [2月14日冬奥会赛程速览](https://s.weibo.com//weibo?q=%232%E6%9C%8814%E6%97%A5%E5%86%AC%E5%A5%A5%E4%BC%9A%E8%B5%9B%E7%A8%8B%E9%80%9F%E8%A7%88%23&Refer=top)
    新
 1. [BLG LNG](https://s.weibo.com//weibo?q=BLG%20LNG&Refer=top) 新
+1. [谷爱凌57.28分](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C57.28%E5%88%86%23&Refer=top)
+   新
+1. [杨紫沉香如屑白发战损妆](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%E7%99%BD%E5%8F%91%E6%88%98%E6%8D%9F%E5%A6%86%23&Refer=top)
+   新
+1. [张常宁吴冠希6月举行婚礼](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B8%B8%E5%AE%81%E5%90%B4%E5%86%A0%E5%B8%8C6%E6%9C%88%E4%B8%BE%E8%A1%8C%E5%A9%9A%E7%A4%BC%23&Refer=top)
+   新
+1. [谷爱凌杨硕瑞加油](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%9D%A8%E7%A1%95%E7%91%9E%E5%8A%A0%E6%B2%B9%23&Refer=top)
+   新
+1. [如何评价2022超级碗中场秀](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B72022%E8%B6%85%E7%BA%A7%E7%A2%97%E4%B8%AD%E5%9C%BA%E7%A7%80%23&Refer=top)
+   新
+1. [冰墩墩4A挑战又翻车了](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A94A%E6%8C%91%E6%88%98%E5%8F%88%E7%BF%BB%E8%BD%A6%E4%BA%86%23&Refer=top)
+   新
+1. [恶意抢注冰墩墩谷爱凌商标被驳回](https://s.weibo.com//weibo?q=%23%E6%81%B6%E6%84%8F%E6%8A%A2%E6%B3%A8%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%B0%B7%E7%88%B1%E5%87%8C%E5%95%86%E6%A0%87%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&Refer=top)
+   新
+1. [男子情人节送女友一冰箱冰墩墩](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%85%E4%BA%BA%E8%8A%82%E9%80%81%E5%A5%B3%E5%8F%8B%E4%B8%80%E5%86%B0%E7%AE%B1%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top)
+   新
+1. [微信情人节限定状态](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%83%85%E4%BA%BA%E8%8A%82%E9%99%90%E5%AE%9A%E7%8A%B6%E6%80%81%23&Refer=top)
+   新
+1. [广西新增本土确诊6例](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A6%E4%BE%8B%23&Refer=top)
+   新
+1. [谷爱凌wink](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8Cwink%23&Refer=top)
+   新
+1. [范可新发博晒金墩墩](https://s.weibo.com//weibo?q=%23%E8%8C%83%E5%8F%AF%E6%96%B0%E5%8F%91%E5%8D%9A%E6%99%92%E9%87%91%E5%A2%A9%E5%A2%A9%23&Refer=top)
+   新
+1. [山东新增境外输入确诊病例14例](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%96%B0%E5%A2%9E%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B14%E4%BE%8B%23&Refer=top)
+   新
+1. [黄思静30分](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%80%9D%E9%9D%9930%E5%88%86%23&Refer=top)
+   新
+1. [一闪一闪亮星星电影版启动](https://s.weibo.com//weibo?q=%23%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E7%94%B5%E5%BD%B1%E7%89%88%E5%90%AF%E5%8A%A8%23&Refer=top)
+   新
 
 <!-- END -->
 

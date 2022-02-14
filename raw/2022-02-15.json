@@ -67,7 +67,7 @@
   {
     "url": "/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%A4%9A%E7%9D%A11%E5%B0%8F%E6%97%B6%E5%B0%B1%E8%83%BD%E5%87%8F%E6%8E%8920%E6%96%A4%23&Refer=top",
     "title": "每天多睡1小时就能减掉20斤",
-    "mark": "热"
+    "mark": "热 -> 沸"
   },
   {
     "url": "/weibo?q=%2331%E5%B2%81%E7%9A%84%E5%A5%B9%E7%BB%88%E4%BA%8E%E5%AE%9E%E7%8E%B0%E4%BA%8620%E5%B2%81%E7%9A%84%E6%A2%A6%E6%83%B3%23&Refer=top",
@@ -112,7 +112,7 @@
   {
     "url": "/weibo?q=%E9%87%91%E5%A6%8D%E5%84%BFins&Refer=top",
     "title": "金妍儿ins",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E6%9C%80%E5%90%8E%E4%B8%80%E8%B7%B3108.61%23&Refer=top",
@@ -267,12 +267,12 @@
   {
     "url": "/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%8C%85%E5%9C%BA%E6%94%AF%E6%8C%81%E4%B8%81%E7%A6%B9%E5%85%AE%E4%BB%BB%E6%95%8F%E7%94%B5%E5%BD%B1%23&Refer=top",
     "title": "王源包场支持丁禹兮任敏电影",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E8%8D%A3%E6%88%91%E5%9B%BD%E5%A8%81&Refer=top",
     "title": "中国女足荣我国威",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%83%85%E4%BA%BA%E8%8A%82%E5%BE%AE%E9%86%BA%E8%B0%83%E9%85%92&Refer=top",
@@ -282,6 +282,16 @@
   {
     "url": "/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E6%98%9F%E5%B7%B4%E5%85%8B%E8%B5%B6%E8%B5%B0%E6%B0%91%E8%AD%A6%23&Refer=top",
     "title": "人民网评星巴克赶走民警",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%8D%81%E4%B8%AA%E6%98%8E%E7%A1%AE%E7%B3%BB%E5%88%97%E8%B0%88%23&Refer=new_time",
+    "title": "十个明确系列谈",
+    "mark": "热"
+  },
+  {
+    "url": "/weibo?q=%23%E6%83%85%E4%BA%BA%E8%8A%82%E7%94%9C%E8%9C%9C%E7%A2%8E%E9%92%BB%E5%A6%86%23&Refer=top",
+    "title": "情人节甜蜜碎钻妆",
     "mark": "新"
   }
 ]

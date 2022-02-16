@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 16 2022 21:16:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 16 2022 22:13:30 GMT+0800 (China Standard Time) -->
 
 1. [全球华侨华人新春云联欢](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E5%8D%8E%E4%BE%A8%E5%8D%8E%E4%BA%BA%E6%96%B0%E6%98%A5%E4%BA%91%E8%81%94%E6%AC%A2%23&Refer=new_time)
    热
@@ -411,7 +411,7 @@
 1. [彭冠英蔡文静不期而至过审](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E5%86%A0%E8%8B%B1%E8%94%A1%E6%96%87%E9%9D%99%E4%B8%8D%E6%9C%9F%E8%80%8C%E8%87%B3%E8%BF%87%E5%AE%A1%23&Refer=top)
    新 ->
 1. [男子连续78次核酸检测全是阳性](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD78%E6%AC%A1%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%85%A8%E6%98%AF%E9%98%B3%E6%80%A7%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [刘鑫承认曾给江母发阖家欢乐](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%91%AB%E6%89%BF%E8%AE%A4%E6%9B%BE%E7%BB%99%E6%B1%9F%E6%AF%8D%E5%8F%91%E9%98%96%E5%AE%B6%E6%AC%A2%E4%B9%90%23&Refer=top)
    新 -> 热
 1. [冰壶](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A3%B6&Refer=top) 新
@@ -484,7 +484,7 @@
 1. [羽生结弦将亮相20日花滑表演赛](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B0%86%E4%BA%AE%E7%9B%B820%E6%97%A5%E8%8A%B1%E6%BB%91%E8%A1%A8%E6%BC%94%E8%B5%9B%23&Refer=top)
    新 ->
 1. [美国运动员刚回国就想念中国](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E5%88%9A%E5%9B%9E%E5%9B%BD%E5%B0%B1%E6%83%B3%E5%BF%B5%E4%B8%AD%E5%9B%BD%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [黄锐辟谣傅韵哲解约](https://s.weibo.com//weibo?q=%23%E9%BB%84%E9%94%90%E8%BE%9F%E8%B0%A3%E5%82%85%E9%9F%B5%E5%93%B2%E8%A7%A3%E7%BA%A6%23&Refer=top)
    新
 1. [星巴克4个月内提价2次](https://s.weibo.com//weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B4%E4%B8%AA%E6%9C%88%E5%86%85%E6%8F%90%E4%BB%B72%E6%AC%A1%23&Refer=top)
@@ -512,9 +512,9 @@
 1. [齐广璞金牌](https://s.weibo.com//weibo?q=%E9%BD%90%E5%B9%BF%E7%92%9E%E9%87%91%E7%89%8C&Refer=top)
    新
 1. [孟子义我配不上恶评的那些骂](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%88%91%E9%85%8D%E4%B8%8D%E4%B8%8A%E6%81%B6%E8%AF%84%E7%9A%84%E9%82%A3%E4%BA%9B%E9%AA%82%23&Refer=top)
-   新
+   新 -> 热
 1. [齐广璞最后一跳129分](https://s.weibo.com//weibo?q=%23%E9%BD%90%E5%B9%BF%E7%92%9E%E6%9C%80%E5%90%8E%E4%B8%80%E8%B7%B3129%E5%88%86%23&Refer=top)
-   新
+   新 ->
 1. [贾宗洋无缘决赛](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E5%AE%97%E6%B4%8B%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B%23&Refer=top)
    新
 1. [王濛说不能永远寄生在冠军的光环之下](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E4%B8%8D%E8%83%BD%E6%B0%B8%E8%BF%9C%E5%AF%84%E7%94%9F%E5%9C%A8%E5%86%A0%E5%86%9B%E7%9A%84%E5%85%89%E7%8E%AF%E4%B9%8B%E4%B8%8B%23&Refer=top)
@@ -522,13 +522,13 @@
 1. [经常驼背脸会变大](https://s.weibo.com//weibo?q=%23%E7%BB%8F%E5%B8%B8%E9%A9%BC%E8%83%8C%E8%84%B8%E4%BC%9A%E5%8F%98%E5%A4%A7%23&Refer=top)
    新 ->
 1. [王濛周洋解说](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%91%A8%E6%B4%8B%E8%A7%A3%E8%AF%B4%23&Refer=top)
-   新
+   新 -> 热
 1. [刘鑫召开媒体见面会](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%91%AB%E5%8F%AC%E5%BC%80%E5%AA%92%E4%BD%93%E8%A7%81%E9%9D%A2%E4%BC%9A%23&Refer=top)
    新 ->
 1. [这下全小区女孩都认识我了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%8B%E5%85%A8%E5%B0%8F%E5%8C%BA%E5%A5%B3%E5%AD%A9%E9%83%BD%E8%AE%A4%E8%AF%86%E6%88%91%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [短道速滑男子5000米接力决赛](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%905000%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%86%B3%E8%B5%9B%23&Refer=top)
-   新
+   新 ->
 1. [齐广璞5.0高难度动作](https://s.weibo.com//weibo?q=%E9%BD%90%E5%B9%BF%E7%92%9E5.0%E9%AB%98%E9%9A%BE%E5%BA%A6%E5%8A%A8%E4%BD%9C&Refer=top)
    新
 1. [苏翊鸣回应夺冠后大哭](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%86%A0%E5%90%8E%E5%A4%A7%E5%93%AD%23&Refer=top)
@@ -540,13 +540,13 @@
 1. [中国姑娘们出战短道速滑1500米](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%98%E4%BB%AC%E5%87%BA%E6%88%98%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%911500%E7%B1%B3%23&Refer=top)
    新
 1. [苏翊鸣看林更新打游戏](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%9C%8B%E6%9E%97%E6%9B%B4%E6%96%B0%E6%89%93%E6%B8%B8%E6%88%8F%23&Refer=top)
-   新
+   新 ->
 1. [广州队限薪最高60万](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%98%9F%E9%99%90%E8%96%AA%E6%9C%80%E9%AB%9860%E4%B8%87%23&Refer=top)
    新
 1. [月亮](https://s.weibo.com//weibo?q=%E6%9C%88%E4%BA%AE&Refer=top) 新
 1. [红米k50](https://s.weibo.com//weibo?q=%E7%BA%A2%E7%B1%B3k50&Refer=top) 新
 1. [比利时将允许每周上4天班](https://s.weibo.com//weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%E5%B0%86%E5%85%81%E8%AE%B8%E6%AF%8F%E5%91%A8%E4%B8%8A4%E5%A4%A9%E7%8F%AD&Refer=top)
-   新
+   新 ->
 1. [贾宗洋第一跳123.45分](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E5%AE%97%E6%B4%8B%E7%AC%AC%E4%B8%80%E8%B7%B3123.45%E5%88%86%23&Refer=top)
    新
 1. [半熟恋人最后一次约会](https://s.weibo.com//weibo?q=%23%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E7%BA%A6%E4%BC%9A%23&Refer=top)
@@ -563,20 +563,21 @@
 1. [李易峰斩血白发名场面](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E6%96%A9%E8%A1%80%E7%99%BD%E5%8F%91%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
    新
 1. [齐广璞金牌](https://s.weibo.com//weibo?q=%23%E9%BD%90%E5%B9%BF%E7%92%9E%E9%87%91%E7%89%8C%23&Refer=top)
-   爆
+   爆 -> 热
 1. [短道速滑中国队再冲刺](https://s.weibo.com//weibo?q=%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%86%8D%E5%86%B2%E5%88%BA&Refer=top)
    新
 1. [男子5000米接力中国队第五](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%905000%E7%B1%B3%E6%8E%A5%E5%8A%9B%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%AC%AC%E4%BA%94%23&Refer=top)
-   新
+   新 -> 爆
 1. [齐广璞一金一银](https://s.weibo.com//weibo?q=%23%E9%BD%90%E5%B9%BF%E7%92%9E%E4%B8%80%E9%87%91%E4%B8%80%E9%93%B6%23&Refer=top)
-   新
+   新 ->
 1. [冬奥会](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top) 新
+   ->
 1. [中国队短道速滑女子1500米](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%A5%B3%E5%AD%901500%E7%B1%B3%23&Refer=top)
-   新
+   新 ->
 1. [崔敏静打破奥运会纪录](https://s.weibo.com//weibo?q=%23%E5%B4%94%E6%95%8F%E9%9D%99%E6%89%93%E7%A0%B4%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95%23&Refer=top)
    新
 1. [齐广璞5.0高难度动作](https://s.weibo.com//weibo?q=%23%E9%BD%90%E5%B9%BF%E7%92%9E5.0%E9%AB%98%E9%9A%BE%E5%BA%A6%E5%8A%A8%E4%BD%9C%23&Refer=top)
-   新
+   新 ->
 1. [韩雨桐晋级A组决赛](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E9%9B%A8%E6%A1%90%E6%99%8B%E7%BA%A7A%E7%BB%84%E5%86%B3%E8%B5%9B%23&Refer=top)
    新
 1. [致敬老将齐广璞](https://s.weibo.com//weibo?q=%23%E8%87%B4%E6%95%AC%E8%80%81%E5%B0%86%E9%BD%90%E5%B9%BF%E7%92%9E%23&Refer=top)
@@ -598,7 +599,7 @@
 1. [齐广璞冠军](https://s.weibo.com//weibo?q=%23%E9%BD%90%E5%B9%BF%E7%92%9E%E5%86%A0%E5%86%9B%23&Refer=top)
    新
 1. [江西警方悬赏100万通缉涉黑嫌疑人](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E6%82%AC%E8%B5%8F100%E4%B8%87%E9%80%9A%E7%BC%89%E6%B6%89%E9%BB%91%E5%AB%8C%E7%96%91%E4%BA%BA%23&Refer=top)
-   新
+   新 ->
 1. [韩雨桐跺脚](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E9%9B%A8%E6%A1%90%E8%B7%BA%E8%84%9A%23&Refer=top)
    新
 1. [人世间](https://s.weibo.com//weibo?q=%E4%BA%BA%E4%B8%96%E9%97%B4&Refer=top) 新
@@ -607,6 +608,45 @@
 1. [贾宗洋尽力了](https://s.weibo.com//weibo?q=%23%E8%B4%BE%E5%AE%97%E6%B4%8B%E5%B0%BD%E5%8A%9B%E4%BA%86%23&Refer=top)
    新
 1. [中国第7金](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E7%AC%AC7%E9%87%91&Refer=top)
+   新
+1. [武大靖表情](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%A1%A8%E6%83%85%23&Refer=top)
+   新
+1. [冬奥赛场上的超治愈瞬间](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%9A%84%E8%B6%85%E6%B2%BB%E6%84%88%E7%9E%AC%E9%97%B4%23&Refer=top)
+   新
+1. [孙龙](https://s.weibo.com//weibo?q=%E5%AD%99%E9%BE%99&Refer=top) 新
+1. [孙龙摔倒后任子威奋起直追](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%BE%99%E6%91%94%E5%80%92%E5%90%8E%E4%BB%BB%E5%AD%90%E5%A8%81%E5%A5%8B%E8%B5%B7%E7%9B%B4%E8%BF%BD%23&Refer=top)
+   新
+1. [中国队拼到最后一刻](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%8B%BC%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%BB%23&Refer=top)
+   新
+1. [任嘉伦对武大靖说你做到了](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%AF%B9%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%AF%B4%E4%BD%A0%E5%81%9A%E5%88%B0%E4%BA%86%23&Refer=top)
+   新
+1. [孙龙哭了](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%BE%99%E5%93%AD%E4%BA%86%23&Refer=top)
+   新
+1. [被任子威整破防](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E4%BB%BB%E5%AD%90%E5%A8%81%E6%95%B4%E7%A0%B4%E9%98%B2%23&Refer=top)
+   新
+1. [武大靖说要多给孙龙鼓励](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%AF%B4%E8%A6%81%E5%A4%9A%E7%BB%99%E5%AD%99%E9%BE%99%E9%BC%93%E5%8A%B1%23&Refer=top)
+   新
+1. [王子文说单身或恋爱都是一种选择](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E8%AF%B4%E5%8D%95%E8%BA%AB%E6%88%96%E6%81%8B%E7%88%B1%E9%83%BD%E6%98%AF%E4%B8%80%E7%A7%8D%E9%80%89%E6%8B%A9%23&Refer=top)
+   新
+1. [短道队2金1银1铜收官](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E9%81%93%E9%98%9F2%E9%87%911%E9%93%B61%E9%93%9C%E6%94%B6%E5%AE%98%23&Refer=top)
+   新
+1. [苏翊鸣的歌单到底有多好听](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%9A%84%E6%AD%8C%E5%8D%95%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%AC%23&Refer=top)
+   新
+1. [崔敏静蝉联1500米冠军](https://s.weibo.com//weibo?q=%23%E5%B4%94%E6%95%8F%E9%9D%99%E8%9D%89%E8%81%941500%E7%B1%B3%E5%86%A0%E5%86%9B%23&Refer=top)
+   新
+1. [人体比想象中还要神奇](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E4%BD%93%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E8%BF%98%E8%A6%81%E7%A5%9E%E5%A5%87%23&Refer=top)
+   新
+1. [中国短道速滑尽力了](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%B0%BD%E5%8A%9B%E4%BA%86%23&Refer=top)
+   新
+1. [刘宇宁直播](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%23&Refer=top)
+   新
+1. [短道速滑中国天团](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E4%B8%AD%E5%9B%BD%E5%A4%A9%E5%9B%A2%23&Refer=top)
+   新
+1. [女子1500米韩雨桐第七](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%901500%E7%B1%B3%E9%9F%A9%E9%9B%A8%E6%A1%90%E7%AC%AC%E4%B8%83%23&Refer=top)
+   新
+1. [镜双城大结局](https://s.weibo.com//weibo?q=%23%E9%95%9C%E5%8F%8C%E5%9F%8E%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top)
+   新
+1. [齐广璞站上最高领奖台](https://s.weibo.com//weibo?q=%23%E9%BD%90%E5%B9%BF%E7%92%9E%E7%AB%99%E4%B8%8A%E6%9C%80%E9%AB%98%E9%A2%86%E5%A5%96%E5%8F%B0%23&Refer=top)
    新
 
 <!-- END -->

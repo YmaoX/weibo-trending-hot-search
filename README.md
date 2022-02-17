@@ -14,19 +14,19 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 18 2022 05:14:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 18 2022 06:14:16 GMT+0800 (China Standard Time) -->
 
 1. [东数西算工程全面启动](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E6%95%B0%E8%A5%BF%E7%AE%97%E5%B7%A5%E7%A8%8B%E5%85%A8%E9%9D%A2%E5%90%AF%E5%8A%A8%23&Refer=new_time)
    热
 1. [莎莎哭了](https://s.weibo.com//weibo?q=%23%E8%8E%8E%E8%8E%8E%E5%93%AD%E4%BA%86%23&Refer=top)
-   新 -> -> 沸 -> 热 -> 沸
+   新 -> -> 沸 -> 热 -> 沸 ->
 1. [谷爱凌把金牌给奶奶了](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%8A%8A%E9%87%91%E7%89%8C%E7%BB%99%E5%A5%B6%E5%A5%B6%E4%BA%86%23&Refer=top)
-   热
+   热 ->
 1. [冬奥健儿告诉你什么是团结](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E5%91%8A%E8%AF%89%E4%BD%A0%E4%BB%80%E4%B9%88%E6%98%AF%E5%9B%A2%E7%BB%93%23&Refer=top)
 1. [武大靖喝水](https://s.weibo.com//weibo?q=%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%96%9D%E6%B0%B4&Refer=top)
    新 ->
 1. [谢尔巴科娃女单金牌](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E5%B0%94%E5%B7%B4%E7%A7%91%E5%A8%83%E5%A5%B3%E5%8D%95%E9%87%91%E7%89%8C%23&Refer=top)
-   沸
+   沸 ->
 1. [苏翊鸣和教练吃饭坐小孩那桌](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%92%8C%E6%95%99%E7%BB%83%E5%90%83%E9%A5%AD%E5%9D%90%E5%B0%8F%E5%AD%A9%E9%82%A3%E6%A1%8C%23&Refer=top)
    新 ->
 1. [1岁婴儿胃内发现3根6cm长钢钉](https://s.weibo.com//weibo?q=%231%E5%B2%81%E5%A9%B4%E5%84%BF%E8%83%83%E5%86%85%E5%8F%91%E7%8E%B03%E6%A0%B96cm%E9%95%BF%E9%92%A2%E9%92%89%23&Refer=top)
@@ -107,6 +107,10 @@
    新 ->
 1. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top) 新 ->
 1. [美方应让亚裔等少数族裔远离暴力恐惧](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%96%B9%E5%BA%94%E8%AE%A9%E4%BA%9A%E8%A3%94%E7%AD%89%E5%B0%91%E6%95%B0%E6%97%8F%E8%A3%94%E8%BF%9C%E7%A6%BB%E6%9A%B4%E5%8A%9B%E6%81%90%E6%83%A7%23&Refer=top)
+   新 ->
+1. [谷爱凌明天决赛最想吃红糖饼](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%98%8E%E5%A4%A9%E5%86%B3%E8%B5%9B%E6%9C%80%E6%83%B3%E5%90%83%E7%BA%A2%E7%B3%96%E9%A5%BC%23&Refer=top)
+   新
+1. [江苏5旬夫妇改造房车帮被拐儿童寻亲](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F5%E6%97%AC%E5%A4%AB%E5%A6%87%E6%94%B9%E9%80%A0%E6%88%BF%E8%BD%A6%E5%B8%AE%E8%A2%AB%E6%8B%90%E5%84%BF%E7%AB%A5%E5%AF%BB%E4%BA%B2%23&Refer=top)
    新
 
 <!-- END -->

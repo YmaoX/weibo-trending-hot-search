@@ -332,7 +332,7 @@
   {
     "url": "/weibo?q=%23%E5%85%83%E5%AE%87%E5%AE%99%E5%BA%94%E4%B8%8D%E5%BA%94%E5%BD%93%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%9C%AA%E6%9D%A5%23&Refer=top",
     "title": "元宇宙应不应当是人类的未来",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top",
@@ -353,5 +353,25 @@
     "url": "/weibo?q=%23%E6%8B%A5%E6%9C%89%E6%AD%BC20%E8%BF%9020%E5%90%8C%E6%AC%BE%E6%8A%80%E6%9C%AF%E7%9A%84%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top",
     "title": "拥有歼20运20同款技术的冰墩墩",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86%23&Refer=top",
+    "title": "豆瓣崩了",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BD%95%E7%82%85%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9C%9F%E5%81%87%E7%BE%8E%E7%8C%B4%E7%8E%8B%23&Refer=top",
+    "title": "何炅王鹤棣真假美猴王",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B8%AE%E5%BF%99%E4%BF%AE%E8%A1%A5%E5%86%B0%E9%9D%A2%23&Refer=top",
+    "title": "羽生结弦帮忙修补冰面",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BD%95%E6%B4%81%E9%97%AE%E6%B5%AA%E5%A7%903%E8%87%AA%E5%B7%B1%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%90%97%23&Refer=top",
+    "title": "何洁问浪姐3自己还有机会吗",
+    "mark": ""
   }
 ]

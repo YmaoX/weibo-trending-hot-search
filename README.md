@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 21 2022 01:12:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 21 2022 02:16:28 GMT+0800 (China Standard Time) -->
 
 1. [为全球奥林匹克事业作出新的贡献](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%85%A8%E7%90%83%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E4%BA%8B%E4%B8%9A%E4%BD%9C%E5%87%BA%E6%96%B0%E7%9A%84%E8%B4%A1%E7%8C%AE%23&Refer=new_time)
    热
@@ -29,18 +29,18 @@
 1. [李玉刚羽生结弦](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%89%E5%88%9A%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%23&Refer=top)
    沸 -> 热
 1. [张艺谋太懂了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%AA%E6%87%82%E4%BA%86%23&Refer=top)
-   沸
+   沸 -> 热
 1. [考研锦鲤](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%A0%94%E9%94%A6%E9%B2%A4%23&Refer=top)
-   沸 ->
+   沸 -> -> 沸
 1. [北京冬奥会闭幕式](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%23&Refer=top)
    -> 沸
 1. [广东居然也有这么厚的雪](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%B1%85%E7%84%B6%E4%B9%9F%E6%9C%89%E8%BF%99%E4%B9%88%E5%8E%9A%E7%9A%84%E9%9B%AA%23&Refer=top)
-   新
+   新 ->
 1. [今晚到明晨广东最冷](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E6%99%9A%E5%88%B0%E6%98%8E%E6%99%A8%E5%B9%BF%E4%B8%9C%E6%9C%80%E5%86%B7%23&Refer=top)
 1. [雪容融要开始上班了](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E5%AE%B9%E8%9E%8D%E8%A6%81%E5%BC%80%E5%A7%8B%E4%B8%8A%E7%8F%AD%E4%BA%86%23&Refer=top)
    热 ->
 1. [冰墩墩不哭](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E4%B8%8D%E5%93%AD%23&Refer=top)
-   新
+   新 ->
 1. [冰墩墩下班了](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E4%B8%8B%E7%8F%AD%E4%BA%86%23&Refer=top)
 1. [大场面还得是张艺谋](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%9C%BA%E9%9D%A2%E8%BF%98%E5%BE%97%E6%98%AF%E5%BC%A0%E8%89%BA%E8%B0%8B%23&Refer=top)
    新 ->
@@ -57,7 +57,7 @@
 1. [冬奥会闭幕式上看到了张真源](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E5%BC%A0%E7%9C%9F%E6%BA%90%23&Refer=top)
    新 ->
 1. [闭幕式的微博评论太走心了](https://s.weibo.com//weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E7%9A%84%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%A4%AA%E8%B5%B0%E5%BF%83%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [张艺谋谈中国人的家国情怀](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%B0%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%AE%B6%E5%9B%BD%E6%83%85%E6%80%80%23&Refer=top)
 1. [一起向未来](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=top)
 1. [冰墩墩挥手再见](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%8C%A5%E6%89%8B%E5%86%8D%E8%A7%81%23&Refer=top)
@@ -73,7 +73,7 @@
    新 ->
 1. [天下一家烟花](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E4%B8%8B%E4%B8%80%E5%AE%B6%E7%83%9F%E8%8A%B1%23&Refer=top)
 1. [查到考研成绩有多激动](https://s.weibo.com//weibo?q=%23%E6%9F%A5%E5%88%B0%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9C%89%E5%A4%9A%E6%BF%80%E5%8A%A8%23&Refer=top)
-   新
+   新 ->
 1. [中国国旗是举得最高的](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97%E6%98%AF%E4%B8%BE%E5%BE%97%E6%9C%80%E9%AB%98%E7%9A%84%23&Refer=top)
 1. [五环和雪花交汇](https://s.weibo.com//weibo?q=%23%E4%BA%94%E7%8E%AF%E5%92%8C%E9%9B%AA%E8%8A%B1%E4%BA%A4%E6%B1%87%23&Refer=top)
 1. [北京冬奥正式闭幕](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E6%AD%A3%E5%BC%8F%E9%97%AD%E5%B9%95%23&Refer=top)
@@ -90,12 +90,14 @@
 1. [北京2022年冬奥会](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC2022%E5%B9%B4%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top)
 1. [广州下雪破案了](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%8B%E9%9B%AA%E7%A0%B4%E6%A1%88%E4%BA%86%23&Refer=top)
 1. [手机壳买多少个才算够](https://s.weibo.com//weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%B9%B0%E5%A4%9A%E5%B0%91%E4%B8%AA%E6%89%8D%E7%AE%97%E5%A4%9F%23&Refer=top)
-   新
+   新 ->
 1. [冬残奥会](https://s.weibo.com//weibo?q=%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A&Refer=top)
-   新
+   新 ->
 1. [袁咏仪 盛装](https://s.weibo.com//weibo?q=%E8%A2%81%E5%92%8F%E4%BB%AA%20%E7%9B%9B%E8%A3%85&Refer=top)
    新
 1. [这是中国给全世界的浪漫](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E6%B5%AA%E6%BC%AB%23&Refer=top)
+1. [其实谁也不想离家那么远](https://s.weibo.com//weibo?q=%23%E5%85%B6%E5%AE%9E%E8%B0%81%E4%B9%9F%E4%B8%8D%E6%83%B3%E7%A6%BB%E5%AE%B6%E9%82%A3%E4%B9%88%E8%BF%9C%23&Refer=top)
+   新
 
 <!-- END -->
 

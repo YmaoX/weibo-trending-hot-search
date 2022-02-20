@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 21 2022 02:16:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 21 2022 03:12:38 GMT+0800 (China Standard Time) -->
 
 1. [为全球奥林匹克事业作出新的贡献](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%85%A8%E7%90%83%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E4%BA%8B%E4%B8%9A%E4%BD%9C%E5%87%BA%E6%96%B0%E7%9A%84%E8%B4%A1%E7%8C%AE%23&Refer=new_time)
    热
@@ -23,7 +23,7 @@
 1. [冰墩墩售罄](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%94%AE%E7%BD%84%23&Refer=top)
    新 -> 沸
 1. [北京冬奥耀眼的中国红](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E8%80%80%E7%9C%BC%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&Refer=top)
-   沸
+   沸 ->
 1. [乌克兰运动员拥抱俄罗斯运动员](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E8%BF%90%E5%8A%A8%E5%91%98%E6%8B%A5%E6%8A%B1%E4%BF%84%E7%BD%97%E6%96%AF%E8%BF%90%E5%8A%A8%E5%91%98%23&Refer=top)
    新 -> 沸
 1. [李玉刚羽生结弦](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E7%8E%89%E5%88%9A%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%23&Refer=top)
@@ -31,7 +31,7 @@
 1. [张艺谋太懂了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%AA%E6%87%82%E4%BA%86%23&Refer=top)
    沸 -> 热
 1. [考研锦鲤](https://s.weibo.com//weibo?q=%23%E8%80%83%E7%A0%94%E9%94%A6%E9%B2%A4%23&Refer=top)
-   沸 -> -> 沸
+   沸 -> -> 沸 ->
 1. [北京冬奥会闭幕式](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%23&Refer=top)
    -> 沸
 1. [广东居然也有这么厚的雪](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%B1%85%E7%84%B6%E4%B9%9F%E6%9C%89%E8%BF%99%E4%B9%88%E5%8E%9A%E7%9A%84%E9%9B%AA%23&Refer=top)
@@ -94,9 +94,15 @@
 1. [冬残奥会](https://s.weibo.com//weibo?q=%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A&Refer=top)
    新 ->
 1. [袁咏仪 盛装](https://s.weibo.com//weibo?q=%E8%A2%81%E5%92%8F%E4%BB%AA%20%E7%9B%9B%E8%A3%85&Refer=top)
-   新
+   新 ->
 1. [这是中国给全世界的浪漫](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E6%B5%AA%E6%BC%AB%23&Refer=top)
 1. [其实谁也不想离家那么远](https://s.weibo.com//weibo?q=%23%E5%85%B6%E5%AE%9E%E8%B0%81%E4%B9%9F%E4%B8%8D%E6%83%B3%E7%A6%BB%E5%AE%B6%E9%82%A3%E4%B9%88%E8%BF%9C%23&Refer=top)
+   新 ->
+1. [致中国体育代表团的贺电](https://s.weibo.com//weibo?q=%23%E8%87%B4%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%9A%84%E8%B4%BA%E7%94%B5%23&Refer=new_time)
+   热
+1. [用西游记的方式打开北京冬奥会](https://s.weibo.com//weibo?q=%23%E7%94%A8%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top)
+   新
+1. [哈利波特](https://s.weibo.com//weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9&Refer=top)
    新
 
 <!-- END -->

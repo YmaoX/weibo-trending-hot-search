@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 04 2022 02:17:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 04 2022 03:12:32 GMT+0800 (China Standard Time) -->
 
 1. [全国政协十三届五次会议新闻发布会](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E4%B8%89%E5%B1%8A%E4%BA%94%E6%AC%A1%E4%BC%9A%E8%AE%AE%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=new_time)
    热
@@ -93,6 +93,8 @@
 1. [双奥之城城市之光](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E5%A5%A5%E4%B9%8B%E5%9F%8E%E5%9F%8E%E5%B8%82%E4%B9%8B%E5%85%89%23&Refer=new_time)
    热
 1. [张一山为冬残奥会的健儿们加油](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E4%B8%BA%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%E7%9A%84%E5%81%A5%E5%84%BF%E4%BB%AC%E5%8A%A0%E6%B2%B9%23&Refer=top)
+   新
+1. [女子敷着面膜手拎灭火器帮邻居灭火](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%95%B7%E7%9D%80%E9%9D%A2%E8%86%9C%E6%89%8B%E6%8B%8E%E7%81%AD%E7%81%AB%E5%99%A8%E5%B8%AE%E9%82%BB%E5%B1%85%E7%81%AD%E7%81%AB%23&Refer=top)
    新
 
 <!-- END -->

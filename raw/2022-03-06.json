@@ -298,12 +298,12 @@
   {
     "url": "/weibo?q=%23%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E5%A6%82%E4%BD%95%E6%9B%B4%E9%80%82%E5%90%88%E4%B8%AD%E5%B9%B4%E4%BA%BA%E6%89%8D%23&Refer=top",
     "title": "三四线城市如何更适合中年人才",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%B5%B7%E5%B7%9E%E5%8C%BA%E5%BC%80%E5%B1%95%E5%8C%BA%E5%9F%9F%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top",
     "title": "连云港海州区开展区域核酸检测",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%90%89%E6%9E%97%E4%B8%80%E7%8B%AC%E8%85%BF%E9%98%B2%E7%96%AB%E4%BA%BA%E5%91%98%E9%9B%AA%E5%A4%A9%E6%8B%84%E6%8B%90%E5%B7%A5%E4%BD%9C%23&Refer=top",
@@ -318,6 +318,16 @@
   {
     "url": "/weibo?q=%23Z%E4%B8%96%E4%BB%A3%E7%9A%84%E9%9D%92%E5%B9%B4%23&Refer=top",
     "title": "Z世代的青年",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%9B%B7%E9%94%8B%E7%89%BA%E7%89%B2%E5%9C%A8%E6%84%BF%E6%9C%9B%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%89%8D%E4%B8%80%E4%B8%AA%E6%9C%88%23&Refer=top",
+    "title": "雷锋牺牲在愿望实现的前一个月",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%AF%8F%E5%B9%B4%E4%B8%A4%E4%BC%9A%E5%A5%B9%E9%83%BD%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%8E%85%E5%89%8D%E7%95%99%E4%B8%AA%E5%BD%B1%23&Refer=top",
+    "title": "每年两会她都在台湾厅前留个影",
     "mark": "新"
   }
 ]

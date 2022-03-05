@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 06 2022 05:12:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 06 2022 06:14:15 GMT+0800 (China Standard Time) -->
 
 1. [总书记的这一天](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%BF%99%E4%B8%80%E5%A4%A9%23&Refer=new_time)
    热
@@ -23,7 +23,7 @@
 1. [青岛集中隔离人员新增44例确诊](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%E4%BA%BA%E5%91%98%E6%96%B0%E5%A2%9E44%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top)
 1. [两会知识点](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%BC%9A%E7%9F%A5%E8%AF%86%E7%82%B9%23&Refer=top)
 1. [建议硕士研究生招生改为申请制](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E6%94%B9%E4%B8%BA%E7%94%B3%E8%AF%B7%E5%88%B6%23&Refer=top)
-   沸
+   沸 -> 热
 1. [男子连续12年日喝1升多饮料患尿毒症](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9E%E7%BB%AD12%E5%B9%B4%E6%97%A5%E5%96%9D1%E5%8D%87%E5%A4%9A%E9%A5%AE%E6%96%99%E6%82%A3%E5%B0%BF%E6%AF%92%E7%97%87%23&Refer=top)
    新 ->
 1. [普京说对俄罗斯制裁等同宣战](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%88%B6%E8%A3%81%E7%AD%89%E5%90%8C%E5%AE%A3%E6%88%98%23&Refer=top)
@@ -102,8 +102,20 @@
 1. [浙江男篮vs辽宁男篮](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%B7%E7%AF%AEvs%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%23&Refer=top)
    新 ->
 1. [圣枪哥没上](https://s.weibo.com//weibo?q=%23%E5%9C%A3%E6%9E%AA%E5%93%A5%E6%B2%A1%E4%B8%8A%23&Refer=top)
-   新
+   新 ->
 1. [拜仁vs勒沃库森](https://s.weibo.com//weibo?q=%E6%8B%9C%E4%BB%81vs%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE&Refer=top)
+   新
+1. [专家称父亲脱发50%可能会遗传孩子](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%88%B6%E4%BA%B2%E8%84%B1%E5%8F%9150%25%E5%8F%AF%E8%83%BD%E4%BC%9A%E9%81%97%E4%BC%A0%E5%AD%A9%E5%AD%90%23&Refer=top)
+   新
+1. [三四线城市如何更适合中年人才](https://s.weibo.com//weibo?q=%23%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E5%A6%82%E4%BD%95%E6%9B%B4%E9%80%82%E5%90%88%E4%B8%AD%E5%B9%B4%E4%BA%BA%E6%89%8D%23&Refer=top)
+   新
+1. [连云港海州区开展区域核酸检测](https://s.weibo.com//weibo?q=%23%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%B5%B7%E5%B7%9E%E5%8C%BA%E5%BC%80%E5%B1%95%E5%8C%BA%E5%9F%9F%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top)
+   新
+1. [吉林一独腿防疫人员雪天拄拐工作](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E4%B8%80%E7%8B%AC%E8%85%BF%E9%98%B2%E7%96%AB%E4%BA%BA%E5%91%98%E9%9B%AA%E5%A4%A9%E6%8B%84%E6%8B%90%E5%B7%A5%E4%BD%9C%23&Refer=top)
+   新
+1. [地球是这样被叫醒的](https://s.weibo.com//weibo?q=%23%E5%9C%B0%E7%90%83%E6%98%AF%E8%BF%99%E6%A0%B7%E8%A2%AB%E5%8F%AB%E9%86%92%E7%9A%84%23&Refer=top)
+   新
+1. [Z世代的青年](https://s.weibo.com//weibo?q=%23Z%E4%B8%96%E4%BB%A3%E7%9A%84%E9%9D%92%E5%B9%B4%23&Refer=top)
    新
 
 <!-- END -->

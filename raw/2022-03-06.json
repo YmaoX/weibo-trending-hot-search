@@ -32,7 +32,7 @@
   {
     "url": "/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%88%B6%E8%A3%81%E7%AD%89%E5%90%8C%E5%AE%A3%E6%88%98%23&Refer=top",
     "title": "普京说对俄罗斯制裁等同宣战",
-    "mark": "新 -> "
+    "mark": "新 ->  -> 热"
   },
   {
     "url": "/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%98%A5%E8%8A%82%E6%94%BE%E5%81%8710%E5%A4%A9%E6%B8%85%E6%98%8E%E6%94%BE5%E5%A4%A9%23&Refer=top",
@@ -98,7 +98,7 @@
   {
     "url": "/weibo?q=%23%E7%88%B6%E6%AF%8D%E8%BE%88%E6%89%93%E5%B7%A5%E6%9C%89%E5%A4%9A%E4%B8%8D%E5%AE%B9%E6%98%93%23&Refer=top",
     "title": "父母辈打工有多不容易",
-    "mark": ""
+    "mark": " -> 沸"
   },
   {
     "url": "/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8F%90%E9%AB%98%E4%BD%8E%E6%94%B6%E5%85%A5%E5%AE%B6%E5%BA%AD%E6%AF%95%E4%B8%9A%E7%94%9F%E6%8B%9B%E5%BD%95%E6%AF%94%E4%BE%8B%23&Refer=top",
@@ -188,7 +188,7 @@
   {
     "url": "/weibo?q=%23%E4%BF%84%E5%86%9B%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E8%BF%9B%E5%85%A5%E9%9D%99%E9%BB%98%E7%8A%B6%E6%80%81%23&Refer=top",
     "title": "俄军在乌克兰进入静默状态",
-    "mark": ""
+    "mark": " -> 热"
   },
   {
     "url": "/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%AF%8F%E6%9C%88%E7%BB%99%E8%81%8C%E5%B7%A5%E6%94%BE%E4%B8%A4%E5%A4%A9%E9%99%AA%E4%BC%B4%E7%88%B6%E6%AF%8D%E5%81%87%23&Refer=top",
@@ -268,6 +268,11 @@
   {
     "url": "/weibo?q=%23%E9%82%93%E4%BD%B3%E9%91%AB%E7%BF%BB%E5%94%B1%E6%9C%89%E4%B8%80%E7%A7%8D%E6%82%B2%E4%BC%A4%23&Refer=top",
     "title": "邓佳鑫翻唱有一种悲伤",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BB%A5%E5%89%8D%E6%88%91%E5%9D%90%E7%9A%84%E7%9F%B3%E5%A2%A9%E9%82%A3%E4%B9%88%E8%B4%B5%23&Refer=top",
+    "title": "原来以前我坐的石墩那么贵",
     "mark": "新"
   }
 ]

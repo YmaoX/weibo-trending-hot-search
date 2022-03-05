@@ -848,7 +848,7 @@
   {
     "url": "/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%AF%8F%E6%9C%88%E7%BB%99%E8%81%8C%E5%B7%A5%E6%94%BE%E4%B8%A4%E5%A4%A9%E9%99%AA%E4%BC%B4%E7%88%B6%E6%AF%8D%E5%81%87%23&Refer=top",
     "title": "建议每月给职工放两天陪伴父母假",
-    "mark": "新 -> 热"
+    "mark": "新 -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E5%85%A8%E5%91%98%E8%92%99%E5%8F%A4%E6%97%8F%E6%9C%8D%E8%A3%85%E5%A4%AA%E6%83%8A%E8%89%B3%E4%BA%86%23&Refer=top",
@@ -898,7 +898,7 @@
   {
     "url": "/weibo?q=%23%E4%BF%84%E5%86%9B%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E8%BF%9B%E5%85%A5%E9%9D%99%E9%BB%98%E7%8A%B6%E6%80%81%23&Refer=top",
     "title": "俄军在乌克兰进入静默状态",
-    "mark": "新 -> 热 -> 沸"
+    "mark": "新 -> 热 -> 沸 -> 热"
   },
   {
     "url": "/weibo?q=%23%E4%BD%95%E5%B9%BF%E6%99%BA%E6%8A%8A%E4%BA%BA%E7%94%9F%E7%BB%8F%E5%8E%86%E5%86%99%E8%BF%9B%E8%84%B1%E5%8F%A3%E7%A7%80%23&Refer=top",
@@ -1278,22 +1278,22 @@
   {
     "url": "/weibo?q=%23%E5%90%B4%E5%A5%87%E9%9A%86%E8%AF%B4%E8%BF%98%E6%98%AF%E8%A2%AB%E9%9B%AA%E5%AE%89%E6%8E%92%E4%BA%86%23&Refer=top",
     "title": "吴奇隆说还是被雪安排了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%BC%80%E5%A7%8B%E6%8E%A8%E7%90%86%E5%90%A7%23&Refer=top",
     "title": "刘宇宁开始推理吧",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%90%B9%E7%89%9B%E8%83%BD%E4%BB%8E70%E6%A5%BC%E9%AB%98%E7%A9%BA%E9%80%9F%E9%99%8D%23&Refer=top",
     "title": "魏大勋吹牛能从70楼高空速降",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%80%8E%E4%B9%88%E6%80%BB%E6%98%AF%E8%A2%AB%E9%AA%97%23&Refer=top",
     "title": "宋亚轩怎么总是被骗",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%9B%AA%E5%AE%B9%E8%9E%8D%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%91%E5%85%89%E5%95%8A%23&Refer=top",
@@ -1348,7 +1348,7 @@
   {
     "url": "/weibo?q=%23%E5%9B%A0%E7%94%9F%E6%84%8F%E5%A5%BD%E9%81%AD%E5%AB%89%E5%A6%924%E5%AE%B6%E5%8D%A4%E8%8F%9C%E6%91%8A%E4%BA%92%E6%8E%80%E6%91%8A%E5%AD%90%23&Refer=top",
     "title": "因生意好遭嫉妒4家卤菜摊互掀摊子",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%B8%82%E5%8D%97%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%A1%8C%E5%8A%A8%E8%BD%A8%E8%BF%B9%E5%85%AC%E5%B8%83%23&Refer=top",
@@ -1358,7 +1358,7 @@
   {
     "url": "/weibo?q=%23%E9%86%89%E9%A9%BE%E5%A4%84%E7%BD%9A%E5%BA%94%E4%BB%8E%E5%AE%BD%E8%BF%98%E6%98%AF%E4%BB%8E%E4%B8%A5%23&Refer=top",
     "title": "醉驾处罚应从宽还是从严",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%81%8A%E4%BD%93%E8%82%B2%E5%BC%BA%E5%9B%BD%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF%23&Refer=top",
@@ -1378,6 +1378,96 @@
   {
     "url": "/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AEvs%E5%B9%BF%E5%B7%9E%E7%94%B7%E7%AF%AE%23&Refer=top",
     "title": "广东男篮vs广州男篮",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%9D%92%E5%B2%9B%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%E4%BA%BA%E5%91%98%E6%96%B0%E5%A2%9E44%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top",
+    "title": "青岛集中隔离人员新增44例确诊",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BF%84%E5%B0%86%E6%9A%82%E5%81%9C%E9%99%A4%E9%A3%9E%E5%BE%80%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E7%9A%84%E6%89%80%E6%9C%89%E5%9B%BD%E9%99%85%E8%88%AA%E7%8F%AD%23&Refer=top",
+    "title": "俄将暂停除飞往白俄罗斯外的所有国际航班",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%89%93%E7%AE%97%E5%9C%A8%E5%A4%A7%E5%AD%A6%E6%89%BE%E5%AF%B9%E8%B1%A1%E4%BA%86%23&Refer=top",
+    "title": "真的不打算在大学找对象了",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%88%B6%E8%A3%81%E7%AD%89%E5%90%8C%E5%AE%A3%E6%88%98%23&Refer=top",
+    "title": "普京说对俄罗斯制裁等同宣战",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%9D%92%E5%B2%9B%E8%8E%B1%E8%A5%BF%E6%96%B0%E5%A2%9E44%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top",
+    "title": "青岛莱西新增44例确诊病例",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%9D%92%E5%B2%9B%E6%96%B0%E5%A2%9E44%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top",
+    "title": "青岛新增44例本土确诊",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23RNG%E6%88%98%E8%83%9CEDG%23&Refer=top",
+    "title": "RNG战胜EDG",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%A5%B3%E7%94%9F%E7%9A%84%E5%8F%98%E7%BE%8E%E5%8E%86%E7%A8%8B%23&Refer=top",
+    "title": "一个女生的变美历程",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%83%A1%E5%AE%87%E6%A1%90%E7%BB%88%E4%BA%8E%E5%9C%86%E4%BA%86%E6%97%8B%E8%BD%AC%E9%BC%93%E6%89%8B%E7%9A%84%E6%A2%A6%23&Refer=top",
+    "title": "胡宇桐终于圆了旋转鼓手的梦",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B0%8F%E9%AC%BC%E6%98%AF%E6%97%B6%E5%80%99%E5%B1%95%E7%8E%B0%E5%8D%8E%E5%A4%8F%E5%84%BF%E5%A5%B3%E7%9A%84%E5%91%BC%E5%95%B8%23&Refer=top",
+    "title": "小鬼是时候展现华夏儿女的呼啸",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%85%89%E9%81%87%E9%BB%91%E5%B8%82&Refer=top",
+    "title": "光遇黑市",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%BF%9E%E5%AE%A0%E7%89%A9%E9%83%BD%E5%BC%80%E5%A7%8B%E5%85%BB%E7%94%9F%E4%BA%86%23&Refer=top",
+    "title": "连宠物都开始养生了",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%AE%8B%E5%A5%A5%E5%86%B0%E7%90%83%E9%98%9F7%E6%AF%940%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%23&Refer=top",
+    "title": "中国残奥冰球队7比0斯洛伐克",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23Sunnee%E7%8E%A9%E6%B8%B8%E6%88%8F%E5%85%A8%E8%BA%AB%E9%83%BD%E6%98%AF%E5%81%87%E5%8A%A8%E4%BD%9C%23&Refer=top",
+    "title": "Sunnee玩游戏全身都是假动作",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%89%8B%E4%B8%8A%E8%80%81%E8%8C%A7%E5%8F%AF%E6%8F%92%E9%92%A2%E9%92%88%23&Refer=top",
+    "title": "消防员手上老茧可插钢针",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%A7%8B%E5%AB%A3%E6%9C%88%E4%B8%8B%E5%81%B7%E4%BA%B2%E6%A2%81%E7%BF%8A%23&Refer=top",
+    "title": "秋嫣月下偷亲梁翊",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%A2%AB%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E6%B2%BB%E6%84%88%E7%9A%84%E6%97%B6%E5%88%BB%23&Refer=top",
+    "title": "被人类幼崽治愈的时刻",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E4%B8%89%E8%BF%9E%E8%B4%A5%23&Refer=top",
+    "title": "辽宁男篮三连败",
     "mark": "新"
   }
 ]

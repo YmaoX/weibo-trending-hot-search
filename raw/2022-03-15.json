@@ -138,7 +138,7 @@
   {
     "url": "/weibo?q=%23%E4%B8%80%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%E6%9B%BE%E6%9D%A5%E8%BF%87%E5%90%88%E8%82%A5%23&Refer=top",
     "title": "一核酸检测阳性人员曾来过合肥",
-    "mark": ""
+    "mark": " -> 热"
   },
   {
     "url": "/weibo?q=%23%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BA%A2%E6%9C%8D%E8%A3%85%E5%BA%97%E8%B6%85%E9%95%BF%E9%A2%84%E5%94%AE%23&Refer=top",
@@ -324,7 +324,7 @@
   {
     "url": "/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%8F%88%E5%8F%91%E8%A7%86%E9%A2%91%E8%AD%A6%E5%91%8A%23&Refer=top",
     "title": "泽连斯基又发视频警告",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%90%9B%E4%B9%90%E5%AE%9D%E5%AE%A2%E6%9C%8D&Refer=top",
@@ -334,6 +334,26 @@
   {
     "url": "/weibo?q=%23%E4%BD%99%E7%94%9F%E8%AF%B7%E5%A4%9A%E6%8C%87%E6%95%99%E9%A2%84%E7%BA%A6%E6%95%B0%E7%A0%B4600%E4%B8%87%23&Refer=top",
     "title": "余生请多指教预约数破600万",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E5%92%96%E5%95%A1%E5%BA%97%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E5%87%89%E8%8C%B6%E9%93%BA%23&Refer=top",
+    "title": "咖啡店的尽头是凉茶铺",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%89%93%E5%8F%B0%E6%B9%BE%E7%89%8C%E5%A6%82%E5%90%8C%E6%8A%B1%E8%96%AA%E7%8E%A9%E7%81%AB%23&Refer=top",
+    "title": "打台湾牌如同抱薪玩火",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%B7%BA%E8%84%9A%E5%A5%BD%E5%8F%AF%E7%88%B1%23&Refer=top",
+    "title": "杨紫跺脚好可爱",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%98%A5%E6%97%A5%E7%99%BD%E9%9B%AA%E6%98%A0%E6%A1%83%E8%8A%B1%23&Refer=top",
+    "title": "九寨沟春日白雪映桃花",
     "mark": "新"
   }
 ]

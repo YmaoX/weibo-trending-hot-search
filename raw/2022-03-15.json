@@ -58,7 +58,7 @@
   {
     "url": "/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E4%B8%8A%E5%8D%83%E8%80%81%E5%B8%88%E5%BC%80%E7%A7%81%E5%AE%B6%E8%BD%A6%E4%B8%BA%E5%AD%A6%E7%94%9F%E9%80%81%E9%A5%AD%23&Refer=top",
     "title": "上海交大上千老师开私家车为学生送饭",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23Uzi%E5%93%BD%E5%92%BD%E4%BA%86%23&Refer=top",
@@ -73,7 +73,7 @@
   {
     "url": "/weibo?q=%23%E5%B7%A9%E6%B1%89%E6%9E%97%E5%9B%9E%E5%BA%94%E5%86%AF%E6%BD%87%E9%9C%86%23&Refer=top",
     "title": "巩汉林回应冯潇霆",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E7%9A%84%E5%A4%8F%E5%A4%A9%E6%9C%89%E5%A4%9A%E7%BE%8E%E5%A5%BD%23&Refer=top",
@@ -259,7 +259,7 @@
   {
     "url": "/weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top",
     "title": "原神",
-    "mark": "新"
+    "mark": "新 -> "
   },
   { "url": "/weibo?q=%23weiwei%23&Refer=top", "title": "weiwei", "mark": "热" },
   {
@@ -270,6 +270,6 @@
   {
     "url": "/weibo?q=%23%E5%92%B8%E6%A2%85%E4%BF%83%E8%82%89%23&Refer=top",
     "title": "咸梅促肉",
-    "mark": "新"
+    "mark": "新 -> "
   }
 ]

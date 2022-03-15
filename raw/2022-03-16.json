@@ -82,7 +82,7 @@
   {
     "url": "/weibo?q=%23%E9%82%93%E4%BC%A6%E5%81%B7%E9%80%83%E7%A8%8E%E8%A2%AB%E8%BF%BD%E7%BC%B4%E5%B9%B6%E7%BD%9A%E6%AC%BE1.06%E4%BA%BF%E5%85%83%23&Refer=top",
     "title": "邓伦偷逃税被追缴并罚款1.06亿元",
-    "mark": "热 -> 沸"
+    "mark": "热 -> 沸 -> 热"
   },
   {
     "url": "/weibo?q=%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E4%B8%8A%E7%83%AD%E6%90%9C%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&Refer=top",
@@ -317,11 +317,36 @@
   {
     "url": "/weibo?q=%23%E4%B8%81%E4%BF%8A%E6%99%96%E9%A2%84%E6%B5%8B%E6%9B%BC%E8%81%943%E6%AF%941%E8%83%9C%E9%A9%AC%E7%AB%9E%23&Refer=top",
     "title": "丁俊晖预测曼联3比1胜马竞",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E7%BE%8E%E8%82%A1%E4%B8%8A%E6%B6%A8&Refer=top",
     "title": "美股上涨",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%AC%B2%E4%BB%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A5%E5%A2%83%E6%B3%A2%E5%85%B0%E8%A2%AB%E6%8B%92%23&Refer=top",
+    "title": "韩国网红欲从乌克兰入境波兰被拒",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%A4%A7%E8%BF%9E%E5%B8%82%E6%94%BF%E5%BA%9C%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E6%9D%A8%E8%80%80%E5%A8%81%E8%A2%AB%E6%9F%A5%23&Refer=top",
+    "title": "大连市政府原副市长杨耀威被查",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23315%E7%9C%8B1818%23&Refer=top",
+    "title": "315看1818",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E8%B1%86%E7%93%A3%E5%9C%A8%E9%83%A8%E5%88%86%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E5%B7%B2%E8%A2%AB%E4%B8%8B%E6%9E%B6&Refer=top",
+    "title": "豆瓣在部分应用商店已被下架",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23315%E6%9B%9D%E5%85%89%E9%85%B8%E8%8F%9C%E4%BC%81%E4%B8%9A%E5%8E%BB%E5%B9%B4%E5%B7%B2%E8%A2%AB%E5%8F%91%E7%8E%B0%E9%97%AE%E9%A2%98%23&Refer=top",
+    "title": "315曝光酸菜企业去年已被发现问题",
     "mark": "新"
   }
 ]

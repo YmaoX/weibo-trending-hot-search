@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 20 2022 02:17:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 20 2022 03:12:01 GMT+0800 (China Standard Time) -->
 
 1. [中美元首视频通话信息量很大](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%E4%BF%A1%E6%81%AF%E9%87%8F%E5%BE%88%E5%A4%A7%23&Refer=new_time)
    热
@@ -99,6 +99,14 @@
 1. [猎罪图鉴](https://s.weibo.com//weibo?q=%23%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B4%23&Refer=top)
 1. [新蝙蝠侠](https://s.weibo.com//weibo?q=%E6%96%B0%E8%9D%99%E8%9D%A0%E4%BE%A0&Refer=top)
 1. [南方人在北方点菜要听劝](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%96%B9%E4%BA%BA%E5%9C%A8%E5%8C%97%E6%96%B9%E7%82%B9%E8%8F%9C%E8%A6%81%E5%90%AC%E5%8A%9D%23&Refer=top)
+   新 ->
+1. [推动思政课建设内涵式发展](https://s.weibo.com//weibo?q=%23%E6%8E%A8%E5%8A%A8%E6%80%9D%E6%94%BF%E8%AF%BE%E5%BB%BA%E8%AE%BE%E5%86%85%E6%B6%B5%E5%BC%8F%E5%8F%91%E5%B1%95%23&Refer=new_time)
+   热
+1. [4天睡不好就可能长胖](https://s.weibo.com//weibo?q=4%E5%A4%A9%E7%9D%A1%E4%B8%8D%E5%A5%BD%E5%B0%B1%E5%8F%AF%E8%83%BD%E9%95%BF%E8%83%96&Refer=top)
+   沸
+1. [男子突发心梗停止呼噜被隔壁床发现](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%81%9C%E6%AD%A2%E5%91%BC%E5%99%9C%E8%A2%AB%E9%9A%94%E5%A3%81%E5%BA%8A%E5%8F%91%E7%8E%B0%23&Refer=top)
+   新
+1. [男子因涉嫌强奸幼女监狱门口再被抓](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E6%B6%89%E5%AB%8C%E5%BC%BA%E5%A5%B8%E5%B9%BC%E5%A5%B3%E7%9B%91%E7%8B%B1%E9%97%A8%E5%8F%A3%E5%86%8D%E8%A2%AB%E6%8A%93%23&Refer=top)
    新
 
 <!-- END -->

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 20 2022 06:14:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 20 2022 07:14:59 GMT+0800 (China Standard Time) -->
 
 1. [中美元首视频通话信息量很大](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%E4%BF%A1%E6%81%AF%E9%87%8F%E5%BE%88%E5%A4%A7%23&Refer=new_time)
    热
@@ -30,7 +30,7 @@
 1. [GAI 秘密](https://s.weibo.com//weibo?q=GAI%20%E7%A7%98%E5%AF%86&Refer=top) 热
    ->
 1. [北大同宿舍三人毕业十年的变化](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E5%90%8C%E5%AE%BF%E8%88%8D%E4%B8%89%E4%BA%BA%E6%AF%95%E4%B8%9A%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96%23&Refer=top)
-   沸
+   沸 -> 热
 1. [拼多多回应六万人砍价不成功](https://s.weibo.com//weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%9B%9E%E5%BA%94%E5%85%AD%E4%B8%87%E4%BA%BA%E7%A0%8D%E4%BB%B7%E4%B8%8D%E6%88%90%E5%8A%9F%23&Refer=top)
    沸
 1. [月亮](https://s.weibo.com//weibo?q=%E6%9C%88%E4%BA%AE&Refer=top)
@@ -114,7 +114,12 @@
 1. [一招自测腰椎间盘是否突出](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%8B%9B%E8%87%AA%E6%B5%8B%E8%85%B0%E6%A4%8E%E9%97%B4%E7%9B%98%E6%98%AF%E5%90%A6%E7%AA%81%E5%87%BA%23&Refer=top)
    新 ->
 1. [89岁老人离家7小时想找妈妈](https://s.weibo.com//weibo?q=%2389%E5%B2%81%E8%80%81%E4%BA%BA%E7%A6%BB%E5%AE%B67%E5%B0%8F%E6%97%B6%E6%83%B3%E6%89%BE%E5%A6%88%E5%A6%88%23&Refer=top)
+   新 ->
+1. [社区工作者回应因劳累电梯里3次摔倒](https://s.weibo.com//weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%B7%A5%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E5%9B%A0%E5%8A%B3%E7%B4%AF%E7%94%B5%E6%A2%AF%E9%87%8C3%E6%AC%A1%E6%91%94%E5%80%92%23&Refer=top)
    新
+1. [拼多多回应来了](https://s.weibo.com//weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86%23&Refer=top)
+   新
+1. [超级小桀](https://s.weibo.com//weibo?q=%E8%B6%85%E7%BA%A7%E5%B0%8F%E6%A1%80&Refer=top)
 
 <!-- END -->
 

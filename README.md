@@ -14,11 +14,11 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 22 2022 06:15:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 22 2022 07:15:29 GMT+0800 (China Standard Time) -->
 
 1. [加强民航安全隐患排查](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E6%B0%91%E8%88%AA%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%E6%8E%92%E6%9F%A5%23&Refer=new_time)
    热
-1. [mu5735](https://s.weibo.com//weibo?q=%23mu5735%23&Refer=top) 沸
+1. [mu5735](https://s.weibo.com//weibo?q=%23mu5735%23&Refer=top) 沸 -> 热
 1. [小孩被拐找到时头发被剪衣服被换](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%8B%90%E6%89%BE%E5%88%B0%E6%97%B6%E5%A4%B4%E5%8F%91%E8%A2%AB%E5%89%AA%E8%A1%A3%E6%9C%8D%E8%A2%AB%E6%8D%A2%23&Refer=top)
    热 ->
 1. [国家卫健委专家对疫情最新解读](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E4%B8%93%E5%AE%B6%E5%AF%B9%E7%96%AB%E6%83%85%E6%9C%80%E6%96%B0%E8%A7%A3%E8%AF%BB%23&Refer=top)
@@ -94,9 +94,9 @@
 1. [杭州一网约车飞速行驶撞多辆车](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%A3%9E%E9%80%9F%E8%A1%8C%E9%A9%B6%E6%92%9E%E5%A4%9A%E8%BE%86%E8%BD%A6%23&Refer=top)
 1. [三伏](https://s.weibo.com//weibo?q=%23%E4%B8%89%E4%BC%8F%23&Refer=top)
 1. [苏州黄码](https://s.weibo.com//weibo?q=%E8%8B%8F%E5%B7%9E%E9%BB%84%E7%A0%81&Refer=top)
-   新
-1. [请不要随意移动任何飞机上的碎片](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%BB%E5%8A%A8%E4%BB%BB%E4%BD%95%E9%A3%9E%E6%9C%BA%E4%B8%8A%E7%9A%84%E7%A2%8E%E7%89%87%23&Refer=top)
    新 ->
+1. [请不要随意移动任何飞机上的碎片](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E7%A7%BB%E5%8A%A8%E4%BB%BB%E4%BD%95%E9%A3%9E%E6%9C%BA%E4%B8%8A%E7%9A%84%E7%A2%8E%E7%89%87%23&Refer=top)
+   新 -> -> 热
 1. [知网崩了](https://s.weibo.com//weibo?q=%23%E7%9F%A5%E7%BD%91%E5%B4%A9%E4%BA%86%23&Refer=top)
    热 ->
 1. [民航局应急机制启动](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%88%AA%E5%B1%80%E5%BA%94%E6%80%A5%E6%9C%BA%E5%88%B6%E5%90%AF%E5%8A%A8%23&Refer=top)
@@ -111,7 +111,20 @@
 1. [260斤江苏小伙打鼾时险梦中猝死](https://s.weibo.com//weibo?q=%23260%E6%96%A4%E6%B1%9F%E8%8B%8F%E5%B0%8F%E4%BC%99%E6%89%93%E9%BC%BE%E6%97%B6%E9%99%A9%E6%A2%A6%E4%B8%AD%E7%8C%9D%E6%AD%BB%23&Refer=top)
    新 ->
 1. [睡不好会诱发哪些疾病](https://s.weibo.com//weibo?q=%23%E7%9D%A1%E4%B8%8D%E5%A5%BD%E4%BC%9A%E8%AF%B1%E5%8F%91%E5%93%AA%E4%BA%9B%E7%96%BE%E7%97%85%23&Refer=top)
+   新 ->
+1. [山东8市实现社会面动态清零](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C8%E5%B8%82%E5%AE%9E%E7%8E%B0%E7%A4%BE%E4%BC%9A%E9%9D%A2%E5%8A%A8%E6%80%81%E6%B8%85%E9%9B%B6%23&Refer=top)
    新
+1. [15岁女孩机敏报警救下昏迷母亲](https://s.weibo.com//weibo?q=%2315%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%BA%E6%95%8F%E6%8A%A5%E8%AD%A6%E6%95%91%E4%B8%8B%E6%98%8F%E8%BF%B7%E6%AF%8D%E4%BA%B2%23&Refer=top)
+   新
+1. [四川变熊猫压力给到云南](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8F%98%E7%86%8A%E7%8C%AB%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E4%BA%91%E5%8D%97%23&Refer=top)
+   新
+1. [井柏然 路透](https://s.weibo.com//weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%20%E8%B7%AF%E9%80%8F&Refer=top)
+   新
+1. [消防员累趴睡着惦记给妈妈报平安](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%B4%AF%E8%B6%B4%E7%9D%A1%E7%9D%80%E6%83%A6%E8%AE%B0%E7%BB%99%E5%A6%88%E5%A6%88%E6%8A%A5%E5%B9%B3%E5%AE%89%23&Refer=top)
+   新
+1. [2021中华遗嘱库白皮书](https://s.weibo.com//weibo?q=%232021%E4%B8%AD%E5%8D%8E%E9%81%97%E5%98%B1%E5%BA%93%E7%99%BD%E7%9A%AE%E4%B9%A6%23&Refer=top)
+   新
+1. [浦东疫情](https://s.weibo.com//weibo?q=%E6%B5%A6%E4%B8%9C%E7%96%AB%E6%83%85&Refer=top)
 
 <!-- END -->
 

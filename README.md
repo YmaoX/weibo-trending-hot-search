@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 22 2022 03:12:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 22 2022 04:16:27 GMT+0800 (China Standard Time) -->
 
 1. [加强民航安全隐患排查](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E6%B0%91%E8%88%AA%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%E6%8E%92%E6%9F%A5%23&Refer=new_time)
    热
@@ -53,6 +53,7 @@
 1. [广西藤县客机事故最新进展](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%97%A4%E5%8E%BF%E5%AE%A2%E6%9C%BA%E4%BA%8B%E6%95%85%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&Refer=top)
    热 ->
 1. [李佳琦直播](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%23&Refer=top)
+   -> 热
 1. [社内相亲](https://s.weibo.com//weibo?q=%E7%A4%BE%E5%86%85%E7%9B%B8%E4%BA%B2&Refer=top)
    新 ->
 1. [广州白云机场设立家属临时接待区](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%99%BD%E4%BA%91%E6%9C%BA%E5%9C%BA%E8%AE%BE%E7%AB%8B%E5%AE%B6%E5%B1%9E%E4%B8%B4%E6%97%B6%E6%8E%A5%E5%BE%85%E5%8C%BA%23&Refer=top)
@@ -105,8 +106,10 @@
 1. [目前防控难点在于如何及时发现全部感染者](https://s.weibo.com//weibo?q=%23%E7%9B%AE%E5%89%8D%E9%98%B2%E6%8E%A7%E9%9A%BE%E7%82%B9%E5%9C%A8%E4%BA%8E%E5%A6%82%E4%BD%95%E5%8F%8A%E6%97%B6%E5%8F%91%E7%8E%B0%E5%85%A8%E9%83%A8%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
    新 ->
 1. [光听前奏就很夏天的歌](https://s.weibo.com//weibo?q=%23%E5%85%89%E5%90%AC%E5%89%8D%E5%A5%8F%E5%B0%B1%E5%BE%88%E5%A4%8F%E5%A4%A9%E7%9A%84%E6%AD%8C%23&Refer=top)
-   新
+   新 ->
 1. [新闻联播](https://s.weibo.com//weibo?q=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD&Refer=top)
+1. [260斤江苏小伙打鼾时险梦中猝死](https://s.weibo.com//weibo?q=%23260%E6%96%A4%E6%B1%9F%E8%8B%8F%E5%B0%8F%E4%BC%99%E6%89%93%E9%BC%BE%E6%97%B6%E9%99%A9%E6%A2%A6%E4%B8%AD%E7%8C%9D%E6%AD%BB%23&Refer=top)
+   新
 
 <!-- END -->
 

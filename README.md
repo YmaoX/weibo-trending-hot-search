@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 23 2022 22:14:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 23 2022 23:16:16 GMT+0800 (China Standard Time) -->
 
 1. [加强民航安全隐患排查](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E6%B0%91%E8%88%AA%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%E6%8E%92%E6%9F%A5%23&Refer=new_time)
    热
@@ -415,15 +415,15 @@
 1. [街边美食有多吸引人](https://s.weibo.com//weibo?q=%23%E8%A1%97%E8%BE%B9%E7%BE%8E%E9%A3%9F%E6%9C%89%E5%A4%9A%E5%90%B8%E5%BC%95%E4%BA%BA%23&Refer=top)
    新
 1. [MU5735黑匣子已找到](https://s.weibo.com//weibo?q=%23MU5735%E9%BB%91%E5%8C%A3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0%23&Refer=top)
-   爆 -> 沸
+   爆 -> 沸 -> 热
 1. [已找到的黑匣子破损严重](https://s.weibo.com//weibo?q=%23%E5%B7%B2%E6%89%BE%E5%88%B0%E7%9A%84%E9%BB%91%E5%8C%A3%E5%AD%90%E7%A0%B4%E6%8D%9F%E4%B8%A5%E9%87%8D%23&Refer=top)
-   爆 -> 热
+   爆 -> 热 ->
 1. [失事飞机机长飞行总经历时间6709小时](https://s.weibo.com//weibo?q=%23%E5%A4%B1%E4%BA%8B%E9%A3%9E%E6%9C%BA%E6%9C%BA%E9%95%BF%E9%A3%9E%E8%A1%8C%E6%80%BB%E7%BB%8F%E5%8E%86%E6%97%B6%E9%97%B46709%E5%B0%8F%E6%97%B6%23&Refer=top)
    新 -> 热
 1. [膜法世家致歉](https://s.weibo.com//weibo?q=%23%E8%86%9C%E6%B3%95%E4%B8%96%E5%AE%B6%E8%87%B4%E6%AD%89%23&Refer=top)
    新 -> 热
 1. [俄罗斯不排除使用核武器的可能性](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BD%BF%E7%94%A8%E6%A0%B8%E6%AD%A6%E5%99%A8%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%23&Refer=top)
-   新 ->
+   新 -> -> 热
 1. [发现黑匣子现场画面](https://s.weibo.com//weibo?q=%23%E5%8F%91%E7%8E%B0%E9%BB%91%E5%8C%A3%E5%AD%90%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&Refer=top)
    新 ->
 1. [东航飞行事故第二场新闻发布会](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E8%88%AA%E9%A3%9E%E8%A1%8C%E4%BA%8B%E6%95%85%E7%AC%AC%E4%BA%8C%E5%9C%BA%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
@@ -534,17 +534,17 @@
 1. [你有超过10年的友谊吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%9C%89%E8%B6%85%E8%BF%8710%E5%B9%B4%E7%9A%84%E5%8F%8B%E8%B0%8A%E5%90%97%23&Refer=top)
    新 ->
 1. [拉姆前夫二审维持死刑判决](https://s.weibo.com//weibo?q=%23%E6%8B%89%E5%A7%86%E5%89%8D%E5%A4%AB%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91%E5%88%A4%E5%86%B3%23&Refer=top)
-   新
+   新 ->
 1. [妻子借钱给孩子买奶粉丈夫却买烟送人](https://s.weibo.com//weibo?q=%23%E5%A6%BB%E5%AD%90%E5%80%9F%E9%92%B1%E7%BB%99%E5%AD%A9%E5%AD%90%E4%B9%B0%E5%A5%B6%E7%B2%89%E4%B8%88%E5%A4%AB%E5%8D%B4%E4%B9%B0%E7%83%9F%E9%80%81%E4%BA%BA%23&Refer=top)
-   新
+   新 ->
 1. [余生请多指教为什么没有爆](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%94%9F%E8%AF%B7%E5%A4%9A%E6%8C%87%E6%95%99%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E7%88%86%23&Refer=top)
    新 ->
 1. [专家称争取在今日内确定现场飞机遗骸分布](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BA%89%E5%8F%96%E5%9C%A8%E4%BB%8A%E6%97%A5%E5%86%85%E7%A1%AE%E5%AE%9A%E7%8E%B0%E5%9C%BA%E9%A3%9E%E6%9C%BA%E9%81%97%E9%AA%B8%E5%88%86%E5%B8%83%23&Refer=top)
    新 ->
 1. [黑匣子搜寻现场大家说着再努力再找](https://s.weibo.com//weibo?q=%23%E9%BB%91%E5%8C%A3%E5%AD%90%E6%90%9C%E5%AF%BB%E7%8E%B0%E5%9C%BA%E5%A4%A7%E5%AE%B6%E8%AF%B4%E7%9D%80%E5%86%8D%E5%8A%AA%E5%8A%9B%E5%86%8D%E6%89%BE%23&Refer=top)
-   新
+   新 ->
 1. [女友的头饰有多千奇百怪](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%8F%8B%E7%9A%84%E5%A4%B4%E9%A5%B0%E6%9C%89%E5%A4%9A%E5%8D%83%E5%A5%87%E7%99%BE%E6%80%AA%23&Refer=top)
-   新
+   新 ->
 1. [金宵大厦2](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%AE%B5%E5%A4%A7%E5%8E%A62%23&Refer=top)
    新 ->
 1. [二次元村有多离谱](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E6%AC%A1%E5%85%83%E6%9D%91%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&Refer=top)
@@ -554,15 +554,15 @@
 1. [发现部分飞机残骸和遗体残骸](https://s.weibo.com//weibo?q=%23%E5%8F%91%E7%8E%B0%E9%83%A8%E5%88%86%E9%A3%9E%E6%9C%BA%E6%AE%8B%E9%AA%B8%E5%92%8C%E9%81%97%E4%BD%93%E6%AE%8B%E9%AA%B8%23&Refer=top)
    爆
 1. [三名飞行员职务为机长副驾驶观察员](https://s.weibo.com//weibo?q=%23%E4%B8%89%E5%90%8D%E9%A3%9E%E8%A1%8C%E5%91%98%E8%81%8C%E5%8A%A1%E4%B8%BA%E6%9C%BA%E9%95%BF%E5%89%AF%E9%A9%BE%E9%A9%B6%E8%A7%82%E5%AF%9F%E5%91%98%23&Refer=top)
-   新
+   新 -> 热
 1. [已发现黑匣子为话音记录器](https://s.weibo.com//weibo?q=%23%E5%B7%B2%E5%8F%91%E7%8E%B0%E9%BB%91%E5%8C%A3%E5%AD%90%E4%B8%BA%E8%AF%9D%E9%9F%B3%E8%AE%B0%E5%BD%95%E5%99%A8%23&Refer=top)
-   新
+   新 -> 热
 1. [黑匣子已连夜发往北京](https://s.weibo.com//weibo?q=%23%E9%BB%91%E5%8C%A3%E5%AD%90%E5%B7%B2%E8%BF%9E%E5%A4%9C%E5%8F%91%E5%BE%80%E5%8C%97%E4%BA%AC%23&Refer=top)
-   新
+   新 -> 热
 1. [为MU5735遇难者默哀](https://s.weibo.com//weibo?q=%23%E4%B8%BAMU5735%E9%81%87%E9%9A%BE%E8%80%85%E9%BB%98%E5%93%80%23&Refer=top)
    新
 1. [姚策妻子将起诉网暴者](https://s.weibo.com//weibo?q=%23%E5%A7%9A%E7%AD%96%E5%A6%BB%E5%AD%90%E5%B0%86%E8%B5%B7%E8%AF%89%E7%BD%91%E6%9A%B4%E8%80%85%23&Refer=top)
-   新
+   新 ->
 1. [FPX战胜OMG](https://s.weibo.com//weibo?q=%23FPX%E6%88%98%E8%83%9COMG%23&Refer=top)
    新
 1. [沉浸式被猫吸](https://s.weibo.com//weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E8%A2%AB%E7%8C%AB%E5%90%B8%23&Refer=top)
@@ -576,6 +576,28 @@
 1. [二郎腿危害快速矫正训练](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E9%83%8E%E8%85%BF%E5%8D%B1%E5%AE%B3%E5%BF%AB%E9%80%9F%E7%9F%AB%E6%AD%A3%E8%AE%AD%E7%BB%83%23&Refer=top)
    新
 1. [为每户旅客家属制定保障方案](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E6%AF%8F%E6%88%B7%E6%97%85%E5%AE%A2%E5%AE%B6%E5%B1%9E%E5%88%B6%E5%AE%9A%E4%BF%9D%E9%9A%9C%E6%96%B9%E6%A1%88%23&Refer=top)
+   新
+1. [淘宝崩了](https://s.weibo.com//weibo?q=%23%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86%23&Refer=top)
+   新
+1. [90后被音乐三巨头承包的青春](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E8%A2%AB%E9%9F%B3%E4%B9%90%E4%B8%89%E5%B7%A8%E5%A4%B4%E6%89%BF%E5%8C%85%E7%9A%84%E9%9D%92%E6%98%A5%23&Refer=top)
+   新
+1. [马越两国不支持制裁俄罗斯](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E8%B6%8A%E4%B8%A4%E5%9B%BD%E4%B8%8D%E6%94%AF%E6%8C%81%E5%88%B6%E8%A3%81%E4%BF%84%E7%BD%97%E6%96%AF%23&Refer=top)
+   新
+1. [兵哥哥皱眉的一瞬间我心疼了](https://s.weibo.com//weibo?q=%23%E5%85%B5%E5%93%A5%E5%93%A5%E7%9A%B1%E7%9C%89%E7%9A%84%E4%B8%80%E7%9E%AC%E9%97%B4%E6%88%91%E5%BF%83%E7%96%BC%E4%BA%86%23&Refer=top)
+   新
+1. [李易峰是温柔本身吧](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E6%98%AF%E6%B8%A9%E6%9F%94%E6%9C%AC%E8%BA%AB%E5%90%A7%23&Refer=top)
+   新
+1. [新疆炒米粉的正确打开方式](https://s.weibo.com//weibo?q=%E6%96%B0%E7%96%86%E7%82%92%E7%B1%B3%E7%B2%89%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F&Refer=top)
+   新
+1. [喜马拉雅崩了](https://s.weibo.com//weibo?q=%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B4%A9%E4%BA%86&Refer=top)
+   新
+1. [会用木头做玩具的爷爷](https://s.weibo.com//weibo?q=%23%E4%BC%9A%E7%94%A8%E6%9C%A8%E5%A4%B4%E5%81%9A%E7%8E%A9%E5%85%B7%E7%9A%84%E7%88%B7%E7%88%B7%23&Refer=top)
+   新
+1. [大牌柜姐都在用什么冷门宝藏](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%89%8C%E6%9F%9C%E5%A7%90%E9%83%BD%E5%9C%A8%E7%94%A8%E4%BB%80%E4%B9%88%E5%86%B7%E9%97%A8%E5%AE%9D%E8%97%8F%23&Refer=top)
+   新
+1. [看一眼就想买的东西](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%B0%B1%E6%83%B3%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%23&Refer=top)
+   新
+1. [龚俊SuperELLE封面](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8ASuperELLE%E5%B0%81%E9%9D%A2%23&Refer=top)
    新
 
 <!-- END -->

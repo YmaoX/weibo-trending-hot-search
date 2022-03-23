@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 24 2022 03:12:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 24 2022 04:15:53 GMT+0800 (China Standard Time) -->
 
 1. [气象预警是防灾减灾的第一道屏障](https://s.weibo.com//weibo?q=%23%E6%B0%94%E8%B1%A1%E9%A2%84%E8%AD%A6%E6%98%AF%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E7%9A%84%E7%AC%AC%E4%B8%80%E9%81%93%E5%B1%8F%E9%9A%9C%23&Refer=new_time)
    热
@@ -45,7 +45,7 @@
 1. [擦掉女友的亲亲看她的反应](https://s.weibo.com//weibo?q=%23%E6%93%A6%E6%8E%89%E5%A5%B3%E5%8F%8B%E7%9A%84%E4%BA%B2%E4%BA%B2%E7%9C%8B%E5%A5%B9%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top)
    新 ->
 1. [坠机地遥感影像公布](https://s.weibo.com//weibo?q=%23%E5%9D%A0%E6%9C%BA%E5%9C%B0%E9%81%A5%E6%84%9F%E5%BD%B1%E5%83%8F%E5%85%AC%E5%B8%83%23&Refer=top)
-   -> 热
+   -> 热 ->
 1. [新疆炒米粉的正确打开方式](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E7%82%92%E7%B1%B3%E7%B2%89%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23&Refer=top)
    新 ->
 1. [兵哥哥皱眉的一瞬间我心疼了](https://s.weibo.com//weibo?q=%23%E5%85%B5%E5%93%A5%E5%93%A5%E7%9A%B1%E7%9C%89%E7%9A%84%E4%B8%80%E7%9E%AC%E9%97%B4%E6%88%91%E5%BF%83%E7%96%BC%E4%BA%86%23&Refer=top)
@@ -98,10 +98,12 @@
 1. [民航局开展为期2周行业安全大检查](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%88%AA%E5%B1%80%E5%BC%80%E5%B1%95%E4%B8%BA%E6%9C%9F2%E5%91%A8%E8%A1%8C%E4%B8%9A%E5%AE%89%E5%85%A8%E5%A4%A7%E6%A3%80%E6%9F%A5%23&Refer=new_time)
    热
 1. [吉林长春两市仍存在社会面传播风险](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E9%95%BF%E6%98%A5%E4%B8%A4%E5%B8%82%E4%BB%8D%E5%AD%98%E5%9C%A8%E7%A4%BE%E4%BC%9A%E9%9D%A2%E4%BC%A0%E6%92%AD%E9%A3%8E%E9%99%A9%23&Refer=top)
-   新
+   新 ->
 1. [淘宝崩了](https://s.weibo.com//weibo?q=%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86&Refer=top)
    热
 1. [林之校告白顾魏](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%B9%8B%E6%A0%A1%E5%91%8A%E7%99%BD%E9%A1%BE%E9%AD%8F%23&Refer=top)
+   新 ->
+1. [论如何从小培养干饭人](https://s.weibo.com//weibo?q=%23%E8%AE%BA%E5%A6%82%E4%BD%95%E4%BB%8E%E5%B0%8F%E5%9F%B9%E5%85%BB%E5%B9%B2%E9%A5%AD%E4%BA%BA%23&Refer=top)
    新
 
 <!-- END -->

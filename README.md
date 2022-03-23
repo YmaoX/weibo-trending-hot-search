@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 23 2022 10:53:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 23 2022 11:27:20 GMT+0800 (China Standard Time) -->
 
 1. [加强民航安全隐患排查](https://s.weibo.com//weibo?q=%23%E5%8A%A0%E5%BC%BA%E6%B0%91%E8%88%AA%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%E6%8E%92%E6%9F%A5%23&Refer=new_time)
    热
@@ -27,7 +27,7 @@
 1. [暨南大学防疫](https://s.weibo.com//weibo?q=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%98%B2%E7%96%AB&Refer=top)
    新 ->
 1. [全部旅客家属已取得联系](https://s.weibo.com//weibo?q=%23%E5%85%A8%E9%83%A8%E6%97%85%E5%AE%A2%E5%AE%B6%E5%B1%9E%E5%B7%B2%E5%8F%96%E5%BE%97%E8%81%94%E7%B3%BB%23&Refer=top)
-   热
+   热 ->
 1. [南京2万斤莴苣因疫情滞销](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC2%E4%B8%87%E6%96%A4%E8%8E%B4%E8%8B%A3%E5%9B%A0%E7%96%AB%E6%83%85%E6%BB%9E%E9%94%80%23&Refer=top)
 1. [乌克兰外长发推称同意中方立场](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%96%E9%95%BF%E5%8F%91%E6%8E%A8%E7%A7%B0%E5%90%8C%E6%84%8F%E4%B8%AD%E6%96%B9%E7%AB%8B%E5%9C%BA%23&Refer=top)
 1. [MU5735坠机详细过程](https://s.weibo.com//weibo?q=%23MU5735%E5%9D%A0%E6%9C%BA%E8%AF%A6%E7%BB%86%E8%BF%87%E7%A8%8B%23&Refer=top)
@@ -71,7 +71,7 @@
 1. [男友剪完头变成了小头爸爸](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%8F%8B%E5%89%AA%E5%AE%8C%E5%A4%B4%E5%8F%98%E6%88%90%E4%BA%86%E5%B0%8F%E5%A4%B4%E7%88%B8%E7%88%B8%23&Refer=top)
 1. [男子闯红灯被撞求看监控自己飞多高](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%92%9E%E6%B1%82%E7%9C%8B%E7%9B%91%E6%8E%A7%E8%87%AA%E5%B7%B1%E9%A3%9E%E5%A4%9A%E9%AB%98%23&Refer=top)
 1. [MU5735黑匣子搜寻视频](https://s.weibo.com//weibo?q=%23MU5735%E9%BB%91%E5%8C%A3%E5%AD%90%E6%90%9C%E5%AF%BB%E8%A7%86%E9%A2%91%23&Refer=top)
-   -> 热
+   -> 热 ->
 1. [易建联眼睛被打肿](https://s.weibo.com//weibo?q=%23%E6%98%93%E5%BB%BA%E8%81%94%E7%9C%BC%E7%9D%9B%E8%A2%AB%E6%89%93%E8%82%BF%23&Refer=top)
 1. [这么减肥不得瘦死](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B9%88%E5%87%8F%E8%82%A5%E4%B8%8D%E5%BE%97%E7%98%A6%E6%AD%BB%23&Refer=top)
 1. [MU5735搜寻新闻发布会](https://s.weibo.com//weibo?q=%23MU5735%E6%90%9C%E5%AF%BB%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
@@ -113,7 +113,7 @@
 1. [雅安百年梨树繁花绽放](https://s.weibo.com//weibo?q=%23%E9%9B%85%E5%AE%89%E7%99%BE%E5%B9%B4%E6%A2%A8%E6%A0%91%E7%B9%81%E8%8A%B1%E7%BB%BD%E6%94%BE%23&Refer=top)
    新
 1. [上海新增977例本土无症状](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E977%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
-   新 -> 沸
+   新 -> 沸 -> 热
 1. [新冠病毒抗原检测临时性纳入医保](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%8A%97%E5%8E%9F%E6%A3%80%E6%B5%8B%E4%B8%B4%E6%97%B6%E6%80%A7%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%23&Refer=top)
 1. [台湾凌晨发生8次地震](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%87%8C%E6%99%A8%E5%8F%91%E7%94%9F8%E6%AC%A1%E5%9C%B0%E9%9C%87%23&Refer=top)
    热
@@ -160,7 +160,7 @@
 1. [河北新增本土无症状183例](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6183%E4%BE%8B%23&Refer=top)
    新
 1. [400多万粉丝私募大V凉了](https://s.weibo.com//weibo?q=%23400%E5%A4%9A%E4%B8%87%E7%B2%89%E4%B8%9D%E7%A7%81%E5%8B%9F%E5%A4%A7V%E5%87%89%E4%BA%86%23&Refer=top)
-   新
+   新 -> 热
 1. [四川大学 防疫](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%20%E9%98%B2%E7%96%AB&Refer=top)
    新
 1. [不破案对不起我们警察身份](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E7%A0%B4%E6%A1%88%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%88%91%E4%BB%AC%E8%AD%A6%E5%AF%9F%E8%BA%AB%E4%BB%BD%23&Refer=top)
@@ -170,11 +170,11 @@
 1. [彭冠英陈钰琪陈小纭薄冰开机路透](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E5%86%A0%E8%8B%B1%E9%99%88%E9%92%B0%E7%90%AA%E9%99%88%E5%B0%8F%E7%BA%AD%E8%96%84%E5%86%B0%E5%BC%80%E6%9C%BA%E8%B7%AF%E9%80%8F%23&Refer=top)
    新
 1. [养一头猪亏四五百元](https://s.weibo.com//weibo?q=%23%E5%85%BB%E4%B8%80%E5%A4%B4%E7%8C%AA%E4%BA%8F%E5%9B%9B%E4%BA%94%E7%99%BE%E5%85%83%23&Refer=top)
-   新
+   新 ->
 1. [泽连斯基将在北约峰会发表视频讲话](https://s.weibo.com//weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%B0%86%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E5%8F%91%E8%A1%A8%E8%A7%86%E9%A2%91%E8%AE%B2%E8%AF%9D%23&Refer=top)
    新
 1. [英雄联盟手游崩了](https://s.weibo.com//weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%89%8B%E6%B8%B8%E5%B4%A9%E4%BA%86&Refer=top)
-   新
+   新 ->
 1. [包子铺老板12家店让外卖小哥免费吃](https://s.weibo.com//weibo?q=%23%E5%8C%85%E5%AD%90%E9%93%BA%E8%80%81%E6%9D%BF12%E5%AE%B6%E5%BA%97%E8%AE%A9%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%85%8D%E8%B4%B9%E5%90%83%23&Refer=top)
    新
 1. [安妮海瑟薇高音绝了](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%A6%AE%E6%B5%B7%E7%91%9F%E8%96%87%E9%AB%98%E9%9F%B3%E7%BB%9D%E4%BA%86%23&Refer=top)
@@ -198,6 +198,21 @@
 1. [韩国累计确诊超1000万例](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A%E8%B6%851000%E4%B8%87%E4%BE%8B%23&Refer=top)
    新
 1. [2022年世界气象日](https://s.weibo.com//weibo?q=%232022%E5%B9%B4%E4%B8%96%E7%95%8C%E6%B0%94%E8%B1%A1%E6%97%A5%23&Refer=top)
+   新 ->
+1. [上海收发快递正常](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%94%B6%E5%8F%91%E5%BF%AB%E9%80%92%E6%AD%A3%E5%B8%B8%23&Refer=top)
+   新
+1. [00后驱车27000公里拍下超级雷暴](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E9%A9%B1%E8%BD%A627000%E5%85%AC%E9%87%8C%E6%8B%8D%E4%B8%8B%E8%B6%85%E7%BA%A7%E9%9B%B7%E6%9A%B4%23&Refer=top)
+   新
+1. [广西藤县凌晨开始下雨](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%97%A4%E5%8E%BF%E5%87%8C%E6%99%A8%E5%BC%80%E5%A7%8B%E4%B8%8B%E9%9B%A8%23&Refer=top)
+   新
+1. [霉霉新歌Carolina](https://s.weibo.com//weibo?q=%23%E9%9C%89%E9%9C%89%E6%96%B0%E6%AD%8CCarolina%23&Refer=top)
+   新
+1. [林彦俊新歌延期发布](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%BD%A6%E4%BF%8A%E6%96%B0%E6%AD%8C%E5%BB%B6%E6%9C%9F%E5%8F%91%E5%B8%83%23&Refer=top)
+   新
+1. [腾讯文档崩了](https://s.weibo.com//weibo?q=%E8%85%BE%E8%AE%AF%E6%96%87%E6%A1%A3%E5%B4%A9%E4%BA%86&Refer=top)
+   新
+1. [你眼里的与群众眼里的](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9C%BC%E9%87%8C%E7%9A%84%E4%B8%8E%E7%BE%A4%E4%BC%97%E7%9C%BC%E9%87%8C%E7%9A%84%23&Refer=top)
+1. [把山区孩子送上冬奥舞台的邓老师走了](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E5%B1%B1%E5%8C%BA%E5%AD%A9%E5%AD%90%E9%80%81%E4%B8%8A%E5%86%AC%E5%A5%A5%E8%88%9E%E5%8F%B0%E7%9A%84%E9%82%93%E8%80%81%E5%B8%88%E8%B5%B0%E4%BA%86%23&Refer=top)
    新
 
 <!-- END -->

@@ -42,7 +42,7 @@
   {
     "url": "/weibo?q=%23%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF%E7%9F%A5%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%9B%A0%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E5%9C%A8%E7%BE%8E%E5%A4%B1%E4%B8%9A%23&Refer=top",
     "title": "今日俄罗斯知名主持人因俄乌冲突在美失业",
-    "mark": "热"
+    "mark": "热 -> "
   },
   { "url": "/weibo?q=Doinb&Refer=top", "title": "Doinb", "mark": "" },
   {
@@ -329,6 +329,16 @@
   {
     "url": "/weibo?q=%23%E6%9D%BE%E5%9E%AE%E5%B0%8F%E8%82%9A%E8%85%A9%E7%9A%84%E9%80%86%E8%A2%AD%E8%AE%AD%E7%BB%83%23&Refer=top",
     "title": "松垮小肚腩的逆袭训练",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E6%9C%9D%E9%B2%9C%E7%96%91%E4%BC%BC%E5%8F%91%E5%B0%84%E6%B4%B2%E9%99%85%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%23&Refer=top",
+    "title": "朝鲜疑似发射洲际弹道导弹",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BD%91%E6%81%8B%E4%B8%80%E4%B8%AA%E6%9C%88%E8%BD%AC%E7%BB%99%E7%94%B7%E5%8F%8B92%E4%B8%87%23&Refer=top",
+    "title": "女子网恋一个月转给男友92万",
     "mark": "新"
   }
 ]

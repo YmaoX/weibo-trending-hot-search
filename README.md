@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 31 2022 05:13:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 31 2022 06:15:18 GMT+0800 (China Standard Time) -->
 
 1. [美丽中国建设离不开每一个人的努力](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E7%A6%BB%E4%B8%8D%E5%BC%80%E6%AF%8F%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%8A%AA%E5%8A%9B%23&Refer=new_time)
    热
 1. [上海一颗白菜卖80元被罚50万](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%A2%97%E7%99%BD%E8%8F%9C%E5%8D%9680%E5%85%83%E8%A2%AB%E7%BD%9A50%E4%B8%87%23&Refer=top)
-   新 -> 热 -> -> 热
+   新 -> 热 -> -> 热 ->
 1. [安徽淮南新增51例阳性](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E6%B7%AE%E5%8D%97%E6%96%B0%E5%A2%9E51%E4%BE%8B%E9%98%B3%E6%80%A7%23&Refer=top)
    沸 ->
 1. [一图了解道路交通违法记分新规](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9B%BE%E4%BA%86%E8%A7%A3%E9%81%93%E8%B7%AF%E4%BA%A4%E9%80%9A%E8%BF%9D%E6%B3%95%E8%AE%B0%E5%88%86%E6%96%B0%E8%A7%84%23&Refer=top)
@@ -120,11 +120,21 @@
    新
 1. [上海连续辟谣](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E8%BF%9E%E7%BB%AD%E8%BE%9F%E8%B0%A3&Refer=top)
 1. [男童右腿遭辗轧众人抬车70秒救出](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%AB%A5%E5%8F%B3%E8%85%BF%E9%81%AD%E8%BE%97%E8%BD%A7%E4%BC%97%E4%BA%BA%E6%8A%AC%E8%BD%A670%E7%A7%92%E6%95%91%E5%87%BA%23&Refer=top)
-   新
+   新 ->
 1. [原来沈腾跳舞这么厉害](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B2%88%E8%85%BE%E8%B7%B3%E8%88%9E%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3%23&Refer=top)
-   新
+   新 ->
 1. [与君初相识](https://s.weibo.com//weibo?q=%E4%B8%8E%E5%90%9B%E5%88%9D%E7%9B%B8%E8%AF%86&Refer=top)
 1. [新旧交通违法记分分值对照表](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%97%A7%E4%BA%A4%E9%80%9A%E8%BF%9D%E6%B3%95%E8%AE%B0%E5%88%86%E5%88%86%E5%80%BC%E5%AF%B9%E7%85%A7%E8%A1%A8%23&Refer=top)
+   新
+1. [上海回应风险人群检出阳性比例变高](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%9E%E5%BA%94%E9%A3%8E%E9%99%A9%E4%BA%BA%E7%BE%A4%E6%A3%80%E5%87%BA%E9%98%B3%E6%80%A7%E6%AF%94%E4%BE%8B%E5%8F%98%E9%AB%98%23&Refer=top)
+   新
+1. [男子网恋要求见面对方突然车祸去世](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B%E8%A6%81%E6%B1%82%E8%A7%81%E9%9D%A2%E5%AF%B9%E6%96%B9%E7%AA%81%E7%84%B6%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96%23&Refer=top)
+   新
+1. [从天团SHE到金曲歌后田馥甄](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%A4%A9%E5%9B%A2SHE%E5%88%B0%E9%87%91%E6%9B%B2%E6%AD%8C%E5%90%8E%E7%94%B0%E9%A6%A5%E7%94%84%23&Refer=top)
+   新
+1. [小车没顶瞬间男子敲窗救出一家三口](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%BD%A6%E6%B2%A1%E9%A1%B6%E7%9E%AC%E9%97%B4%E7%94%B7%E5%AD%90%E6%95%B2%E7%AA%97%E6%95%91%E5%87%BA%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%23&Refer=top)
+   新
+1. [尼日利亚输球激怒大批球迷破坏球场设施](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%BE%93%E7%90%83%E6%BF%80%E6%80%92%E5%A4%A7%E6%89%B9%E7%90%83%E8%BF%B7%E7%A0%B4%E5%9D%8F%E7%90%83%E5%9C%BA%E8%AE%BE%E6%96%BD%23&Refer=top)
    新
 
 <!-- END -->

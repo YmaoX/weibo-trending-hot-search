@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 01 2022 06:15:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 01 2022 07:16:39 GMT+0800 (China Standard Time) -->
 
 1. [这棵榕树已枝繁叶茂](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%A3%B5%E6%A6%95%E6%A0%91%E5%B7%B2%E6%9E%9D%E7%B9%81%E5%8F%B6%E8%8C%82%23&Refer=new_time)
    热
 1. [新冠毒株XE](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E6%AF%92%E6%A0%AAXE%23&Refer=top)
-   新 -> 沸 -> 热 -> 沸 -> 热
+   新 -> 沸 -> 热 -> 沸 -> 热 -> 沸
 1. [20220331](https://s.weibo.com//weibo?q=%2320220331%23&Refer=top) 沸
 1. [新的赶考之路考卷常出常新](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%9A%84%E8%B5%B6%E8%80%83%E4%B9%8B%E8%B7%AF%E8%80%83%E5%8D%B7%E5%B8%B8%E5%87%BA%E5%B8%B8%E6%96%B0%23&Refer=top)
 1. [愚人节](https://s.weibo.com//weibo?q=%E6%84%9A%E4%BA%BA%E8%8A%82&Refer=top) 新
@@ -108,21 +108,21 @@
 1. [我们每个人都是乘凉者但更要做种树者](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%B9%98%E5%87%89%E8%80%85%E4%BD%86%E6%9B%B4%E8%A6%81%E5%81%9A%E7%A7%8D%E6%A0%91%E8%80%85%23&Refer=new_time)
    热
 1. [北京协和医学院](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8D%8F%E5%92%8C%E5%8C%BB%E5%AD%A6%E9%99%A2%23&Refer=top)
-   沸 -> 热
+   沸 -> 热 -> 沸
 1. [三亚新增2例无症状感染者](https://s.weibo.com//weibo?q=%E4%B8%89%E4%BA%9A%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85&Refer=top)
 1. [猎罪图鉴](https://s.weibo.com//weibo?q=%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B4&Refer=top)
 1. [3分钟了解未来之城雄安](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E4%BA%86%E8%A7%A3%E6%9C%AA%E6%9D%A5%E4%B9%8B%E5%9F%8E%E9%9B%84%E5%AE%89%23&Refer=new_time)
    热
 1. [北京4月1日起外卖封签](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC4%E6%9C%881%E6%97%A5%E8%B5%B7%E5%A4%96%E5%8D%96%E5%B0%81%E7%AD%BE%23&Refer=top)
-   新
+   新 ->
 1. [这狗好像披着羊皮的狼](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%8B%97%E5%A5%BD%E5%83%8F%E6%8A%AB%E7%9D%80%E7%BE%8A%E7%9A%AE%E7%9A%84%E7%8B%BC%23&Refer=top)
    新 ->
 1. [顾清俞因施源泄密被迫辞职](https://s.weibo.com//weibo?q=%23%E9%A1%BE%E6%B8%85%E4%BF%9E%E5%9B%A0%E6%96%BD%E6%BA%90%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BF%AB%E8%BE%9E%E8%81%8C%23&Refer=top)
    新
 1. [男子网恋5名女子诈骗330余万元](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B5%E5%90%8D%E5%A5%B3%E5%AD%90%E8%AF%88%E9%AA%97330%E4%BD%99%E4%B8%87%E5%85%83%23&Refer=top)
-   新
+   新 ->
 1. [被大自然的鬼斧神工美到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%A4%A7%E8%87%AA%E7%84%B6%E7%9A%84%E9%AC%BC%E6%96%A7%E7%A5%9E%E5%B7%A5%E7%BE%8E%E5%88%B0%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 
 <!-- END -->
 

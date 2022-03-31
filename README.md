@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 01 2022 02:19:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 01 2022 03:12:47 GMT+0800 (China Standard Time) -->
 
 1. [这棵榕树已枝繁叶茂](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%A3%B5%E6%A6%95%E6%A0%91%E5%B7%B2%E6%9E%9D%E7%B9%81%E5%8F%B6%E8%8C%82%23&Refer=new_time)
    热
 1. [新冠毒株XE](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E6%AF%92%E6%A0%AAXE%23&Refer=top)
-   新 -> 沸 -> 热
+   新 -> 沸 -> 热 -> 沸
 1. [20220331](https://s.weibo.com//weibo?q=%2320220331%23&Refer=top) 沸
 1. [新的赶考之路考卷常出常新](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%9A%84%E8%B5%B6%E8%80%83%E4%B9%8B%E8%B7%AF%E8%80%83%E5%8D%B7%E5%B8%B8%E5%87%BA%E5%B8%B8%E6%96%B0%23&Refer=top)
 1. [愚人节](https://s.weibo.com//weibo?q=%E6%84%9A%E4%BA%BA%E8%8A%82&Refer=top) 新
@@ -87,7 +87,7 @@
 1. [上海洋山港为什么建在浙江](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E6%B4%8B%E5%B1%B1%E6%B8%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BB%BA%E5%9C%A8%E6%B5%99%E6%B1%9F&Refer=top)
    新 ->
 1. [男子750元买狐狸给女友当宠物](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90750%E5%85%83%E4%B9%B0%E7%8B%90%E7%8B%B8%E7%BB%99%E5%A5%B3%E5%8F%8B%E5%BD%93%E5%AE%A0%E7%89%A9%23&Refer=top)
-   新
+   新 ->
 1. [上海消杀](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B6%88%E6%9D%80%23&Refer=top)
    热
 1. [四月文案](https://s.weibo.com//weibo?q=%E5%9B%9B%E6%9C%88%E6%96%87%E6%A1%88&Refer=top)
@@ -100,6 +100,10 @@
 1. [仙侠剧造型请按这个标准](https://s.weibo.com//weibo?q=%23%E4%BB%99%E4%BE%A0%E5%89%A7%E9%80%A0%E5%9E%8B%E8%AF%B7%E6%8C%89%E8%BF%99%E4%B8%AA%E6%A0%87%E5%87%86%23&Refer=top)
    新
 1. [你为哪对cp捡过垃圾](https://s.weibo.com//weibo?q=%E4%BD%A0%E4%B8%BA%E5%93%AA%E5%AF%B9cp%E6%8D%A1%E8%BF%87%E5%9E%83%E5%9C%BE&Refer=top)
+   新
+1. [唐九洲说王一博穿着蜘蛛侠的衣服四处走](https://s.weibo.com//weibo?q=%23%E5%94%90%E4%B9%9D%E6%B4%B2%E8%AF%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A9%BF%E7%9D%80%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%9B%9B%E5%A4%84%E8%B5%B0%23&Refer=top)
+   新
+1. [林之校爸爸去世](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%B9%8B%E6%A0%A1%E7%88%B8%E7%88%B8%E5%8E%BB%E4%B8%96%23&Refer=top)
    新
 
 <!-- END -->

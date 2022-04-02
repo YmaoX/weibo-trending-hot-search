@@ -154,7 +154,7 @@
     "title": "河南校园闭环式管理不是封校",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%23mbti%23&Refer=top", "title": "mbti", "mark": "" },
+  { "url": "/weibo?q=%23mbti%23&Refer=top", "title": "mbti", "mark": " -> 新" },
   {
     "url": "/weibo?q=%E5%BC%A0%E6%83%A0%E5%A6%B9%E6%BC%94%E5%94%B1%E4%BC%9A&Refer=top",
     "title": "张惠妹演唱会",
@@ -1551,7 +1551,7 @@
   {
     "url": "/weibo?q=%E6%B7%B1%E5%9C%B3%E5%BC%80%E5%AD%A6%E6%97%B6%E9%97%B4&Refer=top",
     "title": "深圳开学时间",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E8%AF%B4%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9C%A8%E5%90%83%E4%B8%8A%E6%8C%BA%E6%9C%89%E7%A0%94%E7%A9%B6%E7%9A%84%23&Refer=top",
@@ -1576,7 +1576,7 @@
   {
     "url": "/weibo?q=%23%E7%94%9F%E6%B4%BB%E4%B9%9F%E4%B8%8D%E5%85%A8%E6%98%AFemo%E5%95%A6%23&Refer=top",
     "title": "生活也不全是emo啦",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B2%B9%E8%8F%9C%E8%8A%B1%E6%B5%B7%E5%AE%9B%E5%A6%82%E4%BB%99%E5%A2%83%23&Refer=top",
@@ -1591,7 +1591,7 @@
   {
     "url": "/weibo?q=%E6%88%90%E9%83%BD%E7%96%AB%E6%83%85&Refer=top",
     "title": "成都疫情",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23XYG%E6%88%98%E8%83%9CGK%23&Refer=top",
@@ -1606,12 +1606,12 @@
   {
     "url": "/weibo?q=%23%E9%BB%84%E4%BB%81%E4%BF%8A%E7%BF%BB%E5%94%B1%E8%AE%A4%E7%9C%9F%E7%9A%84%E9%9B%AA%23&Refer=top",
     "title": "黄仁俊翻唱认真的雪",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B7%B1%E5%9C%B3%E7%A6%8F%E7%94%B0%E5%9F%8E%E4%B8%AD%E6%9D%91%E4%B8%AA%E4%BD%93%E6%88%B7%E8%8E%B75000%E5%88%B010000%E5%85%83%E8%A1%A5%E8%B4%B4%23&Refer=top",
     "title": "深圳福田城中村个体户获5000到10000元补贴",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%B0%86%E8%B5%B7%E8%AF%89%E9%80%A0%E8%B0%A3%E8%80%85%23&Refer=top",
@@ -1626,7 +1626,7 @@
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%80%9F%E6%89%8B%E6%9C%BA%E7%BB%99%E7%86%9F%E4%BA%BA%E8%83%8C%E4%B8%8A5.6%E4%B8%87%E5%85%83%E7%BD%91%E8%B4%B7%23&Refer=top",
     "title": "女子借手机给熟人背上5.6万元网贷",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%95%BF%E7%9B%B8%E6%80%9D%E7%99%BD%E5%8F%91%E8%B7%AF%E9%80%8F%E5%9B%BE%23&Refer=top",
@@ -1676,6 +1676,86 @@
   {
     "url": "/weibo?q=%23%E7%88%B1%E4%B9%90%E4%B9%8B%E9%83%BD%23&Refer=top",
     "title": "爱乐之都",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%B7%B2%E8%B0%83%E6%B4%BE5000%E4%BD%99%E5%90%8D%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E6%94%AF%E6%8F%B4%E4%B8%8A%E6%B5%B7%23&Refer=top",
+    "title": "江苏已调派5000余名医务人员支援上海",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%96%B0%E6%B5%AA%E5%91%98%E5%B7%A5%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87%E5%8F%8D%E5%90%91%E6%89%AB%E6%A5%BC%23&Refer=top",
+    "title": "新浪员工哇唧唧哇反向扫楼",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%96%B0%E7%96%86%E7%83%A4%E5%8C%85%E5%AD%90%E5%8E%9F%E6%9D%A5%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E5%90%83%23&Refer=top",
+    "title": "新疆烤包子原来还能这么吃",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E9%83%BD%E7%BE%8E%E7%AB%B9&Refer=top",
+    "title": "都美竹",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E4%B8%8A%E6%B5%B7%E7%89%A9%E8%B5%84&Refer=top",
+    "title": "上海物资",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B1%9E%E5%AE%9E%E6%98%AF%E6%A2%A6%E4%B8%AD%E7%9A%84%E5%A9%9A%E7%A4%BC%E4%BA%86%23&Refer=top",
+    "title": "属实是梦中的婚礼了",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%BF%83%E5%B1%85%E5%86%AF%E6%99%93%E7%90%B4%E6%90%AC%E5%87%BA%E9%A1%BE%E5%AE%B6%23&Refer=top",
+    "title": "心居冯晓琴搬出顾家",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%BE%8E%E5%9C%A8%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E4%B8%AD%E7%96%AF%E7%8B%82%E5%90%B8%E8%A1%80%E6%95%9B%E8%B4%A2%23&Refer=top",
+    "title": "美在俄乌冲突中疯狂吸血敛财",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%8E%E5%90%9B%E5%88%9D%E7%9B%B8%E8%AF%86%E4%B8%8E%E6%81%B0%E4%BC%BC%E6%95%85%E4%BA%BA%E5%BD%92%E6%B5%B7%E6%8A%A5%E5%AF%B9%E6%AF%94%23&Refer=top",
+    "title": "与君初相识与恰似故人归海报对比",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%AA%81%E7%84%B6%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%86%8D%E5%B9%B4%E8%BD%BB%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top",
+    "title": "突然觉得自己不再年轻的瞬间",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%9C%B4%E7%AB%A0%E8%B5%AB&Refer=top",
+    "title": "朴章赫",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%A6%82%E4%BD%95%E8%8A%B1%E9%92%B1%E6%89%8D%E8%83%BD%E5%8F%88%E7%9C%81%E5%8F%88%E5%B9%B8%E7%A6%8F%23&Refer=top",
+    "title": "如何花钱才能又省又幸福",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%B5%B0%E5%87%BA%E4%BA%BA%E7%94%9F%E4%BD%8E%E8%B0%B7%E7%9A%8412%E6%9D%A1%E5%BB%BA%E8%AE%AE%23&Refer=top",
+    "title": "走出人生低谷的12条建议",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BA%8C%E5%8D%81%E4%BA%94%E4%BA%8C%E5%8D%81%E4%B8%80%23&Refer=top",
+    "title": "二十五二十一",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%94%B7%E7%94%9F%E6%94%B6%E5%88%B0%E7%A4%BC%E7%89%A9%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top",
+    "title": "男生收到礼物后的反应",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%8A%95%E8%83%8E%E4%B9%9F%E6%98%AF%E4%B8%AA%E6%8A%80%E6%9C%AF%E6%B4%BB%23&Refer=top",
+    "title": "原来投胎也是个技术活",
     "mark": "新"
   }
 ]

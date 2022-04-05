@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 06 2022 02:18:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 06 2022 03:12:57 GMT+0800 (China Standard Time) -->
 
 1. [最闪亮的坐标](https://s.weibo.com//weibo?q=%23%E6%9C%80%E9%97%AA%E4%BA%AE%E7%9A%84%E5%9D%90%E6%A0%87%23&Refer=new_time)
    热
@@ -98,6 +98,8 @@
    新 ->
 1. [欧盟委员会提议对俄第五轮制裁](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E7%9B%9F%E5%A7%94%E5%91%98%E4%BC%9A%E6%8F%90%E8%AE%AE%E5%AF%B9%E4%BF%84%E7%AC%AC%E4%BA%94%E8%BD%AE%E5%88%B6%E8%A3%81%23&Refer=top)
    新 ->
+1. [金宵大厦2](https://s.weibo.com//weibo?q=%E9%87%91%E5%AE%B5%E5%A4%A7%E5%8E%A62&Refer=top)
+1. [特战荣耀](https://s.weibo.com//weibo?q=%E7%89%B9%E6%88%98%E8%8D%A3%E8%80%80&Refer=top)
 
 <!-- END -->
 

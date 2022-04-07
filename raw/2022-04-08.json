@@ -257,7 +257,7 @@
   {
     "url": "/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B9%9F%E5%94%B1%E8%BF%87%E7%8E%AB%E7%91%B0%E5%B0%91%E5%B9%B4%23&Refer=top",
     "title": "王俊凯也唱过玫瑰少年",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%B7%B1%E5%9C%B3%E5%AE%A0%E7%89%A9%E6%96%B9%E8%88%B1&Refer=top",
@@ -267,7 +267,7 @@
   {
     "url": "/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E9%9D%9E%E6%B3%95%E4%BD%BF%E7%94%A8%E7%AB%A5%E5%B7%A5%23&Refer=top",
     "title": "蜜雪冰城门店回应非法使用童工",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E8%AF%B4%E4%BB%BB%E8%80%80%E8%A5%BF%E4%B8%8D%E9%87%8D%E8%A6%81%23&Refer=top",
@@ -278,5 +278,10 @@
     "url": "/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%AE%A0%E7%89%A9%E6%96%B9%E8%88%B1%23&Refer=top",
     "title": "深圳宠物方舱",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E6%97%A0%E6%B0%B4%E6%B5%93%E9%83%81%E5%92%96%E5%96%B1%23&Refer=top",
+    "title": "无水浓郁咖喱",
+    "mark": "新"
   }
 ]

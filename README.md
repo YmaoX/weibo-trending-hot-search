@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 08 2022 13:14:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 08 2022 14:19:25 GMT+0800 (China Standard Time) -->
 
 1. [人民日报论十个明确](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AE%BA%E5%8D%81%E4%B8%AA%E6%98%8E%E7%A1%AE%23&Refer=new_time)
    热
@@ -142,7 +142,7 @@
 1. [佩洛西有病还是先治病吧](https://s.weibo.com//weibo?q=%23%E4%BD%A9%E6%B4%9B%E8%A5%BF%E6%9C%89%E7%97%85%E8%BF%98%E6%98%AF%E5%85%88%E6%B2%BB%E7%97%85%E5%90%A7%23&Refer=top)
 1. [何晟铭演了成毅的冤种哥哥](https://s.weibo.com//weibo?q=%23%E4%BD%95%E6%99%9F%E9%93%AD%E6%BC%94%E4%BA%86%E6%88%90%E6%AF%85%E7%9A%84%E5%86%A4%E7%A7%8D%E5%93%A5%E5%93%A5%23&Refer=top)
 1. [上海辟谣武警将接管上海社区](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E6%AD%A6%E8%AD%A6%E5%B0%86%E6%8E%A5%E7%AE%A1%E4%B8%8A%E6%B5%B7%E7%A4%BE%E5%8C%BA%23&Refer=top)
-   新 -> -> 热
+   新 -> -> 热 ->
 1. [刘亦菲被鸡吓到](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%A2%AB%E9%B8%A1%E5%90%93%E5%88%B0%23&Refer=top)
    新 ->
 1. [吉林要求坚决做到防疫春耕两不误](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E8%A6%81%E6%B1%82%E5%9D%9A%E5%86%B3%E5%81%9A%E5%88%B0%E9%98%B2%E7%96%AB%E6%98%A5%E8%80%95%E4%B8%A4%E4%B8%8D%E8%AF%AF%23&Refer=top)
@@ -251,7 +251,7 @@
 1. [广州接力贷一日游后被叫停](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%8E%A5%E5%8A%9B%E8%B4%B7%E4%B8%80%E6%97%A5%E6%B8%B8%E5%90%8E%E8%A2%AB%E5%8F%AB%E5%81%9C%23&Refer=top)
    新
 1. [北京冬奥精神](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%B2%BE%E7%A5%9E%23&Refer=top)
-   新
+   新 ->
 1. [了不起舞社社团感官宣](https://s.weibo.com//weibo?q=%23%E4%BA%86%E4%B8%8D%E8%B5%B7%E8%88%9E%E7%A4%BE%E7%A4%BE%E5%9B%A2%E6%84%9F%E5%AE%98%E5%AE%A3%23&Refer=top)
    新
 1. [北京冬奥冬残奥运动员工作人员共唱国歌](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E5%86%AC%E6%AE%8B%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%85%B1%E5%94%B1%E5%9B%BD%E6%AD%8C%23&Refer=top)
@@ -259,18 +259,18 @@
 1. [光与夜之恋](https://s.weibo.com//weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B&Refer=top)
    新
 1. [林俊杰确诊新冠](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&Refer=top)
-   新 -> 爆
+   新 -> 爆 -> 热
 1. [她是名单中唯一被方框特别标注的人](https://s.weibo.com//weibo?q=%23%E5%A5%B9%E6%98%AF%E5%90%8D%E5%8D%95%E4%B8%AD%E5%94%AF%E4%B8%80%E8%A2%AB%E6%96%B9%E6%A1%86%E7%89%B9%E5%88%AB%E6%A0%87%E6%B3%A8%E7%9A%84%E4%BA%BA%23&Refer=top)
-   新
-1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top) 新
+   新 -> 热
+1. [基金](https://s.weibo.com//weibo?q=%E5%9F%BA%E9%87%91&Refer=top) 新 ->
 1. [国家一级足球运动员回乡创百强企业](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E8%B6%B3%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E5%9B%9E%E4%B9%A1%E5%88%9B%E7%99%BE%E5%BC%BA%E4%BC%81%E4%B8%9A%23&Refer=top)
    新
 1. [北京冬奥最难忘的记忆](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E8%AE%B0%E5%BF%86%23&Refer=top)
-   新
+   新 ->
 1. [张艺兴舞台名场面](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%88%9E%E5%8F%B0%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top)
    新
 1. [神奇动物3今日上映](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E5%A5%87%E5%8A%A8%E7%89%A93%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0%23&Refer=top)
-   新
+   新 ->
 1. [广州塔隔空喊话大学生](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%A1%94%E9%9A%94%E7%A9%BA%E5%96%8A%E8%AF%9D%E5%A4%A7%E5%AD%A6%E7%94%9F%23&Refer=top)
    新
 1. [表彰大会上这番话赢得一片掌声](https://s.weibo.com//weibo?q=%23%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%E4%B8%8A%E8%BF%99%E7%95%AA%E8%AF%9D%E8%B5%A2%E5%BE%97%E4%B8%80%E7%89%87%E6%8E%8C%E5%A3%B0%23&Refer=top)
@@ -280,7 +280,7 @@
 1. [云南大理州大理市发生3.2级地震](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E5%B7%9E%E5%A4%A7%E7%90%86%E5%B8%82%E5%8F%91%E7%94%9F3.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top)
    新
 1. [今天大会堂的掌声和笑声](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%A4%A7%E4%BC%9A%E5%A0%82%E7%9A%84%E6%8E%8C%E5%A3%B0%E5%92%8C%E7%AC%91%E5%A3%B0%23&Refer=top)
-   新
+   新 ->
 1. [湖人vs勇士](https://s.weibo.com//weibo?q=%23%E6%B9%96%E4%BA%BAvs%E5%8B%87%E5%A3%AB%23&Refer=top)
    新
 1. [中国人历来言必信行必果](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8E%86%E6%9D%A5%E8%A8%80%E5%BF%85%E4%BF%A1%E8%A1%8C%E5%BF%85%E6%9E%9C%23&Refer=top)
@@ -292,23 +292,47 @@
 1. [谷爱凌是爱吃馅饼](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%98%AF%E7%88%B1%E5%90%83%E9%A6%85%E9%A5%BC%23&Refer=top)
    新
 1. [白宫称佩洛西与拜登互亲脸颊不算密切接触](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%AE%AB%E7%A7%B0%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%8E%E6%8B%9C%E7%99%BB%E4%BA%92%E4%BA%B2%E8%84%B8%E9%A2%8A%E4%B8%8D%E7%AE%97%E5%AF%86%E5%88%87%E6%8E%A5%E8%A7%A6%23&Refer=top)
-   新
+   新 ->
 1. [这是夏天最喜欢的玩具了吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E5%A4%8F%E5%A4%A9%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E7%8E%A9%E5%85%B7%E4%BA%86%E5%90%A7%23&Refer=top)
-   新
+   新 ->
 1. [熊猫的脑袋原来是这么用的](https://s.weibo.com//weibo?q=%23%E7%86%8A%E7%8C%AB%E7%9A%84%E8%84%91%E8%A2%8B%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B9%88%E7%94%A8%E7%9A%84%23&Refer=top)
    新
 1. [大侦探](https://s.weibo.com//weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2&Refer=top) 新
 1. [解封后不重样穿搭](https://s.weibo.com//weibo?q=%23%E8%A7%A3%E5%B0%81%E5%90%8E%E4%B8%8D%E9%87%8D%E6%A0%B7%E7%A9%BF%E6%90%AD%23&Refer=top)
-   新
+   新 ->
 1. [上海奶粉骑士一天奔波400多公里送货](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%B6%E7%B2%89%E9%AA%91%E5%A3%AB%E4%B8%80%E5%A4%A9%E5%A5%94%E6%B3%A2400%E5%A4%9A%E5%85%AC%E9%87%8C%E9%80%81%E8%B4%A7%23&Refer=top)
    新
 1. [这就是多猫家庭的烦恼吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%A4%9A%E7%8C%AB%E5%AE%B6%E5%BA%AD%E7%9A%84%E7%83%A6%E6%81%BC%E5%90%A7%23&Refer=top)
    新
 1. [造谣武警将接管上海社区者被调查](https://s.weibo.com//weibo?q=%23%E9%80%A0%E8%B0%A3%E6%AD%A6%E8%AD%A6%E5%B0%86%E6%8E%A5%E7%AE%A1%E4%B8%8A%E6%B5%B7%E7%A4%BE%E5%8C%BA%E8%80%85%E8%A2%AB%E8%B0%83%E6%9F%A5%23&Refer=top)
-   新
+   新 ->
 1. [52岁农村大叔创意竹编走红海外](https://s.weibo.com//weibo?q=%2352%E5%B2%81%E5%86%9C%E6%9D%91%E5%A4%A7%E5%8F%94%E5%88%9B%E6%84%8F%E7%AB%B9%E7%BC%96%E8%B5%B0%E7%BA%A2%E6%B5%B7%E5%A4%96%23&Refer=top)
    新
 1. [华晨宇的创作能力有多惊艳](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9A%84%E5%88%9B%E4%BD%9C%E8%83%BD%E5%8A%9B%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3%23&Refer=top)
+   新
+1. [上海浦东3名干部防疫不力被免职](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C3%E5%90%8D%E5%B9%B2%E9%83%A8%E9%98%B2%E7%96%AB%E4%B8%8D%E5%8A%9B%E8%A2%AB%E5%85%8D%E8%81%8C%23&Refer=top)
+   新
+1. [mbti](https://s.weibo.com//weibo?q=%23mbti%23&Refer=top) 新
+1. [张艺兴新歌酒听破防了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E6%AD%8C%E9%85%92%E5%90%AC%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top)
+   新
+1. [刘宇新歌MV挑战哭戏](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E6%96%B0%E6%AD%8CMV%E6%8C%91%E6%88%98%E5%93%AD%E6%88%8F%23&Refer=top)
+   新
+1. [杨幂的MBTI测试是ENFP](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E7%9A%84MBTI%E6%B5%8B%E8%AF%95%E6%98%AFENFP%23&Refer=top)
+   新
+1. [研究证实喝咖啡能降低痛风风险](https://s.weibo.com//weibo?q=%23%E7%A0%94%E7%A9%B6%E8%AF%81%E5%AE%9E%E5%96%9D%E5%92%96%E5%95%A1%E8%83%BD%E9%99%8D%E4%BD%8E%E7%97%9B%E9%A3%8E%E9%A3%8E%E9%99%A9%23&Refer=top)
+   新
+1. [迪丽热巴晒纪云禾寒霜妆](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%99%92%E7%BA%AA%E4%BA%91%E7%A6%BE%E5%AF%92%E9%9C%9C%E5%A6%86%23&Refer=top)
+   新
+1. [樱花出片率也太高了吧](https://s.weibo.com//weibo?q=%23%E6%A8%B1%E8%8A%B1%E5%87%BA%E7%89%87%E7%8E%87%E4%B9%9F%E5%A4%AA%E9%AB%98%E4%BA%86%E5%90%A7%23&Refer=top)
+   新
+1. [南京鼓楼区划定1处临时管控区](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC%E9%BC%93%E6%A5%BC%E5%8C%BA%E5%88%92%E5%AE%9A1%E5%A4%84%E4%B8%B4%E6%97%B6%E7%AE%A1%E6%8E%A7%E5%8C%BA%23&Refer=top)
+   新
+1. [学信网崩了](https://s.weibo.com//weibo?q=%E5%AD%A6%E4%BF%A1%E7%BD%91%E5%B4%A9%E4%BA%86&Refer=top)
+1. [上海辟谣暂停团购](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E6%9A%82%E5%81%9C%E5%9B%A2%E8%B4%AD%23&Refer=top)
+   新
+1. [毛雪汪春番来啦](https://s.weibo.com//weibo?q=%23%E6%AF%9B%E9%9B%AA%E6%B1%AA%E6%98%A5%E7%95%AA%E6%9D%A5%E5%95%A6%23&Refer=top)
+   新
+1. [冬奥护旗手脸颊的泪是骄傲与热爱](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E6%8A%A4%E6%97%97%E6%89%8B%E8%84%B8%E9%A2%8A%E7%9A%84%E6%B3%AA%E6%98%AF%E9%AA%84%E5%82%B2%E4%B8%8E%E7%83%AD%E7%88%B1%23&Refer=top)
    新
 
 <!-- END -->

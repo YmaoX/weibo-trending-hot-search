@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 13 2022 05:13:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 13 2022 06:15:18 GMT+0800 (China Standard Time) -->
 
 1. [把所有的精力都用在让老百姓过好日子上](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E6%89%80%E6%9C%89%E7%9A%84%E7%B2%BE%E5%8A%9B%E9%83%BD%E7%94%A8%E5%9C%A8%E8%AE%A9%E8%80%81%E7%99%BE%E5%A7%93%E8%BF%87%E5%A5%BD%E6%97%A5%E5%AD%90%E4%B8%8A%23&Refer=new_time)
    热
 1. [康师傅老坛酸菜方便面重返超市货架](https://s.weibo.com//weibo?q=%23%E5%BA%B7%E5%B8%88%E5%82%85%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%87%8D%E8%BF%94%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [为什么喜欢日落](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%97%A5%E8%90%BD%23&Refer=top)
    沸 ->
 1. [160秒混剪中国航天大事记](https://s.weibo.com//weibo?q=%23160%E7%A7%92%E6%B7%B7%E5%89%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%A4%A7%E4%BA%8B%E8%AE%B0%23&Refer=top)
@@ -115,10 +115,14 @@
 1. [游乐园还可以这样玩](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%8E%A9%23&Refer=top)
    新 ->
 1. [秦昊任素汐吵架戏爆发力](https://s.weibo.com//weibo?q=%23%E7%A7%A6%E6%98%8A%E4%BB%BB%E7%B4%A0%E6%B1%90%E5%90%B5%E6%9E%B6%E6%88%8F%E7%88%86%E5%8F%91%E5%8A%9B%23&Refer=top)
-   新
+   新 ->
 1. [电子烟强制性国家标准10月起实施](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%AD%90%E7%83%9F%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%8610%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%23&Refer=top)
-   新
+   新 ->
 1. [管泽元](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top) 新
+1. [中国是最早记录极光的国家](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%98%AF%E6%9C%80%E6%97%A9%E8%AE%B0%E5%BD%95%E6%9E%81%E5%85%89%E7%9A%84%E5%9B%BD%E5%AE%B6%23&Refer=top)
+   新
+1. [8旬老人为感谢民警徒步10里地送苹果](https://s.weibo.com//weibo?q=%238%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%84%9F%E8%B0%A2%E6%B0%91%E8%AD%A6%E5%BE%92%E6%AD%A510%E9%87%8C%E5%9C%B0%E9%80%81%E8%8B%B9%E6%9E%9C%23&Refer=top)
+   新
 
 <!-- END -->
 

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 13 2022 02:18:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 13 2022 03:13:04 GMT+0800 (China Standard Time) -->
 
 1. [把所有的精力都用在让老百姓过好日子上](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E6%89%80%E6%9C%89%E7%9A%84%E7%B2%BE%E5%8A%9B%E9%83%BD%E7%94%A8%E5%9C%A8%E8%AE%A9%E8%80%81%E7%99%BE%E5%A7%93%E8%BF%87%E5%A5%BD%E6%97%A5%E5%AD%90%E4%B8%8A%23&Refer=new_time)
    热
@@ -53,7 +53,7 @@
 1. [这两天买菜的广东人](https://s.weibo.com//weibo?q=%E8%BF%99%E4%B8%A4%E5%A4%A9%E4%B9%B0%E8%8F%9C%E7%9A%84%E5%B9%BF%E4%B8%9C%E4%BA%BA&Refer=top)
 1. [纽约布鲁克林地铁站多人中弹](https://s.weibo.com//weibo?q=%23%E7%BA%BD%E7%BA%A6%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97%E5%9C%B0%E9%93%81%E7%AB%99%E5%A4%9A%E4%BA%BA%E4%B8%AD%E5%BC%B9%23&Refer=top)
 1. [赵佑齐向龚俊道歉](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%BD%91%E9%BD%90%E5%90%91%E9%BE%9A%E4%BF%8A%E9%81%93%E6%AD%89%23&Refer=top)
-   -> 沸
+   -> 沸 ->
 1. [XL毒株与XE毒株有啥区别](https://s.weibo.com//weibo?q=%23XL%E6%AF%92%E6%A0%AA%E4%B8%8EXE%E6%AF%92%E6%A0%AA%E6%9C%89%E5%95%A5%E5%8C%BA%E5%88%AB%23&Refer=top)
    新 ->
 1. [JackeyLove给Mark打10分](https://s.weibo.com//weibo?q=%23JackeyLove%E7%BB%99Mark%E6%89%9310%E5%88%86%23&Refer=top)
@@ -100,7 +100,7 @@
 1. [郑州财经学院](https://s.weibo.com//weibo?q=%E9%83%91%E5%B7%9E%E8%B4%A2%E7%BB%8F%E5%AD%A6%E9%99%A2&Refer=top)
 1. [追星揽月的航天女将](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E6%98%9F%E6%8F%BD%E6%9C%88%E7%9A%84%E8%88%AA%E5%A4%A9%E5%A5%B3%E5%B0%86%23&Refer=top)
 1. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top)
-   新
+   新 ->
 1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top)
 1. [走进老区看新貌](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E8%80%81%E5%8C%BA%E7%9C%8B%E6%96%B0%E8%B2%8C%23&Refer=new_time)
    热
@@ -108,6 +108,8 @@
    新
 1. [金宵大厦2](https://s.weibo.com//weibo?q=%E9%87%91%E5%AE%B5%E5%A4%A7%E5%8E%A62&Refer=top)
 1. [美国CPI](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BDCPI&Refer=top) 新
+1. [我是山姆真的太好哭了](https://s.weibo.com//weibo?q=%23%E6%88%91%E6%98%AF%E5%B1%B1%E5%A7%86%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23&Refer=top)
+   新
 
 <!-- END -->
 

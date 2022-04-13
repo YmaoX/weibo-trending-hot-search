@@ -102,7 +102,7 @@
   {
     "url": "/weibo?q=%23%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A2%AB%E5%88%AB%E4%BA%BA%E5%BC%80%E7%94%B5%E8%AF%9D%E5%8D%A1%E6%9C%89%E9%A3%8E%E9%99%A9%23&Refer=top",
     "title": "身份证被别人开电话卡有风险",
-    "mark": "热"
+    "mark": "热 -> "
   },
   { "url": "/weibo?q=aj&Refer=top", "title": "aj", "mark": "热" },
   {
@@ -313,12 +313,12 @@
   {
     "url": "/weibo?q=%23%E5%8F%A4%E6%97%A9%E6%B8%AF%E7%BB%BC%E6%9C%89%E5%A4%9A%E6%95%A2%E8%AF%B4%23&Refer=top",
     "title": "古早港综有多敢说",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B8%A9%E6%9F%94%E5%8F%AB%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%23&Refer=top",
     "title": "有一种温柔叫蜡笔小新",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23TXT%E5%85%AC%E5%BC%80%E6%96%B0logo%23&Refer=top",
@@ -333,6 +333,11 @@
   {
     "url": "/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%94%BB%E7%94%BB%23&Refer=top",
     "title": "没想到还可以这样画画",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E8%80%B3%E7%86%9F%E8%83%BD%E8%AF%A6%E7%9A%84BGM%E5%90%88%E9%9B%86%23&Refer=top",
+    "title": "耳熟能详的BGM合集",
     "mark": "新"
   }
 ]

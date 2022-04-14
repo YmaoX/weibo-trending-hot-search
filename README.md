@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 14 2022 20:31:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 14 2022 21:29:01 GMT+0800 (China Standard Time) -->
 
 1. [走进老区看新貌](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E8%80%81%E5%8C%BA%E7%9C%8B%E6%96%B0%E8%B2%8C%23&Refer=new_time)
    热
@@ -219,6 +219,7 @@
 1. [2男子造谣杭州封城被行拘](https://s.weibo.com//weibo?q=%232%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E6%9D%AD%E5%B7%9E%E5%B0%81%E5%9F%8E%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top)
    新
 1. [亲爱的小孩](https://s.weibo.com//weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E5%B0%8F%E5%AD%A9%23&Refer=top)
+   -> 新
 1. [被这波给大白们的留声机整破防了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E8%BF%99%E6%B3%A2%E7%BB%99%E5%A4%A7%E7%99%BD%E4%BB%AC%E7%9A%84%E7%95%99%E5%A3%B0%E6%9C%BA%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top)
    新
 1. [河北新增本土确诊2例无症状30例](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A2%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B630%E4%BE%8B%23&Refer=top)
@@ -234,7 +235,7 @@
 1. [林俊杰新冠检测转阴](https://s.weibo.com//weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E8%BD%AC%E9%98%B4%23&Refer=top)
    新 ->
 1. [上海回应封控小区为何还会出现阳性](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%9E%E5%BA%94%E5%B0%81%E6%8E%A7%E5%B0%8F%E5%8C%BA%E4%B8%BA%E4%BD%95%E8%BF%98%E4%BC%9A%E5%87%BA%E7%8E%B0%E9%98%B3%E6%80%A7%23&Refer=top)
-   新 -> 热 -> 沸 -> 热 -> 沸 -> 热 -> -> 热
+   新 -> 热 -> 沸 -> 热 -> 沸 -> 热 -> -> 热 ->
 1. [智飞生物](https://s.weibo.com//weibo?q=%E6%99%BA%E9%A3%9E%E7%94%9F%E7%89%A9&Refer=top)
    新
 1. [酒午](https://s.weibo.com//weibo?q=%E9%85%92%E5%8D%88&Refer=top) 新 ->
@@ -304,7 +305,7 @@
    新
 1. [疫情期间怎样安全收取快递](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E6%80%8E%E6%A0%B7%E5%AE%89%E5%85%A8%E6%94%B6%E5%8F%96%E5%BF%AB%E9%80%92%23&Refer=top)
    新
-1. [HPV](https://s.weibo.com//weibo?q=%23HPV%23&Refer=top) 沸
+1. [HPV](https://s.weibo.com//weibo?q=%23HPV%23&Refer=top) 沸 ->
 1. [没有工作的一年 气死了](https://s.weibo.com//weibo?q=%E6%B2%A1%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%B8%80%E5%B9%B4%20%E6%B0%94%E6%AD%BB%E4%BA%86&Refer=top)
    新 ->
 1. [冰河世纪的松鼠得到橡果了](https://s.weibo.com//weibo?q=%23%E5%86%B0%E6%B2%B3%E4%B8%96%E7%BA%AA%E7%9A%84%E6%9D%BE%E9%BC%A0%E5%BE%97%E5%88%B0%E6%A9%A1%E6%9E%9C%E4%BA%86%23&Refer=top)
@@ -432,7 +433,7 @@
 1. [豆瓣鹅组停用](https://s.weibo.com//weibo?q=%23%E8%B1%86%E7%93%A3%E9%B9%85%E7%BB%84%E5%81%9C%E7%94%A8%23&Refer=top)
    新 ->
 1. [丈夫婚内给异性转账妻子有权要回么](https://s.weibo.com//weibo?q=%23%E4%B8%88%E5%A4%AB%E5%A9%9A%E5%86%85%E7%BB%99%E5%BC%82%E6%80%A7%E8%BD%AC%E8%B4%A6%E5%A6%BB%E5%AD%90%E6%9C%89%E6%9D%83%E8%A6%81%E5%9B%9E%E4%B9%88%23&Refer=top)
-   新 -> 热 ->
+   新 -> 热 -> -> 热
 1. [韵达](https://s.weibo.com//weibo?q=%E9%9F%B5%E8%BE%BE&Refer=top) 新 ->
 1. [阿里技术副总裁回应逃离上海](https://s.weibo.com//weibo?q=%23%E9%98%BF%E9%87%8C%E6%8A%80%E6%9C%AF%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E9%80%83%E7%A6%BB%E4%B8%8A%E6%B5%B7%23&Refer=top)
    新 ->
@@ -510,7 +511,7 @@
 1. [蔡康永 格林德沃](https://s.weibo.com//weibo?q=%E8%94%A1%E5%BA%B7%E6%B0%B8%20%E6%A0%BC%E6%9E%97%E5%BE%B7%E6%B2%83&Refer=top)
    新
 1. [苏州张家港突发聚集性疫情](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%BC%A0%E5%AE%B6%E6%B8%AF%E7%AA%81%E5%8F%91%E8%81%9A%E9%9B%86%E6%80%A7%E7%96%AB%E6%83%85%23&Refer=top)
-   新 -> 热
+   新 -> 热 ->
 1. [被汉堡夹干脆面征服了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%B1%89%E5%A0%A1%E5%A4%B9%E5%B9%B2%E8%84%86%E9%9D%A2%E5%BE%81%E6%9C%8D%E4%BA%86%23&Refer=top)
    新 ->
 1. [任嘉伦蓝焰突击训练花絮](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E8%93%9D%E7%84%B0%E7%AA%81%E5%87%BB%E8%AE%AD%E7%BB%83%E8%8A%B1%E7%B5%AE%23&Refer=top)
@@ -518,7 +519,7 @@
 1. [苏州新增阳性感染者16例](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E5%B7%9E%E6%96%B0%E5%A2%9E%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%8516%E4%BE%8B%23&Refer=top)
    新 ->
 1. [BIGBANG获MCD一位](https://s.weibo.com//weibo?q=%23BIGBANG%E8%8E%B7MCD%E4%B8%80%E4%BD%8D%23&Refer=top)
-   新
+   新 ->
 1. [第75届戛纳国际电影节](https://s.weibo.com//weibo?q=%23%E7%AC%AC75%E5%B1%8A%E6%88%9B%E7%BA%B3%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%23&Refer=top)
    新
 1. [胡烨韬翻跳鞠婧祎恋爱告急](https://s.weibo.com//weibo?q=%23%E8%83%A1%E7%83%A8%E9%9F%AC%E7%BF%BB%E8%B7%B3%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%81%8B%E7%88%B1%E5%91%8A%E6%80%A5%23&Refer=top)
@@ -534,25 +535,25 @@
    新 ->
 1. [张常宁](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%B8%B8%E5%AE%81%23&Refer=top)
 1. [光与夜之恋 齐司礼](https://s.weibo.com//weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%20%E9%BD%90%E5%8F%B8%E7%A4%BC&Refer=top)
-   新
+   新 ->
 1. [无证诊所接诊HPV患者被罚](https://s.weibo.com//weibo?q=%23%E6%97%A0%E8%AF%81%E8%AF%8A%E6%89%80%E6%8E%A5%E8%AF%8AHPV%E6%82%A3%E8%80%85%E8%A2%AB%E7%BD%9A%23&Refer=top)
    新
 1. [中专生男孩考进清华](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%B8%93%E7%94%9F%E7%94%B7%E5%AD%A9%E8%80%83%E8%BF%9B%E6%B8%85%E5%8D%8E%23&Refer=top)
-   新
+   新 ->
 1. [演员麦皓为去世](https://s.weibo.com//weibo?q=%23%E6%BC%94%E5%91%98%E9%BA%A6%E7%9A%93%E4%B8%BA%E5%8E%BB%E4%B8%96%23&Refer=top)
-   新
+   新 -> 热
 1. [XYG](https://s.weibo.com//weibo?q=XYG&Refer=top) 新
 1. [锦鲤](https://s.weibo.com//weibo?q=%E9%94%A6%E9%B2%A4&Refer=top) 新
 1. [赵睿](https://s.weibo.com//weibo?q=%E8%B5%B5%E7%9D%BF&Refer=top) 新
 1. [张杰说然后我们成了想成为的人送给你们](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%AF%B4%E7%84%B6%E5%90%8E%E6%88%91%E4%BB%AC%E6%88%90%E4%BA%86%E6%83%B3%E6%88%90%E4%B8%BA%E7%9A%84%E4%BA%BA%E9%80%81%E7%BB%99%E4%BD%A0%E4%BB%AC%23&Refer=top)
    新
 1. [如何低调宣布考研上岸](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E4%BD%8E%E8%B0%83%E5%AE%A3%E5%B8%83%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%23&Refer=top)
-   新
+   新 ->
 1. [宋亚轩说自己会发出水滴声](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%BC%9A%E5%8F%91%E5%87%BA%E6%B0%B4%E6%BB%B4%E5%A3%B0%23&Refer=top)
-   新
-1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top) 新
+   新 ->
+1. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top) 新 ->
 1. [被校园里的双向暗恋甜到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%A0%A1%E5%9B%AD%E9%87%8C%E7%9A%84%E5%8F%8C%E5%90%91%E6%9A%97%E6%81%8B%E7%94%9C%E5%88%B0%E4%BA%86%23&Refer=top)
-   新
+   新 ->
 1. [人大研究生带动果农实现千斤增产](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B8%A6%E5%8A%A8%E6%9E%9C%E5%86%9C%E5%AE%9E%E7%8E%B0%E5%8D%83%E6%96%A4%E5%A2%9E%E4%BA%A7%23&Refer=top)
    新
 1. [特战荣耀](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%88%98%E8%8D%A3%E8%80%80%23&Refer=top)
@@ -575,6 +576,38 @@
    新
 1. [建立统一规范的通行证制度](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E7%AB%8B%E7%BB%9F%E4%B8%80%E8%A7%84%E8%8C%83%E7%9A%84%E9%80%9A%E8%A1%8C%E8%AF%81%E5%88%B6%E5%BA%A6%23&Refer=top)
    新
+1. [教资69](https://s.weibo.com//weibo?q=%E6%95%99%E8%B5%8469&Refer=top) 新
+1. [走进老区看新貌](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E8%80%81%E5%8C%BA%E7%9C%8B%E6%96%B0%E8%B2%8C%23&Refer=top)
+   新
+1. [教资面试](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%23&Refer=top)
+   新
+1. [众星为杨洋新剧特战荣耀打call](https://s.weibo.com//weibo?q=%23%E4%BC%97%E6%98%9F%E4%B8%BA%E6%9D%A8%E6%B4%8B%E6%96%B0%E5%89%A7%E7%89%B9%E6%88%98%E8%8D%A3%E8%80%80%E6%89%93call%23&Refer=top)
+   新
+1. [亲爱的小孩秦昊谢可寅吻戏](https://s.weibo.com//weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E5%B0%8F%E5%AD%A9%E7%A7%A6%E6%98%8A%E8%B0%A2%E5%8F%AF%E5%AF%85%E5%90%BB%E6%88%8F%23&Refer=top)
+   新
+1. [哈尔滨疫情](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E7%96%AB%E6%83%85%23&Refer=top)
+   新
+1. [教资 科一](https://s.weibo.com//weibo?q=%E6%95%99%E8%B5%84%20%E7%A7%91%E4%B8%80&Refer=top)
+   新
+1. [综合素质](https://s.weibo.com//weibo?q=%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8&Refer=top)
+   新
+1. [18人涉嫌非法集资1395亿被起诉](https://s.weibo.com//weibo?q=%2318%E4%BA%BA%E6%B6%89%E5%AB%8C%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%841395%E4%BA%BF%E8%A2%AB%E8%B5%B7%E8%AF%89%23&Refer=top)
+   新
+1. [锦鲤](https://s.weibo.com//weibo?q=%23%E9%94%A6%E9%B2%A4%23&Refer=top)
+1. [大连疫情](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E%E7%96%AB%E6%83%85%23&Refer=top)
+   新
+1. [宋亚轩说来看三个少年小宋今天拆到了什么](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%AF%B4%E6%9D%A5%E7%9C%8B%E4%B8%89%E4%B8%AA%E5%B0%91%E5%B9%B4%E5%B0%8F%E5%AE%8B%E4%BB%8A%E5%A4%A9%E6%8B%86%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%23&Refer=top)
+   新
+1. [奥匈德三国反对禁运俄罗斯天然气](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E5%8C%88%E5%BE%B7%E4%B8%89%E5%9B%BD%E5%8F%8D%E5%AF%B9%E7%A6%81%E8%BF%90%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%A9%E7%84%B6%E6%B0%94%23&Refer=top)
+   新
+1. [太原按下了暂停键](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E5%8E%9F%E6%8C%89%E4%B8%8B%E4%BA%86%E6%9A%82%E5%81%9C%E9%94%AE%23&Refer=top)
+   新
+1. [天津新增2名阳性感染者](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E2%E5%90%8D%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
+   新
+1. [特战荣耀 白龙](https://s.weibo.com//weibo?q=%E7%89%B9%E6%88%98%E8%8D%A3%E8%80%80%20%E7%99%BD%E9%BE%99&Refer=top)
+   新
+1. [周鹏](https://s.weibo.com//weibo?q=%E5%91%A8%E9%B9%8F&Refer=top) 新
+1. [CBA 苏伟](https://s.weibo.com//weibo?q=CBA%20%E8%8B%8F%E4%BC%9F&Refer=top) 新
 
 <!-- END -->
 

@@ -22,7 +22,7 @@
   {
     "url": "/weibo?q=%E7%81%B0%E7%A0%81&Refer=top",
     "title": "灰码",
-    "mark": "新 -> 热"
+    "mark": "新 -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%88%B6%E4%BA%B2%E5%A4%9A%E6%AC%A1%E6%AE%B4%E6%89%93%E5%B9%BC%E5%AD%90%23&Refer=top",
@@ -282,7 +282,7 @@
   {
     "url": "/weibo?q=%E6%9C%88%E4%BA%AE&Refer=top",
     "title": "月亮",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E8%A2%81%E5%86%B0%E5%A6%8D%E6%BC%94%E7%9A%84%E5%88%98%E6%B3%A0%23&Refer=top",
@@ -357,7 +357,7 @@
   {
     "url": "/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%9A%94%E7%A6%BB%E7%BD%91%E5%90%A7%E4%B8%80%E5%91%A8%E6%B2%A1%E6%B4%97%E6%BE%A1%23&Refer=top",
     "title": "广州小伙被隔离网吧一周没洗澡",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E7%BB%BD%E6%94%BE%E8%88%9E%E4%BC%9A%23&Refer=top",
@@ -372,6 +372,21 @@
   {
     "url": "/weibo?q=%23%E4%B8%80%E8%AF%BA%E7%9A%84%E9%A9%AC%E5%8F%AF%E6%B3%A2%E7%BD%97%23&Refer=top",
     "title": "一诺的马可波罗",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%BC%A0%E8%A7%92&Refer=top",
+    "title": "张角",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E7%9D%A2%E5%AE%81%E6%96%B0%E5%A2%9E%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%8524%E4%BE%8B&Refer=top",
+    "title": "睢宁新增阳性感染者24例",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%8C%97%E8%BE%B0%E9%83%8A%E9%87%8E%E5%85%AC%E5%9B%AD&Refer=top",
+    "title": "北辰郊野公园",
     "mark": "新"
   }
 ]

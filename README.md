@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 18 2022 04:15:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 18 2022 05:13:23 GMT+0800 (China Standard Time) -->
 
 1. [神舟归来英雄回家](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E8%88%9F%E5%BD%92%E6%9D%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&Refer=new_time)
    热
@@ -98,6 +98,10 @@
    新 ->
 1. [尼格买提发首张专辑](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%8F%91%E9%A6%96%E5%BC%A0%E4%B8%93%E8%BE%91%23&Refer=top)
    新 ->
+1. [父女花4小时用黏土捏出青铜鼎](https://s.weibo.com//weibo?q=%23%E7%88%B6%E5%A5%B3%E8%8A%B14%E5%B0%8F%E6%97%B6%E7%94%A8%E9%BB%8F%E5%9C%9F%E6%8D%8F%E5%87%BA%E9%9D%92%E9%93%9C%E9%BC%8E%23&Refer=top)
+   新
+1. [男子做木头望远镜让山里孩子看月球](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%9A%E6%9C%A8%E5%A4%B4%E6%9C%9B%E8%BF%9C%E9%95%9C%E8%AE%A9%E5%B1%B1%E9%87%8C%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%9C%88%E7%90%83%23&Refer=top)
+   新
 
 <!-- END -->
 

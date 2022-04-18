@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 19 2022 02:20:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 19 2022 03:12:51 GMT+0800 (China Standard Time) -->
 
 1. [巩固脱贫成果乡村振兴开新局](https://s.weibo.com//weibo?q=%23%E5%B7%A9%E5%9B%BA%E8%84%B1%E8%B4%AB%E6%88%90%E6%9E%9C%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E5%BC%80%E6%96%B0%E5%B1%80%23&Refer=new_time)
    热
 1. [选秀艺人刘某以诈骗罪被判3年4个月](https://s.weibo.com//weibo?q=%23%E9%80%89%E7%A7%80%E8%89%BA%E4%BA%BA%E5%88%98%E6%9F%90%E4%BB%A5%E8%AF%88%E9%AA%97%E7%BD%AA%E8%A2%AB%E5%88%A43%E5%B9%B44%E4%B8%AA%E6%9C%88%23&Refer=top)
-   新 ->
+   新 -> -> 热
 1. [吴尊友发文解读动态清零及相关误解](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%B0%8A%E5%8F%8B%E5%8F%91%E6%96%87%E8%A7%A3%E8%AF%BB%E5%8A%A8%E6%80%81%E6%B8%85%E9%9B%B6%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AF%AF%E8%A7%A3%23&Refer=top)
    新 ->
 1. [23条金融举措出台](https://s.weibo.com//weibo?q=%2323%E6%9D%A1%E9%87%91%E8%9E%8D%E4%B8%BE%E6%8E%AA%E5%87%BA%E5%8F%B0%23&Refer=top)
@@ -82,14 +82,16 @@
 1. [凤头鸊鷉水中缠绵撞胸求爱](https://s.weibo.com//weibo?q=%23%E5%87%A4%E5%A4%B4%E9%B8%8A%E9%B7%89%E6%B0%B4%E4%B8%AD%E7%BC%A0%E7%BB%B5%E6%92%9E%E8%83%B8%E6%B1%82%E7%88%B1%23&Refer=top)
    新 ->
 1. [网传by2给上海高校捐物资](https://s.weibo.com//weibo?q=%23%E7%BD%91%E4%BC%A0by2%E7%BB%99%E4%B8%8A%E6%B5%B7%E9%AB%98%E6%A0%A1%E6%8D%90%E7%89%A9%E8%B5%84%23&Refer=top)
-   新
+   新 ->
 1. [且试天下全员不让看](https://s.weibo.com//weibo?q=%23%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B%E5%85%A8%E5%91%98%E4%B8%8D%E8%AE%A9%E7%9C%8B%23&Refer=top)
-   新
+   新 ->
 1. [中国空间站等你来出差](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%AD%89%E4%BD%A0%E6%9D%A5%E5%87%BA%E5%B7%AE%23&Refer=new_time)
    热
 1. [假如仙侠剧角色都在一个群](https://s.weibo.com//weibo?q=%23%E5%81%87%E5%A6%82%E4%BB%99%E4%BE%A0%E5%89%A7%E8%A7%92%E8%89%B2%E9%83%BD%E5%9C%A8%E4%B8%80%E4%B8%AA%E7%BE%A4%23&Refer=top)
    新
 1. [择天记播出五周年](https://s.weibo.com//weibo?q=%23%E6%8B%A9%E5%A4%A9%E8%AE%B0%E6%92%AD%E5%87%BA%E4%BA%94%E5%91%A8%E5%B9%B4%23&Refer=top)
+   新 ->
+1. [11岁男孩课余写墙报犹如打印机](https://s.weibo.com//weibo?q=%2311%E5%B2%81%E7%94%B7%E5%AD%A9%E8%AF%BE%E4%BD%99%E5%86%99%E5%A2%99%E6%8A%A5%E7%8A%B9%E5%A6%82%E6%89%93%E5%8D%B0%E6%9C%BA%23&Refer=top)
    新
 
 <!-- END -->

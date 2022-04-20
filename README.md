@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 21 2022 03:13:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 21 2022 04:18:12 GMT+0800 (China Standard Time) -->
 
 1. [2022博鳌论坛](https://s.weibo.com//weibo?q=%232022%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
    热
@@ -28,7 +28,7 @@
 1. [临走前特意看了店名](https://s.weibo.com//weibo?q=%23%E4%B8%B4%E8%B5%B0%E5%89%8D%E7%89%B9%E6%84%8F%E7%9C%8B%E4%BA%86%E5%BA%97%E5%90%8D%23&Refer=top)
    新 ->
 1. [东航MU5735事故调查初步报告发布](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E8%88%AAMU5735%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E5%88%9D%E6%AD%A5%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83%23&Refer=top)
-   沸 -> 热 -> 沸
+   沸 -> 热 -> 沸 -> 热
 1. [王一博给上海捐赠防疫物资](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%BB%99%E4%B8%8A%E6%B5%B7%E6%8D%90%E8%B5%A0%E9%98%B2%E7%96%AB%E7%89%A9%E8%B5%84%23&Refer=top)
    新 -> 沸 ->
 1. [腾讯视频再次宣布涨价](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%86%8D%E6%AC%A1%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7%23&Refer=top)
@@ -38,12 +38,12 @@
 1. [Mark](https://s.weibo.com//weibo?q=Mark&Refer=top)
 1. [上海女子回应多次在新闻出现被质疑群演](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%A1%E5%9C%A8%E6%96%B0%E9%97%BB%E5%87%BA%E7%8E%B0%E8%A2%AB%E8%B4%A8%E7%96%91%E7%BE%A4%E6%BC%94%23&Refer=top)
 1. [陆仙人](https://s.weibo.com//weibo?q=%E9%99%86%E4%BB%99%E4%BA%BA&Refer=top) ->
-   热
+   热 ->
 1. [大学生操场合唱TFBOYS的歌](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%93%8D%E5%9C%BA%E5%90%88%E5%94%B1TFBOYS%E7%9A%84%E6%AD%8C%23&Refer=top)
    新 ->
 1. [个人养老金制度即将出炉](https://s.weibo.com//weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91%E5%88%B6%E5%BA%A6%E5%8D%B3%E5%B0%86%E5%87%BA%E7%82%89%23&Refer=top)
 1. [恰似故人归](https://s.weibo.com//weibo?q=%23%E6%81%B0%E4%BC%BC%E6%95%85%E4%BA%BA%E5%BD%92%23&Refer=top)
-   新 ->
+   新 -> -> 沸
 1. [陶虹](https://s.weibo.com//weibo?q=%E9%99%B6%E8%99%B9&Refer=top) 热
 1. [温网宣布禁止俄罗斯白俄罗斯球员参赛](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E7%BD%91%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2%E4%BF%84%E7%BD%97%E6%96%AF%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E7%90%83%E5%91%98%E5%8F%82%E8%B5%9B%23&Refer=top)
    新 ->
@@ -98,6 +98,16 @@
    新 ->
 1. [老孟牺牲](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%AD%9F%E7%89%BA%E7%89%B2%23&Refer=top)
    新 ->
+1. [美国政府在全球部署网络攻击平台](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%9C%A8%E5%85%A8%E7%90%83%E9%83%A8%E7%BD%B2%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E5%B9%B3%E5%8F%B0%23&Refer=top)
+   新
+1. [杀死伊芙原作者不认同剧版结局](https://s.weibo.com//weibo?q=%23%E6%9D%80%E6%AD%BB%E4%BC%8A%E8%8A%99%E5%8E%9F%E4%BD%9C%E8%80%85%E4%B8%8D%E8%AE%A4%E5%90%8C%E5%89%A7%E7%89%88%E7%BB%93%E5%B1%80%23&Refer=top)
+   新
+1. [侯鸿亮说开端给了自己很大信心](https://s.weibo.com//weibo?q=%23%E4%BE%AF%E9%B8%BF%E4%BA%AE%E8%AF%B4%E5%BC%80%E7%AB%AF%E7%BB%99%E4%BA%86%E8%87%AA%E5%B7%B1%E5%BE%88%E5%A4%A7%E4%BF%A1%E5%BF%83%23&Refer=top)
+   新
+1. [年轻人为啥越来越喜欢种菜](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%96%9C%E6%AC%A2%E7%A7%8D%E8%8F%9C%23&Refer=top)
+   新
+1. [郊区买房市区上班的体验](https://s.weibo.com//weibo?q=%23%E9%83%8A%E5%8C%BA%E4%B9%B0%E6%88%BF%E5%B8%82%E5%8C%BA%E4%B8%8A%E7%8F%AD%E7%9A%84%E4%BD%93%E9%AA%8C%23&Refer=top)
+   新
 
 <!-- END -->
 

@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 21 2022 06:16:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 21 2022 07:17:36 GMT+0800 (China Standard Time) -->
 
 1. [2022博鳌论坛](https://s.weibo.com//weibo?q=%232022%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%23&Refer=new_time)
    热
 1. [MU5735最后一次正常陆空通话时间](https://s.weibo.com//weibo?q=%23MU5735%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E6%AD%A3%E5%B8%B8%E9%99%86%E7%A9%BA%E9%80%9A%E8%AF%9D%E6%97%B6%E9%97%B4%23&Refer=top)
-   热 ->
+   热 -> -> 热
 1. [真的很建议大家考清华大学](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E7%9A%84%E5%BE%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E8%80%83%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%23&Refer=top)
    沸
 1. [听博鳌发出的中国声音](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%8D%9A%E9%B3%8C%E5%8F%91%E5%87%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A3%B0%E9%9F%B3%23&Refer=top)
@@ -28,7 +28,7 @@
 1. [临走前特意看了店名](https://s.weibo.com//weibo?q=%23%E4%B8%B4%E8%B5%B0%E5%89%8D%E7%89%B9%E6%84%8F%E7%9C%8B%E4%BA%86%E5%BA%97%E5%90%8D%23&Refer=top)
    新 ->
 1. [东航MU5735事故调查初步报告发布](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E8%88%AAMU5735%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E5%88%9D%E6%AD%A5%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83%23&Refer=top)
-   沸 -> 热 -> 沸 -> 热 ->
+   沸 -> 热 -> 沸 -> 热 -> -> 热
 1. [王一博给上海捐赠防疫物资](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%BB%99%E4%B8%8A%E6%B5%B7%E6%8D%90%E8%B5%A0%E9%98%B2%E7%96%AB%E7%89%A9%E8%B5%84%23&Refer=top)
    新 -> 沸 ->
 1. [腾讯视频再次宣布涨价](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%86%8D%E6%AC%A1%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7%23&Refer=top)
@@ -109,19 +109,29 @@
 1. [郊区买房市区上班的体验](https://s.weibo.com//weibo?q=%23%E9%83%8A%E5%8C%BA%E4%B9%B0%E6%88%BF%E5%B8%82%E5%8C%BA%E4%B8%8A%E7%8F%AD%E7%9A%84%E4%BD%93%E9%AA%8C%23&Refer=top)
    新 ->
 1. [骗子进班级群收21名家长6000校服费](https://s.weibo.com//weibo?q=%23%E9%AA%97%E5%AD%90%E8%BF%9B%E7%8F%AD%E7%BA%A7%E7%BE%A4%E6%94%B621%E5%90%8D%E5%AE%B6%E9%95%BF6000%E6%A0%A1%E6%9C%8D%E8%B4%B9%23&Refer=top)
-   新
+   新 ->
 1. [且试天下](https://s.weibo.com//weibo?q=%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B&Refer=top)
 1. [同株异花的2000岁汉牡丹怒放](https://s.weibo.com//weibo?q=%23%E5%90%8C%E6%A0%AA%E5%BC%82%E8%8A%B1%E7%9A%842000%E5%B2%81%E6%B1%89%E7%89%A1%E4%B8%B9%E6%80%92%E6%94%BE%23&Refer=top)
-   新
+   新 ->
 1. [中国空间站等你来出差](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%AD%89%E4%BD%A0%E6%9D%A5%E5%87%BA%E5%B7%AE%23&Refer=new_time)
    热
 1. [90后支教老师花5000元为学生买校服](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E6%94%AF%E6%95%99%E8%80%81%E5%B8%88%E8%8A%B15000%E5%85%83%E4%B8%BA%E5%AD%A6%E7%94%9F%E4%B9%B0%E6%A0%A1%E6%9C%8D%23&Refer=top)
-   新
+   新 ->
 1. [消防员跳本草纲目健身操热身](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%B7%B3%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE%E5%81%A5%E8%BA%AB%E6%93%8D%E7%83%AD%E8%BA%AB%23&Refer=top)
-   新
+   新 ->
 1. [新技术可用声波瓦解肿瘤](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%8A%80%E6%9C%AF%E5%8F%AF%E7%94%A8%E5%A3%B0%E6%B3%A2%E7%93%A6%E8%A7%A3%E8%82%BF%E7%98%A4%23&Refer=top)
    新
 1. [梦幻西游手游武神坛巅峰赛](https://s.weibo.com//weibo?q=%23%E6%A2%A6%E5%B9%BB%E8%A5%BF%E6%B8%B8%E6%89%8B%E6%B8%B8%E6%AD%A6%E7%A5%9E%E5%9D%9B%E5%B7%85%E5%B3%B0%E8%B5%9B%23&Refer=top)
+   新
+1. [17楼坠落生还女童已经出院](https://s.weibo.com//weibo?q=%2317%E6%A5%BC%E5%9D%A0%E8%90%BD%E7%94%9F%E8%BF%98%E5%A5%B3%E7%AB%A5%E5%B7%B2%E7%BB%8F%E5%87%BA%E9%99%A2%23&Refer=top)
+   新
+1. [女博士回乡当农民拿下27项专利](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%9B%9E%E4%B9%A1%E5%BD%93%E5%86%9C%E6%B0%91%E6%8B%BF%E4%B8%8B27%E9%A1%B9%E4%B8%93%E5%88%A9%23&Refer=top)
+   新
+1. [危险的口腔溃疡长什么样](https://s.weibo.com//weibo?q=%23%E5%8D%B1%E9%99%A9%E7%9A%84%E5%8F%A3%E8%85%94%E6%BA%83%E7%96%A1%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top)
+   新
+1. [WE成立17周年](https://s.weibo.com//weibo?q=WE%E6%88%90%E7%AB%8B17%E5%91%A8%E5%B9%B4&Refer=top)
+   新
+1. [轿车遮挡号牌加油524元后逃单](https://s.weibo.com//weibo?q=%23%E8%BD%BF%E8%BD%A6%E9%81%AE%E6%8C%A1%E5%8F%B7%E7%89%8C%E5%8A%A0%E6%B2%B9524%E5%85%83%E5%90%8E%E9%80%83%E5%8D%95%23&Refer=top)
    新
 
 <!-- END -->

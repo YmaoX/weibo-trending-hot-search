@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 22 2022 06:15:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 22 2022 07:15:51 GMT+0800 (China Standard Time) -->
 
 1. [人类是不可分割的安全共同体](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E6%98%AF%E4%B8%8D%E5%8F%AF%E5%88%86%E5%89%B2%E7%9A%84%E5%AE%89%E5%85%A8%E5%85%B1%E5%90%8C%E4%BD%93%23&Refer=new_time)
    热
@@ -55,7 +55,7 @@
 1. [科学家发现5500种新病毒](https://s.weibo.com//weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B05500%E7%A7%8D%E6%96%B0%E7%97%85%E6%AF%92%23&Refer=top)
    新 ->
 1. [孝琳一位](https://s.weibo.com//weibo?q=%E5%AD%9D%E7%90%B3%E4%B8%80%E4%BD%8D&Refer=top)
-   新
+   新 ->
 1. [南昌22日起非必要不出小区](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%98%8C22%E6%97%A5%E8%B5%B7%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%87%BA%E5%B0%8F%E5%8C%BA%23&Refer=top)
 1. [重庆区县美食有多好吃](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E5%8C%BA%E5%8E%BF%E7%BE%8E%E9%A3%9F%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83%23&Refer=top)
    新 ->
@@ -111,24 +111,30 @@
 1. [金博洋模仿苏翊鸣广告牌姿势](https://s.weibo.com//weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E6%A8%A1%E4%BB%BF%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%B9%BF%E5%91%8A%E7%89%8C%E5%A7%BF%E5%8A%BF%23&Refer=top)
    新
 1. [男孩打游戏充值3万元](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E6%89%93%E6%B8%B8%E6%88%8F%E5%85%85%E5%80%BC3%E4%B8%87%E5%85%83%23&Refer=top)
-   新
+   新 ->
 1. [7岁男童连续4年打鼾查出腺样体肥大](https://s.weibo.com//weibo?q=%237%E5%B2%81%E7%94%B7%E7%AB%A5%E8%BF%9E%E7%BB%AD4%E5%B9%B4%E6%89%93%E9%BC%BE%E6%9F%A5%E5%87%BA%E8%85%BA%E6%A0%B7%E4%BD%93%E8%82%A5%E5%A4%A7%23&Refer=top)
    新 ->
 1. [国家帮助青年解决急难愁盼问题](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%B8%AE%E5%8A%A9%E9%9D%92%E5%B9%B4%E8%A7%A3%E5%86%B3%E6%80%A5%E9%9A%BE%E6%84%81%E7%9B%BC%E9%97%AE%E9%A2%98%23&Refer=top)
    新 ->
 1. [七旬大伯谈忘年恋被网友骗260万](https://s.weibo.com//weibo?q=%23%E4%B8%83%E6%97%AC%E5%A4%A7%E4%BC%AF%E8%B0%88%E5%BF%98%E5%B9%B4%E6%81%8B%E8%A2%AB%E7%BD%91%E5%8F%8B%E9%AA%97260%E4%B8%87%23&Refer=top)
-   新
+   新 ->
 1. [当男生遇上刘畊宏](https://s.weibo.com//weibo?q=%23%E5%BD%93%E7%94%B7%E7%94%9F%E9%81%87%E4%B8%8A%E5%88%98%E7%95%8A%E5%AE%8F%23&Refer=top)
    新
 1. [世界各国乘坐在一条命运与共的大船上](https://s.weibo.com//weibo?q=%23%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD%E4%B9%98%E5%9D%90%E5%9C%A8%E4%B8%80%E6%9D%A1%E5%91%BD%E8%BF%90%E4%B8%8E%E5%85%B1%E7%9A%84%E5%A4%A7%E8%88%B9%E4%B8%8A%23&Refer=top)
-   新
+   新 ->
 1. [女孩半年两次捐献救同一患儿](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8D%8A%E5%B9%B4%E4%B8%A4%E6%AC%A1%E6%8D%90%E7%8C%AE%E6%95%91%E5%90%8C%E4%B8%80%E6%82%A3%E5%84%BF%23&Refer=top)
-   新
+   新 ->
 1. [央视曝光疫情排查骗局](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%96%AB%E6%83%85%E6%8E%92%E6%9F%A5%E9%AA%97%E5%B1%80%23&Refer=top)
-   新
+   新 ->
 1. [C罗感谢红军球迷](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%84%9F%E8%B0%A2%E7%BA%A2%E5%86%9B%E7%90%83%E8%BF%B7%23&Refer=top)
    新
 1. [奇葩小偷作案时把车落下反报警称车被偷](https://s.weibo.com//weibo?q=%23%E5%A5%87%E8%91%A9%E5%B0%8F%E5%81%B7%E4%BD%9C%E6%A1%88%E6%97%B6%E6%8A%8A%E8%BD%A6%E8%90%BD%E4%B8%8B%E5%8F%8D%E6%8A%A5%E8%AD%A6%E7%A7%B0%E8%BD%A6%E8%A2%AB%E5%81%B7%23&Refer=top)
+   新
+1. [男子醉驾被查当交警面喝下半瓶啤酒](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE%E8%A2%AB%E6%9F%A5%E5%BD%93%E4%BA%A4%E8%AD%A6%E9%9D%A2%E5%96%9D%E4%B8%8B%E5%8D%8A%E7%93%B6%E5%95%A4%E9%85%92%23&Refer=top)
+   新
+1. [黑丰息睡觉姿势](https://s.weibo.com//weibo?q=%23%E9%BB%91%E4%B8%B0%E6%81%AF%E7%9D%A1%E8%A7%89%E5%A7%BF%E5%8A%BF%23&Refer=top)
+   新
+1. [风筝算是让潍坊人玩明白了](https://s.weibo.com//weibo?q=%23%E9%A3%8E%E7%AD%9D%E7%AE%97%E6%98%AF%E8%AE%A9%E6%BD%8D%E5%9D%8A%E4%BA%BA%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top)
    新
 
 <!-- END -->

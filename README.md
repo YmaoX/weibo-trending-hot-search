@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 23 2022 01:23:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 23 2022 02:19:26 GMT+0800 (China Standard Time) -->
 
 1. [读书之美](https://s.weibo.com//weibo?q=%23%E8%AF%BB%E4%B9%A6%E4%B9%8B%E7%BE%8E%23&Refer=new_time)
    热
@@ -29,7 +29,7 @@
 1. [每天正确饮水量牢记53535法](https://s.weibo.com//weibo?q=%23%E6%AF%8F%E5%A4%A9%E6%AD%A3%E7%A1%AE%E9%A5%AE%E6%B0%B4%E9%87%8F%E7%89%A2%E8%AE%B053535%E6%B3%95%23&Refer=top)
 1. [终于知道家里的小飞虫是什么了](https://s.weibo.com//weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%AE%B6%E9%87%8C%E7%9A%84%E5%B0%8F%E9%A3%9E%E8%99%AB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BA%86%23&Refer=top)
 1. [焉栩嘉说还能更好比较重要](https://s.weibo.com//weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E8%AF%B4%E8%BF%98%E8%83%BD%E6%9B%B4%E5%A5%BD%E6%AF%94%E8%BE%83%E9%87%8D%E8%A6%81%23&Refer=top)
-   新
+   新 ->
 1. [我们为什么要读书](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%BB%E4%B9%A6%23&Refer=top)
    新 ->
 1. [陕西拐卖婴儿嫌犯落网主犯不满19岁](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E6%8B%90%E5%8D%96%E5%A9%B4%E5%84%BF%E5%AB%8C%E7%8A%AF%E8%90%BD%E7%BD%91%E4%B8%BB%E7%8A%AF%E4%B8%8D%E6%BB%A119%E5%B2%81%23&Refer=top)
@@ -70,9 +70,9 @@
 1. [苏州疫情](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E5%B7%9E%E7%96%AB%E6%83%85%23&Refer=top)
 1. [特战荣耀编剧](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%88%98%E8%8D%A3%E8%80%80%E7%BC%96%E5%89%A7%23&Refer=top)
 1. [当搞笑女去做老师](https://s.weibo.com//weibo?q=%23%E5%BD%93%E6%90%9E%E7%AC%91%E5%A5%B3%E5%8E%BB%E5%81%9A%E8%80%81%E5%B8%88%23&Refer=top)
-   新
+   新 ->
 1. [孟佳符龙飞舞台情景剧情侣吵架](https://s.weibo.com//weibo?q=%23%E5%AD%9F%E4%BD%B3%E7%AC%A6%E9%BE%99%E9%A3%9E%E8%88%9E%E5%8F%B0%E6%83%85%E6%99%AF%E5%89%A7%E6%83%85%E4%BE%A3%E5%90%B5%E6%9E%B6%23&Refer=top)
-   新
+   新 ->
 1. [蒋龙演技](https://s.weibo.com//weibo?q=%23%E8%92%8B%E9%BE%99%E6%BC%94%E6%8A%80%23&Refer=top)
    新
 1. [易烊千玺带山里娃娃读少年中国说](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B8%A6%E5%B1%B1%E9%87%8C%E5%A8%83%E5%A8%83%E8%AF%BB%E5%B0%91%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%AF%B4%23&Refer=top)
@@ -87,19 +87,27 @@
    ->
 1. [吴谢宇弑母案二审中止审理](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%B0%A2%E5%AE%87%E5%BC%91%E6%AF%8D%E6%A1%88%E4%BA%8C%E5%AE%A1%E4%B8%AD%E6%AD%A2%E5%AE%A1%E7%90%86%23&Refer=top)
 1. [赵立坚说谁在俄乌冲突中趁机渔利大家看得清楚](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E8%B0%81%E5%9C%A8%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E4%B8%AD%E8%B6%81%E6%9C%BA%E6%B8%94%E5%88%A9%E5%A4%A7%E5%AE%B6%E7%9C%8B%E5%BE%97%E6%B8%85%E6%A5%9A%23&Refer=top)
-   新
+   新 ->
 1. [99岁老人手写80余万字编纂古籍](https://s.weibo.com//weibo?q=%2399%E5%B2%81%E8%80%81%E4%BA%BA%E6%89%8B%E5%86%9980%E4%BD%99%E4%B8%87%E5%AD%97%E7%BC%96%E7%BA%82%E5%8F%A4%E7%B1%8D%23&Refer=top)
 1. [刘畊宏新华网专属限定版健身操](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E6%96%B0%E5%8D%8E%E7%BD%91%E4%B8%93%E5%B1%9E%E9%99%90%E5%AE%9A%E7%89%88%E5%81%A5%E8%BA%AB%E6%93%8D%23&Refer=top)
 1. [炎炎夏日的椰子冻有多绝](https://s.weibo.com//weibo?q=%23%E7%82%8E%E7%82%8E%E5%A4%8F%E6%97%A5%E7%9A%84%E6%A4%B0%E5%AD%90%E5%86%BB%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top)
    新
 1. [柳丁](https://s.weibo.com//weibo?q=%E6%9F%B3%E4%B8%81&Refer=top) 新
 1. [祝卿好 破防](https://s.weibo.com//weibo?q=%E7%A5%9D%E5%8D%BF%E5%A5%BD%20%E7%A0%B4%E9%98%B2&Refer=top)
-   新
+   新 ->
 1. [北京新增本土确诊4例](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A4%E4%BE%8B%23&Refer=top)
-   新
+   新 ->
 1. [且试天下](https://s.weibo.com//weibo?q=%23%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B%23&Refer=top)
    新
 1. [苏州疫情](https://s.weibo.com//weibo?q=%E8%8B%8F%E5%B7%9E%E7%96%AB%E6%83%85&Refer=top)
+1. [读书是我终身的爱好](https://s.weibo.com//weibo?q=%23%E8%AF%BB%E4%B9%A6%E6%98%AF%E6%88%91%E7%BB%88%E8%BA%AB%E7%9A%84%E7%88%B1%E5%A5%BD%23&Refer=new_time)
+   热
+1. [肖飞 卧底](https://s.weibo.com//weibo?q=%E8%82%96%E9%A3%9E%20%E5%8D%A7%E5%BA%95&Refer=top)
+   新
+1. [北京妈妈在教育上有多下功夫](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A6%88%E5%A6%88%E5%9C%A8%E6%95%99%E8%82%B2%E4%B8%8A%E6%9C%89%E5%A4%9A%E4%B8%8B%E5%8A%9F%E5%A4%AB%23&Refer=top)
+   新
+1. [天赐的声音](https://s.weibo.com//weibo?q=%E5%A4%A9%E8%B5%90%E7%9A%84%E5%A3%B0%E9%9F%B3&Refer=top)
+1. [朴宰灿唱姐姐真漂亮](https://s.weibo.com//weibo?q=%23%E6%9C%B4%E5%AE%B0%E7%81%BF%E5%94%B1%E5%A7%90%E5%A7%90%E7%9C%9F%E6%BC%82%E4%BA%AE%23&Refer=top)
 
 <!-- END -->
 

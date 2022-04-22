@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 23 2022 02:19:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 23 2022 03:13:12 GMT+0800 (China Standard Time) -->
 
 1. [读书之美](https://s.weibo.com//weibo?q=%23%E8%AF%BB%E4%B9%A6%E4%B9%8B%E7%BE%8E%23&Refer=new_time)
    热
@@ -52,7 +52,7 @@
    新 ->
 1. [中核集团推出核动力宠物狗](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%A0%B8%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BA%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%AE%A0%E7%89%A9%E7%8B%97%23&Refer=top)
 1. [癌症为什么最喜欢C型人格](https://s.weibo.com//weibo?q=%23%E7%99%8C%E7%97%87%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E5%96%9C%E6%AC%A2C%E5%9E%8B%E4%BA%BA%E6%A0%BC%23&Refer=top)
-   热 ->
+   热 -> -> 热
 1. [YPL回应辛巴旗下主播卖假货](https://s.weibo.com//weibo?q=%23YPL%E5%9B%9E%E5%BA%94%E8%BE%9B%E5%B7%B4%E6%97%97%E4%B8%8B%E4%B8%BB%E6%92%AD%E5%8D%96%E5%81%87%E8%B4%A7%23&Refer=top)
 1. [周深刘凤瑶冷酷到底暗夜风舞台](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E5%88%98%E5%87%A4%E7%91%B6%E5%86%B7%E9%85%B7%E5%88%B0%E5%BA%95%E6%9A%97%E5%A4%9C%E9%A3%8E%E8%88%9E%E5%8F%B0%23&Refer=top)
    新 ->
@@ -81,7 +81,7 @@
 1. [天赐的声音](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E8%B5%90%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=top)
    新 ->
 1. [华晨宇点评选手苦口婆心](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%82%B9%E8%AF%84%E9%80%89%E6%89%8B%E8%8B%A6%E5%8F%A3%E5%A9%86%E5%BF%83%23&Refer=top)
-   新
+   新 ->
 1. [你永远可以相信榨菜炒饭](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E6%B0%B8%E8%BF%9C%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BF%A1%E6%A6%A8%E8%8F%9C%E7%82%92%E9%A5%AD%23&Refer=top)
 1. [神典石](https://s.weibo.com//weibo?q=%E7%A5%9E%E5%85%B8%E7%9F%B3&Refer=top) 新
    ->
@@ -108,6 +108,12 @@
    新
 1. [天赐的声音](https://s.weibo.com//weibo?q=%E5%A4%A9%E8%B5%90%E7%9A%84%E5%A3%B0%E9%9F%B3&Refer=top)
 1. [朴宰灿唱姐姐真漂亮](https://s.weibo.com//weibo?q=%23%E6%9C%B4%E5%AE%B0%E7%81%BF%E5%94%B1%E5%A7%90%E5%A7%90%E7%9C%9F%E6%BC%82%E4%BA%AE%23&Refer=top)
+1. [人民海军成立73周年](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B%E6%88%90%E7%AB%8B73%E5%91%A8%E5%B9%B4%23&Refer=new_time)
+   热
+1. [原来马肺有这么大](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A9%AC%E8%82%BA%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%A7%23&Refer=top)
+   新
+1. [医生摔倒教科书式保护自己](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E6%91%94%E5%80%92%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E4%BF%9D%E6%8A%A4%E8%87%AA%E5%B7%B1%23&Refer=top)
+   新
 
 <!-- END -->
 

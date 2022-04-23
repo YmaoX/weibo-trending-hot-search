@@ -12,7 +12,7 @@
   {
     "url": "/weibo?q=%23%E8%BE%9B%E5%B7%B4%E5%94%AE%E5%8D%96%E5%81%87%E8%B4%A7%E7%91%9C%E4%BC%BD%E8%A3%A4%E4%B8%80%E6%99%9A%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%85600%E4%B8%87%23&Refer=top",
     "title": "辛巴售卖假货瑜伽裤一晚销售额超600万",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8D%9A%E9%B3%8C%E5%A3%B0%E9%9F%B3%E9%81%93%E5%87%BA%E4%BA%86%E4%B8%AD%E5%9B%BD%E4%B8%BB%E5%BC%A0%E4%B8%AD%E5%9B%BD%E6%96%B9%E6%A1%88%23&Refer=top",
@@ -477,7 +477,7 @@
   {
     "url": "/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E5%85%A5%E5%9B%B4%E6%88%9B%E7%BA%B3%E7%94%B5%E5%BD%B1%E8%8A%82%23&Refer=top",
     "title": "姚安娜主演电影入围戛纳电影节",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23EDG%E9%93%B6%E9%BE%99%E9%AA%91%E5%A3%AB%E5%9B%A2%E5%8E%9F%E7%94%BB%E7%BB%86%E8%8A%82%23&Refer=top",
@@ -487,7 +487,7 @@
   {
     "url": "/weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E4%BE%8B%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E8%B6%851%E5%B9%B4%E7%94%B7%E5%AD%90%E5%B7%B2%E5%8E%BB%E4%B8%96%23&Refer=top",
     "title": "世界首例感染新冠超1年男子已去世",
-    "mark": "新"
+    "mark": "新 -> 热"
   },
   {
     "url": "/weibo?q=%23%E5%BF%AB%E6%89%8B%E5%8E%9F%E5%89%AF%E6%80%BB%E8%A3%81%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%91%E4%B8%83%E5%B9%B4%23&Refer=top",
@@ -497,12 +497,12 @@
   {
     "url": "/weibo?q=aespa%20%E7%A7%91%E5%88%87%E6%8B%89&Refer=top",
     "title": "aespa 科切拉",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A1%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B61%E4%BE%8B%E8%BD%A8%E8%BF%B9%23&Refer=top",
     "title": "武汉新增本土确诊1例无症状1例轨迹",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8C%97%E4%BA%AC22%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A6%E4%BE%8B%23&Refer=top",
@@ -512,7 +512,7 @@
   {
     "url": "/weibo?q=%23YPL%E5%86%8D%E5%9B%9E%E5%BA%94%E8%BE%9B%E5%B7%B4%E4%B8%80%E5%A4%9C%E5%94%AE%E5%81%87600%E4%B8%87%23&Refer=top",
     "title": "YPL再回应辛巴一夜售假600万",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8F%91%E6%9D%A1%E5%BE%AE%E5%8D%9A%E7%A5%9D%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&Refer=top",
@@ -522,7 +522,7 @@
   {
     "url": "/weibo?q=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&Refer=top",
     "title": "斗罗大陆",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%92%B2%E7%86%A0%E6%98%9F%E4%B8%8A%E9%9D%9E%E6%AD%A3%E4%B9%9F%E4%B8%8D%E5%BF%98cue%E6%96%87%E9%9F%AC%23&Refer=top",
@@ -633,6 +633,91 @@
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%80%92%E7%AB%8B%E8%B7%B3%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE%E5%81%A5%E8%BA%AB%E6%93%8D%23&Refer=top",
     "title": "女子倒立跳本草纲目健身操",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%AD%89%E4%BD%A0%E6%9D%A5%E5%87%BA%E5%B7%AE%23&Refer=new_time",
+    "title": "中国空间站等你来出差",
+    "mark": "热"
+  },
+  {
+    "url": "/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23&Refer=top",
+    "title": "奔跑吧",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%8C%AB%E5%92%AA%E6%98%AF%E7%85%A7%E7%9D%80Meiko%E7%94%BB%E7%9A%84%E5%90%A7%23&Refer=top",
+    "title": "猫咪是照着Meiko画的吧",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B2%97%E4%BA%AD%E5%8F%98%E8%BA%AB%E6%A0%B8%E9%85%B8%E7%82%B9%E8%87%AA%E5%B8%A6%E7%A9%BA%E8%B0%83%E4%B8%BA%E5%A4%A7%E7%99%BD%E9%99%8D%E6%B8%A9%23&Refer=top",
+    "title": "岗亭变身核酸点自带空调为大白降温",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%93%AA%E4%B8%80%E5%88%BB%E4%BD%A0%E6%84%8F%E8%AF%86%E5%88%B0%E8%A6%81%E5%A4%9A%E8%AF%BB%E4%B9%A6%23&Refer=top",
+    "title": "哪一刻你意识到要多读书",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BF%84%E6%96%B9%E5%85%AC%E5%B8%83%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8F%B7%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%23&Refer=top",
+    "title": "俄方公布莫斯科号爆炸事件死亡人数",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E7%A7%91%E5%88%87%E6%8B%89&Refer=top",
+    "title": "科切拉",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%88%9D%E8%88%9E%E5%8F%B0%E6%AD%8C%E5%8D%95%23&Refer=top",
+    "title": "声生不息初舞台歌单",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E7%A6%8F%E5%AF%BF%E8%9E%BA%E6%B3%9B%E6%BB%A5%E7%8E%B0%E8%B1%A1%23&Refer=top",
+    "title": "广东多地出现福寿螺泛滥现象",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%B7%AF%E5%8F%A3%E9%A3%9E%E5%A5%94%E9%99%A9%E8%A2%AB%E6%92%9E%E4%BA%A4%E8%AD%A6%E4%B8%80%E6%8A%8A%E6%8B%89%E4%BD%8F%23&Refer=top",
+    "title": "男孩路口飞奔险被撞交警一把拉住",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%83%B3%E5%92%8C%E4%BD%A0%E5%90%8C%E9%98%85%E4%B8%80%E6%9C%AC%E4%B9%A6%23&Refer=top",
+    "title": "想和你同阅一本书",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%BB%B4C%E7%89%87%E4%BB%B7%E6%A0%BC%E7%9B%B8%E5%B7%AE%E7%99%BE%E5%80%8D%E4%BD%86%E6%B6%88%E5%8C%96%E5%90%B8%E6%94%B6%E6%B2%A1%E5%B7%AE%E5%88%AB%23&Refer=top",
+    "title": "维C片价格相差百倍但消化吸收没差别",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%B5%B5%E7%BE%8E%E5%BB%B6%E9%9F%A9%E7%89%88ELLE%E4%BA%94%E6%9C%88%E7%94%B5%E5%AD%90%E5%88%8A%E5%B0%81%E9%9D%A2%E7%94%BB%E6%8A%A5%23&Refer=top",
+    "title": "赵美延韩版ELLE五月电子刊封面画报",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%8E%8B%E5%87%AF%E6%9C%97%E8%AF%B5%E9%A3%9E%E9%B8%9F%E9%9B%86%23&Refer=top",
+    "title": "王凯朗诵飞鸟集",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8B%E5%9C%B0%E9%93%81%E9%81%AD%E5%92%B8%E7%8C%AA%E6%89%8B%E5%BD%93%E5%9C%BA%E6%93%92%E4%BD%8F%E5%AF%B9%E6%96%B9%23&Refer=top",
+    "title": "女子下地铁遭咸猪手当场擒住对方",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A36%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top",
+    "title": "河南新增5例本土确诊36例本土无症状",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%89%B9%E9%9B%B7%E6%9D%A8%E7%BB%9D%E6%9D%80%E7%83%AD%E7%81%AB%23&Refer=top",
+    "title": "特雷杨绝杀热火",
     "mark": "新"
   }
 ]

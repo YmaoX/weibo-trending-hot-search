@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 27 2022 04:17:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 27 2022 05:15:04 GMT+0800 (China Standard Time) -->
 
 1. [争做堪当民族复兴重任的时代新人](https://s.weibo.com//weibo?q=%23%E4%BA%89%E5%81%9A%E5%A0%AA%E5%BD%93%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E9%87%8D%E4%BB%BB%E7%9A%84%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA%23&Refer=new_time)
    热
@@ -102,16 +102,22 @@
 1. [建议租房企业免应届毕业生租房押金](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%A7%9F%E6%88%BF%E4%BC%81%E4%B8%9A%E5%85%8D%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E7%A7%9F%E6%88%BF%E6%8A%BC%E9%87%91%23&Refer=top)
    新 ->
 1. [快递小哥撞倒8旬老人后拉黑家属](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E6%92%9E%E5%80%928%E6%97%AC%E8%80%81%E4%BA%BA%E5%90%8E%E6%8B%89%E9%BB%91%E5%AE%B6%E5%B1%9E%23&Refer=top)
-   新
+   新 ->
 1. [带着我的梦想上天宫](https://s.weibo.com//weibo?q=%23%E5%B8%A6%E7%9D%80%E6%88%91%E7%9A%84%E6%A2%A6%E6%83%B3%E4%B8%8A%E5%A4%A9%E5%AE%AB%23&Refer=new_time)
    热
 1. [人类幼崽的本质是小哭包吧](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E5%B0%8F%E5%93%AD%E5%8C%85%E5%90%A7%23&Refer=top)
-   新
+   新 ->
 1. [云和疫情](https://s.weibo.com//weibo?q=%E4%BA%91%E5%92%8C%E7%96%AB%E6%83%85&Refer=top)
    新
 1. [一切美好都不会失去](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%88%87%E7%BE%8E%E5%A5%BD%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%A4%B1%E5%8E%BB%23&Refer=top)
-   新
+   新 ->
 1. [且试天下](https://s.weibo.com//weibo?q=%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B&Refer=top)
+1. [校长请全校同学吃烧鹅烧鸡](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E9%95%BF%E8%AF%B7%E5%85%A8%E6%A0%A1%E5%90%8C%E5%AD%A6%E5%90%83%E7%83%A7%E9%B9%85%E7%83%A7%E9%B8%A1%23&Refer=top)
+   新
+1. [汪文斌说美方根本没资格奢谈民主人权](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E6%96%87%E6%96%8C%E8%AF%B4%E7%BE%8E%E6%96%B9%E6%A0%B9%E6%9C%AC%E6%B2%A1%E8%B5%84%E6%A0%BC%E5%A5%A2%E8%B0%88%E6%B0%91%E4%B8%BB%E4%BA%BA%E6%9D%83%23&Refer=top)
+   新
+1. [美方应对阿富汗人民失去的20年作出道歉赔偿](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%96%B9%E5%BA%94%E5%AF%B9%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BA%BA%E6%B0%91%E5%A4%B1%E5%8E%BB%E7%9A%8420%E5%B9%B4%E4%BD%9C%E5%87%BA%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF%23&Refer=top)
+   新
 
 <!-- END -->
 

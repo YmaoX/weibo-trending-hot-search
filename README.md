@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 29 2022 02:20:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 29 2022 03:13:40 GMT+0800 (China Standard Time) -->
 
 1. [时代造就青年盛世成就青年](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E9%80%A0%E5%B0%B1%E9%9D%92%E5%B9%B4%E7%9B%9B%E4%B8%96%E6%88%90%E5%B0%B1%E9%9D%92%E5%B9%B4%23&Refer=new_time)
    热
@@ -89,7 +89,7 @@
 1. [小伙减重70斤颜值大变](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E5%87%8F%E9%87%8D70%E6%96%A4%E9%A2%9C%E5%80%BC%E5%A4%A7%E5%8F%98%23&Refer=top)
    新 ->
 1. [新郎新娘同名同姓同年生](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E5%90%8C%E5%B9%B4%E7%94%9F%23&Refer=top)
-   新
+   新 ->
 1. [特战荣耀](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%88%98%E8%8D%A3%E8%80%80%23&Refer=top)
    新
 1. [华为手环7](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%89%8B%E7%8E%AF7%23&Refer=top)
@@ -100,6 +100,7 @@
 1. [BIGBANG新歌6个一位](https://s.weibo.com//weibo?q=%23BIGBANG%E6%96%B0%E6%AD%8C6%E4%B8%AA%E4%B8%80%E4%BD%8D%23&Refer=top)
 1. [日本仙台发现新型新冠重组毒株](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BB%99%E5%8F%B0%E5%8F%91%E7%8E%B0%E6%96%B0%E5%9E%8B%E6%96%B0%E5%86%A0%E9%87%8D%E7%BB%84%E6%AF%92%E6%A0%AA%23&Refer=top)
    新
+1. [广州疫情](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85&Refer=top)
 
 <!-- END -->
 

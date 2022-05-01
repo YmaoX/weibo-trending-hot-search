@@ -132,7 +132,7 @@
   {
     "url": "/weibo?q=%23%E5%9F%BA%E8%BE%85%E5%B9%BD%E7%81%B5%E8%A2%AB%E8%AF%81%E5%AE%9E%E5%B7%B2%E6%AD%BB%E4%BA%A1%23&Refer=top",
     "title": "基辅幽灵被证实已死亡",
-    "mark": " -> 热 -> "
+    "mark": " -> 热 ->  -> 热"
   },
   {
     "url": "/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%B8%80%E5%B9%B4%23&Refer=top",
@@ -262,6 +262,16 @@
   {
     "url": "/weibo?q=%E6%B2%A1%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%B8%80%E5%B9%B4&Refer=top",
     "title": "没有工作的一年",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%A6%B9%E5%A6%B9%E6%98%AF%E5%AF%BC%E5%BC%B9%E5%B0%84%E6%89%8B%E5%A7%90%E5%A7%90%E6%9B%BE%E6%98%AF%E8%88%AA%E6%AF%8D%E5%A5%B3%E5%85%B5%23&Refer=top",
+    "title": "妹妹是导弹射手姐姐曾是航母女兵",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B&Refer=top",
+    "title": "且试天下",
     "mark": ""
   }
 ]

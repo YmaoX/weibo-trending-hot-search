@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 04 2022 03:13:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 04 2022 04:17:07 GMT+0800 (China Standard Time) -->
 
 1. [第26届中国青年五四奖章评选揭晓](https://s.weibo.com//weibo?q=%23%E7%AC%AC26%E5%B1%8A%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E4%BA%94%E5%9B%9B%E5%A5%96%E7%AB%A0%E8%AF%84%E9%80%89%E6%8F%AD%E6%99%93%23&Refer=new_time)
    热
@@ -93,6 +93,13 @@
 1. [中国青年军人跨越百年向先辈承诺](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E5%86%9B%E4%BA%BA%E8%B7%A8%E8%B6%8A%E7%99%BE%E5%B9%B4%E5%90%91%E5%85%88%E8%BE%88%E6%89%BF%E8%AF%BA%23&Refer=top)
 1. [灰烬Alex](https://s.weibo.com//weibo?q=%E7%81%B0%E7%83%ACAlex&Refer=top)
 1. [风起陇西](https://s.weibo.com//weibo?q=%E9%A3%8E%E8%B5%B7%E9%99%87%E8%A5%BF&Refer=top)
+1. [好日子都是奋斗出来的](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E6%97%A5%E5%AD%90%E9%83%BD%E6%98%AF%E5%A5%8B%E6%96%97%E5%87%BA%E6%9D%A5%E7%9A%84%23&Refer=new_time)
+   热
+1. [王牌对王牌](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C&Refer=top)
+1. [淡定卡手萌娃脱困后飞吻消防员](https://s.weibo.com//weibo?q=%23%E6%B7%A1%E5%AE%9A%E5%8D%A1%E6%89%8B%E8%90%8C%E5%A8%83%E8%84%B1%E5%9B%B0%E5%90%8E%E9%A3%9E%E5%90%BB%E6%B6%88%E9%98%B2%E5%91%98%23&Refer=top)
+   新
+1. [五一特别节目实干伟业](https://s.weibo.com//weibo?q=%23%E4%BA%94%E4%B8%80%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%E5%AE%9E%E5%B9%B2%E4%BC%9F%E4%B8%9A%23&Refer=top)
+   新
 
 <!-- END -->
 

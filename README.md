@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 05 2022 02:19:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 05 2022 03:13:43 GMT+0800 (China Standard Time) -->
 
 1. [我们正青春](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%BB%AC%E6%AD%A3%E9%9D%92%E6%98%A5%23&Refer=new_time)
    热
@@ -99,6 +99,8 @@
    新
 1. [风起陇西](https://s.weibo.com//weibo?q=%E9%A3%8E%E8%B5%B7%E9%99%87%E8%A5%BF&Refer=top)
 1. [孙宇航和孙宇航恋爱了](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%AE%87%E8%88%AA%E5%92%8C%E5%AD%99%E5%AE%87%E8%88%AA%E6%81%8B%E7%88%B1%E4%BA%86%23&Refer=top)
+   新
+1. [游乐园回应过山车悬停半空18人被困](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%9B%9E%E5%BA%94%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%82%AC%E5%81%9C%E5%8D%8A%E7%A9%BA18%E4%BA%BA%E8%A2%AB%E5%9B%B0%23&Refer=top)
    新
 
 <!-- END -->

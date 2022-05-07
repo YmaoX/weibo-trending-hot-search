@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 08 2022 02:18:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 08 2022 03:14:48 GMT+0800 (China Standard Time) -->
 
 1. [走进老区看新貌](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E8%80%81%E5%8C%BA%E7%9C%8B%E6%96%B0%E8%B2%8C%23&Refer=new_time)
    热
@@ -97,6 +97,8 @@
 1. [青年成长手册](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B9%B4%E6%88%90%E9%95%BF%E6%89%8B%E5%86%8C%23&Refer=new_time)
    热
 1. [无忧渡](https://s.weibo.com//weibo?q=%E6%97%A0%E5%BF%A7%E6%B8%A1&Refer=top) 新
+   ->
+1. [我的解放日志](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E8%A7%A3%E6%94%BE%E6%97%A5%E5%BF%97&Refer=top)
 
 <!-- END -->
 

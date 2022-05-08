@@ -103,7 +103,7 @@
   {
     "url": "/weibo?q=%23Yagao%E9%81%93%E6%AD%89%23&Refer=top",
     "title": "Yagao道歉",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E7%AA%81%E8%AE%BF%E4%B9%8C%E5%85%8B%E5%85%B0%23&Refer=top",
@@ -233,12 +233,12 @@
   {
     "url": "/weibo?q=%23%E4%BD%A0%E6%B0%B8%E8%BF%9C%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BF%A1%E5%B7%A6%E6%A2%93%E8%BD%A9%23&Refer=top",
     "title": "你永远可以相信左梓轩",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%82%A3%E4%BA%9B%E5%B9%B4%E5%A6%88%E5%A6%88%E7%9A%84%E5%8F%A3%E5%A4%B4%E7%A6%85%23&Refer=top",
     "title": "那些年妈妈的口头禅",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%A1%BA%E4%B9%89%E5%8C%BA%E6%98%8E%E8%B5%B7%E5%90%84%E5%8D%95%E4%BD%8D%E4%BB%A5%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%E4%B8%BA%E4%B8%BB%23&Refer=top",
@@ -248,12 +248,12 @@
   {
     "url": "/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E8%A7%82%E7%9C%8B%E7%8B%97%E7%8B%97%E4%BA%89%E5%AE%A0%23&Refer=top",
     "title": "沉浸式观看狗狗争宠",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%235%E5%8F%AA%E5%B0%8F%E7%8C%AB%E8%A2%AB%E5%9B%B0%E8%BD%A6%E8%BA%AB%E8%B7%AF%E4%BA%BA%E9%BD%90%E8%90%A5%E6%95%91%23&Refer=top",
     "title": "5只小猫被困车身路人齐营救",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%86%AC%E5%A4%9C%E9%A5%AE%E9%85%92%E8%BF%87%E9%87%8F%E5%AE%B9%E6%98%93%E4%BC%A4%E8%82%9D%23&Refer=top",
@@ -270,5 +270,10 @@
     "url": "/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%E7%BC%96%E5%B9%B4%E5%8F%B2%23&Refer=top",
     "title": "阴阳师编年史",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E7%94%BB%E5%87%BA%E4%BD%A0%E7%9A%84%E5%BE%AE%E7%AC%91%23&Refer=top",
+    "title": "画出你的微笑",
+    "mark": "新"
   }
 ]

@@ -114,7 +114,7 @@
   {
     "url": "/weibo?q=%E8%8B%8F%E9%86%92%20%E5%88%86%E8%A3%82&Refer=top",
     "title": "苏醒 分裂",
-    "mark": "新"
+    "mark": "新 -> "
   },
   { "url": "/weibo?q=%E7%8F%88%E4%B9%90&Refer=top", "title": "珈乐", "mark": "" },
   {
@@ -200,7 +200,7 @@
   {
     "url": "/weibo?q=%23%E8%B6%85%E5%BC%BA%E5%8F%98%E5%BC%82%E6%96%B0%E5%86%A0%E6%AF%92%E6%A0%AA%E7%99%BB%E9%99%86%E9%9F%A9%E5%9B%BD%23&Refer=top",
     "title": "超强变异新冠毒株登陆韩国",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%A4%A9%E8%A1%8C%E5%81%A5&Refer=top",
@@ -220,7 +220,7 @@
   {
     "url": "/weibo?q=%23%E5%B0%9A%E5%BE%B7%E6%9C%BA%E6%9E%84%E8%A2%AB%E6%9B%9D%E4%BA%94%E5%88%86%E9%92%9F%E6%8A%93%E6%8B%8D%E4%B8%80%E6%AC%A1%E5%B1%85%E5%AE%B6%E5%91%98%E5%B7%A5%23&Refer=top",
     "title": "尚德机构被曝五分钟抓拍一次居家员工",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%81%9A%E6%A0%B8%E9%85%B8%E8%BF%98%E5%BE%97%E6%8A%AC%E5%A4%B4%23&Refer=top",
@@ -250,11 +250,16 @@
   {
     "url": "/weibo?q=%23%E9%99%86%E6%97%A2%E6%98%8E%E4%B8%80%E9%9B%86%E6%BC%94%E4%BA%86%E4%B8%89%E7%A7%8D%E7%8B%97%E5%8B%BE%23&Refer=top",
     "title": "陆既明一集演了三种狗勾",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%BC%94%E5%87%BA%E4%BA%86%E6%9E%97%E6%9D%AD%E6%99%AF%E7%9A%84%E7%A0%B4%E7%A2%8E%E6%84%9F%23&Refer=top",
     "title": "陈都灵演出了林杭景的破碎感",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%AF%B7%E6%8A%8A%E8%BF%99%E4%B8%AA%E6%8E%A8%E7%BB%99%E5%85%89%E5%A4%B4%E5%BC%BA%23&Refer=top",
+    "title": "大数据请把这个推给光头强",
     "mark": "新"
   }
 ]

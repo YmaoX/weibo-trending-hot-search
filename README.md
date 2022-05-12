@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 13 2022 05:13:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 13 2022 06:18:41 GMT+0800 (China Standard Time) -->
 
 1. [共守美好家园](https://s.weibo.com//weibo?q=%23%E5%85%B1%E5%AE%88%E7%BE%8E%E5%A5%BD%E5%AE%B6%E5%9B%AD%23&Refer=new_time)
    热
@@ -91,10 +91,12 @@
 1. [三个少年](https://s.weibo.com//weibo?q=%E4%B8%89%E4%B8%AA%E5%B0%91%E5%B9%B4&Refer=top)
 1. [重生之门](https://s.weibo.com//weibo?q=%E9%87%8D%E7%94%9F%E4%B9%8B%E9%97%A8&Refer=top)
 1. [俄罗斯制裁欧洲天然气企业](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%88%B6%E8%A3%81%E6%AC%A7%E6%B4%B2%E5%A4%A9%E7%84%B6%E6%B0%94%E4%BC%81%E4%B8%9A%23&Refer=top)
-   新
+   新 ->
 1. [本要退休的他在汶川地震中飞向死亡航线](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E8%A6%81%E9%80%80%E4%BC%91%E7%9A%84%E4%BB%96%E5%9C%A8%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E4%B8%AD%E9%A3%9E%E5%90%91%E6%AD%BB%E4%BA%A1%E8%88%AA%E7%BA%BF%23&Refer=top)
-   新
+   新 ->
 1. [厦门暴雨](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%23&Refer=top)
+   新 ->
+1. [雨天如何安全出行](https://s.weibo.com//weibo?q=%23%E9%9B%A8%E5%A4%A9%E5%A6%82%E4%BD%95%E5%AE%89%E5%85%A8%E5%87%BA%E8%A1%8C%23&Refer=top)
    新
 
 <!-- END -->

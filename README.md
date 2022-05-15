@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 16 2022 06:25:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 16 2022 07:16:27 GMT+0800 (China Standard Time) -->
 
 1. [粮食是国之大者咱们一起端稳](https://s.weibo.com//weibo?q=%23%E7%B2%AE%E9%A3%9F%E6%98%AF%E5%9B%BD%E4%B9%8B%E5%A4%A7%E8%80%85%E5%92%B1%E4%BB%AC%E4%B8%80%E8%B5%B7%E7%AB%AF%E7%A8%B3%23&Refer=new_time)
    热
@@ -103,14 +103,16 @@
    新 ->
 1. [我的解放日志](https://s.weibo.com//weibo?q=%E6%88%91%E7%9A%84%E8%A7%A3%E6%94%BE%E6%97%A5%E5%BF%97&Refer=top)
 1. [陆既明把柠檬还给宁檬](https://s.weibo.com//weibo?q=%23%E9%99%86%E6%97%A2%E6%98%8E%E6%8A%8A%E6%9F%A0%E6%AA%AC%E8%BF%98%E7%BB%99%E5%AE%81%E6%AA%AC%23&Refer=top)
-   新
+   新 ->
 1. [骗子被识破后恼羞成怒称好玩吗](https://s.weibo.com//weibo?q=%23%E9%AA%97%E5%AD%90%E8%A2%AB%E8%AF%86%E7%A0%B4%E5%90%8E%E6%81%BC%E7%BE%9E%E6%88%90%E6%80%92%E7%A7%B0%E5%A5%BD%E7%8E%A9%E5%90%97%23&Refer=top)
-   新
+   新 ->
 1. [重庆桶装水坐过山车](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E6%A1%B6%E8%A3%85%E6%B0%B4%E5%9D%90%E8%BF%87%E5%B1%B1%E8%BD%A6%23&Refer=top)
    新
 1. [男孩爬变压器捡球右手烧伤摔落](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E7%88%AC%E5%8F%98%E5%8E%8B%E5%99%A8%E6%8D%A1%E7%90%83%E5%8F%B3%E6%89%8B%E7%83%A7%E4%BC%A4%E6%91%94%E8%90%BD%23&Refer=top)
-   新
+   新 ->
 1. [男子接抛还原魔方并刷新纪录](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%8E%A5%E6%8A%9B%E8%BF%98%E5%8E%9F%E9%AD%94%E6%96%B9%E5%B9%B6%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95%23&Refer=top)
+   新
+1. [新疆天山红河谷初夏美如画](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%A4%A9%E5%B1%B1%E7%BA%A2%E6%B2%B3%E8%B0%B7%E5%88%9D%E5%A4%8F%E7%BE%8E%E5%A6%82%E7%94%BB%23&Refer=top)
    新
 
 <!-- END -->

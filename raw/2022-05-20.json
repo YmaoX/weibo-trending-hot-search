@@ -576,7 +576,7 @@
   {
     "url": "/weibo?q=%E7%BA%B8%E5%AB%81%E8%A1%A3&Refer=top",
     "title": "纸嫁衣",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%88%91%E7%9A%84%E4%BD%93%E5%9D%9B%E7%99%BD%E6%9C%88%E5%85%89%23&Refer=top",
@@ -591,7 +591,7 @@
   {
     "url": "/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A9%BF%E5%A5%B3%E8%A3%85%E8%BF%9B%E4%BA%B2%E6%88%9A%E5%AE%B6%E5%81%B720%E5%A4%9A%E4%BB%B6%E9%93%B6%E9%A5%B0%23&Refer=top",
     "title": "男子穿女装进亲戚家偷20多件银饰",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A20%E4%BE%8B%23&Refer=top",
@@ -646,22 +646,22 @@
   {
     "url": "/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%A6%81%E6%AD%A2%E5%8D%8E%E4%B8%BA%E4%B8%AD%E5%85%B4%E5%8F%82%E4%B8%8E%E5%8A%A05G%E7%BD%91%E7%BB%9C%E5%BB%BA%E8%AE%BE%23&Refer=top",
     "title": "加拿大禁止华为中兴参与加5G网络建设",
-    "mark": "新"
+    "mark": "新 -> 热"
   },
   {
     "url": "/weibo?q=%23%E7%94%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9A%84%E4%B8%80%E5%8F%A5%E6%AD%8C%E8%AF%8D%E6%9D%A5%E5%91%8A%E7%99%BD%23&Refer=top",
     "title": "用周杰伦的一句歌词来告白",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%83%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E5%A4%96%E5%87%BA%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E8%A2%AB%E7%AB%8B%E6%A1%88%23&Refer=top",
     "title": "郑大回应女生外出感染新冠被立案",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E4%B8%8B%E5%B7%B4%E8%84%B1%E8%87%BC%E8%80%81%E5%B8%88%E7%8E%B0%E5%9C%BA%E6%95%99%E5%AD%A6%E5%A4%8D%E4%BD%8D%23&Refer=top",
     "title": "医学生下巴脱臼老师现场教学复位",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%8F%A4%E8%8C%97&Refer=top",
@@ -671,7 +671,7 @@
   {
     "url": "/weibo?q=%23%E6%83%B3%E8%A7%81%E4%BD%A0%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&Refer=top",
     "title": "想见你阵容官宣",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A6%82%E4%BD%95%E6%8A%8A%E8%BF%90%E5%8A%A8%E7%8E%A9%E5%87%BA%E9%AB%98%E7%BA%A7%E6%84%9F%23&Refer=top",
@@ -686,7 +686,7 @@
   {
     "url": "/weibo?q=%2300%E5%90%8E%E8%AF%B4%E8%B0%88%E6%81%8B%E7%88%B1%E5%B0%B1%E5%83%8F%E6%8B%86%E7%9B%B2%E7%9B%92%23&Refer=top",
     "title": "00后说谈恋爱就像拆盲盒",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA&Refer=top",
@@ -762,6 +762,81 @@
   {
     "url": "/weibo?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6115%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86&Refer=top",
     "title": "同济大学115周年校庆",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%8F%91%E6%9D%A1%E5%BE%AE%E5%8D%9A%E8%A1%A8%E7%99%BD%E7%A5%96%E5%9B%BD%23&Refer=new_time",
+    "title": "今天发条微博表白祖国",
+    "mark": "热"
+  },
+  {
+    "url": "/weibo?q=%23%E5%AE%81%E9%9D%99%E9%82%A3%E8%8B%B1%E6%89%93%E8%B5%B7%E6%9D%A5%23&Refer=top",
+    "title": "宁静那英打起来",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E5%86%8D%E5%94%B1%E7%88%B1%E4%BD%A0%23&Refer=top",
+    "title": "王心凌乘风破浪再唱爱你",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A6%BB%E5%AD%90%E5%AD%95%E6%9C%9F%E5%90%8C%E6%97%B6%E4%B8%8E30%E5%90%8D%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%23&Refer=top",
+    "title": "男子在妻子孕期同时与30名女子恋爱",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%83%91%E7%A7%80%E5%A6%8D%E5%88%9D%E8%88%9E%E5%8F%B0%23&Refer=top",
+    "title": "郑秀妍初舞台",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23520%E8%BF%9E%E6%B0%91%E6%94%BF%E5%B1%80%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%8D%B7%23&Refer=top",
+    "title": "520连民政局也开始卷",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%88%91%E7%9A%84520belike%23&Refer=top",
+    "title": "我的520belike",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B&Refer=top",
+    "title": "光与夜之恋",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%91%86%E9%98%BF%E6%8B%BF%E8%A2%AB%E6%B1%82%E5%A9%9A%23&Refer=top",
+    "title": "呆阿拿被求婚",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23RNG%E5%9C%A8MSI%E5%A4%BA%E5%86%A0%E5%9B%9B%E5%91%A8%E5%B9%B4%23&Refer=top",
+    "title": "RNG在MSI夺冠四周年",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%AE%B8%E5%87%AF520%E8%83%B6%E7%89%87%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%B5%B7%E6%8A%A5%23&Refer=top",
+    "title": "杨幂许凯520胶片氛围感海报",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%BC%A0%E5%A9%A7%E4%BB%AA520%E6%9C%89%E6%95%88%E5%8F%91%E7%B3%96%23&Refer=top",
+    "title": "陈飞宇张婧仪520有效发糖",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%96%B0%E7%96%86%E7%9C%81%E8%80%83&Refer=top",
+    "title": "新疆省考",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%E9%AB%98%E5%A4%A9%E5%8E%9F%E4%B9%8B%E5%BF%86%E7%BB%88%E7%AB%A0%23&Refer=top",
+    "title": "阴阳师高天原之忆终章",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E9%A3%9E%E5%A5%94%E6%8A%B1%E8%B5%B7%E5%AD%A9%E5%AD%90%23&Refer=top",
+    "title": "父亲地震瞬间飞奔抱起孩子",
     "mark": "新"
   }
 ]

@@ -370,7 +370,7 @@
   {
     "url": "/weibo?q=%23%E6%B1%89%E6%BA%90%E5%9C%B0%E9%9C%87%23&Refer=top",
     "title": "汉源地震",
-    "mark": "爆 -> 沸 -> 热"
+    "mark": "爆 -> 沸 -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%9B%85%E5%AE%894.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top",
@@ -777,7 +777,7 @@
   {
     "url": "/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E5%86%8D%E5%94%B1%E7%88%B1%E4%BD%A0%23&Refer=top",
     "title": "王心凌乘风破浪再唱爱你",
-    "mark": "新"
+    "mark": "新 -> 沸"
   },
   {
     "url": "/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A6%BB%E5%AD%90%E5%AD%95%E6%9C%9F%E5%90%8C%E6%97%B6%E4%B8%8E30%E5%90%8D%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%23&Refer=top",
@@ -787,12 +787,12 @@
   {
     "url": "/weibo?q=%23%E9%83%91%E7%A7%80%E5%A6%8D%E5%88%9D%E8%88%9E%E5%8F%B0%23&Refer=top",
     "title": "郑秀妍初舞台",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23520%E8%BF%9E%E6%B0%91%E6%94%BF%E5%B1%80%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%8D%B7%23&Refer=top",
     "title": "520连民政局也开始卷",
-    "mark": "新"
+    "mark": "新 -> 热"
   },
   {
     "url": "/weibo?q=%23%E6%88%91%E7%9A%84520belike%23&Refer=top",
@@ -807,7 +807,7 @@
   {
     "url": "/weibo?q=%23%E5%91%86%E9%98%BF%E6%8B%BF%E8%A2%AB%E6%B1%82%E5%A9%9A%23&Refer=top",
     "title": "呆阿拿被求婚",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23RNG%E5%9C%A8MSI%E5%A4%BA%E5%86%A0%E5%9B%9B%E5%91%A8%E5%B9%B4%23&Refer=top",
@@ -827,7 +827,7 @@
   {
     "url": "/weibo?q=%E6%96%B0%E7%96%86%E7%9C%81%E8%80%83&Refer=top",
     "title": "新疆省考",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%E9%AB%98%E5%A4%A9%E5%8E%9F%E4%B9%8B%E5%BF%86%E7%BB%88%E7%AB%A0%23&Refer=top",
@@ -837,17 +837,17 @@
   {
     "url": "/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E9%A3%9E%E5%A5%94%E6%8A%B1%E8%B5%B7%E5%AD%A9%E5%AD%90%23&Refer=top",
     "title": "父亲地震瞬间飞奔抱起孩子",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%87%91%E4%BD%B3%E8%93%9D%E6%9A%82%E5%81%9C%E6%B4%BB%E5%8A%A8%23&Refer=top",
     "title": "金佳蓝暂停活动",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B9%96%E5%AD%A9%E5%AD%90%E5%86%92%E5%85%85%E5%B8%B8%E6%98%A5%E8%97%A4%E9%AB%98%E6%9D%90%E7%94%9F%E8%AF%88%E9%AA%97%E7%88%B6%E6%AF%8D%E4%BA%B2%E6%88%9A1.6%E4%BA%BF%23&Refer=top",
     "title": "乖孩子冒充常春藤高材生诈骗父母亲戚1.6亿",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%9B%9B%E5%8D%81%E5%B2%81%E7%9A%84%E8%96%9B%E5%87%AF%E7%90%AA%23&Refer=top",
@@ -867,7 +867,7 @@
   {
     "url": "/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B6%E9%81%87%E8%9B%87%E6%B2%BF%E5%A2%99%E7%BC%9D%E7%88%AC%E8%A1%8C%E4%BC%BC%E8%B4%AA%E5%90%83%E8%9B%87%23&Refer=top",
     "title": "男子偶遇蛇沿墙缝爬行似贪吃蛇",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%231%E7%B1%B3%E6%98%AF%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84%23&Refer=top",
@@ -918,5 +918,51 @@
     "url": "/weibo?q=%23%E6%88%91%E7%9A%84cp%E4%B8%96%E6%9C%80%E4%BD%B3%23&Refer=top",
     "title": "我的cp世最佳",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%8F%A4%E8%8C%97%23&Refer=top",
+    "title": "古茗",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%E4%B9%9F%E5%A4%AA%E7%98%A6%E4%BA%86%23&Refer=top",
+    "title": "张天爱也太瘦了",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E7%8C%B4%E7%97%98&Refer=top",
+    "title": "猴痘",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23520%E9%99%90%E5%AE%9A%E5%A5%B3%E5%8F%8B%E7%BA%A6%E4%BC%9A%E5%A6%86%23&Refer=top",
+    "title": "520限定女友约会妆",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E5%88%9D%E8%88%9E%E5%8F%B0%23&Refer=top",
+    "title": "乘风破浪初舞台",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E8%B0%A2%E5%A8%9C%E4%B8%BB%E6%8C%81&Refer=top",
+    "title": "谢娜主持",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%B7%B4%E9%BB%8E%E4%B8%96%E4%B9%92%E8%B5%9B%E5%8D%AB%E5%86%95%E4%B9%9D%E5%91%A8%E5%B9%B4%23&Refer=top",
+    "title": "张继科巴黎世乒赛卫冕九周年",
+    "mark": "新"
+  },
+  { "url": "/weibo?q=2022MSI&Refer=top", "title": "2022MSI", "mark": "新" },
+  {
+    "url": "/weibo?q=%23%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E5%90%8E%E6%9C%9F%23&Refer=top",
+    "title": "乘风破浪后期",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%93%9D%E6%9C%8B%E5%8F%8B%E8%A1%A8%E7%99%BD%E5%AD%A3%23&Refer=top",
+    "title": "蓝朋友表白季",
+    "mark": ""
   }
 ]

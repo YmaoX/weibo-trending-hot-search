@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 24 2022 04:18:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 24 2022 05:15:08 GMT+0800 (China Standard Time) -->
 
 1. [让中国文艺的天空更加群星灿烂](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E4%B8%AD%E5%9B%BD%E6%96%87%E8%89%BA%E7%9A%84%E5%A4%A9%E7%A9%BA%E6%9B%B4%E5%8A%A0%E7%BE%A4%E6%98%9F%E7%81%BF%E7%83%82%23&Refer=new_time)
    热
@@ -45,7 +45,7 @@
    热 ->
 1. [北京海淀迅速开展重点区域风险人员转运](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%B5%B7%E6%B7%80%E8%BF%85%E9%80%9F%E5%BC%80%E5%B1%95%E9%87%8D%E7%82%B9%E5%8C%BA%E5%9F%9F%E9%A3%8E%E9%99%A9%E4%BA%BA%E5%91%98%E8%BD%AC%E8%BF%90%23&Refer=top)
 1. [王心凌 断层](https://s.weibo.com//weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%20%E6%96%AD%E5%B1%82&Refer=top)
-   热 -> 沸
+   热 -> 沸 -> 热
 1. [清华大学称网传报考协警博士不在该校学籍库](https://s.weibo.com//weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%A7%B0%E7%BD%91%E4%BC%A0%E6%8A%A5%E8%80%83%E5%8D%8F%E8%AD%A6%E5%8D%9A%E5%A3%AB%E4%B8%8D%E5%9C%A8%E8%AF%A5%E6%A0%A1%E5%AD%A6%E7%B1%8D%E5%BA%93%23&Refer=top)
 1. [哪些小说顶级耐看经久不衰](https://s.weibo.com//weibo?q=%23%E5%93%AA%E4%BA%9B%E5%B0%8F%E8%AF%B4%E9%A1%B6%E7%BA%A7%E8%80%90%E7%9C%8B%E7%BB%8F%E4%B9%85%E4%B8%8D%E8%A1%B0%23&Refer=top)
 1. [接触猴痘病毒后接种天花疫苗仍有效](https://s.weibo.com//weibo?q=%23%E6%8E%A5%E8%A7%A6%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92%E5%90%8E%E6%8E%A5%E7%A7%8D%E5%A4%A9%E8%8A%B1%E7%96%AB%E8%8B%97%E4%BB%8D%E6%9C%89%E6%95%88%23&Refer=top)
@@ -95,16 +95,22 @@
 1. [追寻足迹坚守初心](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E5%AF%BB%E8%B6%B3%E8%BF%B9%E5%9D%9A%E5%AE%88%E5%88%9D%E5%BF%83%23&Refer=new_time)
    热
 1. [三份猴痘病毒最新基因测序结果公布](https://s.weibo.com//weibo?q=%23%E4%B8%89%E4%BB%BD%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92%E6%9C%80%E6%96%B0%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8F%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23&Refer=top)
-   新
+   新 ->
 1. [MANNER咖啡一上海门店被立案调查](https://s.weibo.com//weibo?q=%23MANNER%E5%92%96%E5%95%A1%E4%B8%80%E4%B8%8A%E6%B5%B7%E9%97%A8%E5%BA%97%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&Refer=top)
    新 ->
 1. [夏天戴口罩要注意什么](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E5%A4%A9%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&Refer=top)
-   新
+   新 ->
 1. [男子酒驾被查疯狂抱怨姐姐害死人](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E7%96%AF%E7%8B%82%E6%8A%B1%E6%80%A8%E5%A7%90%E5%A7%90%E5%AE%B3%E6%AD%BB%E4%BA%BA%23&Refer=top)
    新
 1. [建设方舱医院绝不是疫情严重的信号](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%BE%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%E7%BB%9D%E4%B8%8D%E6%98%AF%E7%96%AB%E6%83%85%E4%B8%A5%E9%87%8D%E7%9A%84%E4%BF%A1%E5%8F%B7%23&Refer=top)
    新
 1. [柯桥新增2例阳性感染者](https://s.weibo.com//weibo?q=%E6%9F%AF%E6%A1%A5%E6%96%B0%E5%A2%9E2%E4%BE%8B%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85&Refer=top)
+   新
+1. [土坑酸菜涉事11家企业复工复产](https://s.weibo.com//weibo?q=%23%E5%9C%9F%E5%9D%91%E9%85%B8%E8%8F%9C%E6%B6%89%E4%BA%8B11%E5%AE%B6%E4%BC%81%E4%B8%9A%E5%A4%8D%E5%B7%A5%E5%A4%8D%E4%BA%A7%23&Refer=top)
+   新
+1. [疫情防控中防是成本最低的](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E4%B8%AD%E9%98%B2%E6%98%AF%E6%88%90%E6%9C%AC%E6%9C%80%E4%BD%8E%E7%9A%84%23&Refer=top)
+   新
+1. [北京新发地封控传言不属实](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%8F%91%E5%9C%B0%E5%B0%81%E6%8E%A7%E4%BC%A0%E8%A8%80%E4%B8%8D%E5%B1%9E%E5%AE%9E%23&Refer=top)
    新
 
 <!-- END -->

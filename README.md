@@ -14,12 +14,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 25 2022 06:16:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 25 2022 07:17:18 GMT+0800 (China Standard Time) -->
 
 1. [增强紧迫感稳住基本盘](https://s.weibo.com//weibo?q=%23%E5%A2%9E%E5%BC%BA%E7%B4%A7%E8%BF%AB%E6%84%9F%E7%A8%B3%E4%BD%8F%E5%9F%BA%E6%9C%AC%E7%9B%98%23&Refer=new_time)
    热
 1. [浪姐4能不能请孙燕姿](https://s.weibo.com//weibo?q=%23%E6%B5%AA%E5%A7%904%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AF%B7%E5%AD%99%E7%87%95%E5%A7%BF%23&Refer=top)
-   沸 -> 热 -> 沸
+   沸 -> 热 -> 沸 ->
 1. [看了能戒奶茶](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E4%BA%86%E8%83%BD%E6%88%92%E5%A5%B6%E8%8C%B6%23&Refer=top)
    新 ->
 1. [为2022届高考生加油](https://s.weibo.com//weibo?q=%23%E4%B8%BA2022%E5%B1%8A%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&Refer=top)
@@ -102,6 +102,12 @@
    新 ->
 1. [MSI导播](https://s.weibo.com//weibo?q=%23MSI%E5%AF%BC%E6%92%AD%23&Refer=top) 新
 1. [喜鹊飞进高三教室停留20多分钟](https://s.weibo.com//weibo?q=%23%E5%96%9C%E9%B9%8A%E9%A3%9E%E8%BF%9B%E9%AB%98%E4%B8%89%E6%95%99%E5%AE%A4%E5%81%9C%E7%95%9920%E5%A4%9A%E5%88%86%E9%92%9F%23&Refer=top)
+   新 ->
+1. [四川乐山2.9级地震](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E4%B9%90%E5%B1%B12.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top)
+   新
+1. [你可以永远相信陶昕然的演技](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E9%99%B6%E6%98%95%E7%84%B6%E7%9A%84%E6%BC%94%E6%8A%80%23&Refer=top)
+   新
+1. [乘风破浪是搞笑女集齐地吧](https://s.weibo.com//weibo?q=%23%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E6%98%AF%E6%90%9E%E7%AC%91%E5%A5%B3%E9%9B%86%E9%BD%90%E5%9C%B0%E5%90%A7%23&Refer=top)
    新
 
 <!-- END -->

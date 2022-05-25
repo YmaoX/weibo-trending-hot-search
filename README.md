@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 26 2022 03:13:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 26 2022 04:17:59 GMT+0800 (China Standard Time) -->
 
 1. [践行嘱托十年间](https://s.weibo.com//weibo?q=%23%E8%B7%B5%E8%A1%8C%E5%98%B1%E6%89%98%E5%8D%81%E5%B9%B4%E9%97%B4%23&Refer=new_time)
    热
@@ -34,6 +34,7 @@
    新 ->
 1. [可达鸭大学生](https://s.weibo.com//weibo?q=%23%E5%8F%AF%E8%BE%BE%E9%B8%AD%E5%A4%A7%E5%AD%A6%E7%94%9F%23&Refer=top)
 1. [刘畊宏](https://s.weibo.com//weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F&Refer=top) 热
+   ->
 1. [和闺蜜闹掰一年后发的短信](https://s.weibo.com//weibo?q=%23%E5%92%8C%E9%97%BA%E8%9C%9C%E9%97%B9%E6%8E%B0%E4%B8%80%E5%B9%B4%E5%90%8E%E5%8F%91%E7%9A%84%E7%9F%AD%E4%BF%A1%23&Refer=top)
 1. [内娱 文艺复兴](https://s.weibo.com//weibo?q=%E5%86%85%E5%A8%B1%20%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4&Refer=top)
    热 ->
@@ -89,6 +90,12 @@
 1. [努力建设更高水平的平安中国](https://s.weibo.com//weibo?q=%23%E5%8A%AA%E5%8A%9B%E5%BB%BA%E8%AE%BE%E6%9B%B4%E9%AB%98%E6%B0%B4%E5%B9%B3%E7%9A%84%E5%B9%B3%E5%AE%89%E4%B8%AD%E5%9B%BD%23&Refer=new_time)
    热
 1. [梦华录](https://s.weibo.com//weibo?q=%E6%A2%A6%E5%8D%8E%E5%BD%95&Refer=top)
+1. [甘肃体罚学生幼儿园教师被解聘](https://s.weibo.com//weibo?q=%23%E7%94%98%E8%82%83%E4%BD%93%E7%BD%9A%E5%AD%A6%E7%94%9F%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%95%99%E5%B8%88%E8%A2%AB%E8%A7%A3%E8%81%98%23&Refer=top)
+   新
+1. [国防部称中俄联合空中战略巡航与当前局势无关](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E4%B8%AD%E4%BF%84%E8%81%94%E5%90%88%E7%A9%BA%E4%B8%AD%E6%88%98%E7%95%A5%E5%B7%A1%E8%88%AA%E4%B8%8E%E5%BD%93%E5%89%8D%E5%B1%80%E5%8A%BF%E6%97%A0%E5%85%B3%23&Refer=top)
+   新
+1. [千名学生齐唱我们的明天为高三加油](https://s.weibo.com//weibo?q=%23%E5%8D%83%E5%90%8D%E5%AD%A6%E7%94%9F%E9%BD%90%E5%94%B1%E6%88%91%E4%BB%AC%E7%9A%84%E6%98%8E%E5%A4%A9%E4%B8%BA%E9%AB%98%E4%B8%89%E5%8A%A0%E6%B2%B9%23&Refer=top)
+   新
 
 <!-- END -->
 

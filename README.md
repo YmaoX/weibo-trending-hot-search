@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 30 2022 01:19:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 30 2022 02:19:17 GMT+0800 (China Standard Time) -->
 
 1. [为维护世界和平贡献更多中国力量](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E7%BB%B4%E6%8A%A4%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3%E8%B4%A1%E7%8C%AE%E6%9B%B4%E5%A4%9A%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F%23&Refer=new_time)
    热
@@ -39,7 +39,7 @@
 1. [刘畊宏直播](https://s.weibo.com//weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%E7%9B%B4%E6%92%AD&Refer=top)
 1. [新确认3位日军慰安妇制度受害幸存者](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%A1%AE%E8%AE%A43%E4%BD%8D%E6%97%A5%E5%86%9B%E6%85%B0%E5%AE%89%E5%A6%87%E5%88%B6%E5%BA%A6%E5%8F%97%E5%AE%B3%E5%B9%B8%E5%AD%98%E8%80%85%23&Refer=top)
 1. [长期不吃晚饭真的会变瘦吗](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%90%83%E6%99%9A%E9%A5%AD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E7%98%A6%E5%90%97%23&Refer=top)
-   新
+   新 ->
 1. [618红包](https://s.weibo.com//weibo?q=%23618%E7%BA%A2%E5%8C%85%23&Refer=top)
 1. [RNG亮了G2队标](https://s.weibo.com//weibo?q=%23RNG%E4%BA%AE%E4%BA%86G2%E9%98%9F%E6%A0%87%23&Refer=top)
 1. [四川7村民上山挖虫草遭雷击身亡](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D7%E6%9D%91%E6%B0%91%E4%B8%8A%E5%B1%B1%E6%8C%96%E8%99%AB%E8%8D%89%E9%81%AD%E9%9B%B7%E5%87%BB%E8%BA%AB%E4%BA%A1%23&Refer=top)
@@ -64,7 +64,7 @@
 1. [上海对不裁员少裁员困难企业最高补贴300万](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%AF%B9%E4%B8%8D%E8%A3%81%E5%91%98%E5%B0%91%E8%A3%81%E5%91%98%E5%9B%B0%E9%9A%BE%E4%BC%81%E4%B8%9A%E6%9C%80%E9%AB%98%E8%A1%A5%E8%B4%B4300%E4%B8%87%23&Refer=top)
 1. [金色的雨](https://s.weibo.com//weibo?q=%23%E9%87%91%E8%89%B2%E7%9A%84%E9%9B%A8%23&Refer=top)
 1. [专柜花4万买迪奥包怀疑是假货](https://s.weibo.com//weibo?q=%23%E4%B8%93%E6%9F%9C%E8%8A%B14%E4%B8%87%E4%B9%B0%E8%BF%AA%E5%A5%A5%E5%8C%85%E6%80%80%E7%96%91%E6%98%AF%E5%81%87%E8%B4%A7%23&Refer=top)
-   新
+   新 ->
 1. [台湾新增新冠肺炎死亡病例145例](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B145%E4%BE%8B%23&Refer=top)
 1. [安踏女鞋海报被指有擦边色情嫌疑](https://s.weibo.com//weibo?q=%23%E5%AE%89%E8%B8%8F%E5%A5%B3%E9%9E%8B%E6%B5%B7%E6%8A%A5%E8%A2%AB%E6%8C%87%E6%9C%89%E6%93%A6%E8%BE%B9%E8%89%B2%E6%83%85%E5%AB%8C%E7%96%91%23&Refer=top)
 1. [感谢圣枪哥](https://s.weibo.com//weibo?q=%23%E6%84%9F%E8%B0%A2%E5%9C%A3%E6%9E%AA%E5%93%A5%23&Refer=top)
@@ -80,11 +80,15 @@
 1. [总书记与我们心连心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%8E%E6%88%91%E4%BB%AC%E5%BF%83%E8%BF%9E%E5%BF%83%23&Refer=new_time)
    热
 1. [黄子韬的抓鸡名场面突然开始攻击我](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9A%84%E6%8A%93%E9%B8%A1%E5%90%8D%E5%9C%BA%E9%9D%A2%E7%AA%81%E7%84%B6%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E6%88%91%23&Refer=top)
-   新
+   新 ->
 1. [易钟灵席维安终于双箭头了](https://s.weibo.com//weibo?q=%23%E6%98%93%E9%92%9F%E7%81%B5%E5%B8%AD%E7%BB%B4%E5%AE%89%E7%BB%88%E4%BA%8E%E5%8F%8C%E7%AE%AD%E5%A4%B4%E4%BA%86%23&Refer=top)
    新
 1. [传家](https://s.weibo.com//weibo?q=%E4%BC%A0%E5%AE%B6&Refer=top)
 1. [法网2022](https://s.weibo.com//weibo?q=%23%E6%B3%95%E7%BD%912022%23&Refer=top)
+1. [龚俊恭喜RNG夺冠](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%81%AD%E5%96%9CRNG%E5%A4%BA%E5%86%A0%23&Refer=top)
+   新
+1. [暗夜行者 高能](https://s.weibo.com//weibo?q=%E6%9A%97%E5%A4%9C%E8%A1%8C%E8%80%85%20%E9%AB%98%E8%83%BD&Refer=top)
+   新
 
 <!-- END -->
 

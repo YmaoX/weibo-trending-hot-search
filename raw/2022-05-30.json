@@ -266,11 +266,16 @@
   {
     "url": "/weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%81%AD%E5%96%9CRNG%E5%A4%BA%E5%86%A0%23&Refer=top",
     "title": "龚俊恭喜RNG夺冠",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%9A%97%E5%A4%9C%E8%A1%8C%E8%80%85%20%E9%AB%98%E8%83%BD&Refer=top",
     "title": "暗夜行者 高能",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23GALA%E5%8D%95%E6%9D%80Gumayusi%23&Refer=top",
+    "title": "GALA单杀Gumayusi",
     "mark": "新"
   }
 ]

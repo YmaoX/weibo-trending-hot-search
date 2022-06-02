@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 03 2022 01:26:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 03 2022 02:20:26 GMT+0800 (China Standard Time) -->
 
 1. [最温柔的牵挂](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%B8%A9%E6%9F%94%E7%9A%84%E7%89%B5%E6%8C%82%23&Refer=new_time)
    热
@@ -48,7 +48,7 @@
 1. [幼儿园请洒水车带全校孩子打水仗](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%AF%B7%E6%B4%92%E6%B0%B4%E8%BD%A6%E5%B8%A6%E5%85%A8%E6%A0%A1%E5%AD%A9%E5%AD%90%E6%89%93%E6%B0%B4%E4%BB%97%23&Refer=top)
    新 ->
 1. [原来屈原才是中国式浪漫鼻祖](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B1%88%E5%8E%9F%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%E9%BC%BB%E7%A5%96%23&Refer=top)
-   新
+   新 ->
 1. [橘生淮南](https://s.weibo.com//weibo?q=%E6%A9%98%E7%94%9F%E6%B7%AE%E5%8D%97&Refer=top)
 1. [一定要和爱的人好好相处](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E5%92%8C%E7%88%B1%E7%9A%84%E4%BA%BA%E5%A5%BD%E5%A5%BD%E7%9B%B8%E5%A4%84%23&Refer=top)
 1. [上海新增3例本土确诊4例无症状](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A4%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top)
@@ -62,7 +62,7 @@
 1. [蚊子在50米外就能感知到这类人群](https://s.weibo.com//weibo?q=%23%E8%9A%8A%E5%AD%90%E5%9C%A850%E7%B1%B3%E5%A4%96%E5%B0%B1%E8%83%BD%E6%84%9F%E7%9F%A5%E5%88%B0%E8%BF%99%E7%B1%BB%E4%BA%BA%E7%BE%A4%23&Refer=top)
 1. [金泰亨好帅](https://s.weibo.com//weibo?q=%23%E9%87%91%E6%B3%B0%E4%BA%A8%E5%A5%BD%E5%B8%85%23&Refer=top)
 1. [全华裔主演美剧](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%8D%8E%E8%A3%94%E4%B8%BB%E6%BC%94%E7%BE%8E%E5%89%A7%23&Refer=top)
-   新
+   新 ->
 1. [魔鬼教练刘畊宏原来这么温柔](https://s.weibo.com//weibo?q=%23%E9%AD%94%E9%AC%BC%E6%95%99%E7%BB%83%E5%88%98%E7%95%8A%E5%AE%8F%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E6%B8%A9%E6%9F%94%23&Refer=top)
    新
 1. [BLG公布夏季赛大名单](https://s.weibo.com//weibo?q=%23BLG%E5%85%AC%E5%B8%83%E5%A4%8F%E5%AD%A3%E8%B5%9B%E5%A4%A7%E5%90%8D%E5%8D%95%23&Refer=top)
@@ -80,7 +80,7 @@
 1. [英国女王登基70周年庆典开幕](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E7%99%BB%E5%9F%BA70%E5%91%A8%E5%B9%B4%E5%BA%86%E5%85%B8%E5%BC%80%E5%B9%95%23&Refer=top)
 1. [穿汉服逛市场跟保安闹纠纷](https://s.weibo.com//weibo?q=%23%E7%A9%BF%E6%B1%89%E6%9C%8D%E9%80%9B%E5%B8%82%E5%9C%BA%E8%B7%9F%E4%BF%9D%E5%AE%89%E9%97%B9%E7%BA%A0%E7%BA%B7%23&Refer=top)
 1. [马超五虎起飞表演赛](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E8%B6%85%E4%BA%94%E8%99%8E%E8%B5%B7%E9%A3%9E%E8%A1%A8%E6%BC%94%E8%B5%9B%23&Refer=top)
-   新
+   新 ->
 1. [男子患癌遭拒赔法院判保险公司赔12.6万](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%82%A3%E7%99%8C%E9%81%AD%E6%8B%92%E8%B5%94%E6%B3%95%E9%99%A2%E5%88%A4%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%E8%B5%9412.6%E4%B8%87%23&Refer=top)
 1. [象妈妈自制蒲扇给午睡小象扇风](https://s.weibo.com//weibo?q=%23%E8%B1%A1%E5%A6%88%E5%A6%88%E8%87%AA%E5%88%B6%E8%92%B2%E6%89%87%E7%BB%99%E5%8D%88%E7%9D%A1%E5%B0%8F%E8%B1%A1%E6%89%87%E9%A3%8E%23&Refer=top)
 1. [河南核酸采样屋设计遭吐槽](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E5%B1%8B%E8%AE%BE%E8%AE%A1%E9%81%AD%E5%90%90%E6%A7%BD%23&Refer=top)
@@ -92,6 +92,8 @@
    新
 1. [王明亮卸任知网董事长](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%98%8E%E4%BA%AE%E5%8D%B8%E4%BB%BB%E7%9F%A5%E7%BD%91%E8%91%A3%E4%BA%8B%E9%95%BF%23&Refer=top)
    新
+1. [文化自信是最基本最深沉最持久的力量](https://s.weibo.com//weibo?q=%23%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1%E6%98%AF%E6%9C%80%E5%9F%BA%E6%9C%AC%E6%9C%80%E6%B7%B1%E6%B2%89%E6%9C%80%E6%8C%81%E4%B9%85%E7%9A%84%E5%8A%9B%E9%87%8F%23&Refer=new_time)
+   热
 
 <!-- END -->
 

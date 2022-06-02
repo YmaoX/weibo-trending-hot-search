@@ -107,7 +107,7 @@
   {
     "url": "/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B1%88%E5%8E%9F%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%E9%BC%BB%E7%A5%96%23&Refer=top",
     "title": "原来屈原才是中国式浪漫鼻祖",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%A9%98%E7%94%9F%E6%B7%AE%E5%8D%97&Refer=top",
@@ -162,7 +162,7 @@
   {
     "url": "/weibo?q=%23%E5%85%A8%E5%8D%8E%E8%A3%94%E4%B8%BB%E6%BC%94%E7%BE%8E%E5%89%A7%23&Refer=top",
     "title": "全华裔主演美剧",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%AD%94%E9%AC%BC%E6%95%99%E7%BB%83%E5%88%98%E7%95%8A%E5%AE%8F%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E6%B8%A9%E6%9F%94%23&Refer=top",
@@ -232,7 +232,7 @@
   {
     "url": "/weibo?q=%23%E9%A9%AC%E8%B6%85%E4%BA%94%E8%99%8E%E8%B5%B7%E9%A3%9E%E8%A1%A8%E6%BC%94%E8%B5%9B%23&Refer=top",
     "title": "马超五虎起飞表演赛",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%94%B7%E5%AD%90%E6%82%A3%E7%99%8C%E9%81%AD%E6%8B%92%E8%B5%94%E6%B3%95%E9%99%A2%E5%88%A4%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%E8%B5%9412.6%E4%B8%87%23&Refer=top",
@@ -268,5 +268,10 @@
     "url": "/weibo?q=%23%E7%8E%8B%E6%98%8E%E4%BA%AE%E5%8D%B8%E4%BB%BB%E7%9F%A5%E7%BD%91%E8%91%A3%E4%BA%8B%E9%95%BF%23&Refer=top",
     "title": "王明亮卸任知网董事长",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1%E6%98%AF%E6%9C%80%E5%9F%BA%E6%9C%AC%E6%9C%80%E6%B7%B1%E6%B2%89%E6%9C%80%E6%8C%81%E4%B9%85%E7%9A%84%E5%8A%9B%E9%87%8F%23&Refer=new_time",
+    "title": "文化自信是最基本最深沉最持久的力量",
+    "mark": "热"
   }
 ]

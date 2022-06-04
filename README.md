@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 05 2022 02:17:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 05 2022 03:11:46 GMT+0800 (China Standard Time) -->
 
 1. [航天旅程](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E6%97%85%E7%A8%8B%23&Refer=new_time)
    热
@@ -92,6 +92,7 @@
 1. [D2809](https://s.weibo.com//weibo?q=%23D2809%23&Refer=top)
 1. [梦华录](https://s.weibo.com//weibo?q=%23%E6%A2%A6%E5%8D%8E%E5%BD%95%23&Refer=top)
 1. [斯瓦泰克再夺法网冠军](https://s.weibo.com//weibo?q=%23%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E5%86%8D%E5%A4%BA%E6%B3%95%E7%BD%91%E5%86%A0%E5%86%9B%23&Refer=top)
+1. [任子威可爱](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E5%8F%AF%E7%88%B1%23&Refer=top)
 
 <!-- END -->
 

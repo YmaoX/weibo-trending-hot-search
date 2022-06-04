@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 04 2022 21:20:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 04 2022 22:12:59 GMT+0800 (China Standard Time) -->
 
 1. [龙腾虎跃海峡两岸赛龙舟活动](https://s.weibo.com//weibo?q=%23%E9%BE%99%E8%85%BE%E8%99%8E%E8%B7%83%E6%B5%B7%E5%B3%A1%E4%B8%A4%E5%B2%B8%E8%B5%9B%E9%BE%99%E8%88%9F%E6%B4%BB%E5%8A%A8%23&Refer=new_time)
    热
@@ -217,7 +217,7 @@
    新
 1. [陈冬说有满格的信心](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%86%AC%E8%AF%B4%E6%9C%89%E6%BB%A1%E6%A0%BC%E7%9A%84%E4%BF%A1%E5%BF%83%23&Refer=top)
    新
-1. [D2809](https://s.weibo.com//weibo?q=%23D2809%23&Refer=top) 爆 -> 沸 -> 热
+1. [D2809](https://s.weibo.com//weibo?q=%23D2809%23&Refer=top) 爆 -> 沸 -> 热 ->
 1. [D2809在贵州榕江站撞上泥石流脱线](https://s.weibo.com//weibo?q=%23D2809%E5%9C%A8%E8%B4%B5%E5%B7%9E%E6%A6%95%E6%B1%9F%E7%AB%99%E6%92%9E%E4%B8%8A%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%84%B1%E7%BA%BF%23&Refer=top)
    热 ->
 1. [D2809司机不幸遇难](https://s.weibo.com//weibo?q=%23D2809%E5%8F%B8%E6%9C%BA%E4%B8%8D%E5%B9%B8%E9%81%87%E9%9A%BE%23&Refer=top)
@@ -280,7 +280,7 @@
 1. [民警摆摊免费送鸡蛋宣传反诈](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E6%91%86%E6%91%8A%E5%85%8D%E8%B4%B9%E9%80%81%E9%B8%A1%E8%9B%8B%E5%AE%A3%E4%BC%A0%E5%8F%8D%E8%AF%88%23&Refer=top)
    新 ->
 1. [殉职司机5秒内采取了紧急制动](https://s.weibo.com//weibo?q=%23%E6%AE%89%E8%81%8C%E5%8F%B8%E6%9C%BA5%E7%A7%92%E5%86%85%E9%87%87%E5%8F%96%E4%BA%86%E7%B4%A7%E6%80%A5%E5%88%B6%E5%8A%A8%23&Refer=top)
-   爆 -> 沸
+   爆 -> 沸 -> 热
 1. [D2809车载数据分析](https://s.weibo.com//weibo?q=%23D2809%E8%BD%A6%E8%BD%BD%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%23&Refer=top)
    新 ->
 1. [杭州西溪湿地免门票一星期](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%BA%AA%E6%B9%BF%E5%9C%B0%E5%85%8D%E9%97%A8%E7%A5%A8%E4%B8%80%E6%98%9F%E6%9C%9F&Refer=top)
@@ -383,30 +383,30 @@
 1. [俄罗斯限制芯片原材料气体出口](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E9%99%90%E5%88%B6%E8%8A%AF%E7%89%87%E5%8E%9F%E6%9D%90%E6%96%99%E6%B0%94%E4%BD%93%E5%87%BA%E5%8F%A3%23&Refer=top)
    新 ->
 1. [北京的云](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%9A%84%E4%BA%91%23&Refer=top)
-   新
+   新 ->
 1. [贵州消防出动11车52人破拆D2809车头](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E5%B7%9E%E6%B6%88%E9%98%B2%E5%87%BA%E5%8A%A811%E8%BD%A652%E4%BA%BA%E7%A0%B4%E6%8B%86D2809%E8%BD%A6%E5%A4%B4%23&Refer=top)
    新 ->
 1. [8K超高清从太空看地球有多美](https://s.weibo.com//weibo?q=%238K%E8%B6%85%E9%AB%98%E6%B8%85%E4%BB%8E%E5%A4%AA%E7%A9%BA%E7%9C%8B%E5%9C%B0%E7%90%83%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top)
    新 ->
 1. [如何看待成年人的崩溃](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E5%B4%A9%E6%BA%83%23&Refer=top)
-   新
+   新 ->
 1. [新游团今晚是追火箭的人](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%B8%B8%E5%9B%A2%E4%BB%8A%E6%99%9A%E6%98%AF%E8%BF%BD%E7%81%AB%E7%AE%AD%E7%9A%84%E4%BA%BA%23&Refer=top)
    新
 1. [杭州西溪湿地免门票一星期](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%BA%AA%E6%B9%BF%E5%9C%B0%E5%85%8D%E9%97%A8%E7%A5%A8%E4%B8%80%E6%98%9F%E6%9C%9F%23&Refer=top)
 1. [航天员人手一个的便携小风扇](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E4%BA%BA%E6%89%8B%E4%B8%80%E4%B8%AA%E7%9A%84%E4%BE%BF%E6%90%BA%E5%B0%8F%E9%A3%8E%E6%89%87%23&Refer=top)
-   新
+   新 ->
 1. [王源如风粤语舞台](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BA%90%E5%A6%82%E9%A3%8E%E7%B2%A4%E8%AF%AD%E8%88%9E%E5%8F%B0%23&Refer=top)
-   新
+   新 ->
 1. [高三学生这一声先生让人泪目](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E8%BF%99%E4%B8%80%E5%A3%B0%E5%85%88%E7%94%9F%E8%AE%A9%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&Refer=top)
    新
 1. [河南嵩山龙门vs大连人](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E5%B5%A9%E5%B1%B1%E9%BE%99%E9%97%A8vs%E5%A4%A7%E8%BF%9E%E4%BA%BA&Refer=top)
    新
 1. [女生将宠物虾放阳台次日全被蒸熟](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E5%B0%86%E5%AE%A0%E7%89%A9%E8%99%BE%E6%94%BE%E9%98%B3%E5%8F%B0%E6%AC%A1%E6%97%A5%E5%85%A8%E8%A2%AB%E8%92%B8%E7%86%9F%23&Refer=top)
-   新
+   新 ->
 1. [老人地铁拉拽女子要求让爱心专座](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E5%9C%B0%E9%93%81%E6%8B%89%E6%8B%BD%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E8%AE%A9%E7%88%B1%E5%BF%83%E4%B8%93%E5%BA%A7%23&Refer=top)
-   新
+   新 ->
 1. [中国女排VS意大利女排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92VS%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A5%B3%E6%8E%92%23&Refer=top)
-   新
+   新 ->
 1. [重庆肥肠包榴莲](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E8%82%A5%E8%82%A0%E5%8C%85%E6%A6%B4%E8%8E%B2%23&Refer=top)
    新
 1. [程潇跳甄嬛传惊鸿舞](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E6%BD%87%E8%B7%B3%E7%94%84%E5%AC%9B%E4%BC%A0%E6%83%8A%E9%B8%BF%E8%88%9E%23&Refer=top)
@@ -429,6 +429,34 @@
    新
 1. [河南嵩山龙门vs大连人](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B5%A9%E5%B1%B1%E9%BE%99%E9%97%A8vs%E5%A4%A7%E8%BF%9E%E4%BA%BA%23&Refer=top)
    新
+1. [拙荆](https://s.weibo.com//weibo?q=%E6%8B%99%E8%8D%86&Refer=top) 新
+1. [北京冰雹](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%B0%E9%9B%B9%23&Refer=top)
+   新
+1. [吴彤 萌探探探案](https://s.weibo.com//weibo?q=%E5%90%B4%E5%BD%A4%20%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88&Refer=top)
+   新
+1. [退役军人跳10米高桥救起落水女子](https://s.weibo.com//weibo?q=%23%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E8%B7%B310%E7%B1%B3%E9%AB%98%E6%A1%A5%E6%95%91%E8%B5%B7%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%AD%90%23&Refer=top)
+   新
+1. [梦回赵灵儿](https://s.weibo.com//weibo?q=%E6%A2%A6%E5%9B%9E%E8%B5%B5%E7%81%B5%E5%84%BF&Refer=top)
+   新
+1. [中国女排赢下第一局](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E8%B5%A2%E4%B8%8B%E7%AC%AC%E4%B8%80%E5%B1%80&Refer=top)
+   新
+1. [西双版纳拍到像兔像鼠又像鹿的动物](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E6%8B%8D%E5%88%B0%E5%83%8F%E5%85%94%E5%83%8F%E9%BC%A0%E5%8F%88%E5%83%8F%E9%B9%BF%E7%9A%84%E5%8A%A8%E7%89%A9%23&Refer=top)
+   新
+1. [张若昀对航天探索的形容好浪漫](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%AF%B9%E8%88%AA%E5%A4%A9%E6%8E%A2%E7%B4%A2%E7%9A%84%E5%BD%A2%E5%AE%B9%E5%A5%BD%E6%B5%AA%E6%BC%AB%23&Refer=top)
+   新
+1. [高三老师给93名同学定制校训机票](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%B8%89%E8%80%81%E5%B8%88%E7%BB%9993%E5%90%8D%E5%90%8C%E5%AD%A6%E5%AE%9A%E5%88%B6%E6%A0%A1%E8%AE%AD%E6%9C%BA%E7%A5%A8%23&Refer=top)
+   新
+1. [欧阳旭 茶](https://s.weibo.com//weibo?q=%E6%AC%A7%E9%98%B3%E6%97%AD%20%E8%8C%B6&Refer=top)
+   新
+1. [河南嵩山龙门2比2大连人](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B5%A9%E5%B1%B1%E9%BE%99%E9%97%A82%E6%AF%942%E5%A4%A7%E8%BF%9E%E4%BA%BA%23&Refer=top)
+   新
+1. [殉职司机5秒内制动相当及时](https://s.weibo.com//weibo?q=%23%E6%AE%89%E8%81%8C%E5%8F%B8%E6%9C%BA5%E7%A7%92%E5%86%85%E5%88%B6%E5%8A%A8%E7%9B%B8%E5%BD%93%E5%8F%8A%E6%97%B6%23&Refer=top)
+   新
+1. [间谍过家家](https://s.weibo.com//weibo?q=%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6&Refer=top)
+   新
+1. [梅州客家1比1天津津门虎](https://s.weibo.com//weibo?q=%23%E6%A2%85%E5%B7%9E%E5%AE%A2%E5%AE%B61%E6%AF%941%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E%23&Refer=top)
+   新
+1. [赖佳新](https://s.weibo.com//weibo?q=%E8%B5%96%E4%BD%B3%E6%96%B0&Refer=top) 新
 
 <!-- END -->
 

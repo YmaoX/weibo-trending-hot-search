@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 07 2022 06:18:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 07 2022 07:15:30 GMT+0800 (China Standard Time) -->
 
 1. [总书记的嘱托青年们铭记在心](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%98%B1%E6%89%98%E9%9D%92%E5%B9%B4%E4%BB%AC%E9%93%AD%E8%AE%B0%E5%9C%A8%E5%BF%83%23&Refer=new_time)
    热
@@ -102,6 +102,10 @@
    新
 1. [男子充电器被盗心理产生扭曲感就去偷别人的](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%85%E7%94%B5%E5%99%A8%E8%A2%AB%E7%9B%97%E5%BF%83%E7%90%86%E4%BA%A7%E7%94%9F%E6%89%AD%E6%9B%B2%E6%84%9F%E5%B0%B1%E5%8E%BB%E5%81%B7%E5%88%AB%E4%BA%BA%E7%9A%84%23&Refer=top)
    新 ->
+1. [陈芋汐全红婵完成世锦赛前最后测试](https://s.weibo.com//weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%AE%8C%E6%88%90%E4%B8%96%E9%94%A6%E8%B5%9B%E5%89%8D%E6%9C%80%E5%90%8E%E6%B5%8B%E8%AF%95%23&Refer=top)
+   新
+1. [长沙一街区歇业3天为高考生静音](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E8%A1%97%E5%8C%BA%E6%AD%87%E4%B8%9A3%E5%A4%A9%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E9%9D%99%E9%9F%B3%23&Refer=top)
+   新
 
 <!-- END -->
 

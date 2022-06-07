@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 08 2022 06:14:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 08 2022 07:15:15 GMT+0800 (China Standard Time) -->
 
 1. [绿水青山让共同致富的路越走越宽](https://s.weibo.com//weibo?q=%23%E7%BB%BF%E6%B0%B4%E9%9D%92%E5%B1%B1%E8%AE%A9%E5%85%B1%E5%90%8C%E8%87%B4%E5%AF%8C%E7%9A%84%E8%B7%AF%E8%B6%8A%E8%B5%B0%E8%B6%8A%E5%AE%BD%23&Refer=new_time)
    热
@@ -24,9 +24,9 @@
    热
 1. [男生保送北大后为同学们送考](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E4%BF%9D%E9%80%81%E5%8C%97%E5%A4%A7%E5%90%8E%E4%B8%BA%E5%90%8C%E5%AD%A6%E4%BB%AC%E9%80%81%E8%80%83%23&Refer=top)
 1. [教育部已向警方报案](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%B7%B2%E5%90%91%E8%AD%A6%E6%96%B9%E6%8A%A5%E6%A1%88%23&Refer=top)
-   新 -> 沸 -> -> 沸 -> -> 沸
+   新 -> 沸 -> -> 沸 -> -> 沸 ->
 1. [新高考一卷数学](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%80%E5%8D%B7%E6%95%B0%E5%AD%A6%23&Refer=top)
-   沸 ->
+   沸 -> -> 沸
 1. [两男子将好友扔出窗致十级伤残](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E7%94%B7%E5%AD%90%E5%B0%86%E5%A5%BD%E5%8F%8B%E6%89%94%E5%87%BA%E7%AA%97%E8%87%B4%E5%8D%81%E7%BA%A7%E4%BC%A4%E6%AE%8B%23&Refer=top)
    新 ->
 1. [浙江数学 边哭边写](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E6%95%B0%E5%AD%A6%20%E8%BE%B9%E5%93%AD%E8%BE%B9%E5%86%99&Refer=top)
@@ -110,12 +110,20 @@
 1. [大学教授谈红楼梦进高考作文题](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E7%BA%A2%E6%A5%BC%E6%A2%A6%E8%BF%9B%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23&Refer=top)
    新 ->
 1. [小猫咪才是真正的哄娃高手](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%93%84%E5%A8%83%E9%AB%98%E6%89%8B%23&Refer=top)
-   新
+   新 ->
 1. [北京乘出租车网约车需先扫码查验](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B9%98%E5%87%BA%E7%A7%9F%E8%BD%A6%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%9C%80%E5%85%88%E6%89%AB%E7%A0%81%E6%9F%A5%E9%AA%8C%23&Refer=top)
-   新
+   新 ->
 1. [不得向孕产妇和婴儿家庭宣传推荐母乳代用品](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%BE%97%E5%90%91%E5%AD%95%E4%BA%A7%E5%A6%87%E5%92%8C%E5%A9%B4%E5%84%BF%E5%AE%B6%E5%BA%AD%E5%AE%A3%E4%BC%A0%E6%8E%A8%E8%8D%90%E6%AF%8D%E4%B9%B3%E4%BB%A3%E7%94%A8%E5%93%81%23&Refer=top)
-   新
+   新 ->
 1. [杨紫长相思弹琴路透](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%95%BF%E7%9B%B8%E6%80%9D%E5%BC%B9%E7%90%B4%E8%B7%AF%E9%80%8F%23&Refer=top)
+   新 ->
+1. [高考第二天](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%23&Refer=top)
+   新
+1. [00后在感情中都是零容忍](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E5%9C%A8%E6%84%9F%E6%83%85%E4%B8%AD%E9%83%BD%E6%98%AF%E9%9B%B6%E5%AE%B9%E5%BF%8D%23&Refer=top)
+   新
+1. [第一位出来的考生大喊勇士总冠军](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%87%BA%E6%9D%A5%E7%9A%84%E8%80%83%E7%94%9F%E5%A4%A7%E5%96%8A%E5%8B%87%E5%A3%AB%E6%80%BB%E5%86%A0%E5%86%9B%23&Refer=top)
+   新
+1. [刘亦菲一场戏被浸水多次](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E5%9C%BA%E6%88%8F%E8%A2%AB%E6%B5%B8%E6%B0%B4%E5%A4%9A%E6%AC%A1%23&Refer=top)
    新
 
 <!-- END -->

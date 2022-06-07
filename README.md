@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 08 2022 03:13:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 08 2022 04:17:35 GMT+0800 (China Standard Time) -->
 
 1. [绿水青山让共同致富的路越走越宽](https://s.weibo.com//weibo?q=%23%E7%BB%BF%E6%B0%B4%E9%9D%92%E5%B1%B1%E8%AE%A9%E5%85%B1%E5%90%8C%E8%87%B4%E5%AF%8C%E7%9A%84%E8%B7%AF%E8%B6%8A%E8%B5%B0%E8%B6%8A%E5%AE%BD%23&Refer=new_time)
    热
@@ -24,7 +24,7 @@
    热
 1. [男生保送北大后为同学们送考](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E4%BF%9D%E9%80%81%E5%8C%97%E5%A4%A7%E5%90%8E%E4%B8%BA%E5%90%8C%E5%AD%A6%E4%BB%AC%E9%80%81%E8%80%83%23&Refer=top)
 1. [教育部已向警方报案](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%B7%B2%E5%90%91%E8%AD%A6%E6%96%B9%E6%8A%A5%E6%A1%88%23&Refer=top)
-   新 -> 沸 ->
+   新 -> 沸 -> -> 沸
 1. [新高考一卷数学](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%80%E5%8D%B7%E6%95%B0%E5%AD%A6%23&Refer=top)
    沸 ->
 1. [两男子将好友扔出窗致十级伤残](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E7%94%B7%E5%AD%90%E5%B0%86%E5%A5%BD%E5%8F%8B%E6%89%94%E5%87%BA%E7%AA%97%E8%87%B4%E5%8D%81%E7%BA%A7%E4%BC%A4%E6%AE%8B%23&Refer=top)
@@ -33,7 +33,7 @@
 1. [教育部回应网传高考数学泄题](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E6%B3%84%E9%A2%98%23&Refer=top)
    沸
 1. [高考数学](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%23&Refer=top)
-   沸 -> 热
+   沸 -> 热 ->
 1. [谁在为高价雪糕买单](https://s.weibo.com//weibo?q=%23%E8%B0%81%E5%9C%A8%E4%B8%BA%E9%AB%98%E4%BB%B7%E9%9B%AA%E7%B3%95%E4%B9%B0%E5%8D%95%23&Refer=top)
    新 ->
 1. [河北一老师忘带40多个准考证](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%80%E8%80%81%E5%B8%88%E5%BF%98%E5%B8%A640%E5%A4%9A%E4%B8%AA%E5%87%86%E8%80%83%E8%AF%81%23&Refer=top)
@@ -41,7 +41,7 @@
 1. [迪丽热巴好美](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%BD%E7%BE%8E%23&Refer=top)
    新 ->
 1. [儿媳发现去世婆婆生前在被子上留字](https://s.weibo.com//weibo?q=%23%E5%84%BF%E5%AA%B3%E5%8F%91%E7%8E%B0%E5%8E%BB%E4%B8%96%E5%A9%86%E5%A9%86%E7%94%9F%E5%89%8D%E5%9C%A8%E8%A2%AB%E5%AD%90%E4%B8%8A%E7%95%99%E5%AD%97%23&Refer=top)
-   热 ->
+   热 -> -> 热
 1. [侮辱袁隆平院士张某公开赔礼道歉](https://s.weibo.com//weibo?q=%23%E4%BE%AE%E8%BE%B1%E8%A2%81%E9%9A%86%E5%B9%B3%E9%99%A2%E5%A3%AB%E5%BC%A0%E6%9F%90%E5%85%AC%E5%BC%80%E8%B5%94%E7%A4%BC%E9%81%93%E6%AD%89%23&Refer=top)
 1. [梦华录微博开分9.2](https://s.weibo.com//weibo?q=%23%E6%A2%A6%E5%8D%8E%E5%BD%95%E5%BE%AE%E5%8D%9A%E5%BC%80%E5%88%869.2%23&Refer=top)
 1. [官方辟谣考生请人代答](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%80%83%E7%94%9F%E8%AF%B7%E4%BA%BA%E4%BB%A3%E7%AD%94%23&Refer=top)
@@ -101,6 +101,10 @@
    新 ->
 1. [被曹建军气死](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%9B%B9%E5%BB%BA%E5%86%9B%E6%B0%94%E6%AD%BB%23&Refer=top)
 1. [田柾国直播](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%E7%9B%B4%E6%92%AD%23&Refer=top)
+1. [台F16返台途中因故障迫降夏威夷](https://s.weibo.com//weibo?q=%23%E5%8F%B0F16%E8%BF%94%E5%8F%B0%E9%80%94%E4%B8%AD%E5%9B%A0%E6%95%85%E9%9A%9C%E8%BF%AB%E9%99%8D%E5%A4%8F%E5%A8%81%E5%A4%B7%23&Refer=top)
+   新
+1. [中学为考生定制免费谐音梗餐](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%AD%A6%E4%B8%BA%E8%80%83%E7%94%9F%E5%AE%9A%E5%88%B6%E5%85%8D%E8%B4%B9%E8%B0%90%E9%9F%B3%E6%A2%97%E9%A4%90%23&Refer=top)
+   新
 
 <!-- END -->
 

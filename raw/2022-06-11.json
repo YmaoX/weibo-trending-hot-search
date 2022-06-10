@@ -72,7 +72,7 @@
   {
     "url": "/weibo?q=%23%E5%94%90%E5%B1%B1%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%9A%B4%E5%8A%9B%E5%9B%B4%E6%AE%B4%E6%98%AF%E6%89%80%E6%9C%89%E4%BA%BA%E7%9A%84%E5%99%A9%E6%A2%A6%23&Refer=top",
     "title": "唐山女孩被暴力围殴是所有人的噩梦",
-    "mark": "新 -> 沸"
+    "mark": "新 -> 沸 -> 爆"
   },
   {
     "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E6%8A%A5%E8%AF%84%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%23&Refer=top",
@@ -257,7 +257,7 @@
   {
     "url": "/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E5%BC%80%E5%BA%AD%23&Refer=top",
     "title": "吴亦凡案开庭",
-    "mark": "新 -> 沸 -> "
+    "mark": "新 -> 沸 ->  -> 沸"
   },
   {
     "url": "/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E6%97%B6%E9%97%B4%E7%BA%BF%23&Refer=top",
@@ -342,11 +342,21 @@
   {
     "url": "/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%99%BD%E9%A2%86%E5%9C%A8%E9%BB%84%E5%9C%9F%E9%AB%98%E5%9D%A1%E5%B8%A6%E9%BB%91%E7%8C%AA%E5%81%A5%E8%BA%AB%23&Refer=top",
     "title": "上海白领在黄土高坡带黑猪健身",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%90%8E%E7%A1%AE%E8%AF%8A%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%23&Refer=top",
     "title": "北约秘书长感染新冠后确诊带状疱疹居家办公",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%94%90%E5%B1%B1%E7%83%A7%E7%83%A4%E5%BA%97%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%E5%B7%B2%E6%8A%93%E8%8E%B75%E4%BA%BA&Refer=top",
+    "title": "唐山烧烤店打人事件已抓获5人",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%89%AB%E9%BB%91%E9%99%A4%E6%81%B6%E7%BB%9D%E4%B8%8D%E8%83%BD%E6%9C%89%E7%9B%B2%E5%8C%BA%23&Refer=top",
+    "title": "扫黑除恶绝不能有盲区",
     "mark": "新"
   }
 ]

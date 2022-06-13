@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 13 2022 18:18:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 13 2022 19:14:07 GMT+0800 (China Standard Time) -->
 
 1. [让中华优秀传统文化成为文艺创新的重要源泉](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%88%90%E4%B8%BA%E6%96%87%E8%89%BA%E5%88%9B%E6%96%B0%E7%9A%84%E9%87%8D%E8%A6%81%E6%BA%90%E6%B3%89%23&Refer=new_time)
    热
@@ -210,7 +210,7 @@
 1. [同花顺崩了](https://s.weibo.com//weibo?q=%23%E5%90%8C%E8%8A%B1%E9%A1%BA%E5%B4%A9%E4%BA%86%23&Refer=top)
    新 ->
 1. [唐山雷霆风暴](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%B1%B1%E9%9B%B7%E9%9C%86%E9%A3%8E%E6%9A%B4%23&Refer=top)
-   新 -> 沸 -> 热
+   新 -> 沸 -> 热 ->
 1. [难听](https://s.weibo.com//weibo?q=%E9%9A%BE%E5%90%AC&Refer=top) 新 ->
 1. [吸毒者亲诉如何让学生染上毒瘾](https://s.weibo.com//weibo?q=%23%E5%90%B8%E6%AF%92%E8%80%85%E4%BA%B2%E8%AF%89%E5%A6%82%E4%BD%95%E8%AE%A9%E5%AD%A6%E7%94%9F%E6%9F%93%E4%B8%8A%E6%AF%92%E7%98%BE%23&Refer=top)
    新 ->
@@ -345,50 +345,79 @@
 1. [这就是宠物界的劳模吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%AE%A0%E7%89%A9%E7%95%8C%E7%9A%84%E5%8A%B3%E6%A8%A1%E5%90%A7%23&Refer=top)
    新
 1. [上外男生所投系牛磺酸泡腾片](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E5%A4%96%E7%94%B7%E7%94%9F%E6%89%80%E6%8A%95%E7%B3%BB%E7%89%9B%E7%A3%BA%E9%85%B8%E6%B3%A1%E8%85%BE%E7%89%87%23&Refer=top)
-   新
+   新 -> 爆
 1. [唐山徐敏回应称被人设局](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%B1%B1%E5%BE%90%E6%95%8F%E5%9B%9E%E5%BA%94%E7%A7%B0%E8%A2%AB%E4%BA%BA%E8%AE%BE%E5%B1%80%23&Refer=top)
-   热
+   热 ->
 1. [云南文山失联男童已不幸死亡](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%87%E5%B1%B1%E5%A4%B1%E8%81%94%E7%94%B7%E7%AB%A5%E5%B7%B2%E4%B8%8D%E5%B9%B8%E6%AD%BB%E4%BA%A1%23&Refer=top)
 1. [美国近30天窃取970亿条全球数据](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%9130%E5%A4%A9%E7%AA%83%E5%8F%96970%E4%BA%BF%E6%9D%A1%E5%85%A8%E7%90%83%E6%95%B0%E6%8D%AE%23&Refer=top)
-   新
+   新 ->
 1. [薛之谦签的第一个新人出道](https://s.weibo.com//weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%AD%BE%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93%23&Refer=top)
-   新
+   新 ->
 1. [家长让娃每天600个摸高跳致患骨骺炎](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E9%95%BF%E8%AE%A9%E5%A8%83%E6%AF%8F%E5%A4%A9600%E4%B8%AA%E6%91%B8%E9%AB%98%E8%B7%B3%E8%87%B4%E6%82%A3%E9%AA%A8%E9%AA%BA%E7%82%8E%23&Refer=top)
-   新
+   新 ->
 1. [警方通报上外男生投异物](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%8A%E5%A4%96%E7%94%B7%E7%94%9F%E6%8A%95%E5%BC%82%E7%89%A9%23&Refer=top)
    新
 1. [北京今起暂停线下体育赛事](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BB%8A%E8%B5%B7%E6%9A%82%E5%81%9C%E7%BA%BF%E4%B8%8B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B%23&Refer=top)
-   新
+   新 ->
 1. [北京海淀278家娱乐场所全部暂停营业](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%B5%B7%E6%B7%80278%E5%AE%B6%E5%A8%B1%E4%B9%90%E5%9C%BA%E6%89%80%E5%85%A8%E9%83%A8%E6%9A%82%E5%81%9C%E8%90%A5%E4%B8%9A%23&Refer=top)
-   新
+   新 ->
 1. [把子肉才是真正的下饭神器](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E5%AD%90%E8%82%89%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%B8%8B%E9%A5%AD%E7%A5%9E%E5%99%A8%23&Refer=top)
 1. [香港撑警茶餐厅老板说我站在良心里](https://s.weibo.com//weibo?q=%23%E9%A6%99%E6%B8%AF%E6%92%91%E8%AD%A6%E8%8C%B6%E9%A4%90%E5%8E%85%E8%80%81%E6%9D%BF%E8%AF%B4%E6%88%91%E7%AB%99%E5%9C%A8%E8%89%AF%E5%BF%83%E9%87%8C%23&Refer=top)
 1. [北京增45例本土感染者](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A2%9E45%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
 1. [爱上查美乐今天重播](https://s.weibo.com//weibo?q=%23%E7%88%B1%E4%B8%8A%E6%9F%A5%E7%BE%8E%E4%B9%90%E4%BB%8A%E5%A4%A9%E9%87%8D%E6%92%AD%23&Refer=top)
-   新
+   新 ->
 1. [吉利拟收购魅族](https://s.weibo.com//weibo?q=%23%E5%90%89%E5%88%A9%E6%8B%9F%E6%94%B6%E8%B4%AD%E9%AD%85%E6%97%8F%23&Refer=top)
-   新
+   新 ->
 1. [美国9名儿童食用配方奶粉后死亡](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD9%E5%90%8D%E5%84%BF%E7%AB%A5%E9%A3%9F%E7%94%A8%E9%85%8D%E6%96%B9%E5%A5%B6%E7%B2%89%E5%90%8E%E6%AD%BB%E4%BA%A1%23&Refer=top)
 1. [哈尔滨草莓音乐节官宣](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E8%8D%89%E8%8E%93%E9%9F%B3%E4%B9%90%E8%8A%82%E5%AE%98%E5%AE%A3%23&Refer=top)
-   新
+   新 ->
 1. [北京社会面筛查1例感染者](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%A4%BE%E4%BC%9A%E9%9D%A2%E7%AD%9B%E6%9F%A51%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
    新
 1. [哈兰德正式加盟曼城](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E6%AD%A3%E5%BC%8F%E5%8A%A0%E7%9B%9F%E6%9B%BC%E5%9F%8E%23&Refer=top)
    新
 1. [刘雨昕方维权声明](https://s.weibo.com//weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E6%96%B9%E7%BB%B4%E6%9D%83%E5%A3%B0%E6%98%8E%23&Refer=top)
 1. [吴磊从童星到候选百花经历了什么](https://s.weibo.com//weibo?q=%23%E5%90%B4%E7%A3%8A%E4%BB%8E%E7%AB%A5%E6%98%9F%E5%88%B0%E5%80%99%E9%80%89%E7%99%BE%E8%8A%B1%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88%23&Refer=top)
-   新
+   新 ->
 1. [北京朝阳新增风险点位涉多家餐厅](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E6%96%B0%E5%A2%9E%E9%A3%8E%E9%99%A9%E7%82%B9%E4%BD%8D%E6%B6%89%E5%A4%9A%E5%AE%B6%E9%A4%90%E5%8E%85%23&Refer=top)
    新
 1. [涉天堂超市酒吧已有228例感染者](https://s.weibo.com//weibo?q=%23%E6%B6%89%E5%A4%A9%E5%A0%82%E8%B6%85%E5%B8%82%E9%85%92%E5%90%A7%E5%B7%B2%E6%9C%89228%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
 1. [最意难平的一场演唱会](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%84%8F%E9%9A%BE%E5%B9%B3%E7%9A%84%E4%B8%80%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top)
-   新
+   新 ->
 1. [权志龙VOGUE七月刊封面画报](https://s.weibo.com//weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99VOGUE%E4%B8%83%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%E7%94%BB%E6%8A%A5%23&Refer=top)
 1. [中方回应所谓台湾海峡是国际水域](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%89%80%E8%B0%93%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E6%98%AF%E5%9B%BD%E9%99%85%E6%B0%B4%E5%9F%9F%23&Refer=top)
    新
 1. [原来风的形状也可以很治愈](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A3%8E%E7%9A%84%E5%BD%A2%E7%8A%B6%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%BE%88%E6%B2%BB%E6%84%88%23&Refer=top)
    新
 1. [吸烟乘客系交通局借用人员已被清退](https://s.weibo.com//weibo?q=%23%E5%90%B8%E7%83%9F%E4%B9%98%E5%AE%A2%E7%B3%BB%E4%BA%A4%E9%80%9A%E5%B1%80%E5%80%9F%E7%94%A8%E4%BA%BA%E5%91%98%E5%B7%B2%E8%A2%AB%E6%B8%85%E9%80%80%23&Refer=top)
+   新
+1. [校车司机数次猥亵多名女童被判6年](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%95%B0%E6%AC%A1%E7%8C%A5%E4%BA%B5%E5%A4%9A%E5%90%8D%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%88%A46%E5%B9%B4%23&Refer=top)
+   新
+1. [怀孕后有个好队友有多重要](https://s.weibo.com//weibo?q=%23%E6%80%80%E5%AD%95%E5%90%8E%E6%9C%89%E4%B8%AA%E5%A5%BD%E9%98%9F%E5%8F%8B%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top)
+   新
+1. [唐山路北区加强刑满释放人员服务管理](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%B1%B1%E8%B7%AF%E5%8C%97%E5%8C%BA%E5%8A%A0%E5%BC%BA%E5%88%91%E6%BB%A1%E9%87%8A%E6%94%BE%E4%BA%BA%E5%91%98%E6%9C%8D%E5%8A%A1%E7%AE%A1%E7%90%86%23&Refer=top)
+   新
+1. [徐冬冬居然和刘德华合作过三次](https://s.weibo.com//weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B1%85%E7%84%B6%E5%92%8C%E5%88%98%E5%BE%B7%E5%8D%8E%E5%90%88%E4%BD%9C%E8%BF%87%E4%B8%89%E6%AC%A1%23&Refer=top)
+   新
+1. [杭州消防烈士牺牲前的微信界面](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%B6%88%E9%98%B2%E7%83%88%E5%A3%AB%E7%89%BA%E7%89%B2%E5%89%8D%E7%9A%84%E5%BE%AE%E4%BF%A1%E7%95%8C%E9%9D%A2%23&Refer=top)
+   新
+1. [传家豆瓣评分6.4分](https://s.weibo.com//weibo?q=%23%E4%BC%A0%E5%AE%B6%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%866.4%E5%88%86%23&Refer=top)
+   新
+1. [哈尔滨回应网约车司机遭遇钓鱼执法](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%AD%E9%81%87%E9%92%93%E9%B1%BC%E6%89%A7%E6%B3%95%23&Refer=top)
+   新
+1. [玫瑰凭证](https://s.weibo.com//weibo?q=%E7%8E%AB%E7%91%B0%E5%87%AD%E8%AF%81&Refer=top)
+   新
+1. [IG对战FPX](https://s.weibo.com//weibo?q=%23IG%E5%AF%B9%E6%88%98FPX%23&Refer=top)
+   新
+1. [郭冠廷单曲](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%86%A0%E5%BB%B7%E5%8D%95%E6%9B%B2%23&Refer=top)
+   新
+1. [用水在茶上作画的非遗技艺](https://s.weibo.com//weibo?q=%23%E7%94%A8%E6%B0%B4%E5%9C%A8%E8%8C%B6%E4%B8%8A%E4%BD%9C%E7%94%BB%E7%9A%84%E9%9D%9E%E9%81%97%E6%8A%80%E8%89%BA%23&Refer=top)
+   新
+1. [iG战胜FPX](https://s.weibo.com//weibo?q=iG%E6%88%98%E8%83%9CFPX&Refer=top) 新
+1. [小麦丰收](https://s.weibo.com//weibo?q=%E5%B0%8F%E9%BA%A6%E4%B8%B0%E6%94%B6&Refer=top)
+   新
+1. [北京涉酒吧疫情已有183人感染](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%B6%89%E9%85%92%E5%90%A7%E7%96%AB%E6%83%85%E5%B7%B2%E6%9C%89183%E4%BA%BA%E6%84%9F%E6%9F%93%23&Refer=top)
+   新
+1. [WBG对战EDG](https://s.weibo.com//weibo?q=%23WBG%E5%AF%B9%E6%88%98EDG%23&Refer=top)
    新
 
 <!-- END -->

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 15 2022 02:20:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 15 2022 03:13:18 GMT+0800 (China Standard Time) -->
 
 1. [践行嘱托十年间](https://s.weibo.com//weibo?q=%23%E8%B7%B5%E8%A1%8C%E5%98%B1%E6%89%98%E5%8D%81%E5%B9%B4%E9%97%B4%23&Refer=new_time)
    热
@@ -90,12 +90,14 @@
 1. [梦华录到底有多精致](https://s.weibo.com//weibo?q=%23%E6%A2%A6%E5%8D%8E%E5%BD%95%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%B2%BE%E8%87%B4%23&Refer=top)
    新 ->
 1. [安徽马鞍山一饭店深夜失火](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E9%A9%AC%E9%9E%8D%E5%B1%B1%E4%B8%80%E9%A5%AD%E5%BA%97%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%23&Refer=top)
-   新
+   新 ->
 1. [英汽车协会主席呼吁民众多走路](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E6%B1%BD%E8%BD%A6%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%91%BC%E5%90%81%E6%B0%91%E4%BC%97%E5%A4%9A%E8%B5%B0%E8%B7%AF%23&Refer=top)
    新 ->
 1. [说英雄谁是英雄 虐](https://s.weibo.com//weibo?q=%E8%AF%B4%E8%8B%B1%E9%9B%84%E8%B0%81%E6%98%AF%E8%8B%B1%E9%9B%84%20%E8%99%90&Refer=top)
 1. [油价](https://s.weibo.com//weibo?q=%E6%B2%B9%E4%BB%B7&Refer=top)
 1. [郑号锡将solo出道](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%8F%B7%E9%94%A1%E5%B0%86solo%E5%87%BA%E9%81%93%23&Refer=top)
+   新 ->
+1. [欧国联](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E5%9B%BD%E8%81%94%23&Refer=top)
    新
 
 <!-- END -->

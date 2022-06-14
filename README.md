@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 15 2022 03:13:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 15 2022 04:16:31 GMT+0800 (China Standard Time) -->
 
 1. [践行嘱托十年间](https://s.weibo.com//weibo?q=%23%E8%B7%B5%E8%A1%8C%E5%98%B1%E6%89%98%E5%8D%81%E5%B9%B4%E9%97%B4%23&Refer=new_time)
    热
@@ -98,6 +98,8 @@
 1. [郑号锡将solo出道](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%8F%B7%E9%94%A1%E5%B0%86solo%E5%87%BA%E9%81%93%23&Refer=top)
    新 ->
 1. [欧国联](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E5%9B%BD%E8%81%94%23&Refer=top)
+   新
+1. [加油妈妈](https://s.weibo.com//weibo?q=%E5%8A%A0%E6%B2%B9%E5%A6%88%E5%A6%88&Refer=top)
    新
 
 <!-- END -->

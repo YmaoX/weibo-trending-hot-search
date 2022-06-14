@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 15 2022 01:18:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 15 2022 02:20:09 GMT+0800 (China Standard Time) -->
 
 1. [践行嘱托十年间](https://s.weibo.com//weibo?q=%23%E8%B7%B5%E8%A1%8C%E5%98%B1%E6%89%98%E5%8D%81%E5%B9%B4%E9%97%B4%23&Refer=new_time)
    热
@@ -52,6 +52,7 @@
 1. [谢谢教师资格证](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E8%B0%A2%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%23&Refer=top)
 1. [王者S28赛季即将开启](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85S28%E8%B5%9B%E5%AD%A3%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF%23&Refer=top)
 1. [长风渡](https://s.weibo.com//weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1&Refer=top) 新
+   ->
 1. [当你做reaction时本尊就在身后](https://s.weibo.com//weibo?q=%E5%BD%93%E4%BD%A0%E5%81%9Areaction%E6%97%B6%E6%9C%AC%E5%B0%8A%E5%B0%B1%E5%9C%A8%E8%BA%AB%E5%90%8E&Refer=top)
    新 ->
 1. [肠梗阻婴儿因发热被送方舱后死亡](https://s.weibo.com//weibo?q=%23%E8%82%A0%E6%A2%97%E9%98%BB%E5%A9%B4%E5%84%BF%E5%9B%A0%E5%8F%91%E7%83%AD%E8%A2%AB%E9%80%81%E6%96%B9%E8%88%B1%E5%90%8E%E6%AD%BB%E4%BA%A1%23&Refer=top)
@@ -64,7 +65,7 @@
 1. [河南卫健委调查储户被赋红码](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8D%AB%E5%81%A5%E5%A7%94%E8%B0%83%E6%9F%A5%E5%82%A8%E6%88%B7%E8%A2%AB%E8%B5%8B%E7%BA%A2%E7%A0%81%23&Refer=top)
 1. [天堂超市酒吧列入严重违法失信名单](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%A0%82%E8%B6%85%E5%B8%82%E9%85%92%E5%90%A7%E5%88%97%E5%85%A5%E4%B8%A5%E9%87%8D%E8%BF%9D%E6%B3%95%E5%A4%B1%E4%BF%A1%E5%90%8D%E5%8D%95%23&Refer=top)
 1. [怦然心动20岁第二季明天播出](https://s.weibo.com//weibo?q=%23%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A820%E5%B2%81%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%98%8E%E5%A4%A9%E6%92%AD%E5%87%BA%23&Refer=top)
-   新
+   新 ->
 1. [女子2年苦练潜水成美人鱼](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%902%E5%B9%B4%E8%8B%A6%E7%BB%83%E6%BD%9C%E6%B0%B4%E6%88%90%E7%BE%8E%E4%BA%BA%E9%B1%BC%23&Refer=top)
 1. [超级月亮 见者好运](https://s.weibo.com//weibo?q=%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE%20%E8%A7%81%E8%80%85%E5%A5%BD%E8%BF%90&Refer=top)
 1. [女子深夜回家遭黑车司机尾随敲门](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E5%9B%9E%E5%AE%B6%E9%81%AD%E9%BB%91%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%B0%BE%E9%9A%8F%E6%95%B2%E9%97%A8%23&Refer=top)
@@ -87,13 +88,15 @@
 1. [大国粮策](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%9B%BD%E7%B2%AE%E7%AD%96%23&Refer=new_time)
    热
 1. [梦华录到底有多精致](https://s.weibo.com//weibo?q=%23%E6%A2%A6%E5%8D%8E%E5%BD%95%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%B2%BE%E8%87%B4%23&Refer=top)
-   新
+   新 ->
 1. [安徽马鞍山一饭店深夜失火](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E9%A9%AC%E9%9E%8D%E5%B1%B1%E4%B8%80%E9%A5%AD%E5%BA%97%E6%B7%B1%E5%A4%9C%E5%A4%B1%E7%81%AB%23&Refer=top)
    新
 1. [英汽车协会主席呼吁民众多走路](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E6%B1%BD%E8%BD%A6%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%91%BC%E5%90%81%E6%B0%91%E4%BC%97%E5%A4%9A%E8%B5%B0%E8%B7%AF%23&Refer=top)
-   新
+   新 ->
 1. [说英雄谁是英雄 虐](https://s.weibo.com//weibo?q=%E8%AF%B4%E8%8B%B1%E9%9B%84%E8%B0%81%E6%98%AF%E8%8B%B1%E9%9B%84%20%E8%99%90&Refer=top)
 1. [油价](https://s.weibo.com//weibo?q=%E6%B2%B9%E4%BB%B7&Refer=top)
+1. [郑号锡将solo出道](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%8F%B7%E9%94%A1%E5%B0%86solo%E5%87%BA%E9%81%93%23&Refer=top)
+   新
 
 <!-- END -->
 

@@ -23,7 +23,7 @@
   {
     "url": "/weibo?q=%23%E7%94%9F%E7%88%B6%E5%9B%9E%E5%BA%94%E5%A9%B4%E5%84%BF%E5%8F%91%E7%83%AD%E8%A2%AB%E9%80%81%E6%96%B9%E8%88%B1%E5%90%8E%E6%AD%BB%E4%BA%A1%23&Refer=top",
     "title": "生父回应婴儿发热被送方舱后死亡",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8F%AB%E4%BB%96%E5%8D%83%E5%B8%86%23&Refer=top",
@@ -38,7 +38,7 @@
   {
     "url": "/weibo?q=%23%E9%99%95%E8%A5%BF%E9%AB%98%E8%80%83%E5%89%8D%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%8E%BB%E4%B8%96%23&Refer=top",
     "title": "陕西高考前失联女孩已去世",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23iPhone13%23&Refer=top",
@@ -74,7 +74,7 @@
   {
     "url": "/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%9B%9E%E5%BA%94%E7%B4%A2%E8%B5%94500%E4%B8%87%E5%85%83%23&Refer=top",
     "title": "孙海洋回应索赔500万元",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%AE%8B%E5%BC%95%E7%AB%A0%20%E8%B5%B5%E7%9B%BC%E5%84%BF&Refer=top",
@@ -94,7 +94,7 @@
   {
     "url": "/weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%20%E7%83%AD%E7%83%88&Refer=top",
     "title": "宋祖儿 热烈",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%B5%8C%E7%8E%8B%E4%BA%8C%E6%88%BF%E5%A4%AA%E5%A4%AA%E8%93%9D%E7%90%BC%E7%BC%A8%E5%8E%BB%E4%B8%96%23&Refer=top",
@@ -164,7 +164,7 @@
   {
     "url": "/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%B0%86%E7%BB%8F%E6%B5%8E%E5%9B%B0%E9%9A%BE%E7%94%A9%E9%94%85%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%23&Refer=top",
     "title": "拜登将经济困难甩锅普京和特朗普",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A5%B3%E5%AD%90%E7%BD%91%E4%B8%8A%E6%89%BE%E5%B7%A5%E4%BD%9C3%E5%A4%A9%E8%A2%AB%E9%AA%97%E4%B8%80%E7%99%BE%E5%A4%9A%E4%B8%87%23&Refer=top",
@@ -225,7 +225,7 @@
   {
     "url": "/weibo?q=%E6%B7%98%E5%AE%9D%E7%BA%A2%E5%8C%85&Refer=top",
     "title": "淘宝红包",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E6%B8%B8%E8%88%B9%E9%99%8D%E4%BB%B7%E4%BA%86%23&Refer=top",
@@ -250,6 +250,11 @@
   {
     "url": "/weibo?q=%23%E4%B8%9C%E8%88%AA%E5%9B%9E%E5%BA%94%E6%A0%B8%E9%85%B8%E8%BF%873%E5%88%86%E9%92%9F%E6%97%A0%E6%B3%95%E7%99%BB%E6%9C%BA%23&Refer=top",
     "title": "东航回应核酸过3分钟无法登机",
-    "mark": "新"
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%AA%E5%9D%8F%E9%98%BF%E5%A7%A8%E6%83%B3%E8%A6%81%E6%B3%A1%E6%88%91%23&Refer=top",
+    "title": "这里有个坏阿姨想要泡我",
+    "mark": ""
   }
 ]

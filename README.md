@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 20 2022 03:12:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 20 2022 04:16:29 GMT+0800 (China Standard Time) -->
 
 1. [以零容忍态度惩治腐败](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%80%81%E5%BA%A6%E6%83%A9%E6%B2%BB%E8%85%90%E8%B4%A5%23&Refer=new_time)
    热
@@ -100,6 +100,8 @@
    新 ->
 1. [中国成功试验陆基中段反导拦截技术](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E8%AF%95%E9%AA%8C%E9%99%86%E5%9F%BA%E4%B8%AD%E6%AE%B5%E5%8F%8D%E5%AF%BC%E6%8B%A6%E6%88%AA%E6%8A%80%E6%9C%AF%23&Refer=top)
 1. [杰迷过年了](https://s.weibo.com//weibo?q=%23%E6%9D%B0%E8%BF%B7%E8%BF%87%E5%B9%B4%E4%BA%86%23&Refer=top)
+1. [10岁男孩送爸爸攒了3年的零用钱](https://s.weibo.com//weibo?q=%2310%E5%B2%81%E7%94%B7%E5%AD%A9%E9%80%81%E7%88%B8%E7%88%B8%E6%94%92%E4%BA%863%E5%B9%B4%E7%9A%84%E9%9B%B6%E7%94%A8%E9%92%B1%23&Refer=top)
+   新
 
 <!-- END -->
 

@@ -77,7 +77,7 @@
   {
     "url": "/weibo?q=%E5%8F%A4%E5%81%B6%20%E5%8E%9F%E9%9F%B3&Refer=top",
     "title": "古偶 原音",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%BE%90%E6%B5%B7%E4%B9%94%E5%89%8D%E5%A4%AB%E5%93%A5&Refer=top",
@@ -237,12 +237,12 @@
   {
     "url": "/weibo?q=UP%E6%88%98%E8%83%9CRA&Refer=top",
     "title": "UP战胜RA",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E6%94%AF%E5%8D%95%E6%9B%B2%E4%B8%8A%E7%BA%BF%23&Refer=top",
     "title": "卡塔尔世界杯首支单曲上线",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%89%8D%E4%B8%BB%E5%B8%85%E6%9D%8E%E8%80%80%E5%85%88%E5%8E%BB%E4%B8%96%23&Refer=top",
@@ -263,5 +263,10 @@
     "url": "/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%20%E4%B8%AD%E5%9B%BD%E9%A3%8E%E6%AD%8C%E6%9B%B2&Refer=top",
     "title": "周杰伦新专辑 中国风歌曲",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E8%B5%B0%E8%BF%9B%E5%8E%BF%E5%9F%8E%E7%9C%8B%E5%8F%91%E5%B1%95%23&Refer=new_time",
+    "title": "走进县城看发展",
+    "mark": "热"
   }
 ]

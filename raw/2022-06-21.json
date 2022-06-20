@@ -27,7 +27,7 @@
   {
     "url": "/weibo?q=%E7%8E%89%E9%AA%A8%E9%81%A5&Refer=top",
     "title": "玉骨遥",
-    "mark": "沸"
+    "mark": "沸 -> "
   },
   {
     "url": "/weibo?q=%23%E5%85%AC%E5%B8%83%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%E5%8F%97%E5%AE%B3%E5%A5%B3%E5%AD%90%E8%BF%91%E5%86%B5%E5%AE%9C%E6%97%A9%E4%B8%8D%E5%AE%9C%E8%BF%9F%23&Refer=top",
@@ -262,11 +262,16 @@
   {
     "url": "/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%20%E4%B8%AD%E5%9B%BD%E9%A3%8E%E6%AD%8C%E6%9B%B2&Refer=top",
     "title": "周杰伦新专辑 中国风歌曲",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%B5%B0%E8%BF%9B%E5%8E%BF%E5%9F%8E%E7%9C%8B%E5%8F%91%E5%B1%95%23&Refer=new_time",
     "title": "走进县城看发展",
     "mark": "热"
+  },
+  {
+    "url": "/weibo?q=%23%E5%90%B4%E5%BD%A4%E6%8F%AD%E7%A7%98%E5%8D%8E%E6%99%A8%E5%AE%87%E9%B8%A3%E4%BA%BA%E9%80%A0%E5%9E%8B%E5%B9%95%E5%90%8E%23&Refer=top",
+    "title": "吴彤揭秘华晨宇鸣人造型幕后",
+    "mark": "新"
   }
 ]

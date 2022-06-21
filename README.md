@@ -14,14 +14,14 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 22 2022 05:13:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 22 2022 06:14:50 GMT+0800 (China Standard Time) -->
 
 1. [好男儿志在四方](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E7%94%B7%E5%84%BF%E5%BF%97%E5%9C%A8%E5%9B%9B%E6%96%B9%23&Refer=new_time)
    热
 1. [洗米华案涉及金额高达6800亿](https://s.weibo.com//weibo?q=%23%E6%B4%97%E7%B1%B3%E5%8D%8E%E6%A1%88%E6%B6%89%E5%8F%8A%E9%87%91%E9%A2%9D%E9%AB%98%E8%BE%BE6800%E4%BA%BF%23&Refer=top)
    沸
 1. [蟑螂算是碰到克星了](https://s.weibo.com//weibo?q=%23%E8%9F%91%E8%9E%82%E7%AE%97%E6%98%AF%E7%A2%B0%E5%88%B0%E5%85%8B%E6%98%9F%E4%BA%86%23&Refer=top)
-   新 -> -> 沸
+   新 -> -> 沸 ->
 1. [2022高考网上咨询周](https://s.weibo.com//weibo?q=%232022%E9%AB%98%E8%80%83%E7%BD%91%E4%B8%8A%E5%92%A8%E8%AF%A2%E5%91%A8%23&Refer=top)
 1. [易烊千玺大学遗憾是这届没有毕业典礼](https://s.weibo.com//weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%A4%A7%E5%AD%A6%E9%81%97%E6%86%BE%E6%98%AF%E8%BF%99%E5%B1%8A%E6%B2%A1%E6%9C%89%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&Refer=top)
 1. [俄罗斯成为中国最大石油供应国](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E7%9F%B3%E6%B2%B9%E4%BE%9B%E5%BA%94%E5%9B%BD%23&Refer=top)
@@ -108,12 +108,18 @@
 1. [小学生春游综合症](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%98%A5%E6%B8%B8%E7%BB%BC%E5%90%88%E7%97%87%23&Refer=top)
    新 ->
 1. [120三次回拨电话指导抢救垂危老人](https://s.weibo.com//weibo?q=%23120%E4%B8%89%E6%AC%A1%E5%9B%9E%E6%8B%A8%E7%94%B5%E8%AF%9D%E6%8C%87%E5%AF%BC%E6%8A%A2%E6%95%91%E5%9E%82%E5%8D%B1%E8%80%81%E4%BA%BA%23&Refer=top)
-   新
+   新 ->
 1. [2条河流发生超保洪水](https://s.weibo.com//weibo?q=%232%E6%9D%A1%E6%B2%B3%E6%B5%81%E5%8F%91%E7%94%9F%E8%B6%85%E4%BF%9D%E6%B4%AA%E6%B0%B4%23&Refer=top)
-   新
+   新 ->
 1. [预拨福建江西湖南广西2亿元救灾资金](https://s.weibo.com//weibo?q=%23%E9%A2%84%E6%8B%A8%E7%A6%8F%E5%BB%BA%E6%B1%9F%E8%A5%BF%E6%B9%96%E5%8D%97%E5%B9%BF%E8%A5%BF2%E4%BA%BF%E5%85%83%E6%95%91%E7%81%BE%E8%B5%84%E9%87%91%23&Refer=top)
    新
 1. [这就是漫画里的夏天吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%BC%AB%E7%94%BB%E9%87%8C%E7%9A%84%E5%A4%8F%E5%A4%A9%E5%90%A7%23&Refer=top)
+   新
+1. [我选择加入拜月教](https://s.weibo.com//weibo?q=%E6%88%91%E9%80%89%E6%8B%A9%E5%8A%A0%E5%85%A5%E6%8B%9C%E6%9C%88%E6%95%99&Refer=top)
+   新
+1. [苏青和前夫拆伙正面刚](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%9D%92%E5%92%8C%E5%89%8D%E5%A4%AB%E6%8B%86%E4%BC%99%E6%AD%A3%E9%9D%A2%E5%88%9A%23&Refer=top)
+   新
+1. [海南热带雨林国家公园三年发现28个新物种](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E7%83%AD%E5%B8%A6%E9%9B%A8%E6%9E%97%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E4%B8%89%E5%B9%B4%E5%8F%91%E7%8E%B028%E4%B8%AA%E6%96%B0%E7%89%A9%E7%A7%8D%23&Refer=top)
    新
 
 <!-- END -->

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 23 2022 02:20:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 23 2022 03:12:29 GMT+0800 (China Standard Time) -->
 
 1. [包容普惠互利共赢才是人间正道](https://s.weibo.com//weibo?q=%23%E5%8C%85%E5%AE%B9%E6%99%AE%E6%83%A0%E4%BA%92%E5%88%A9%E5%85%B1%E8%B5%A2%E6%89%8D%E6%98%AF%E4%BA%BA%E9%97%B4%E6%AD%A3%E9%81%93%23&Refer=new_time)
    热
@@ -96,11 +96,12 @@
 1. [静香和一只流浪猫](https://s.weibo.com//weibo?q=%E9%9D%99%E9%A6%99%E5%92%8C%E4%B8%80%E5%8F%AA%E6%B5%81%E6%B5%AA%E7%8C%AB&Refer=top)
    新 ->
 1. [男生宿舍讨论追女孩有多好笑](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E8%AE%A8%E8%AE%BA%E8%BF%BD%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top)
-   新
+   新 ->
 1. [郑云龙人形生物首秀](https://s.weibo.com//weibo?q=%23%E9%83%91%E4%BA%91%E9%BE%99%E4%BA%BA%E5%BD%A2%E7%94%9F%E7%89%A9%E9%A6%96%E7%A7%80%23&Refer=top)
    新 ->
 1. [高校办昆虫宴送别毕业生](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E5%8A%9E%E6%98%86%E8%99%AB%E5%AE%B4%E9%80%81%E5%88%AB%E6%AF%95%E4%B8%9A%E7%94%9F%23&Refer=top)
-   新
+   新 ->
+1. [说疯子谁是疯子](https://s.weibo.com//weibo?q=%23%E8%AF%B4%E7%96%AF%E5%AD%90%E8%B0%81%E6%98%AF%E7%96%AF%E5%AD%90%23&Refer=top)
 
 <!-- END -->
 

@@ -323,6 +323,16 @@
   {
     "url": "/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E4%BB%8A%E5%A4%8F%E9%A6%96%E4%B8%AA%E9%AB%98%E6%B8%A9%E9%A2%84%E8%AD%A6%23&Refer=top",
     "title": "上海发布今夏首个高温预警",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E6%9E%B6%E5%AE%892%E9%A3%9E%E6%9C%BA%E5%A4%B1%E8%B8%AA%23&Refer=top",
+    "title": "俄罗斯一架安2飞机失踪",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%B1%E6%B8%B8%E9%98%9F%E6%BC%94%E7%BB%8E%E5%B7%BE%E5%B8%BC%E8%8B%B1%E9%9B%84%23&Refer=top",
+    "title": "中国花游队演绎巾帼英雄",
     "mark": "新"
   }
 ]

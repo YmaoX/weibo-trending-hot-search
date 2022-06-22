@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 23 2022 05:14:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 23 2022 06:15:05 GMT+0800 (China Standard Time) -->
 
 1. [包容普惠互利共赢才是人间正道](https://s.weibo.com//weibo?q=%23%E5%8C%85%E5%AE%B9%E6%99%AE%E6%83%A0%E4%BA%92%E5%88%A9%E5%85%B1%E8%B5%A2%E6%89%8D%E6%98%AF%E4%BA%BA%E9%97%B4%E6%AD%A3%E9%81%93%23&Refer=new_time)
    热
@@ -117,6 +117,10 @@
 1. [邓家佳说密室逃脱是没有真人NPC吗](https://s.weibo.com//weibo?q=%23%E9%82%93%E5%AE%B6%E4%BD%B3%E8%AF%B4%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1%E6%98%AF%E6%B2%A1%E6%9C%89%E7%9C%9F%E4%BA%BANPC%E5%90%97%23&Refer=top)
    新
 1. [上海发布今夏首个高温预警](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E4%BB%8A%E5%A4%8F%E9%A6%96%E4%B8%AA%E9%AB%98%E6%B8%A9%E9%A2%84%E8%AD%A6%23&Refer=top)
+   新 ->
+1. [俄罗斯一架安2飞机失踪](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E6%9E%B6%E5%AE%892%E9%A3%9E%E6%9C%BA%E5%A4%B1%E8%B8%AA%23&Refer=top)
+   新
+1. [中国花游队演绎巾帼英雄](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%B1%E6%B8%B8%E9%98%9F%E6%BC%94%E7%BB%8E%E5%B7%BE%E5%B8%BC%E8%8B%B1%E9%9B%84%23&Refer=top)
    新
 
 <!-- END -->

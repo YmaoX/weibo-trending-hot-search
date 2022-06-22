@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 23 2022 03:12:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 23 2022 04:16:21 GMT+0800 (China Standard Time) -->
 
 1. [包容普惠互利共赢才是人间正道](https://s.weibo.com//weibo?q=%23%E5%8C%85%E5%AE%B9%E6%99%AE%E6%83%A0%E4%BA%92%E5%88%A9%E5%85%B1%E8%B5%A2%E6%89%8D%E6%98%AF%E4%BA%BA%E9%97%B4%E6%AD%A3%E9%81%93%23&Refer=new_time)
    热
@@ -27,7 +27,7 @@
    新 ->
 1. [碧桂园](https://s.weibo.com//weibo?q=%E7%A2%A7%E6%A1%82%E5%9B%AD&Refer=top) 新
 1. [妈妈误服500片药女研究生决意休学](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E8%AF%AF%E6%9C%8D500%E7%89%87%E8%8D%AF%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%86%B3%E6%84%8F%E4%BC%91%E5%AD%A6%23&Refer=top)
-   热
+   热 ->
 1. [浙江一女学霸收到5所世界名校offer](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E5%AD%A6%E9%9C%B8%E6%94%B6%E5%88%B05%E6%89%80%E4%B8%96%E7%95%8C%E5%90%8D%E6%A0%A1offer%23&Refer=top)
    新 ->
 1. [高考成绩陆续公布](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83%23&Refer=top)
@@ -102,6 +102,10 @@
 1. [高校办昆虫宴送别毕业生](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E5%8A%9E%E6%98%86%E8%99%AB%E5%AE%B4%E9%80%81%E5%88%AB%E6%AF%95%E4%B8%9A%E7%94%9F%23&Refer=top)
    新 ->
 1. [说疯子谁是疯子](https://s.weibo.com//weibo?q=%23%E8%AF%B4%E7%96%AF%E5%AD%90%E8%B0%81%E6%98%AF%E7%96%AF%E5%AD%90%23&Refer=top)
+1. [不为风险所惧勇敢面对挑战](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E4%B8%BA%E9%A3%8E%E9%99%A9%E6%89%80%E6%83%A7%E5%8B%87%E6%95%A2%E9%9D%A2%E5%AF%B9%E6%8C%91%E6%88%98%23&Refer=new_time)
+   热
+1. [用了笑脸特效的沈如琢和宋引章](https://s.weibo.com//weibo?q=%23%E7%94%A8%E4%BA%86%E7%AC%91%E8%84%B8%E7%89%B9%E6%95%88%E7%9A%84%E6%B2%88%E5%A6%82%E7%90%A2%E5%92%8C%E5%AE%8B%E5%BC%95%E7%AB%A0%23&Refer=top)
+   新
 
 <!-- END -->
 

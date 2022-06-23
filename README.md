@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 24 2022 04:17:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 24 2022 05:13:58 GMT+0800 (China Standard Time) -->
 
 1. [2022金砖会晤](https://s.weibo.com//weibo?q=%232022%E9%87%91%E7%A0%96%E4%BC%9A%E6%99%A4%23&Refer=new_time)
    热
@@ -101,8 +101,12 @@
 1. [沿着总书记的足迹](https://s.weibo.com//weibo?q=%23%E6%B2%BF%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E8%B6%B3%E8%BF%B9%23&Refer=new_time)
    热
 1. [福建高考成绩将于6月24日下午公布](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%B0%86%E4%BA%8E6%E6%9C%8824%E6%97%A5%E4%B8%8B%E5%8D%88%E5%85%AC%E5%B8%83%23&Refer=top)
-   新
+   新 ->
 1. [非主流时期的三大女巨头](https://s.weibo.com//weibo?q=%23%E9%9D%9E%E4%B8%BB%E6%B5%81%E6%97%B6%E6%9C%9F%E7%9A%84%E4%B8%89%E5%A4%A7%E5%A5%B3%E5%B7%A8%E5%A4%B4%23&Refer=top)
+   新
+1. [江苏多地发布暴雨黄色预警](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%23&Refer=top)
+   新
+1. [刘畊宏 披荆斩棘](https://s.weibo.com//weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%20%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98&Refer=top)
    新
 
 <!-- END -->

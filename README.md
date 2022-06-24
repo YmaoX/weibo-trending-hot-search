@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 24 2022 17:15:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 24 2022 18:18:06 GMT+0800 (China Standard Time) -->
 
 1. [2022金砖会晤](https://s.weibo.com//weibo?q=%232022%E9%87%91%E7%A0%96%E4%BC%9A%E6%99%A4%23&Refer=new_time)
    热
@@ -362,12 +362,12 @@
 1. [知网被约谈](https://s.weibo.com//weibo?q=%23%E7%9F%A5%E7%BD%91%E8%A2%AB%E7%BA%A6%E8%B0%88%23&Refer=top)
    新 ->
 1. [贺林被开除党籍](https://s.weibo.com//weibo?q=%23%E8%B4%BA%E6%9E%97%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&Refer=top)
-   新
+   新 ->
 1. [高考分数线降降降](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E9%99%8D%E9%99%8D%E9%99%8D%23&Refer=top)
    新 ->
 1. [难听](https://s.weibo.com//weibo?q=%23%E9%9A%BE%E5%90%AC%23&Refer=top)
 1. [女生高考660分老师们沸腾](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83660%E5%88%86%E8%80%81%E5%B8%88%E4%BB%AC%E6%B2%B8%E8%85%BE%23&Refer=top)
-   新
+   新 ->
 1. [耐克撤出俄网友称还有中国品牌](https://s.weibo.com//weibo?q=%23%E8%80%90%E5%85%8B%E6%92%A4%E5%87%BA%E4%BF%84%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%BF%98%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%23&Refer=top)
    新 ->
 1. [宁波冰雹](https://s.weibo.com//weibo?q=%E5%AE%81%E6%B3%A2%E5%86%B0%E9%9B%B9&Refer=top)
@@ -384,9 +384,9 @@
 1. [庆祝香港回归祖国25周年歌曲我们会更好](https://s.weibo.com//weibo?q=%23%E5%BA%86%E7%A5%9D%E9%A6%99%E6%B8%AF%E5%9B%9E%E5%BD%92%E7%A5%96%E5%9B%BD25%E5%91%A8%E5%B9%B4%E6%AD%8C%E6%9B%B2%E6%88%91%E4%BB%AC%E4%BC%9A%E6%9B%B4%E5%A5%BD%23&Refer=top)
    新
 1. [西安一幼儿园百余名儿童感染沙门氏菌](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%99%BE%E4%BD%99%E5%90%8D%E5%84%BF%E7%AB%A5%E6%84%9F%E6%9F%93%E6%B2%99%E9%97%A8%E6%B0%8F%E8%8F%8C%23&Refer=top)
-   新
+   新 ->
 1. [上汽大众召回1765辆奥迪A7L](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B1%BD%E5%A4%A7%E4%BC%97%E5%8F%AC%E5%9B%9E1765%E8%BE%86%E5%A5%A5%E8%BF%AAA7L%23&Refer=top)
-   新
+   新 ->
 1. [人生最可怕的是猪爱上了屠夫](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%94%9F%E6%9C%80%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E7%8C%AA%E7%88%B1%E4%B8%8A%E4%BA%86%E5%B1%A0%E5%A4%AB%23&Refer=top)
    新
 1. [姐弟恋靠勇气就能解决问题吗](https://s.weibo.com//weibo?q=%23%E5%A7%90%E5%BC%9F%E6%81%8B%E9%9D%A0%E5%8B%87%E6%B0%94%E5%B0%B1%E8%83%BD%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E5%90%97%23&Refer=top)
@@ -404,13 +404,13 @@
 1. [严格落实疫情防控9不准](https://s.weibo.com//weibo?q=%23%E4%B8%A5%E6%A0%BC%E8%90%BD%E5%AE%9E%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A79%E4%B8%8D%E5%87%86%23&Refer=top)
    新
 1. [汤唯挑染](https://s.weibo.com//weibo?q=%23%E6%B1%A4%E5%94%AF%E6%8C%91%E6%9F%93%23&Refer=top)
-   新
+   新 ->
 1. [Angelababy林月如造型](https://s.weibo.com//weibo?q=%23Angelababy%E6%9E%97%E6%9C%88%E5%A6%82%E9%80%A0%E5%9E%8B%23&Refer=top)
-   新
+   新 -> 沸
 1. [女孩被求婚崩溃大喊我没化妆](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%B1%82%E5%A9%9A%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%96%8A%E6%88%91%E6%B2%A1%E5%8C%96%E5%A6%86%23&Refer=top)
    新
 1. [河北高考分数线](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&Refer=top)
-   新
+   新 ->
 1. [那英 给你一脚](https://s.weibo.com//weibo?q=%E9%82%A3%E8%8B%B1%20%E7%BB%99%E4%BD%A0%E4%B8%80%E8%84%9A&Refer=top)
    新
 1. [江苏高考分数线](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&Refer=top)
@@ -418,13 +418,13 @@
 1. [河南专升本](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E4%B8%93%E5%8D%87%E6%9C%AC&Refer=top)
    新
 1. [郑秀妍唱孤勇者](https://s.weibo.com//weibo?q=%23%E9%83%91%E7%A7%80%E5%A6%8D%E5%94%B1%E5%AD%A4%E5%8B%87%E8%80%85%23&Refer=top)
-   新
+   新 ->
 1. [绝不允许因非疫情因素赋码变码](https://s.weibo.com//weibo?q=%23%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%E5%9B%A0%E9%9D%9E%E7%96%AB%E6%83%85%E5%9B%A0%E7%B4%A0%E8%B5%8B%E7%A0%81%E5%8F%98%E7%A0%81%23&Refer=top)
-   新
+   新 ->
 1. [北京增2例本土感染者](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top)
    新
 1. [不准随意延长中高风险地区管控时间](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%87%86%E9%9A%8F%E6%84%8F%E5%BB%B6%E9%95%BF%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%E7%AE%A1%E6%8E%A7%E6%97%B6%E9%97%B4%23&Refer=top)
-   新
+   新 ->
 1. [2022高考江苏分数线](https://s.weibo.com//weibo?q=2022%E9%AB%98%E8%80%83%E6%B1%9F%E8%8B%8F%E5%88%86%E6%95%B0%E7%BA%BF&Refer=top)
    新
 1. [白狼典藏皮肤](https://s.weibo.com//weibo?q=%23%E7%99%BD%E7%8B%BC%E5%85%B8%E8%97%8F%E7%9A%AE%E8%82%A4%23&Refer=top)
@@ -436,6 +436,33 @@
 1. [北京疫情发布会](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%96%AB%E6%83%85%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top)
    新
 1. [女生夏天穿裙子该怎么蹲](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E5%A4%8F%E5%A4%A9%E7%A9%BF%E8%A3%99%E5%AD%90%E8%AF%A5%E6%80%8E%E4%B9%88%E8%B9%B2%23&Refer=top)
+   新
+1. [3岁男童从17楼坠落住进ICU](https://s.weibo.com//weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E4%BB%8E17%E6%A5%BC%E5%9D%A0%E8%90%BD%E4%BD%8F%E8%BF%9BICU%23&Refer=top)
+   新
+1. [河南分数线](https://s.weibo.com//weibo?q=%E6%B2%B3%E5%8D%97%E5%88%86%E6%95%B0%E7%BA%BF&Refer=top)
+   新
+1. [女子收到好友还款竟是练功钞](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%94%B6%E5%88%B0%E5%A5%BD%E5%8F%8B%E8%BF%98%E6%AC%BE%E7%AB%9F%E6%98%AF%E7%BB%83%E5%8A%9F%E9%92%9E%23&Refer=top)
+   新
+1. [国产CPU龙芯中科上市](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%BA%A7CPU%E9%BE%99%E8%8A%AF%E4%B8%AD%E7%A7%91%E4%B8%8A%E5%B8%82%23&Refer=top)
+   新
+1. [蒋依依路透](https://s.weibo.com//weibo?q=%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%B7%AF%E9%80%8F&Refer=top)
+   新
+1. [杨幂划船](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82%E5%88%92%E8%88%B9%23&Refer=top)
+   新
+1. [吴谨言说庆幸能与易钟玉相伴](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E8%AF%B4%E5%BA%86%E5%B9%B8%E8%83%BD%E4%B8%8E%E6%98%93%E9%92%9F%E7%8E%89%E7%9B%B8%E4%BC%B4%23&Refer=top)
+   新
+1. [蔚来马麟回应汽车坠楼](https://s.weibo.com//weibo?q=%23%E8%94%9A%E6%9D%A5%E9%A9%AC%E9%BA%9F%E5%9B%9E%E5%BA%94%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%A5%BC%23&Refer=top)
+   新
+1. [星汉灿烂官方宣传语](https://s.weibo.com//weibo?q=%23%E6%98%9F%E6%B1%89%E7%81%BF%E7%83%82%E5%AE%98%E6%96%B9%E5%AE%A3%E4%BC%A0%E8%AF%AD%23&Refer=top)
+   新
+1. [OMG对战LNG](https://s.weibo.com//weibo?q=%23OMG%E5%AF%B9%E6%88%98LNG%23&Refer=top)
+   新
+1. [纸钞屋](https://s.weibo.com//weibo?q=%E7%BA%B8%E9%92%9E%E5%B1%8B&Refer=top) 新
+1. [奔跑吧](https://s.weibo.com//weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23&Refer=top)
+   新
+1. [河北三河爆燃事故已致2死20伤](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%89%E6%B2%B3%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B42%E6%AD%BB20%E4%BC%A4%23&Refer=top)
+   新
+1. [丹东防疫要转作风增感情](https://s.weibo.com//weibo?q=%23%E4%B8%B9%E4%B8%9C%E9%98%B2%E7%96%AB%E8%A6%81%E8%BD%AC%E4%BD%9C%E9%A3%8E%E5%A2%9E%E6%84%9F%E6%83%85%23&Refer=top)
    新
 
 <!-- END -->

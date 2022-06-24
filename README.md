@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 25 2022 05:14:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 25 2022 06:14:57 GMT+0800 (China Standard Time) -->
 
 1. [金砖再次迎来中国时刻](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%A0%96%E5%86%8D%E6%AC%A1%E8%BF%8E%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%97%B6%E5%88%BB%23&Refer=new_time)
    热
@@ -105,6 +105,13 @@
 1. [霉霉新歌Carolina完整版](https://s.weibo.com//weibo?q=%23%E9%9C%89%E9%9C%89%E6%96%B0%E6%AD%8CCarolina%E5%AE%8C%E6%95%B4%E7%89%88%23&Refer=top)
    新
 1. [2022河南高考理科一本分数线509](https://s.weibo.com//weibo?q=%232022%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91%E4%B8%80%E6%9C%AC%E5%88%86%E6%95%B0%E7%BA%BF509%23&Refer=top)
+   新
+1. [正能量计划](https://s.weibo.com//weibo?q=%23%E6%AD%A3%E8%83%BD%E9%87%8F%E8%AE%A1%E5%88%92%23&Refer=new_time)
+   热
+1. [侏罗纪世界3票房破7亿](https://s.weibo.com//weibo?q=%23%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C3%E7%A5%A8%E6%88%BF%E7%A0%B47%E4%BA%BF%23&Refer=top)
+   新
+1. [张艺兴用厨房纸巾给黄磊擦汗](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E5%8E%A8%E6%88%BF%E7%BA%B8%E5%B7%BE%E7%BB%99%E9%BB%84%E7%A3%8A%E6%93%A6%E6%B1%97%23&Refer=top)
+1. [采访算是被六公主玩明白了](https://s.weibo.com//weibo?q=%23%E9%87%87%E8%AE%BF%E7%AE%97%E6%98%AF%E8%A2%AB%E5%85%AD%E5%85%AC%E4%B8%BB%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top)
    新
 
 <!-- END -->

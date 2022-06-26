@@ -72,7 +72,7 @@
   {
     "url": "/weibo?q=%E8%90%A7%E9%92%A6%E8%A8%80%E6%98%AF%E5%A5%BD%E4%BA%BA%E8%BF%98%E6%98%AF%E5%9D%8F%E4%BA%BA&Refer=top",
     "title": "萧钦言是好人还是坏人",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E8%80%83%E8%90%BD%E6%A6%9C%E8%AF%BB%E4%B8%93%E7%A7%91%E9%80%86%E8%A2%AD%E4%B9%B0%E5%8D%83%E4%B8%87%E5%88%AB%E5%A2%85%23&Refer=top",
@@ -198,7 +198,7 @@
   {
     "url": "/weibo?q=%23%E6%9B%B9%E7%BC%98%E7%8E%8B%E5%AE%97%E6%BA%90%E7%94%B7%E5%8F%8C3%E7%B1%B3%E6%9D%BF%E7%A7%B0%E7%8E%8B%23&Refer=top",
     "title": "曹缘王宗源男双3米板称王",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E5%94%B1%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%98%AF%E5%B0%BA%23&Refer=top",
@@ -218,7 +218,7 @@
   {
     "url": "/weibo?q=%23KPL%E8%B6%85%E7%BA%A7%E5%85%B5%E5%81%B7%E5%AE%B6%E6%97%A5%23&Refer=top",
     "title": "KPL超级兵偷家日",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%8E%92%E5%90%8D%E5%89%8D%E4%BA%8C%E6%99%8B%E7%BA%A7%23&Refer=top",
@@ -258,7 +258,7 @@
   {
     "url": "/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%BA%BB%E8%BE%A3%E5%8F%98%E5%BD%A2%E8%AE%A1Fightingday%23&Refer=top",
     "title": "鞠婧祎麻辣变形计Fightingday",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23QQ%E7%9B%97%E5%8F%B7%23&Refer=top",
@@ -273,11 +273,16 @@
   {
     "url": "/weibo?q=%23%E7%AE%97%E6%98%AF%E6%8A%8A%E5%84%BF%E7%AB%A5%E4%B9%90%E5%99%A8%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top",
     "title": "算是把儿童乐器玩明白了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E9%99%88%E6%84%8F%E6%B6%B5%E8%8E%B2%E8%8A%B1%E6%A5%BC&Refer=top",
     "title": "陈意涵莲花楼",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B&Refer=top",
+    "title": "人生大事",
     "mark": ""
   }
 ]

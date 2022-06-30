@@ -272,7 +272,7 @@
   {
     "url": "/weibo?q=%23%E8%8A%B1%E6%9C%88%E5%AE%B4yyds%23&Refer=top",
     "title": "花月宴yyds",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%91%A8%E7%90%A6%E5%87%BA%E5%9B%BD%E6%89%93%E7%90%83%E4%B8%80%E5%B9%B4%E5%90%8E%E8%BF%9B%E6%AD%A5%E5%A4%A7%E5%90%97%23&Refer=top",
@@ -302,11 +302,16 @@
   {
     "url": "/weibo?q=%23%E6%88%91%E4%B8%80%E7%9B%B4%E6%8C%82%E5%BF%B5%E7%9D%80%E9%A6%99%E6%B8%AF%23&Refer=top",
     "title": "我一直挂念着香港",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%A2%81%E5%BC%98%E5%BC%A0%E6%AD%86%E8%89%BA%E5%AE%B6%E5%BA%AD%E5%86%85%E5%8D%B7%23&Refer=top",
     "title": "袁弘张歆艺家庭内卷",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E5%91%8A%E5%88%AB%E7%A1%AC%E7%B3%96%E5%B0%91%E5%A5%B3303%23&Refer=top",
+    "title": "希林娜依高告别硬糖少女303",
     "mark": "新"
   }
 ]

@@ -27,7 +27,7 @@
   {
     "url": "/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%B1%82%E6%9D%A8%E5%B9%82%E4%B8%8D%E8%A6%81%E5%86%8D%E5%94%B1%E4%BA%86%23&Refer=top",
     "title": "华晨宇求杨幂不要再唱了",
-    "mark": "沸 -> 热 -> 沸"
+    "mark": "沸 -> 热 -> 沸 -> "
   },
   {
     "url": "/weibo?q=%23%E5%AB%8C%E7%96%91%E4%BA%BA%E7%A7%B0%E5%B9%B6%E9%9D%9E%E5%9B%A0%E6%94%BF%E6%B2%BB%E7%AB%8B%E5%9C%BA%E5%AF%B9%E5%AE%89%E5%80%8D%E4%BA%A7%E7%94%9F%E6%81%A8%E6%84%8F%23&Refer=top",
@@ -289,11 +289,26 @@
   {
     "url": "/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E4%BB%8A%E6%99%9A%E5%90%AC%E8%80%81%E5%8F%8B%E5%A4%9C%E8%AF%9D%23&Refer=top",
     "title": "向往的生活今晚听老友夜话",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%89%96%E8%85%B9%E4%BA%A7%E5%A6%88%E5%A6%88%E5%90%AB%E6%B3%AA%E5%B8%AE%E6%8A%B9%E8%8D%AF%23&Refer=top",
     "title": "女儿剖腹产妈妈含泪帮抹药",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E9%9F%A9%E4%B8%9C%E5%90%9B%E8%8A%B1%E5%B0%91%E5%AE%89%E5%85%A8%E5%91%98%23&Refer=top",
+    "title": "韩东君花少安全员",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E6%97%A5%E6%9C%AC%E7%A6%81%E6%9E%AA&Refer=top",
+    "title": "日本禁枪",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E4%BD%95%E5%B9%B8%E7%A6%8F%E5%85%B3%E6%B6%9B%E4%B8%80%E8%B5%B7%E6%90%9E%E4%BA%8B%E4%B8%9A%23&Refer=top",
+    "title": "何幸福关涛一起搞事业",
+    "mark": ""
   }
 ]

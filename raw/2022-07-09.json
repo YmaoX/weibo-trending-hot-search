@@ -32,7 +32,7 @@
   {
     "url": "/weibo?q=%23%E5%AB%8C%E7%96%91%E4%BA%BA%E7%A7%B0%E5%B9%B6%E9%9D%9E%E5%9B%A0%E6%94%BF%E6%B2%BB%E7%AB%8B%E5%9C%BA%E5%AF%B9%E5%AE%89%E5%80%8D%E4%BA%A7%E7%94%9F%E6%81%A8%E6%84%8F%23&Refer=top",
     "title": "嫌疑人称并非因政治立场对安倍产生恨意",
-    "mark": "沸"
+    "mark": "沸 -> 热"
   },
   {
     "url": "/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%8A%AA%E5%8A%9B%E6%98%AF%E5%BE%88%E7%8F%8D%E8%B4%B5%E7%9A%84%23&Refer=top",
@@ -279,6 +279,16 @@
   {
     "url": "/weibo?q=%23%E5%85%A8%E7%90%83%E7%BD%91%E5%8F%8B%E9%83%BD%E6%9D%A5%E7%BB%99%E5%93%A5%E4%BA%A4%E4%BD%9C%E4%B8%9A%E5%95%A6%23&Refer=top",
     "title": "全球网友都来给哥交作业啦",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%87%8C%E4%B8%8D%E7%96%91%E5%81%87%E7%AC%91%E7%94%B7%E5%AD%A9%23&Refer=top",
+    "title": "凌不疑假笑男孩",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E4%BB%8A%E6%99%9A%E5%90%AC%E8%80%81%E5%8F%8B%E5%A4%9C%E8%AF%9D%23&Refer=top",
+    "title": "向往的生活今晚听老友夜话",
     "mark": "新"
   }
 ]

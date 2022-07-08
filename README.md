@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 08 2022 21:35:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 08 2022 22:16:21 GMT+0800 (China Standard Time) -->
 
 1. [抗战精神烛照复兴之路](https://s.weibo.com//weibo?q=%23%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9E%E7%83%9B%E7%85%A7%E5%A4%8D%E5%85%B4%E4%B9%8B%E8%B7%AF%23&Refer=new_time)
    热
@@ -451,7 +451,7 @@
 1. [日本前首相安倍晋三死于大出血](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E6%AD%BB%E4%BA%8E%E5%A4%A7%E5%87%BA%E8%A1%80%23&Refer=top)
    新 ->
 1. [安倍中枪将给日本带来什么影响](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%80%8D%E4%B8%AD%E6%9E%AA%E5%B0%86%E7%BB%99%E6%97%A5%E6%9C%AC%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%23&Refer=top)
-   新 -> 热 -> 沸
+   新 -> 热 -> 沸 -> 热
 1. [枪击安倍晋三嫌疑人正面照片](https://s.weibo.com//weibo?q=%23%E6%9E%AA%E5%87%BB%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E5%AB%8C%E7%96%91%E4%BA%BA%E6%AD%A3%E9%9D%A2%E7%85%A7%E7%89%87%23&Refer=top)
    新
 1. [院方称安倍枪伤触及心脏](https://s.weibo.com//weibo?q=%23%E9%99%A2%E6%96%B9%E7%A7%B0%E5%AE%89%E5%80%8D%E6%9E%AA%E4%BC%A4%E8%A7%A6%E5%8F%8A%E5%BF%83%E8%84%8F%23&Refer=top)
@@ -494,18 +494,18 @@
 1. [狐妖小红娘动画官博回应](https://s.weibo.com//weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E5%8A%A8%E7%94%BB%E5%AE%98%E5%8D%9A%E5%9B%9E%E5%BA%94%23&Refer=top)
    新 ->
 1. [钟薛高等多款热销食品抽检合格](https://s.weibo.com//weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E7%AD%89%E5%A4%9A%E6%AC%BE%E7%83%AD%E9%94%80%E9%A3%9F%E5%93%81%E6%8A%BD%E6%A3%80%E5%90%88%E6%A0%BC%23&Refer=top)
-   新
+   新 ->
 1. [才知道拒绝白嫖这么爽](https://s.weibo.com//weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E6%8B%92%E7%BB%9D%E7%99%BD%E5%AB%96%E8%BF%99%E4%B9%88%E7%88%BD%23&Refer=top)
    新 ->
 1. [吴磊 我怎么可能让马疯呢](https://s.weibo.com//weibo?q=%E5%90%B4%E7%A3%8A%20%E6%88%91%E6%80%8E%E4%B9%88%E5%8F%AF%E8%83%BD%E8%AE%A9%E9%A9%AC%E7%96%AF%E5%91%A2&Refer=top)
    新 ->
 1. [安倍身亡将引发日本政坛大动荡](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%80%8D%E8%BA%AB%E4%BA%A1%E5%B0%86%E5%BC%95%E5%8F%91%E6%97%A5%E6%9C%AC%E6%94%BF%E5%9D%9B%E5%A4%A7%E5%8A%A8%E8%8D%A1%23&Refer=top)
-   新
+   新 ->
 1. [时代少年团全员赛车服造型](https://s.weibo.com//weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%85%A8%E5%91%98%E8%B5%9B%E8%BD%A6%E6%9C%8D%E9%80%A0%E5%9E%8B%23&Refer=top)
 1. [民间雪糕锦衣卫](https://s.weibo.com//weibo?q=%23%E6%B0%91%E9%97%B4%E9%9B%AA%E7%B3%95%E9%94%A6%E8%A1%A3%E5%8D%AB%23&Refer=top)
 1. [吴青峰说声生不息没找自己](https://s.weibo.com//weibo?q=%23%E5%90%B4%E9%9D%92%E5%B3%B0%E8%AF%B4%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E6%B2%A1%E6%89%BE%E8%87%AA%E5%B7%B1%23&Refer=top)
 1. [家长不同意的旅行有多难](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E9%95%BF%E4%B8%8D%E5%90%8C%E6%84%8F%E7%9A%84%E6%97%85%E8%A1%8C%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top)
-   新
+   新 ->
 1. [威尔希尔退役](https://s.weibo.com//weibo?q=%23%E5%A8%81%E5%B0%94%E5%B8%8C%E5%B0%94%E9%80%80%E5%BD%B9%23&Refer=top)
    新
 1. [丁程鑫砍价实力终究是藏不住了](https://s.weibo.com//weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E7%A0%8D%E4%BB%B7%E5%AE%9E%E5%8A%9B%E7%BB%88%E7%A9%B6%E6%98%AF%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86%23&Refer=top)
@@ -517,7 +517,7 @@
 1. [夕阳下的向日葵有多治愈](https://s.weibo.com//weibo?q=%23%E5%A4%95%E9%98%B3%E4%B8%8B%E7%9A%84%E5%90%91%E6%97%A5%E8%91%B5%E6%9C%89%E5%A4%9A%E6%B2%BB%E6%84%88%23&Refer=top)
    新
 1. [男朋友是甲方是什么体验](https://s.weibo.com//weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%98%AF%E7%94%B2%E6%96%B9%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top)
-   新
+   新 ->
 1. [00后毕设作品燃起来了](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E6%AF%95%E8%AE%BE%E4%BD%9C%E5%93%81%E7%87%83%E8%B5%B7%E6%9D%A5%E4%BA%86%23&Refer=top)
    新
 1. [TTG对战狼队](https://s.weibo.com//weibo?q=TTG%E5%AF%B9%E6%88%98%E7%8B%BC%E9%98%9F&Refer=top)
@@ -530,15 +530,15 @@
    新
 1. [一起同过窗](https://s.weibo.com//weibo?q=%E4%B8%80%E8%B5%B7%E5%90%8C%E8%BF%87%E7%AA%97&Refer=top)
    新
-1. [安娜](https://s.weibo.com//weibo?q=%E5%AE%89%E5%A8%9C&Refer=top) 新
+1. [安娜](https://s.weibo.com//weibo?q=%E5%AE%89%E5%A8%9C&Refer=top) 新 ->
 1. [阿娇问吉克隽逸本身这么黑吗](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%A8%87%E9%97%AE%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E6%9C%AC%E8%BA%AB%E8%BF%99%E4%B9%88%E9%BB%91%E5%90%97%23&Refer=top)
-   新
+   新 ->
 1. [朱一龙红发照](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%BA%A2%E5%8F%91%E7%85%A7%23&Refer=top)
    新
 1. [卸任的安倍为何还会遇刺](https://s.weibo.com//weibo?q=%23%E5%8D%B8%E4%BB%BB%E7%9A%84%E5%AE%89%E5%80%8D%E4%B8%BA%E4%BD%95%E8%BF%98%E4%BC%9A%E9%81%87%E5%88%BA%23&Refer=top)
    新
 1. [恐怖片咒上线](https://s.weibo.com//weibo?q=%23%E6%81%90%E6%80%96%E7%89%87%E5%92%92%E4%B8%8A%E7%BA%BF%23&Refer=top)
-   新
+   新 ->
 1. [手工耿邀请周董试驾烤串钢琴车](https://s.weibo.com//weibo?q=%23%E6%89%8B%E5%B7%A5%E8%80%BF%E9%82%80%E8%AF%B7%E5%91%A8%E8%91%A3%E8%AF%95%E9%A9%BE%E7%83%A4%E4%B8%B2%E9%92%A2%E7%90%B4%E8%BD%A6%23&Refer=top)
    新
 1. [网传沉香如屑定档0720](https://s.weibo.com//weibo?q=%23%E7%BD%91%E4%BC%A0%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%E5%AE%9A%E6%A1%A30720%23&Refer=top)
@@ -546,7 +546,7 @@
 1. [王庆来又把火撒在幸福身上](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%BA%86%E6%9D%A5%E5%8F%88%E6%8A%8A%E7%81%AB%E6%92%92%E5%9C%A8%E5%B9%B8%E7%A6%8F%E8%BA%AB%E4%B8%8A%23&Refer=top)
    新
 1. [7个动作减掉小肚子](https://s.weibo.com//weibo?q=%237%E4%B8%AA%E5%8A%A8%E4%BD%9C%E5%87%8F%E6%8E%89%E5%B0%8F%E8%82%9A%E5%AD%90%23&Refer=top)
-   新
+   新 ->
 1. [这水看着就很冰](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%B0%B4%E7%9C%8B%E7%9D%80%E5%B0%B1%E5%BE%88%E5%86%B0%23&Refer=top)
    新
 1. [这就是我喜欢狗狗的原因](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%88%91%E5%96%9C%E6%AC%A2%E7%8B%97%E7%8B%97%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top)
@@ -557,6 +557,19 @@
 1. [5块钱在家实现酸辣粉自由](https://s.weibo.com//weibo?q=%235%E5%9D%97%E9%92%B1%E5%9C%A8%E5%AE%B6%E5%AE%9E%E7%8E%B0%E9%85%B8%E8%BE%A3%E7%B2%89%E8%87%AA%E7%94%B1%23&Refer=top)
    新
 1. [为妹妹报志愿的事难过了](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%A6%B9%E5%A6%B9%E6%8A%A5%E5%BF%97%E6%84%BF%E7%9A%84%E4%BA%8B%E9%9A%BE%E8%BF%87%E4%BA%86%23&Refer=top)
+   新
+1. [安倍晋三遗体将于凌晨运往东京](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E9%81%97%E4%BD%93%E5%B0%86%E4%BA%8E%E5%87%8C%E6%99%A8%E8%BF%90%E5%BE%80%E4%B8%9C%E4%BA%AC%23&Refer=top)
+   新
+1. [张雪峰建议高考结束即可准备考研](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BB%BA%E8%AE%AE%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%8D%B3%E5%8F%AF%E5%87%86%E5%A4%87%E8%80%83%E7%A0%94%23&Refer=top)
+   新
+1. [安倍晋三身亡时间](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E8%BA%AB%E4%BA%A1%E6%97%B6%E9%97%B4%23&Refer=top)
+   新
+1. [宋亚轩萌探2坑刘耀文疯狂反转](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%90%8C%E6%8E%A22%E5%9D%91%E5%88%98%E8%80%80%E6%96%87%E7%96%AF%E7%8B%82%E5%8F%8D%E8%BD%AC%23&Refer=top)
+   新
+1. [怪火](https://s.weibo.com//weibo?q=%E6%80%AA%E7%81%AB&Refer=top) 新
+1. [今屿的芈月](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B1%BF%E7%9A%84%E8%8A%88%E6%9C%88%23&Refer=top)
+   新
+1. [戒不掉手机的原因找到了](https://s.weibo.com//weibo?q=%23%E6%88%92%E4%B8%8D%E6%8E%89%E6%89%8B%E6%9C%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&Refer=top)
    新
 
 <!-- END -->

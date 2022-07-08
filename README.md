@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 09 2022 01:26:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 09 2022 02:19:55 GMT+0800 (China Standard Time) -->
 
 1. [走进县城看发展](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E5%8E%BF%E5%9F%8E%E7%9C%8B%E5%8F%91%E5%B1%95%23&Refer=new_time)
    热
@@ -26,7 +26,7 @@
 1. [安倍身亡将引发日本政坛大动荡](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%80%8D%E8%BA%AB%E4%BA%A1%E5%B0%86%E5%BC%95%E5%8F%91%E6%97%A5%E6%9C%AC%E6%94%BF%E5%9D%9B%E5%A4%A7%E5%8A%A8%E8%8D%A1%23&Refer=top)
    沸
 1. [华晨宇求杨幂不要再唱了](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%B1%82%E6%9D%A8%E5%B9%82%E4%B8%8D%E8%A6%81%E5%86%8D%E5%94%B1%E4%BA%86%23&Refer=top)
-   沸
+   沸 -> 热
 1. [嫌疑人称并非因政治立场对安倍产生恨意](https://s.weibo.com//weibo?q=%23%E5%AB%8C%E7%96%91%E4%BA%BA%E7%A7%B0%E5%B9%B6%E9%9D%9E%E5%9B%A0%E6%94%BF%E6%B2%BB%E7%AB%8B%E5%9C%BA%E5%AF%B9%E5%AE%89%E5%80%8D%E4%BA%A7%E7%94%9F%E6%81%A8%E6%84%8F%23&Refer=top)
    沸
 1. [普通人的努力是很珍贵的](https://s.weibo.com//weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%8A%AA%E5%8A%9B%E6%98%AF%E5%BE%88%E7%8F%8D%E8%B4%B5%E7%9A%84%23&Refer=top)
@@ -77,10 +77,10 @@
 1. [约翰逊用日语回应安倍遇刺](https://s.weibo.com//weibo?q=%23%E7%BA%A6%E7%BF%B0%E9%80%8A%E7%94%A8%E6%97%A5%E8%AF%AD%E5%9B%9E%E5%BA%94%E5%AE%89%E5%80%8D%E9%81%87%E5%88%BA%23&Refer=top)
 1. [安倍中枪将给日本带来什么影响](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%80%8D%E4%B8%AD%E6%9E%AA%E5%B0%86%E7%BB%99%E6%97%A5%E6%9C%AC%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%23&Refer=top)
 1. [仙剑龙葵虚拟人公布](https://s.weibo.com//weibo?q=%23%E4%BB%99%E5%89%91%E9%BE%99%E8%91%B5%E8%99%9A%E6%8B%9F%E4%BA%BA%E5%85%AC%E5%B8%83%23&Refer=top)
-   新
+   新 ->
 1. [钟薛高等多款热销食品抽检合格](https://s.weibo.com//weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E7%AD%89%E5%A4%9A%E6%AC%BE%E7%83%AD%E9%94%80%E9%A3%9F%E5%93%81%E6%8A%BD%E6%A3%80%E5%90%88%E6%A0%BC%23&Refer=top)
 1. [吉克隽逸 我现在比小时候白多了](https://s.weibo.com//weibo?q=%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%20%E6%88%91%E7%8E%B0%E5%9C%A8%E6%AF%94%E5%B0%8F%E6%97%B6%E5%80%99%E7%99%BD%E5%A4%9A%E4%BA%86&Refer=top)
-   新
+   新 ->
 1. [安娜将于8月公开扩张版](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%A8%9C%E5%B0%86%E4%BA%8E8%E6%9C%88%E5%85%AC%E5%BC%80%E6%89%A9%E5%BC%A0%E7%89%88%23&Refer=top)
 1. [22岁辅警为救落水儿童不幸牺牲](https://s.weibo.com//weibo?q=%2322%E5%B2%81%E8%BE%85%E8%AD%A6%E4%B8%BA%E6%95%91%E8%90%BD%E6%B0%B4%E5%84%BF%E7%AB%A5%E4%B8%8D%E5%B9%B8%E7%89%BA%E7%89%B2%23&Refer=top)
 1. [才知道拒绝白嫖这么爽](https://s.weibo.com//weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E6%8B%92%E7%BB%9D%E7%99%BD%E5%AB%96%E8%BF%99%E4%B9%88%E7%88%BD%23&Refer=top)
@@ -88,7 +88,7 @@
 1. [安倍晋三妻子已抵达奈良](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E5%A6%BB%E5%AD%90%E5%B7%B2%E6%8A%B5%E8%BE%BE%E5%A5%88%E8%89%AF%23&Refer=top)
 1. [戒不掉手机的原因找到了](https://s.weibo.com//weibo?q=%23%E6%88%92%E4%B8%8D%E6%8E%89%E6%89%8B%E6%9C%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&Refer=top)
 1. [这天空是卡bug了吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%A4%A9%E7%A9%BA%E6%98%AF%E5%8D%A1bug%E4%BA%86%E5%90%97%23&Refer=top)
-   新
+   新 ->
 1. [为妹妹报志愿的事难过了](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%A6%B9%E5%A6%B9%E6%8A%A5%E5%BF%97%E6%84%BF%E7%9A%84%E4%BA%8B%E9%9A%BE%E8%BF%87%E4%BA%86%23&Refer=top)
 1. [新英雄戈娅登场KPL](https://s.weibo.com//weibo?q=%23%E6%96%B0%E8%8B%B1%E9%9B%84%E6%88%88%E5%A8%85%E7%99%BB%E5%9C%BAKPL%23&Refer=top)
 1. [科学家和演员是平等的](https://s.weibo.com//weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%92%8C%E6%BC%94%E5%91%98%E6%98%AF%E5%B9%B3%E7%AD%89%E7%9A%84%23&Refer=top)
@@ -96,6 +96,13 @@
 1. [赵丽颖说从今天起是事业福](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E4%BB%8E%E4%BB%8A%E5%A4%A9%E8%B5%B7%E6%98%AF%E4%BA%8B%E4%B8%9A%E7%A6%8F%23&Refer=top)
    新
 1. [王一博影剧综哪个先来](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BD%B1%E5%89%A7%E7%BB%BC%E5%93%AA%E4%B8%AA%E5%85%88%E6%9D%A5%23&Refer=top)
+   新
+1. [王嘉尔泰国发布会台下像开音乐节](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%B3%B0%E5%9B%BD%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%B0%E4%B8%8B%E5%83%8F%E5%BC%80%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top)
+   新
+1. [蔡徐坤我也是歌手收到这个通告](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%88%91%E4%B9%9F%E6%98%AF%E6%AD%8C%E6%89%8B%E6%94%B6%E5%88%B0%E8%BF%99%E4%B8%AA%E9%80%9A%E5%91%8A%23&Refer=top)
+   新
+1. [安娜](https://s.weibo.com//weibo?q=%E5%AE%89%E5%A8%9C&Refer=top)
+1. [全球网友都来给哥交作业啦](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E7%BD%91%E5%8F%8B%E9%83%BD%E6%9D%A5%E7%BB%99%E5%93%A5%E4%BA%A4%E4%BD%9C%E4%B8%9A%E5%95%A6%23&Refer=top)
    新
 
 <!-- END -->

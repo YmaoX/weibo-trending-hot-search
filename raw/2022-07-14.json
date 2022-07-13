@@ -253,7 +253,7 @@
   {
     "url": "/weibo?q=%23%E4%B8%80%E8%B5%B7%E6%9D%A5%E6%99%922022%E6%9C%80%E5%A4%A7%E7%9A%84%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE%23&Refer=top",
     "title": "一起来晒2022最大的超级月亮",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%BF%AB%E4%B9%90%E5%86%8D%E5%87%BA%E5%8F%91%E4%B8%8D%E5%A4%9F%E7%9C%8B%23&Refer=top",
@@ -269,5 +269,10 @@
     "url": "/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%AF%B4%E5%B0%91%E5%95%86%E5%85%B6%E5%AE%9E%E8%BF%98%E4%B8%8D%E6%87%82%E7%88%B1%23&Refer=top",
     "title": "赵露思说少商其实还不懂爱",
     "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%9D%8E%E6%B4%AA%E5%9F%BA%E6%98%AF%E6%88%91%E7%9C%8B%E6%81%8B%E7%BB%BC%E5%98%B4%E6%9B%BF%E5%90%A7%23&Refer=top",
+    "title": "李洪基是我看恋综嘴替吧",
+    "mark": ""
   }
 ]

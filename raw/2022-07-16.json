@@ -22,12 +22,12 @@
   {
     "url": "/weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top",
     "title": "向往的生活",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E8%BF%AA%E5%A5%A5%20%E9%A9%AC%E9%9D%A2%E8%A3%99&Refer=top",
     "title": "迪奥 马面裙",
-    "mark": "沸"
+    "mark": "沸 -> "
   },
   {
     "url": "/weibo?q=%233%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%E7%88%B8%E7%88%B8%E7%9F%B3%E5%83%8F%E5%90%AB%E6%B3%AA%E6%8B%A5%E6%8A%B1%23&Refer=top",
@@ -47,12 +47,12 @@
   {
     "url": "/weibo?q=%23%E6%88%90%E9%83%BD%E5%81%9C%E7%94%B5%23&Refer=top",
     "title": "成都停电",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94%23&Refer=top",
     "title": "关晓彤工作人员回应",
-    "mark": "沸"
+    "mark": "沸 -> 热"
   },
   {
     "url": "/weibo?q=%23%E5%BC%A0%E6%AC%A3%E5%B0%A7%E4%B8%AA%E4%BA%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23&Refer=top",
@@ -62,7 +62,7 @@
   {
     "url": "/weibo?q=%23%E7%94%B7%E7%94%9F%E7%9C%9F%E7%9A%84%E4%B8%8D%E4%BC%9A%E6%89%BE%E6%90%9E%E7%AC%91%E5%A5%B3%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%97%23&Refer=top",
     "title": "男生真的不会找搞笑女谈恋爱吗",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E5%AB%8B%E5%AB%8B%20%E5%8F%AF%E7%88%B1&Refer=top",
@@ -72,7 +72,7 @@
   {
     "url": "/weibo?q=%23%E6%88%90%E9%83%BD%E9%94%A6%E6%B1%9F%E5%8C%BA1%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B%23&Refer=top",
     "title": "成都锦江区1例新冠肺炎本土病例",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%88%90%E9%83%BD%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top",
@@ -92,7 +92,7 @@
   {
     "url": "/weibo?q=%23%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E6%AD%A3%E5%BC%8F%E5%8A%A0%E7%9B%9F%E6%9B%BC%E8%81%94%23&Refer=top",
     "title": "埃里克森正式加盟曼联",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%88%90%E9%83%BD%E5%88%9D%E7%AD%9B&Refer=top",
@@ -102,7 +102,7 @@
   {
     "url": "/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%941%E5%B9%B3%E9%87%8E%E7%BE%8E%E5%AE%87%E7%9F%B3%E5%B7%9D%E4%BD%B3%E7%BA%AF%23&Refer=top",
     "title": "孙颖莎王曼昱3比1平野美宇石川佳纯",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%96%B9%E6%96%87%E5%B1%B1%E8%AF%B4%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%BF%98%E6%9C%89%E4%B8%89%E9%A6%96%E6%AD%8C%E6%9B%B2%E6%B2%A1%E5%8F%91%E8%A1%A8%23&Refer=top",
@@ -117,7 +117,7 @@
   {
     "url": "/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%94%B1%E5%AD%A4%E5%8B%87%E8%80%85%23&Refer=top",
     "title": "周深唱孤勇者",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E5%8F%A3%E9%94%85%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top",
@@ -142,7 +142,7 @@
   {
     "url": "/weibo?q=%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF%20%E5%B7%A6%E7%84%B6&Refer=top",
     "title": "未定事件簿 左然",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%AE%89%E5%BE%BD%E6%80%80%E8%BF%9C%E5%8F%91%E7%8E%B0151%E4%BE%8B%E5%88%9D%E7%AD%9B%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%23&Refer=top",
@@ -162,7 +162,7 @@
   {
     "url": "/weibo?q=%23%E5%87%BA%E5%B7%AE%E5%8D%81%E4%BA%94%E5%A4%9Chybe%E5%9B%A2%E5%BB%BA%23&Refer=top",
     "title": "出差十五夜hybe团建",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF&Refer=top",
@@ -187,7 +187,7 @@
   {
     "url": "/weibo?q=%E4%B8%AD%E5%9B%BD%E8%80%83%E5%8F%A4%E5%A4%A7%E4%BC%9A&Refer=top",
     "title": "中国考古大会",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%96%B0%E7%96%86%E6%98%AD%E8%8B%8F%E5%8F%88%E8%A7%81%E5%A4%A9%E9%A9%AC%E6%B5%B4%E6%B2%B3%23&Refer=top",
@@ -202,7 +202,7 @@
   {
     "url": "/weibo?q=%23WB%E6%99%8B%E7%BA%A7%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%8F%8A%E4%B8%96%E5%86%A0%23&Refer=top",
     "title": "WB晋级季后赛及世冠",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9A%84%E5%BC%B9%E8%B7%B3%E5%8A%9B%23&Refer=top",
@@ -253,5 +253,46 @@
     "url": "/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A5%A5%E7%89%B9%E6%9B%BC%23&Refer=top",
     "title": "全国最大的奥特曼",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E5%92%8C%E7%AB%A0%E5%AD%90%E6%80%A1%E5%90%B5%E6%9E%B6%E5%B9%95%E5%90%8E%23&Refer=top",
+    "title": "宋丹丹和章子怡吵架幕后",
+    "mark": "新"
+  },
+  { "url": "/weibo?q=%E6%99%8B%E6%B1%9F&Refer=top", "title": "晋江", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%B9%B8%E7%A6%8F%E5%88%B0%E4%B8%87%E5%AE%B6%E7%A0%B41&Refer=top",
+    "title": "幸福到万家破1",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%B9%BB%E8%8A%B1&Refer=top",
+    "title": "幻花",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%BB%BA%E6%88%90%E5%8C%97%E6%96%B9%E6%9C%80%E5%A4%A7%E5%86%B7%E7%83%AD%E5%90%8C%E4%BE%9B%E7%B3%BB%E7%BB%9F%23&Refer=top",
+    "title": "山东建成北方最大冷热同供系统",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E9%A9%AC%E9%9D%A2%E8%A3%99%23&Refer=top",
+    "title": "什么是马面裙",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%8A%9F%E5%8B%8B%E7%8A%AC%E8%A2%AB%E9%A2%86%E5%85%BB%E8%AE%AD%E5%AF%BC%E5%91%98%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&Refer=top",
+    "title": "功勋犬被领养训导员哭成泪人",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B0%91%E5%B9%B4%E6%B4%BE2%23&Refer=top",
+    "title": "少年派2",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E5%AD%9F%E4%BD%B3%E5%9C%A8%E5%AE%81%E9%9D%99%E8%AF%B4%E6%95%A3%E5%9B%A2%E7%9A%84%E9%82%A3%E5%A4%A9%E5%93%AD%E5%BE%97%E5%BE%88%E6%83%A8%23&Refer=top",
+    "title": "孟佳在宁静说散团的那天哭得很惨",
+    "mark": "新"
   }
 ]

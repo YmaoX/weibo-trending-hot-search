@@ -303,12 +303,12 @@
   {
     "url": "/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%89%E4%BC%8F%E5%A4%A9%E6%8C%81%E7%BB%AD%E8%87%B38%E6%9C%8824%E6%97%A5%23&Refer=top",
     "title": "今年三伏天持续至8月24日",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9E%97%E5%B3%AF%E8%AF%B4%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A2%AB%E5%8C%85%E5%9B%B4%E4%BA%86%23&Refer=top",
     "title": "林峯说自己的评论区被包围了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%94%98%E8%82%83%E6%9C%AC%E6%AC%A1%E7%96%AB%E6%83%85%E7%97%85%E6%AF%92%E4%B8%BA%E5%8F%98%E5%BC%82%E6%A0%AABA.2.38%23&Refer=top",
@@ -328,6 +328,16 @@
   {
     "url": "/weibo?q=%23%E5%A4%AA%E9%98%B3%E5%B0%86%E9%A1%B6%E8%96%AA%E7%BB%AD%E7%BA%A6%E8%89%BE%E9%A1%BF%23&Refer=top",
     "title": "太阳将顶薪续约艾顿",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%E5%B0%91%E5%B9%B4%E6%B4%BE2&Refer=top",
+    "title": "少年派2",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AE%A4%E9%94%99%E7%8F%A0%E4%BA%86%23&Refer=top",
+    "title": "魏大勋认错珠了",
     "mark": "新"
   }
 ]

@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 17 2022 06:15:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 17 2022 07:14:47 GMT+0800 (China Standard Time) -->
 
 1. [新时代的新疆富民兴疆](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0%E7%96%86%E5%AF%8C%E6%B0%91%E5%85%B4%E7%96%86%23&Refer=new_time)
    热
@@ -116,7 +116,16 @@
 1. [心疼秀玉](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E7%A7%80%E7%8E%89%23&Refer=top)
    新
 1. [龙韬娱乐四周年cypher](https://s.weibo.com//weibo?q=%23%E9%BE%99%E9%9F%AC%E5%A8%B1%E4%B9%90%E5%9B%9B%E5%91%A8%E5%B9%B4cypher%23&Refer=top)
+   新 ->
+1. [从总书记新疆行看新时代党的治疆方略](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%96%B0%E7%96%86%E8%A1%8C%E7%9C%8B%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%9A%E7%9A%84%E6%B2%BB%E7%96%86%E6%96%B9%E7%95%A5%23&Refer=new_time)
+   热
+1. [杨紫唱樱花草](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%94%B1%E6%A8%B1%E8%8A%B1%E8%8D%89%23&Refer=top)
    新
+1. [满舒克巡演](https://s.weibo.com//weibo?q=%23%E6%BB%A1%E8%88%92%E5%85%8B%E5%B7%A1%E6%BC%94%23&Refer=top)
+   新
+1. [李景亮TKO穆斯里穆](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%99%AF%E4%BA%AETKO%E7%A9%86%E6%96%AF%E9%87%8C%E7%A9%86%23&Refer=top)
+   新
+1. [Uzi解说](https://s.weibo.com//weibo?q=Uzi%E8%A7%A3%E8%AF%B4&Refer=top) 新
 
 <!-- END -->
 

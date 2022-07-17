@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 18 2022 05:13:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 18 2022 06:15:19 GMT+0800 (China Standard Time) -->
 
 1. [制造业的核心就是创新](https://s.weibo.com//weibo?q=%23%E5%88%B6%E9%80%A0%E4%B8%9A%E7%9A%84%E6%A0%B8%E5%BF%83%E5%B0%B1%E6%98%AF%E5%88%9B%E6%96%B0%23&Refer=new_time)
    热
@@ -108,6 +108,7 @@
    热
 1. [刘浩存方辟谣参与录制中餐厅6](https://s.weibo.com//weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%8F%82%E4%B8%8E%E5%BD%95%E5%88%B6%E4%B8%AD%E9%A4%90%E5%8E%856%23&Refer=top)
    新
+1. [蓝基因崩了](https://s.weibo.com//weibo?q=%23%E8%93%9D%E5%9F%BA%E5%9B%A0%E5%B4%A9%E4%BA%86%23&Refer=top)
 
 <!-- END -->
 

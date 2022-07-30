@@ -22,7 +22,7 @@
   {
     "url": "/weibo?q=%23%E6%B2%88%E8%85%BE0%E7%A5%A8%23&Refer=top",
     "title": "沈腾0票",
-    "mark": "沸"
+    "mark": "沸 -> 热"
   },
   {
     "url": "/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%9E%AA%E5%87%BB%E6%A1%88%E5%AB%8C%E7%8A%AF%E4%B8%8E1%E4%BC%A4%E8%80%85%E4%B8%BA%E6%83%85%E4%BA%BA%E5%85%B3%E7%B3%BB%23&Refer=top",
@@ -328,7 +328,7 @@
   {
     "url": "/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E5%BC%A0%E6%A0%8B%E6%A2%81%E9%9A%94%E7%A9%BA%E5%90%8C%E6%A1%86%23&Refer=top",
     "title": "王心凌张栋梁隔空同框",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%98%AF%E6%9D%A8%E7%B4%AB%E7%9A%84%E4%B8%93%E7%94%A8%E7%BF%BB%E8%AF%91%23&Refer=top",
@@ -338,12 +338,12 @@
   {
     "url": "/weibo?q=%23%E5%BC%A0%E5%B8%B8%E5%AE%81%E5%90%B4%E5%86%A0%E5%B8%8C%E7%BB%99%E7%88%B6%E6%AF%8D%E6%95%AC%E8%8C%B6%23&Refer=top",
     "title": "张常宁吴冠希给父母敬茶",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B8%8C%E6%9C%9B%E7%BE%8E%E6%96%B9%E8%83%BD%E5%90%AC%E8%BF%9B%E5%8E%BB%E7%90%86%E6%80%A7%E5%A3%B0%E9%9F%B3%23&Refer=top",
     "title": "中方希望美方能听进去理性声音",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%AF%B9%E5%90%B4%E7%A3%8A%E8%AF%B4%E6%88%91%E5%AE%B6%E7%8B%97%E7%9C%8B%E4%B8%8D%E8%A7%81%E4%BD%A0%23&Refer=top",
@@ -358,6 +358,16 @@
   {
     "url": "/weibo?q=%23%E6%9C%80%E4%BD%8E%E7%A5%A8%E4%BB%B7%E4%BB%851%E5%85%83%E7%9A%84%E6%85%A2%E7%81%AB%E8%BD%A6%23&Refer=top",
     "title": "最低票价仅1元的慢火车",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B2%BF%E5%B2%B8%E5%B0%86%E5%87%BA%E7%8E%B0%E5%8F%B0%E9%A3%8E%E9%A3%8E%E6%9A%B4%E6%BD%AE%23&Refer=top",
+    "title": "山东沿岸将出现台风风暴潮",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%87%8C%E4%B8%8D%E7%96%91%E5%AF%B9%E7%A8%8B%E5%B0%91%E5%95%86%E7%9A%84%E7%A7%B0%E5%91%BC%E5%8F%98%E5%8C%96%23&Refer=top",
+    "title": "凌不疑对程少商的称呼变化",
     "mark": "新"
   }
 ]

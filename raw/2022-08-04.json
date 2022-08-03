@@ -7,7 +7,7 @@
   {
     "url": "/weibo?q=%23%E6%B5%B7%E5%8D%97%E4%B8%89%E4%BA%9A%E8%BF%9B%E5%85%A5%E5%8C%BA%E5%9F%9F%E7%AE%A1%E6%8E%A7%E7%8A%B6%E6%80%81%23&Refer=top",
     "title": "海南三亚进入区域管控状态",
-    "mark": "新 -> 热"
+    "mark": "新 -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A7%B0%E6%97%A0%E6%B3%95%E5%B0%B1%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81%E4%BD%A9%E6%B4%9B%E8%A5%BF%E8%AE%BF%E5%8F%B0%E5%8F%91%E8%A1%A8%E8%AF%84%E8%AE%BA%23&Refer=top",
@@ -87,7 +87,7 @@
   {
     "url": "/weibo?q=%23%E9%83%91%E5%B7%9E%E5%A4%A9%E7%A9%BA%E9%A2%91%E7%B9%81%E5%87%BA%E7%8E%B0%E4%B8%81%E8%BE%BE%E5%B0%94%E6%95%88%E5%BA%94%23&Refer=top",
     "title": "郑州天空频繁出现丁达尔效应",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top",
@@ -122,7 +122,7 @@
   {
     "url": "/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8%E5%A3%B0%E6%98%8E%E6%94%AF%E6%8C%81%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%88%99%23&Refer=top",
     "title": "伊朗外交部声明支持一个中国原则",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%B8%82%E6%B0%91%E6%8A%95%E8%AF%89%E5%AD%A6%E6%A0%A1%E6%9A%91%E6%9C%9F%E4%B8%8D%E5%BC%80%E6%94%BE%E8%87%B4%E6%97%A0%E5%9C%B0%E9%94%BB%E7%82%BC%23&Refer=top",
@@ -148,7 +148,7 @@
   {
     "url": "/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E7%9B%B4%E6%92%AD%23&Refer=top",
     "title": "内马尔直播",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%AF%84%E5%85%BB%E9%87%91%E6%AF%9B%E7%96%91%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96%E8%A2%AB%E5%BA%97%E5%AE%B6%E7%A7%81%E5%9F%8B%23&Refer=top",
@@ -164,7 +164,7 @@
   {
     "url": "/weibo?q=%23%E7%88%86%E7%81%AB%E7%9A%84%E6%96%B0%E7%96%86%E6%97%85%E6%B8%B8%E5%80%BC%E5%BE%97%E5%8E%BB%E5%90%97%23&Refer=top",
     "title": "爆火的新疆旅游值得去吗",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A5%E6%A6%9C%E4%B8%96%E7%95%8C500%E5%BC%BA%23&Refer=top",
@@ -254,12 +254,12 @@
   {
     "url": "/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B27%E6%9E%B6%E6%AC%A1%E5%86%9B%E6%9C%BA%E8%B7%A8%E8%B6%8A%E6%89%80%E8%B0%93%E6%B5%B7%E5%B3%A1%E4%B8%AD%E7%BA%BF%23&Refer=top",
     "title": "解放军27架次军机跨越所谓海峡中线",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%85%A5%E8%81%8C%E5%BD%93%E5%A4%A9%E5%B0%B1%E7%A6%BB%E8%81%8C%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top",
     "title": "入职当天就离职是什么体验",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8D%97%E6%96%B9%E7%9A%84%E8%9F%91%E8%9E%82%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%8A%8A%E4%BA%BA%E5%90%93%E5%93%AD%23&Refer=top",
@@ -269,7 +269,7 @@
   {
     "url": "/weibo?q=%23%E7%9C%8B%E5%81%B6%E5%83%8F%E5%89%A7%E5%AD%A6%E5%88%B0%E4%BA%86%E6%96%B0%E6%A6%82%E5%BF%B5%E8%AF%AD%E6%96%87%23&Refer=top",
     "title": "看偶像剧学到了新概念语文",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E5%93%A5%E5%93%A5%E6%8A%A5%E5%B9%B3%E5%AE%89%23&Refer=top",
@@ -284,6 +284,21 @@
   {
     "url": "/weibo?q=%23%E6%BB%95%E5%93%88%E8%B5%AB%E8%B0%88C%E7%BD%97%E7%AD%89%E4%BA%BA%E6%8F%90%E5%89%8D%E7%A6%BB%E5%9C%BA%23&Refer=top",
     "title": "滕哈赫谈C罗等人提前离场",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%AE%9D%E5%AE%9D%E8%A2%AB%E6%9E%95%E5%A4%B4%E9%97%B7%E4%BD%8F%E8%BF%9E%E6%89%87%E5%9B%9B%E5%B7%B4%E6%8E%8C%E6%89%93%E9%86%92%E5%A6%88%E5%A6%88%23&Refer=top",
+    "title": "宝宝被枕头闷住连扇四巴掌打醒妈妈",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%2372%E4%B8%AA%E5%B7%A5%E4%BA%BA%E4%B8%80%E6%8B%A5%E8%80%8C%E4%B8%8A%E5%8F%B8%E6%9C%BA%E5%8D%8A%E8%B7%AF%E9%80%83%E8%B7%91%23&Refer=top",
+    "title": "72个工人一拥而上司机半路逃跑",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%96%AD%E6%A1%A5%E5%93%AD%E6%88%8F%23&Refer=top",
+    "title": "马思纯断桥哭戏",
     "mark": "新"
   }
 ]

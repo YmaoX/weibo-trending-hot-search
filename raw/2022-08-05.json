@@ -87,7 +87,7 @@
   {
     "url": "/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E8%B4%9F%E6%9C%89%E5%8E%86%E5%8F%B2%E7%BD%AA%E8%B4%A3%23&Refer=top",
     "title": "日本在台湾问题上负有历史罪责",
-    "mark": "热"
+    "mark": "热 -> "
   },
   {
     "url": "/weibo?q=%23%E7%A8%8B%E5%B0%91%E5%95%86%E5%BD%93%E4%BC%97%E5%90%BB%E5%87%8C%E4%B8%8D%E7%96%91%23&Refer=top",
@@ -182,7 +182,7 @@
   {
     "url": "/weibo?q=%23%E9%92%B1%E4%B8%89%E4%B8%80%E6%9E%97%E5%A6%99%E5%A6%99%E6%98%AF%E5%91%BD%E4%B8%AD%E6%B3%A8%E5%AE%9A%E5%90%A7%23&Refer=top",
     "title": "钱三一林妙妙是命中注定吧",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8D%97%E8%88%AA%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E4%B8%8B%E8%B0%83%23&Refer=top",
@@ -227,7 +227,7 @@
   {
     "url": "/weibo?q=%23%E5%89%8D%E8%B6%B3%E5%8D%8F%E9%A2%86%E5%AF%BC%E8%A2%AB%E6%9B%9D%E9%85%92%E5%90%8E%E4%B8%8D%E9%85%8D%E5%90%88%E9%98%B2%E7%96%AB%23&Refer=top",
     "title": "前足协领导被曝酒后不配合防疫",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%8D%95%E8%BA%AB%E8%BF%87%E6%83%85%E4%BA%BA%E8%8A%82%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top",
@@ -262,7 +262,7 @@
   {
     "url": "/weibo?q=%2330%E5%B2%81%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E9%81%AD%E7%88%B6%E6%AF%8D%E5%8F%8D%E5%AF%B9%E8%A2%AB%E6%B0%94%E6%99%95%23&Refer=top",
     "title": "30岁女子恋爱遭父母反对被气晕",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E9%82%93%E5%B0%8F%E7%90%AA%E7%94%B7%E5%8F%8B%E4%B8%8B%E8%B7%AA%23&Refer=top",
@@ -287,6 +287,11 @@
   {
     "url": "/weibo?q=%E9%98%BF%E7%81%B5%E9%A1%BFmajor&Refer=top",
     "title": "阿灵顿major",
+    "mark": "新 -> "
+  },
+  {
+    "url": "/weibo?q=%23%E5%BC%A0%E8%94%B7%E4%B8%8D%E7%BB%8F%E6%84%8F%E6%90%9E%E7%AC%91%E6%89%8D%E6%9C%80%E5%A5%BD%E7%AC%91%23&Refer=top",
+    "title": "张蔷不经意搞笑才最好笑",
     "mark": "新"
   }
 ]

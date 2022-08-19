@@ -12,7 +12,7 @@
   {
     "url": "/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA40%E2%84%83%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%9C%81%E4%BB%BD%23&Refer=top",
     "title": "河南成为全国第一个40℃大满贯省份",
-    "mark": " -> 热"
+    "mark": " -> 热 -> "
   },
   {
     "url": "/weibo?q=%23%E8%BF%99%E6%98%AF%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%23&Refer=top",
@@ -309,11 +309,16 @@
   {
     "url": "/weibo?q=%23%E5%8F%AA%E6%9C%89%E8%A2%81%E6%85%8E%E5%8F%97%E4%BC%A4%E7%9A%84%E4%B8%96%E7%95%8C%E8%BE%BE%E6%88%90%E4%BA%86%23&Refer=top",
     "title": "只有袁慎受伤的世界达成了",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23ELLE%E7%A7%B0%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9C%AC%E4%BA%BA%E9%9D%9E%E5%B8%B8%E6%95%AC%E4%B8%9A%23&Refer=top",
     "title": "ELLE称刘亦菲本人非常敬业",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23WUSSA%E6%89%8B%E8%A1%A8%E5%9B%9E%E5%BA%94%E6%B5%B7%E6%8A%A5%E8%A2%AB%E6%8C%87%E4%BE%AE%E8%BE%B1%E5%A5%B3%E6%80%A7%23&Refer=top",
+    "title": "WUSSA手表回应海报被指侮辱女性",
+    "mark": "新"
   }
 ]

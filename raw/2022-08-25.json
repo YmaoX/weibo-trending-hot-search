@@ -117,7 +117,7 @@
   {
     "url": "/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B8%AA%E4%BA%BA%E7%9F%AD%E7%89%87%E4%B9%90%E5%9B%AD%E4%B8%8A%E7%BA%BF%23&Refer=top",
     "title": "宋亚轩个人短片乐园上线",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%B5%8E%E5%8D%97%E9%9B%86%E4%B8%AD%E4%BE%9B%E5%86%B7%E8%87%B39%E6%9C%8815%E6%97%A5%23&Refer=top",
@@ -278,7 +278,7 @@
   {
     "url": "/weibo?q=%E8%B5%B5%E6%B3%B3%E9%91%AB%E7%9B%B4%E6%92%AD&Refer=top",
     "title": "赵泳鑫直播",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E8%83%86%E5%B0%8F%E9%AC%BC&Refer=top",
@@ -288,11 +288,16 @@
   {
     "url": "/weibo?q=%23%E4%BD%95%E6%82%AF%E9%B8%BF%E7%9A%84%E5%A6%88%E5%A6%88%E6%98%AF%E8%94%A1%E6%A0%B9%E8%8A%B1%23&Refer=top",
     "title": "何悯鸿的妈妈是蔡根花",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E7%9B%B4%E5%87%BB%E5%8F%B0%E9%A3%8E%E9%A9%AC%E9%9E%8D%E6%9D%A5%E8%A2%AD%23&Refer=top",
     "title": "直击台风马鞍来袭",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23WB%E9%9B%B6%E5%B0%81ksg%23&Refer=top",
+    "title": "WB零封ksg",
     "mark": "新"
   }
 ]

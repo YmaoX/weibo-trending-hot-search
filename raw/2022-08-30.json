@@ -288,11 +288,21 @@
   {
     "url": "/weibo?q=%23%E7%BD%91%E5%BA%97%E6%9C%88%E5%94%AE%E9%B3%84%E9%9B%80%E9%B3%9D2000%E4%BD%99%E5%8D%95%23&Refer=top",
     "title": "网店月售鳄雀鳝2000余单",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%9F%B3%E9%9D%92%E7%91%B6%23&Refer=top",
     "title": "柳青瑶",
     "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E7%96%AB%E8%8B%97%E5%B7%A8%E5%A4%B4%E4%B8%9A%E7%BB%A9%E4%B8%8B%E6%BB%91%E8%BF%9199%25%23&Refer=top",
+    "title": "疫苗巨头业绩下滑近99%",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AF%86%E9%80%834%E8%B7%AF%E9%80%8F%23&Refer=top",
+    "title": "王鹤棣密逃4路透",
+    "mark": "新"
   }
 ]

@@ -333,21 +333,36 @@
   {
     "url": "/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%B5%B6%E4%BD%9C%E4%B8%9A%E6%95%B2%E5%BE%97%E6%AF%94%E5%8F%91%E7%94%B5%E6%8A%A5%E8%BF%98%E5%BF%AB%23&Refer=top",
     "title": "男孩赶作业敲得比发电报还快",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%8C%9B%E6%8E%A8%E6%89%AD%E6%89%AD%E8%BD%A6%E8%87%B42%E5%B2%81%E5%AE%9D%E5%AE%9D%E6%91%94%E8%90%BD%23&Refer=top",
     "title": "女孩猛推扭扭车致2岁宝宝摔落",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%9B%A0%E5%96%9D%E5%A4%9A%E5%BF%98%E8%AE%B0%E6%8A%8A%E7%8B%97%E5%B8%A6%E5%9B%9E%E5%AE%B6%23&Refer=top",
     "title": "主人因喝多忘记把狗带回家",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%E7%8E%89%E9%AA%A8%E9%81%A5&Refer=top",
     "title": "玉骨遥",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB%E5%8E%BB%E4%B8%96%23&Refer=top",
+    "title": "戈尔巴乔夫去世",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23%E5%A4%9A%E6%8A%93%E9%B1%BC75%E5%85%83%E5%9B%9E%E6%94%B6%E8%A1%A3%E6%9C%8D%E7%BF%BB8%E5%80%8D%E5%87%BA%E5%94%AE%23&Refer=top",
+    "title": "多抓鱼75元回收衣服翻8倍出售",
+    "mark": "新"
+  },
+  {
+    "url": "/weibo?q=%23AI%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%85%A5%E5%AD%A6%E4%B8%8A%E6%B5%B7%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2%23&Refer=top",
+    "title": "AI虚拟歌手入学上海音乐学院",
     "mark": "新"
   }
 ]

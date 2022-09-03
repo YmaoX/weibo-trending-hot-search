@@ -286,7 +286,7 @@
   {
     "url": "/weibo?q=%233%E4%B8%AA%E5%8A%A8%E4%BD%9C%E6%9C%89%E6%95%88%E7%BC%93%E8%A7%A3%E7%9C%BC%E9%83%A8%E7%96%B2%E5%8A%B3%23&Refer=top",
     "title": "3个动作有效缓解眼部疲劳",
-    "mark": "新"
+    "mark": "新 -> "
   },
   {
     "url": "/weibo?q=%23%E6%88%90%E9%83%BD%E9%BB%84%E7%A0%81%23&Refer=top",
@@ -296,6 +296,11 @@
   {
     "url": "/weibo?q=%E8%A6%86%E6%B5%81%E5%B9%B4&Refer=top",
     "title": "覆流年",
+    "mark": ""
+  },
+  {
+    "url": "/weibo?q=%23%E4%BD%99%E5%A2%A8%E5%A5%BD%E6%83%A8%23&Refer=top",
+    "title": "余墨好惨",
     "mark": ""
   }
 ]

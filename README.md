@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 06 2022 02:21:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 06 2022 03:13:16 GMT+0800 (China Standard Time) -->
 
 1. [要把抢救生命作为首要任务](https://s.weibo.com//weibo?q=%23%E8%A6%81%E6%8A%8A%E6%8A%A2%E6%95%91%E7%94%9F%E5%91%BD%E4%BD%9C%E4%B8%BA%E9%A6%96%E8%A6%81%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
    热
@@ -88,11 +88,13 @@
 1. [车载监控拍下泸定地震瞬间](https://s.weibo.com//weibo?q=%23%E8%BD%A6%E8%BD%BD%E7%9B%91%E6%8E%A7%E6%8B%8D%E4%B8%8B%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%23&Refer=top)
    新 ->
 1. [电影我要和你在一起](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%BD%B1%E6%88%91%E8%A6%81%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%23&Refer=top)
-   新
+   新 ->
 1. [梦华录 TVB](https://s.weibo.com//weibo?q=%E6%A2%A6%E5%8D%8E%E5%BD%95%20TVB&Refer=top)
 1. [罚罪](https://s.weibo.com//weibo?q=%E7%BD%9A%E7%BD%AA&Refer=top)
 1. [消失的孩子](https://s.weibo.com//weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%AD%A9%E5%AD%90&Refer=top)
 1. [望泸定平安](https://s.weibo.com//weibo?q=%23%E6%9C%9B%E6%B3%B8%E5%AE%9A%E5%B9%B3%E5%AE%89%23&Refer=top)
+   新 ->
+1. [泸定地震愿平安](https://s.weibo.com//weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%E6%84%BF%E5%B9%B3%E5%AE%89%23&Refer=top)
    新
 
 <!-- END -->

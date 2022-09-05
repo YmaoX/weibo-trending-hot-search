@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 06 2022 04:18:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 06 2022 05:15:21 GMT+0800 (China Standard Time) -->
 
 1. [要把抢救生命作为首要任务](https://s.weibo.com//weibo?q=%23%E8%A6%81%E6%8A%8A%E6%8A%A2%E6%95%91%E7%94%9F%E5%91%BD%E4%BD%9C%E4%B8%BA%E9%A6%96%E8%A6%81%E4%BB%BB%E5%8A%A1%23&Refer=new_time)
    热
@@ -97,6 +97,12 @@
 1. [泸定地震愿平安](https://s.weibo.com//weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%E6%84%BF%E5%B9%B3%E5%AE%89%23&Refer=top)
    新 ->
 1. [iPhone14Pro将配备更大电池](https://s.weibo.com//weibo?q=%23iPhone14Pro%E5%B0%86%E9%85%8D%E5%A4%87%E6%9B%B4%E5%A4%A7%E7%94%B5%E6%B1%A0%23&Refer=top)
+   新 ->
+1. [成都世乒赛国乒无直板参赛](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%96%E4%B9%92%E8%B5%9B%E5%9B%BD%E4%B9%92%E6%97%A0%E7%9B%B4%E6%9D%BF%E5%8F%82%E8%B5%9B%23&Refer=top)
+   新
+1. [郑州震感来源于此次四川地震](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E9%9C%87%E6%84%9F%E6%9D%A5%E6%BA%90%E4%BA%8E%E6%AD%A4%E6%AC%A1%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%23&Refer=top)
+   新
+1. [这只猫怎么还会外语](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%8F%AA%E7%8C%AB%E6%80%8E%E4%B9%88%E8%BF%98%E4%BC%9A%E5%A4%96%E8%AF%AD%23&Refer=top)
    新
 
 <!-- END -->

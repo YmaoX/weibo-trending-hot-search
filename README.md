@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 29 2022 04:19:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 29 2022 05:15:44 GMT+0800 (China Standard Time) -->
 
 1. [延安革命旧址是一本永远读不完的书](https://s.weibo.com//weibo?q=%23%E5%BB%B6%E5%AE%89%E9%9D%A9%E5%91%BD%E6%97%A7%E5%9D%80%E6%98%AF%E4%B8%80%E6%9C%AC%E6%B0%B8%E8%BF%9C%E8%AF%BB%E4%B8%8D%E5%AE%8C%E7%9A%84%E4%B9%A6%23&Refer=new_time)
    热
@@ -211,7 +211,7 @@
 1. [贪便宜买了个电动牙刷](https://s.weibo.com//weibo?q=%23%E8%B4%AA%E4%BE%BF%E5%AE%9C%E4%B9%B0%E4%BA%86%E4%B8%AA%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%23&t=31&band_rank=8&Refer=top)
 1. [台北故宫3件文物破损照曝光](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB3%E4%BB%B6%E6%96%87%E7%89%A9%E7%A0%B4%E6%8D%9F%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top)
 1. [小伙网恋1年女友竟留络腮胡似李逵](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E7%BD%91%E6%81%8B1%E5%B9%B4%E5%A5%B3%E5%8F%8B%E7%AB%9F%E7%95%99%E7%BB%9C%E8%85%AE%E8%83%A1%E4%BC%BC%E6%9D%8E%E9%80%B5%23&t=31&band_rank=11&Refer=top)
-   新
+   新 ->
 1. [海恩贤圭情侣照](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E6%81%A9%E8%B4%A4%E5%9C%AD%E6%83%85%E4%BE%A3%E7%85%A7%23&t=31&band_rank=14&Refer=top)
 1. [沈梦辰演王熙凤](https://s.weibo.com//weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E6%BC%94%E7%8E%8B%E7%86%99%E5%87%A4%23&t=31&band_rank=15&Refer=top)
 1. [肖战杨紫余生豆瓣6.0合理吗](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A8%E7%B4%AB%E4%BD%99%E7%94%9F%E8%B1%86%E7%93%A36.0%E5%90%88%E7%90%86%E5%90%97%23&t=31&band_rank=16&Refer=top)
@@ -244,6 +244,38 @@
 1. [猎罪图鉴获亚洲电视奖3项提名](https://s.weibo.com//weibo?q=%23%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B4%E8%8E%B7%E4%BA%9A%E6%B4%B2%E7%94%B5%E8%A7%86%E5%A5%963%E9%A1%B9%E6%8F%90%E5%90%8D%23&t=31&band_rank=49&Refer=top)
 1. [狙击手的伪装术有多厉害](https://s.weibo.com//weibo?q=%23%E7%8B%99%E5%87%BB%E6%89%8B%E7%9A%84%E4%BC%AA%E8%A3%85%E6%9C%AF%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3%23&t=31&band_rank=50&Refer=top)
    新
+1. [短道速滑](https://s.weibo.com//weibo?q=%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91&t=31&band_rank=5&Refer=top)
+1. [为什么删了喜欢很久的人](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%A0%E4%BA%86%E5%96%9C%E6%AC%A2%E5%BE%88%E4%B9%85%E7%9A%84%E4%BA%BA%23&t=31&band_rank=7&Refer=top)
+1. [贪便宜买了个电动牙刷](https://s.weibo.com//weibo?q=%23%E8%B4%AA%E4%BE%BF%E5%AE%9C%E4%B9%B0%E4%BA%86%E4%B8%AA%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%23&t=31&band_rank=9&Refer=top)
+1. [海恩贤圭情侣照](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E6%81%A9%E8%B4%A4%E5%9C%AD%E6%83%85%E4%BE%A3%E7%85%A7%23&t=31&band_rank=13&Refer=top)
+1. [肖战杨紫余生豆瓣6.0合理吗](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A8%E7%B4%AB%E4%BD%99%E7%94%9F%E8%B1%86%E7%93%A36.0%E5%90%88%E7%90%86%E5%90%97%23&t=31&band_rank=14&Refer=top)
+1. [美股六大科技巨头一夜蒸发2万亿](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E8%82%A1%E5%85%AD%E5%A4%A7%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%912%E4%B8%87%E4%BA%BF%23&t=31&band_rank=15&Refer=top)
+1. [女生上课用手机举弹幕求上厕所](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%8A%E8%AF%BE%E7%94%A8%E6%89%8B%E6%9C%BA%E4%B8%BE%E5%BC%B9%E5%B9%95%E6%B1%82%E4%B8%8A%E5%8E%95%E6%89%80%23&t=31&band_rank=16&Refer=top)
+1. [中国好声音](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=17&Refer=top)
+1. [7000年前的首富竟靠吃猪肉排名](https://s.weibo.com//weibo?q=%237000%E5%B9%B4%E5%89%8D%E7%9A%84%E9%A6%96%E5%AF%8C%E7%AB%9F%E9%9D%A0%E5%90%83%E7%8C%AA%E8%82%89%E6%8E%92%E5%90%8D%23&t=31&band_rank=24&Refer=top)
+1. [段宇成求婚罗娜成功](https://s.weibo.com//weibo?q=%23%E6%AE%B5%E5%AE%87%E6%88%90%E6%B1%82%E5%A9%9A%E7%BD%97%E5%A8%9C%E6%88%90%E5%8A%9F%23&t=31&band_rank=25&Refer=top)
+   新
+1. [原来家电还能长这样](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AE%B6%E7%94%B5%E8%BF%98%E8%83%BD%E9%95%BF%E8%BF%99%E6%A0%B7%23&t=31&band_rank=26&Refer=top)
+   新
+1. [老鼠洞被淹母鼠挨个叼幼崽逃生](https://s.weibo.com//weibo?q=%23%E8%80%81%E9%BC%A0%E6%B4%9E%E8%A2%AB%E6%B7%B9%E6%AF%8D%E9%BC%A0%E6%8C%A8%E4%B8%AA%E5%8F%BC%E5%B9%BC%E5%B4%BD%E9%80%83%E7%94%9F%23&t=31&band_rank=27&Refer=top)
+1. [中国空间站的植物都长这么大了](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%9A%84%E6%A4%8D%E7%89%A9%E9%83%BD%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86%23&t=31&band_rank=29&Refer=top)
+1. [余生请多指教豆瓣开分6](https://s.weibo.com//weibo?q=%23%E4%BD%99%E7%94%9F%E8%AF%B7%E5%A4%9A%E6%8C%87%E6%95%99%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%866%23&t=31&band_rank=30&Refer=top)
+1. [推特将于10月28日起退市](https://s.weibo.com//weibo?q=%23%E6%8E%A8%E7%89%B9%E5%B0%86%E4%BA%8E10%E6%9C%8828%E6%97%A5%E8%B5%B7%E9%80%80%E5%B8%82%23&t=31&band_rank=31&Refer=top)
+1. [广州海珠区疫情防控](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B5%B7%E7%8F%A0%E5%8C%BA%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&t=31&band_rank=32&Refer=top)
+1. [英语129分男生课上读出蹩脚英文](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E8%AF%AD129%E5%88%86%E7%94%B7%E7%94%9F%E8%AF%BE%E4%B8%8A%E8%AF%BB%E5%87%BA%E8%B9%A9%E8%84%9A%E8%8B%B1%E6%96%87%23&t=31&band_rank=34&Refer=top)
+1. [梁静茹发文告别中国好声音](https://s.weibo.com//weibo?q=%23%E6%A2%81%E9%9D%99%E8%8C%B9%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=35&Refer=top)
+1. [长沙马拉松调整为线上赛](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B0%83%E6%95%B4%E4%B8%BA%E7%BA%BF%E4%B8%8A%E8%B5%9B%23&t=31&band_rank=36&Refer=top)
+1. [北京平谷发现2例感染者](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B9%B3%E8%B0%B7%E5%8F%91%E7%8E%B02%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&t=31&band_rank=37&Refer=top)
+1. [直20干出了中国人自己的争气机](https://s.weibo.com//weibo?q=%23%E7%9B%B420%E5%B9%B2%E5%87%BA%E4%BA%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%89%E6%B0%94%E6%9C%BA%23&t=31&band_rank=38&Refer=top)
+1. [换乘恋爱2终选结果](https://s.weibo.com//weibo?q=%23%E6%8D%A2%E4%B9%98%E6%81%8B%E7%88%B12%E7%BB%88%E9%80%89%E7%BB%93%E6%9E%9C%23&t=31&band_rank=39&Refer=top)
+1. [社恐为了逃避聚会能有多努力](https://s.weibo.com//weibo?q=%23%E7%A4%BE%E6%81%90%E4%B8%BA%E4%BA%86%E9%80%83%E9%81%BF%E8%81%9A%E4%BC%9A%E8%83%BD%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&t=31&band_rank=40&Refer=top)
+   新
+1. [原来有个饭搭子这么幸福](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%9C%89%E4%B8%AA%E9%A5%AD%E6%90%AD%E5%AD%90%E8%BF%99%E4%B9%88%E5%B9%B8%E7%A6%8F%23&t=31&band_rank=41&Refer=top)
+1. [美丽战场](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E4%B8%BD%E6%88%98%E5%9C%BA%23&t=31&band_rank=44&Refer=top)
+1. [古人夏天用的冰块是哪来的](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E4%BA%BA%E5%A4%8F%E5%A4%A9%E7%94%A8%E7%9A%84%E5%86%B0%E5%9D%97%E6%98%AF%E5%93%AA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=45&Refer=top)
+1. [看过后劲最大的剧](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E8%BF%87%E5%90%8E%E5%8A%B2%E6%9C%80%E5%A4%A7%E7%9A%84%E5%89%A7%23&t=31&band_rank=47&Refer=top)
+1. [王一博我的朋友演李默](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%BC%94%E6%9D%8E%E9%BB%98%23&t=31&band_rank=48&Refer=top)
+1. [河南热奶宝有多好吃](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E7%83%AD%E5%A5%B6%E5%AE%9D%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83%23&t=31&band_rank=49&Refer=top)
 
 <!-- END -->
 

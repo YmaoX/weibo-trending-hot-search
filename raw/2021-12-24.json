@@ -219,7 +219,11 @@
     "title": "还以为是个普通的游戏",
     "mark": ""
   },
-  { "url": "/weibo?q=%E8%80%83%E7%A0%94&Refer=top", "title": "考研", "mark": "" },
+  {
+    "url": "/weibo?q=%E8%80%83%E7%A0%94&Refer=top",
+    "title": "考研",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%8C%89%E4%B8%8B%E6%9A%82%E5%81%9C%E9%94%AE%E7%9A%84%E8%A5%BF%E5%AE%89%23&Refer=top",
     "title": "按下暂停键的西安",

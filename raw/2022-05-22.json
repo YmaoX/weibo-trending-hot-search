@@ -129,7 +129,11 @@
     "title": "RNG战胜T1",
     "mark": ""
   },
-  { "url": "/weibo?q=%E5%A4%9C%E6%9B%B2&Refer=top", "title": "夜曲", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%A4%9C%E6%9B%B2&Refer=top",
+    "title": "夜曲",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%8B%9C%E7%99%BB%E7%88%B6%E5%AD%90%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%85%A5%E5%A2%83%23&Refer=top",
     "title": "拜登父子被俄罗斯永久禁止入境",
@@ -140,7 +144,11 @@
     "title": "发稻穗表情纪念袁老",
     "mark": ""
   },
-  { "url": "/weibo?q=%E9%AB%98%E8%BF%AA&Refer=top", "title": "高迪", "mark": "" },
+  {
+    "url": "/weibo?q=%E9%AB%98%E8%BF%AA&Refer=top",
+    "title": "高迪",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%88%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%85%AB%E5%A4%A7%E4%BC%98%E7%82%B9%23&Refer=top",
     "title": "我对象的八大优点",

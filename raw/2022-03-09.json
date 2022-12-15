@@ -129,7 +129,11 @@
     "title": "大爷存2万现金被吞凭条上3个问号",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E6%88%98%E7%A5%9E&Refer=top", "title": "战神", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%88%98%E7%A5%9E&Refer=top",
+    "title": "战神",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E4%B9%B3%E8%85%BA%E7%BB%93%E8%8A%82%E7%A6%BB%E4%B9%B3%E8%85%BA%E7%99%8C%E6%9C%89%E5%A4%9A%E8%BF%9C%23&Refer=top",
     "title": "乳腺结节离乳腺癌有多远",

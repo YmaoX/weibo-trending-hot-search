@@ -311,7 +311,11 @@
     "title": "解封之后你想去做什么",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E5%9B%9B%E6%9C%88&Refer=top", "title": "四月", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%9B%9B%E6%9C%88&Refer=top",
+    "title": "四月",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%E6%98%86%E5%B1%B1%E7%96%AB%E6%83%85&Refer=top",
     "title": "昆山疫情",

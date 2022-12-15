@@ -205,7 +205,11 @@
     "title": "汶川地震幸存女孩DIY闪光假肢",
     "mark": ""
   },
-  { "url": "/weibo?q=%E7%BE%8E%E8%82%A1&Refer=top", "title": "美股", "mark": "" },
+  {
+    "url": "/weibo?q=%E7%BE%8E%E8%82%A1&Refer=top",
+    "title": "美股",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%9C%89%E5%9F%8E%E5%B8%82%E7%A9%BA%E7%BD%AE%E6%88%BF12%E5%B9%B4%E9%83%BD%E5%8D%96%E4%B8%8D%E5%AE%8C%23&Refer=top",
     "title": "有城市空置房12年都卖不完",

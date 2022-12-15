@@ -44,7 +44,11 @@
     "title": "建议午睡不要超过半小时",
     "mark": "新 ->  -> 沸 -> 热"
   },
-  { "url": "/weibo?q=%E7%8C%B4%E7%97%98&Refer=top", "title": "猴痘", "mark": "" },
+  {
+    "url": "/weibo?q=%E7%8C%B4%E7%97%98&Refer=top",
+    "title": "猴痘",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E4%BD%A9%E6%B4%9B%E8%A5%BF%E8%8B%A5%E7%AA%9C%E8%AE%BF%E6%88%90%E8%A1%8C%E5%A4%A7%E9%99%86%E5%B0%86%E5%AF%B9%E5%8F%B0%E9%87%87%E5%8F%96%E6%96%AD%E7%84%B6%E6%8E%AA%E6%96%BD%23&Refer=top",
     "title": "佩洛西若窜访成行大陆将对台采取断然措施",

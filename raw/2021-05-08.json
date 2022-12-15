@@ -1612,5 +1612,9 @@
     "title": "日本一医院贴标语呼吁取消东京奥运会",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E5%B7%B4%E8%90%A8&Refer=top", "title": "巴萨", "mark": "新" }
+  {
+    "url": "/weibo?q=%E5%B7%B4%E8%90%A8&Refer=top",
+    "title": "巴萨",
+    "mark": "新"
+  }
 ]

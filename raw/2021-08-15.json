@@ -69,7 +69,11 @@
     "title": "七夕朋友圈",
     "mark": "热 -> 沸"
   },
-  { "url": "/weibo?q=%E8%94%9A%E6%9D%A5&Refer=top", "title": "蔚来", "mark": "" },
+  {
+    "url": "/weibo?q=%E8%94%9A%E6%9D%A5&Refer=top",
+    "title": "蔚来",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%B0%86%E5%8F%A3%E7%BD%A9%E6%8B%89%E8%87%B3%E4%B8%8B%E5%B7%B4%E5%A4%84%E6%98%AF%E9%94%99%E8%AF%AF%E4%B9%A0%E6%83%AF%23&Refer=top",
     "title": "将口罩拉至下巴处是错误习惯",
@@ -320,7 +324,11 @@
     "title": "中国航天员送来七夕祝福",
     "mark": ""
   },
-  { "url": "/weibo?q=%E8%8B%B1%E8%B6%85&Refer=top", "title": "英超", "mark": "" },
+  {
+    "url": "/weibo?q=%E8%8B%B1%E8%B6%85&Refer=top",
+    "title": "英超",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E4%BA%8E%E9%80%94%E4%B9%94%E6%99%B6%E6%99%B6%E7%94%9C%E8%9C%9C%E6%AF%94%E5%BF%83%23&Refer=top",
     "title": "于途乔晶晶甜蜜比心",

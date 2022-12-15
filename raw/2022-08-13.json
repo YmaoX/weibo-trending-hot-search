@@ -180,7 +180,11 @@
     "title": "八月苍兰甜蜜一嗑",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E6%9C%88%E4%BA%AE&Refer=top", "title": "月亮", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%9C%88%E4%BA%AE&Refer=top",
+    "title": "月亮",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%98%8E%E5%A4%A910%E5%A4%9A%E4%B8%AA%E7%9C%81%E5%8C%BA%E5%B8%82%E8%B6%8540%E2%84%83%23&Refer=top",
     "title": "明天10多个省区市超40℃",

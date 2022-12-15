@@ -154,7 +154,11 @@
     "title": "闺蜜送礼指南",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E7%BD%97%E6%8B%89&Refer=top", "title": "罗拉", "mark": "" },
+  {
+    "url": "/weibo?q=%E7%BD%97%E6%8B%89&Refer=top",
+    "title": "罗拉",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=CCTV%E7%BD%91%E7%BB%9C%E6%98%A5%E6%99%9A&Refer=top",
     "title": "CCTV网络春晚",

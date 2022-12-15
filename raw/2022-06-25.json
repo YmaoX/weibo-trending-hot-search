@@ -534,7 +534,11 @@
     "title": "半遮面被毁",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E5%AE%89%E5%A8%9C&Refer=top", "title": "安娜", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%AE%89%E5%A8%9C&Refer=top",
+    "title": "安娜",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%AE%A3%E5%B8%83%E6%89%93%E8%B5%A2%E5%A4%A7%E4%B8%8A%E6%B5%B7%E4%BF%9D%E5%8D%AB%E6%88%98%23&Refer=top",
     "title": "上海宣布打赢大上海保卫战",

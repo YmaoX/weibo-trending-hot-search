@@ -1676,5 +1676,9 @@
     "title": "新疆那拉提杏花谷宛若童话世界",
     "mark": "新"
   },
-  { "url": "/weibo?q=%23PCL2022%23&Refer=top", "title": "PCL2022", "mark": "新" }
+  {
+    "url": "/weibo?q=%23PCL2022%23&Refer=top",
+    "title": "PCL2022",
+    "mark": "新"
+  }
 ]

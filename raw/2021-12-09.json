@@ -274,7 +274,11 @@
     "title": "每天带饭真的很丢人吗",
     "mark": ""
   },
-  { "url": "/weibo?q=%E6%95%99%E8%B5%84&Refer=top", "title": "教资", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%95%99%E8%B5%84&Refer=top",
+    "title": "教资",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%E6%95%99%E8%B5%8469%E5%88%86&Refer=top",
     "title": "教资69分",

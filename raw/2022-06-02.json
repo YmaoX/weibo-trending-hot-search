@@ -340,7 +340,11 @@
     "title": "北京6月1日新增11例本土确诊",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E6%9C%B1%E5%BC%80&Refer=top", "title": "朱开", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%9C%B1%E5%BC%80&Refer=top",
+    "title": "朱开",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E7%BC%96%E5%89%A7%E8%AF%B4%E5%BC%A0%E8%8B%A5%E6%98%80%E5%87%BA%E4%B9%8E%E6%84%8F%E6%96%99%23&Refer=top",
     "title": "编剧说张若昀出乎意料",

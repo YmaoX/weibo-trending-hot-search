@@ -154,7 +154,11 @@
     "title": "动画绘出灯火里的中国",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E6%98%A5%E6%99%9A&Refer=top", "title": "春晚", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%98%A5%E6%99%9A&Refer=top",
+    "title": "春晚",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A%23&Refer=top",
     "title": "东方卫视春晚",

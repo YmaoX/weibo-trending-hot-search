@@ -74,7 +74,11 @@
     "title": "心疼龚俊的鞋",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E5%A5%B3%E5%8F%8C&Refer=top", "title": "女双", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%A5%B3%E5%8F%8C&Refer=top",
+    "title": "女双",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%E5%90%B4%E9%95%87%E5%AE%87%20%E9%99%AA%E8%B7%91&Refer=top",
     "title": "吴镇宇 陪跑",
@@ -420,7 +424,11 @@
     "title": "权志龙最新翻唱",
     "mark": ""
   },
-  { "url": "/weibo?q=%E9%99%88%E5%BA%B7&Refer=top", "title": "陈康", "mark": "" },
+  {
+    "url": "/weibo?q=%E9%99%88%E5%BA%B7&Refer=top",
+    "title": "陈康",
+    "mark": ""
+  },
   { "url": "/weibo?q=%23CSGO%23&Refer=top", "title": "CSGO", "mark": "新" },
   {
     "url": "/weibo?q=%237%E6%9C%8817%E6%97%A5%E5%B9%BF%E8%A5%BF%E7%96%AB%E6%83%85%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23&Refer=top",

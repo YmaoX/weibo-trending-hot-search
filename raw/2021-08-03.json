@@ -2136,5 +2136,9 @@
     "title": "新发现中药连花清瘟对德尔塔病毒有效",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E4%B8%8A%E6%B8%B8&Refer=top", "title": "上游", "mark": "新" }
+  {
+    "url": "/weibo?q=%E4%B8%8A%E6%B8%B8&Refer=top",
+    "title": "上游",
+    "mark": "新"
+  }
 ]

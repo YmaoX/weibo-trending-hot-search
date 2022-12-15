@@ -84,7 +84,11 @@
     "title": "女子冬捕捞出一只蛤蟆被速冻成雕塑",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E6%B1%9F%E6%AD%8C&Refer=top", "title": "江歌", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%B1%9F%E6%AD%8C&Refer=top",
+    "title": "江歌",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%88%98%E5%AE%87%E5%94%B1%E9%97%A8%E6%B2%A1%E9%94%81%23&Refer=top",
     "title": "刘宇唱门没锁",

@@ -384,7 +384,11 @@
     "title": "长沙小学生放学过马路被公交车撞倒身亡",
     "mark": ""
   },
-  { "url": "/weibo?q=%E7%BE%8E%E8%82%A1&Refer=top", "title": "美股", "mark": "" },
+  {
+    "url": "/weibo?q=%E7%BE%8E%E8%82%A1&Refer=top",
+    "title": "美股",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E4%B8%BA%E6%8F%B4%E6%B2%AA%E5%8C%BB%E7%96%97%E9%98%9F%E5%BC%80%E6%94%BE%23&Refer=top",
     "title": "上海外滩为援沪医疗队开放",

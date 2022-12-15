@@ -69,7 +69,11 @@
     "title": "KPL 暂停",
     "mark": ""
   },
-  { "url": "/weibo?q=%E5%A7%BF%E6%80%81&Refer=top", "title": "姿态", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%A7%BF%E6%80%81&Refer=top",
+    "title": "姿态",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%BC%A0%E9%A2%9C%E9%BD%90%E5%91%BD%E9%87%8C%E6%97%A0%E7%93%9C%23&Refer=top",
     "title": "张颜齐命里无瓜",
@@ -291,7 +295,11 @@
     "title": "结婚会带给人怎样的改变",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E7%BD%9A%E7%BD%AA&Refer=top", "title": "罚罪", "mark": "" },
+  {
+    "url": "/weibo?q=%E7%BD%9A%E7%BD%AA&Refer=top",
+    "title": "罚罪",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E9%87%8D%E5%BA%86%E7%BE%A4%E4%BC%97%E8%87%AA%E5%8F%91%E8%83%8C%E7%89%A9%E8%B5%84%E5%BE%92%E6%AD%A5%E4%B8%8A%E5%B1%B1%23&Refer=top",
     "title": "重庆群众自发背物资徒步上山",

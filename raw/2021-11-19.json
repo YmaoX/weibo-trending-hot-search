@@ -1204,7 +1204,11 @@
     "title": "习近平主席致信祝贺首届中国网络文明大会",
     "mark": "热"
   },
-  { "url": "/weibo?q=%23T1%23&Refer=top", "title": "T1", "mark": "新 -> 热 -> " },
+  {
+    "url": "/weibo?q=%23T1%23&Refer=top",
+    "title": "T1",
+    "mark": "新 -> 热 -> "
+  },
   {
     "url": "/weibo?q=%23%E8%B4%AF%E5%BD%BB%E8%90%BD%E5%AE%9E%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%B2%BE%E7%A5%9E%23&Refer=top",
     "title": "贯彻落实六中全会精神",

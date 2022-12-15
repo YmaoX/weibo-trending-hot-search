@@ -34,7 +34,11 @@
     "title": "中戏96班人均想退学",
     "mark": " -> 热 -> "
   },
-  { "url": "/weibo?q=%E7%BE%8E%E8%82%A1&Refer=top", "title": "美股", "mark": "" },
+  {
+    "url": "/weibo?q=%E7%BE%8E%E8%82%A1&Refer=top",
+    "title": "美股",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E8%8B%8F%E5%B7%9E%E6%91%98%E6%98%9F%23&Refer=top",
     "title": "苏州摘星",

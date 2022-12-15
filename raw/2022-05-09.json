@@ -94,7 +94,11 @@
     "title": "余秀华90后男友回应争议",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E7%8B%BC%E9%98%9F&Refer=top", "title": "狼队", "mark": "" },
+  {
+    "url": "/weibo?q=%E7%8B%BC%E9%98%9F&Refer=top",
+    "title": "狼队",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%87%91%E5%B1%B1%E5%A5%89%E8%B4%A4%E4%BB%8A%E6%98%8E%E4%B8%A4%E5%A4%A9%E5%85%A8%E5%9F%9F%E9%9D%99%E6%80%81%E7%AE%A1%E7%90%86%23&Refer=top",
     "title": "上海金山奉贤今明两天全域静态管理",

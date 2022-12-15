@@ -229,7 +229,11 @@
     "title": "如何享受一个人的美好时光",
     "mark": ""
   },
-  { "url": "/weibo?q=%E7%A9%BA%E5%AE%A2&Refer=top", "title": "空客", "mark": "" },
+  {
+    "url": "/weibo?q=%E7%A9%BA%E5%AE%A2&Refer=top",
+    "title": "空客",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23NV%E6%99%8B%E7%BA%A7%E5%85%A8%E7%90%83%E5%86%A0%E5%86%9B%E6%9D%AF%E5%9B%9B%E5%BC%BA%23&Refer=top",
     "title": "NV晋级全球冠军杯四强",

@@ -124,7 +124,11 @@
     "title": "世上最爱我的男人",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E5%BC%80%E9%BA%A6&Refer=top", "title": "开麦", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%BC%80%E9%BA%A6&Refer=top",
+    "title": "开麦",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E8%B5%B5%E7%9B%BC%E5%84%BF%E6%95%91%E9%A1%BE%E5%8D%83%E5%B8%86%23&Refer=top",
     "title": "赵盼儿救顾千帆",

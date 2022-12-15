@@ -119,7 +119,11 @@
     "title": "朱正廷说吃完妈妈的菜进医院了",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E6%9B%BC%E5%9F%8E&Refer=top", "title": "曼城", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%9B%BC%E5%9F%8E&Refer=top",
+    "title": "曼城",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6vs%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF%23&Refer=top",
     "title": "利物浦vs伯恩茅斯",
@@ -296,7 +300,11 @@
     "title": "山火与干旱报告",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E8%8B%B1%E8%B6%85&Refer=top", "title": "英超", "mark": "" },
+  {
+    "url": "/weibo?q=%E8%8B%B1%E8%B6%85&Refer=top",
+    "title": "英超",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%BD%93%E5%86%9B%E8%AE%AD%E6%95%99%E5%AE%98%E9%81%87%E5%88%B03%E5%AD%A6%E7%94%9F%E5%88%86%E4%B8%8D%E6%B8%85%E5%B7%A6%E5%8F%B3%23&Refer=top",
     "title": "当军训教官遇到3学生分不清左右",

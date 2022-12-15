@@ -189,7 +189,11 @@
     "title": "王楚钦孙颖莎新加坡大满贯混双夺冠",
     "mark": ""
   },
-  { "url": "/weibo?q=%E5%86%AF%E5%B7%A9&Refer=top", "title": "冯巩", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%86%AF%E5%B7%A9&Refer=top",
+    "title": "冯巩",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%E5%8D%8E%E4%B8%BAP50%E6%9C%89%E4%B9%9D%E7%A7%8D%E9%A2%9C%E8%89%B2&Refer=top",
     "title": "华为P50有九种颜色",

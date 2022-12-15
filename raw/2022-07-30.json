@@ -149,7 +149,11 @@
     "title": "连小狗都不能拒绝小猫撒娇",
     "mark": ""
   },
-  { "url": "/weibo?q=%E5%B9%B3%E6%BD%AD&Refer=top", "title": "平潭", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%B9%B3%E6%BD%AD&Refer=top",
+    "title": "平潭",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%2380%E5%BC%BA%E5%86%9B%E5%8F%B7%23&Refer=top",
     "title": "80强军号",
@@ -430,7 +434,11 @@
     "title": "西班牙确认首例猴痘死亡病例",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E5%8F%B0%E9%A3%8E&Refer=top", "title": "台风", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%8F%B0%E9%A3%8E&Refer=top",
+    "title": "台风",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%E7%99%BD%E9%B9%BF%E7%BB%99%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%89%93%E7%94%B5%E8%AF%9D&Refer=top",
     "title": "白鹿给虞书欣打电话",

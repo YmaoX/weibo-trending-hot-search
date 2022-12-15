@@ -90,7 +90,11 @@
     "title": "明起上海多区上班需持核酸报告",
     "mark": ""
   },
-  { "url": "/weibo?q=%E8%83%96%E6%A2%A6&Refer=top", "title": "胖梦", "mark": "" },
+  {
+    "url": "/weibo?q=%E8%83%96%E6%A2%A6&Refer=top",
+    "title": "胖梦",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%B6%89%E7%96%AB%E7%83%A4%E9%B8%AD%E5%BA%97830%E4%BA%BA%E4%B8%AD477%E4%BA%BA%E6%9C%AA%E6%89%AB%E7%A0%81%E7%99%BB%E8%AE%B0%23&Refer=top",
     "title": "涉疫烤鸭店830人中477人未扫码登记",

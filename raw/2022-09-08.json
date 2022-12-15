@@ -320,7 +320,11 @@
     "title": "贵阳疫情防控",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E7%BD%9A%E7%BD%AA&Refer=top", "title": "罚罪", "mark": "" },
+  {
+    "url": "/weibo?q=%E7%BD%9A%E7%BD%AA&Refer=top",
+    "title": "罚罪",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%8E%A8%E5%87%BA%E5%8D%88%E7%9D%A1%E5%B8%90%E7%AF%B7%23&Refer=top",
     "title": "杭州一小学推出午睡帐篷",

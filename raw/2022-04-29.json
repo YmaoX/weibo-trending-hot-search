@@ -114,7 +114,11 @@
     "title": "热播剧男主开始卷智商了",
     "mark": ""
   },
-  { "url": "/weibo?q=%E5%87%B0%E6%9D%83&Refer=top", "title": "凰权", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%87%B0%E6%9D%83&Refer=top",
+    "title": "凰权",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E5%8C%BB%E9%99%A2%E5%8F%91%E7%8E%B0%E4%B8%80%E5%88%9D%E7%AD%9B%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%23&Refer=top",
     "title": "北京朝阳医院发现一初筛阳性人员",
@@ -1633,5 +1637,9 @@
     "title": "向往的生活直播",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E8%BF%9E%E5%B2%B3&Refer=top", "title": "连岳", "mark": "新" }
+  {
+    "url": "/weibo?q=%E8%BF%9E%E5%B2%B3&Refer=top",
+    "title": "连岳",
+    "mark": "新"
+  }
 ]

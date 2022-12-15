@@ -104,7 +104,11 @@
     "title": "甘望星打游戏太好笑了",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E6%9D%A8%E9%B8%A3&Refer=top", "title": "杨鸣", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%9D%A8%E9%B8%A3&Refer=top",
+    "title": "杨鸣",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%88%86%E4%B8%8D%E6%B8%85%E7%8B%BC%E4%BA%BA%E6%9D%80%E5%92%8C%E5%89%A7%E6%9C%AC%E6%9D%80%23&Refer=top",
     "title": "黄子韬分不清狼人杀和剧本杀",

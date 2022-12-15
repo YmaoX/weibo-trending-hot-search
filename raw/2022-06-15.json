@@ -275,7 +275,11 @@
     "title": "说英雄谁是英雄 虐",
     "mark": ""
   },
-  { "url": "/weibo?q=%E6%B2%B9%E4%BB%B7&Refer=top", "title": "油价", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%B2%B9%E4%BB%B7&Refer=top",
+    "title": "油价",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E9%83%91%E5%8F%B7%E9%94%A1%E5%B0%86solo%E5%87%BA%E9%81%93%23&Refer=top",
     "title": "郑号锡将solo出道",

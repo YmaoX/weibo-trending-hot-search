@@ -184,7 +184,11 @@
     "title": "北京冬奥会",
     "mark": ""
   },
-  { "url": "/weibo?q=%E6%8B%9C%E5%B9%B4&Refer=top", "title": "拜年", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%8B%9C%E5%B9%B4&Refer=top",
+    "title": "拜年",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%E5%AE%9A%E5%A6%86%E9%9B%B7%E5%93%81%E5%A4%A7%E6%B8%85%E5%8D%95&Refer=top",
     "title": "定妆雷品大清单",

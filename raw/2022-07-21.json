@@ -174,7 +174,11 @@
     "title": "星汉灿烂",
     "mark": "新 ->  -> 新"
   },
-  { "url": "/weibo?q=%E5%BD%A9%E8%99%B9&Refer=top", "title": "彩虹", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%BD%A9%E8%99%B9&Refer=top",
+    "title": "彩虹",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%E6%98%9F%E6%B1%89%E7%81%BF%E7%83%82%E9%A2%84%E5%91%8A27&Refer=top",
     "title": "星汉灿烂预告27",

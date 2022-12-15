@@ -334,7 +334,11 @@
     "title": "西安电子科技大学",
     "mark": "新 -> 热 -> "
   },
-  { "url": "/weibo?q=%E5%BC%80%E7%AB%AF&Refer=top", "title": "开端", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%BC%80%E7%AB%AF&Refer=top",
+    "title": "开端",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%B7%B2%E5%A9%9A%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%92%8C%E5%BC%82%E6%80%A7%E4%BF%9D%E6%8C%81%E8%B7%9D%E7%A6%BB%23&Refer=top",
     "title": "已婚该不该和异性保持距离",
@@ -1120,7 +1124,11 @@
     "title": "小米申请雷军签名商标获批",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E8%99%8E%E5%8D%A1&Refer=top", "title": "虎卡", "mark": "" },
+  {
+    "url": "/weibo?q=%E8%99%8E%E5%8D%A1&Refer=top",
+    "title": "虎卡",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%96%B0%E7%89%88%E5%80%A9%E5%A5%B3%E5%B9%BD%E9%AD%82%E6%9C%89%E5%A4%9A%E9%9B%B7%E4%BA%BA%23&Refer=top",
     "title": "新版倩女幽魂有多雷人",

@@ -184,7 +184,11 @@
     "title": "这车是不是漏电啊",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E7%8B%BC%E9%98%9F&Refer=top", "title": "狼队", "mark": "" },
+  {
+    "url": "/weibo?q=%E7%8B%BC%E9%98%9F&Refer=top",
+    "title": "狼队",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%B1%9F%E5%8D%97%E7%99%BE%E6%99%AF%E5%9B%BE%23&Refer=top",
     "title": "江南百景图",

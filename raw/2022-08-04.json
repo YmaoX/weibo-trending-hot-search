@@ -144,7 +144,11 @@
     "title": "四川疑现恐龙同时代生物仙女虾",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E5%BA%B7%E8%BE%89&Refer=top", "title": "康辉", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%BA%B7%E8%BE%89&Refer=top",
+    "title": "康辉",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E7%9B%B4%E6%92%AD%23&Refer=top",
     "title": "内马尔直播",

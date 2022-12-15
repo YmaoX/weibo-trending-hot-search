@@ -99,7 +99,11 @@
     "title": "男子朋友圈炫耀2岁宝宝开车被处罚",
     "mark": "热 -> "
   },
-  { "url": "/weibo?q=%E6%9C%88%E4%BA%AE&Refer=top", "title": "月亮", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%9C%88%E4%BA%AE&Refer=top",
+    "title": "月亮",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%E5%A5%BD%E5%A4%9A%E5%AE%87&Refer=top",
     "title": "好多宇",

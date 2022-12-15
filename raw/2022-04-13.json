@@ -490,7 +490,11 @@
     "title": "25岁大白晕倒醒来先道歉",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E6%8B%9C%E4%BB%81&Refer=top", "title": "拜仁", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%8B%9C%E4%BB%81&Refer=top",
+    "title": "拜仁",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%A7%A5%E5%A7%A5%E5%85%BB%E7%9A%84%E7%8C%AB%E6%9C%89%E5%A4%9A%E5%90%AC%E8%AF%9D%23&Refer=top",
     "title": "姥姥养的猫有多听话",
@@ -501,7 +505,11 @@
     "title": "高校女生取外卖不慎坠入4.5米深井",
     "mark": "新 -> 热"
   },
-  { "url": "/weibo?q=%E6%B2%B9%E4%BB%B7&Refer=top", "title": "油价", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%B2%B9%E4%BB%B7&Refer=top",
+    "title": "油价",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%90%89%E6%9E%97%E7%9C%81%E5%B7%B2%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E6%96%B0%E5%A2%9E%E6%84%9F%E6%9F%93%E8%80%85%E9%99%8D%E8%87%B3%E5%8D%83%E4%BE%8B%E4%BB%A5%E4%B8%8B%23&Refer=top",
     "title": "吉林省已连续3天新增感染者降至千例以下",

@@ -209,7 +209,11 @@
     "title": "美国奖牌榜排名",
     "mark": ""
   },
-  { "url": "/weibo?q=%E4%B8%8A%E6%B8%B8&Refer=top", "title": "上游", "mark": "" },
+  {
+    "url": "/weibo?q=%E4%B8%8A%E6%B8%B8&Refer=top",
+    "title": "上游",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%BE%B3%E9%97%A8%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E5%8D%B3%E6%97%B6%E9%A2%84%E9%98%B2%E7%8A%B6%E6%80%81%23&Refer=top",
     "title": "澳门宣布进入即时预防状态",

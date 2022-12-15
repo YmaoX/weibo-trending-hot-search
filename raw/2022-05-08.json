@@ -570,7 +570,11 @@
     "title": "北京近期一独立传播链涉675例感染者",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E6%B5%81%E6%98%9F&Refer=top", "title": "流星", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%B5%81%E6%98%9F&Refer=top",
+    "title": "流星",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A21%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B63%E4%BE%8B%23&Refer=top",
     "title": "广东新增本土确诊21例无症状3例",

@@ -459,7 +459,11 @@
     "title": "巴特勒47分",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E5%88%98%E8%89%AF&Refer=top", "title": "刘良", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%88%98%E8%89%AF&Refer=top",
+    "title": "刘良",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%95%99%E6%9D%90%E7%BC%96%E5%86%99%E4%BB%85%E8%BF%9B%E8%A1%8C%E5%86%85%E9%83%A8%E5%AE%A1%E6%9F%A5%E4%B8%8D%E5%90%88%E7%90%86%23&Refer=top",
     "title": "专家称教材编写仅进行内部审查不合理",

@@ -230,7 +230,11 @@
     "title": "天问一号将于近期择机实施着陆",
     "mark": ""
   },
-  { "url": "/weibo?q=MSI&Refer=top", "title": "MSI", "mark": "新 ->  -> 新 -> " },
+  {
+    "url": "/weibo?q=MSI&Refer=top",
+    "title": "MSI",
+    "mark": "新 ->  -> 新 -> "
+  },
   {
     "url": "/weibo?q=%23%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%B7%B3%E7%BB%B3%E8%A1%A8%E6%BC%94%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top",
     "title": "运动会跳绳表演有多绝",

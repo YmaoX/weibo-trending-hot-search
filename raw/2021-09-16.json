@@ -289,7 +289,11 @@
     "title": "1分钟混剪全运会火炬接力时刻",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E6%AC%A7%E5%86%A0&Refer=top", "title": "欧冠", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%AC%A7%E5%86%A0&Refer=top",
+    "title": "欧冠",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BDBGM%E4%B8%AD%E9%87%8D%E7%8E%B0%E5%85%A8%E6%B0%91%E6%8A%97%E7%96%AB%23&Refer=top",
     "title": "我爱你中国BGM中重现全民抗疫",

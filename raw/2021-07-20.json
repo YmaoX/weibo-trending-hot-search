@@ -504,7 +504,11 @@
     "title": "赵世炎的珍贵影像首次公开",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E5%85%89%E9%81%87&Refer=top", "title": "光遇", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%85%89%E9%81%87&Refer=top",
+    "title": "光遇",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%B0%E5%A2%9E8%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top",
     "title": "云南新增8例本土确诊",

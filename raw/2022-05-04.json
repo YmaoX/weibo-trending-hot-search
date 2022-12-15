@@ -434,7 +434,11 @@
     "title": "5月3日新增本土确诊353例",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E6%AC%A7%E5%86%A0&Refer=top", "title": "欧冠", "mark": "" },
+  {
+    "url": "/weibo?q=%E6%AC%A7%E5%86%A0&Refer=top",
+    "title": "欧冠",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%E6%9D%A0%E6%9D%86&Refer=top",
     "title": "杠杆",

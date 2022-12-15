@@ -174,7 +174,11 @@
     "title": "杭州消防烈士牺牲前的微信界面",
     "mark": ""
   },
-  { "url": "/weibo?q=%E7%BE%8E%E8%82%A1&Refer=top", "title": "美股", "mark": "" },
+  {
+    "url": "/weibo?q=%E7%BE%8E%E8%82%A1&Refer=top",
+    "title": "美股",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%B6%89%E9%85%92%E5%90%A7%E7%96%AB%E6%83%85%E5%B7%B2%E6%9C%89183%E4%BA%BA%E6%84%9F%E6%9F%93%23&Refer=top",
     "title": "北京涉酒吧疫情已有183人感染",

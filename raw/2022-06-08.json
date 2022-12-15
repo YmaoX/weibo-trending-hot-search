@@ -129,7 +129,11 @@
     "title": "高考数学乙卷",
     "mark": "热 -> "
   },
-  { "url": "/weibo?q=%E9%9F%A6%E7%A5%9E&Refer=top", "title": "韦神", "mark": "" },
+  {
+    "url": "/weibo?q=%E9%9F%A6%E7%A5%9E&Refer=top",
+    "title": "韦神",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E6%88%90%E9%83%BD%E8%80%83%E7%94%9F%E6%8F%90%E5%89%8D%E4%B8%80%E5%B0%8F%E6%97%B6%E7%AD%94%E5%AE%8C%E6%95%B0%E5%AD%A6%E9%A2%98%23&Refer=top",
     "title": "成都考生提前一小时答完数学题",

@@ -345,7 +345,11 @@
     "title": "六安2例无症状感染者详情",
     "mark": "新"
   },
-  { "url": "/weibo?q=%E9%81%87%E9%BE%99&Refer=top", "title": "遇龙", "mark": "" },
+  {
+    "url": "/weibo?q=%E9%81%87%E9%BE%99&Refer=top",
+    "title": "遇龙",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E4%BC%AF%E8%BF%9C%E5%BD%93%E8%BF%87%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E8%88%9E%E8%B9%88%E8%80%81%E5%B8%88%23&Refer=top",
     "title": "伯远当过李佳琦的舞蹈老师",

@@ -800,7 +800,11 @@
     "title": "37平小屋也可以很舒服",
     "mark": "新 -> "
   },
-  { "url": "/weibo?q=%E5%9F%BA%E9%87%91&Refer=top", "title": "基金", "mark": "" },
+  {
+    "url": "/weibo?q=%E5%9F%BA%E9%87%91&Refer=top",
+    "title": "基金",
+    "mark": ""
+  },
   {
     "url": "/weibo?q=%23%E7%9C%9F%E7%9A%84%E8%A6%81%E7%9B%B8%E4%BF%A1%E8%87%AA%E5%B7%B1%E5%80%BC%E5%BE%97%E8%A2%AB%E7%88%B1%23&Refer=top",
     "title": "真的要相信自己值得被爱",

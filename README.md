@@ -15,7 +15,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 19 2023 06:11:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 19 2023 07:12:42 GMT+0800 (China Standard Time) -->
 
 1. [中国—中亚峰会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E2%80%94%E4%B8%AD%E4%BA%9A%E5%B3%B0%E4%BC%9A%23&Refer=new_time)
    热
@@ -334,6 +334,49 @@
 1. [T1不ban安妮](https://s.weibo.com//weibo?q=T1%E4%B8%8Dban%E5%AE%89%E5%A6%AE&t=31&band_rank=48&Refer=top)
 1. [宋雨琦多巴胺甜妹](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%94%9C%E5%A6%B9%23&t=31&band_rank=49&Refer=top)
 1. [管泽元](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&t=31&band_rank=50&Refer=top)
+1. [北斗为梦想导航](https://s.weibo.com//weibo?q=%23%E5%8C%97%E6%96%97%E4%B8%BA%E6%A2%A6%E6%83%B3%E5%AF%BC%E8%88%AA%23&Refer=new_time)
+   热
+1. [网约车拒违停2乘客赖车上超24小时](https://s.weibo.com//weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E6%8B%92%E8%BF%9D%E5%81%9C2%E4%B9%98%E5%AE%A2%E8%B5%96%E8%BD%A6%E4%B8%8A%E8%B6%8524%E5%B0%8F%E6%97%B6%23&t=31&band_rank=5&Refer=top)
+   热
+1. [JDG战胜T1](https://s.weibo.com//weibo?q=JDG%E6%88%98%E8%83%9CT1&t=31&band_rank=8&Refer=top)
+1. [范丞丞在脖子上挂了个嘴巴](https://s.weibo.com//weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9C%A8%E8%84%96%E5%AD%90%E4%B8%8A%E6%8C%82%E4%BA%86%E4%B8%AA%E5%98%B4%E5%B7%B4%23&t=31&band_rank=9&Refer=top)
+1. [西湖边82岁奶奶和旗袍高跟鞋好配](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E6%B9%96%E8%BE%B982%E5%B2%81%E5%A5%B6%E5%A5%B6%E5%92%8C%E6%97%97%E8%A2%8D%E9%AB%98%E8%B7%9F%E9%9E%8B%E5%A5%BD%E9%85%8D%23&t=31&band_rank=11&Refer=top)
+   暖
+1. [黄觉等了易烊千玺四年头发都白了](https://s.weibo.com//weibo?q=%23%E9%BB%84%E8%A7%89%E7%AD%89%E4%BA%86%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9B%9B%E5%B9%B4%E5%A4%B4%E5%8F%91%E9%83%BD%E7%99%BD%E4%BA%86%23&t=31&band_rank=13&Refer=top)
+1. [汪小敏ins唯一关注是赵丽娜](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E5%B0%8F%E6%95%8Fins%E5%94%AF%E4%B8%80%E5%85%B3%E6%B3%A8%E6%98%AF%E8%B5%B5%E4%B8%BD%E5%A8%9C%23&t=31&band_rank=14&Refer=top)
+   热
+1. [男子开门杀致超速者死亡被判10个月](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E9%97%A8%E6%9D%80%E8%87%B4%E8%B6%85%E9%80%9F%E8%80%85%E6%AD%BB%E4%BA%A1%E8%A2%AB%E5%88%A410%E4%B8%AA%E6%9C%88%23&t=31&band_rank=15&Refer=top)
+1. [胡兵工作室回应结婚](https://s.weibo.com//weibo?q=%23%E8%83%A1%E5%85%B5%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E7%BB%93%E5%A9%9A%23&t=31&band_rank=17&Refer=top)
+1. [川传出轨多位女学生老师被辞退](https://s.weibo.com//weibo?q=%23%E5%B7%9D%E4%BC%A0%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BD%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%80%81%E5%B8%88%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=18&Refer=top)
+1. [专家称笑果文化至少3年内不能上市](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%AC%91%E6%9E%9C%E6%96%87%E5%8C%96%E8%87%B3%E5%B0%913%E5%B9%B4%E5%86%85%E4%B8%8D%E8%83%BD%E4%B8%8A%E5%B8%82%23&t=31&band_rank=20&Refer=top)
+1. [这酒店和直接睡大街有什么区别](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%85%92%E5%BA%97%E5%92%8C%E7%9B%B4%E6%8E%A5%E7%9D%A1%E5%A4%A7%E8%A1%97%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=26&Refer=top)
+1. [肖战被西安美食辣到](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E8%A2%AB%E8%A5%BF%E5%AE%89%E7%BE%8E%E9%A3%9F%E8%BE%A3%E5%88%B0%23&t=31&band_rank=27&Refer=top)
+1. [70后大叔报小饭桌和10后萌娃就餐](https://s.weibo.com//weibo?q=%2370%E5%90%8E%E5%A4%A7%E5%8F%94%E6%8A%A5%E5%B0%8F%E9%A5%AD%E6%A1%8C%E5%92%8C10%E5%90%8E%E8%90%8C%E5%A8%83%E5%B0%B1%E9%A4%90%23&t=31&band_rank=29&Refer=top)
+1. [张雨绮女儿情商](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%A5%B3%E5%84%BF%E6%83%85%E5%95%86%23&t=31&band_rank=30&Refer=top)
+   新
+1. [拜登携核按钮抵达广岛](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E6%90%BA%E6%A0%B8%E6%8C%89%E9%92%AE%E6%8A%B5%E8%BE%BE%E5%B9%BF%E5%B2%9B%23&t=31&band_rank=32&Refer=top)
+   新
+1. [徐静蕾方辟谣](https://s.weibo.com//weibo?q=%E5%BE%90%E9%9D%99%E8%95%BE%E6%96%B9%E8%BE%9F%E8%B0%A3&t=31&band_rank=33&Refer=top)
+1. [护心男二 加戏](https://s.weibo.com//weibo?q=%E6%8A%A4%E5%BF%83%E7%94%B7%E4%BA%8C%20%E5%8A%A0%E6%88%8F&t=31&band_rank=34&Refer=top)
+1. [豹子偷偷潜入叼走熟睡狗子](https://s.weibo.com//weibo?q=%23%E8%B1%B9%E5%AD%90%E5%81%B7%E5%81%B7%E6%BD%9C%E5%85%A5%E5%8F%BC%E8%B5%B0%E7%86%9F%E7%9D%A1%E7%8B%97%E5%AD%90%23&t=31&band_rank=35&Refer=top)
+   新
+1. [华为](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=36&Refer=top)
+1. [在一线城市月薪多少才够花](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%9C%88%E8%96%AA%E5%A4%9A%E5%B0%91%E6%89%8D%E5%A4%9F%E8%8A%B1%23&t=31&band_rank=37&Refer=top)
+   新
+1. [微信 吃内存](https://s.weibo.com//weibo?q=%E5%BE%AE%E4%BF%A1%20%E5%90%83%E5%86%85%E5%AD%98&t=31&band_rank=38&Refer=top)
+1. [郭晓婷参加农场婚礼随拍](https://s.weibo.com//weibo?q=%23%E9%83%AD%E6%99%93%E5%A9%B7%E5%8F%82%E5%8A%A0%E5%86%9C%E5%9C%BA%E5%A9%9A%E7%A4%BC%E9%9A%8F%E6%8B%8D%23&t=31&band_rank=39&Refer=top)
+1. [密室大逃脱第五季录制路透](https://s.weibo.com//weibo?q=%23%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%E7%AC%AC%E4%BA%94%E5%AD%A3%E5%BD%95%E5%88%B6%E8%B7%AF%E9%80%8F%23&t=31&band_rank=40&Refer=top)
+1. [李兰迪的妆是自己化的](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E7%9A%84%E5%A6%86%E6%98%AF%E8%87%AA%E5%B7%B1%E5%8C%96%E7%9A%84%23&t=31&band_rank=42&Refer=top)
+1. [宁静说姐姐们太苦了没时间勾心斗角](https://s.weibo.com//weibo?q=%23%E5%AE%81%E9%9D%99%E8%AF%B4%E5%A7%90%E5%A7%90%E4%BB%AC%E5%A4%AA%E8%8B%A6%E4%BA%86%E6%B2%A1%E6%97%B6%E9%97%B4%E5%8B%BE%E5%BF%83%E6%96%97%E8%A7%92%23&t=31&band_rank=43&Refer=top)
+1. [宋雨琦多巴胺甜妹](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%A4%9A%E5%B7%B4%E8%83%BA%E7%94%9C%E5%A6%B9%23&t=31&band_rank=44&Refer=top)
+1. [JDG团战](https://s.weibo.com//weibo?q=JDG%E5%9B%A2%E6%88%98&t=31&band_rank=45&Refer=top)
+1. [管泽元](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&t=31&band_rank=46&Refer=top)
+1. [扫地大叔水中托举落水女子挽回一个家庭](https://s.weibo.com//weibo?q=%23%E6%89%AB%E5%9C%B0%E5%A4%A7%E5%8F%94%E6%B0%B4%E4%B8%AD%E6%89%98%E4%B8%BE%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%AD%90%E6%8C%BD%E5%9B%9E%E4%B8%80%E4%B8%AA%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=48&Refer=top)
+   暖
+1. [饭店打烊遇没吃饭工人重新开火做饭](https://s.weibo.com//weibo?q=%23%E9%A5%AD%E5%BA%97%E6%89%93%E7%83%8A%E9%81%87%E6%B2%A1%E5%90%83%E9%A5%AD%E5%B7%A5%E4%BA%BA%E9%87%8D%E6%96%B0%E5%BC%80%E7%81%AB%E5%81%9A%E9%A5%AD%23&t=31&band_rank=49&Refer=top)
+   暖
+1. [2023MSI](https://s.weibo.com//weibo?q=2023MSI&t=31&band_rank=50&Refer=top)
+   新
 
 <!-- END -->
 

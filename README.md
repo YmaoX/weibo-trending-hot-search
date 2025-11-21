@@ -15,7 +15,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 21 2025 20:39:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 21 2025 21:28:21 GMT+0800 (China Standard Time) -->
 
 1. [总书记高度重视体育强国建设](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86%E4%BD%93%E8%82%B2%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%23&Refer=new_time)
    热

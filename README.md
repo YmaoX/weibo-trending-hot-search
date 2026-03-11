@@ -15,7 +15,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 12 2026 06:27:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 12 2026 07:26:48 GMT+0800 (China Standard Time) -->
 
 1. [总书记的两会关切](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%B8%A4%E4%BC%9A%E5%85%B3%E5%88%87%23&Refer=new_time)
    热
@@ -289,6 +289,35 @@
 1. [虞书欣国王开播一周年晒照](https://s.weibo.com//weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%BD%E7%8E%8B%E5%BC%80%E6%92%AD%E4%B8%80%E5%91%A8%E5%B9%B4%E6%99%92%E7%85%A7%23&t=31&band_rank=47&Refer=top)
 1. [薛之谦万兽之王巡回演唱会](https://s.weibo.com//weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E4%B8%87%E5%85%BD%E4%B9%8B%E7%8E%8B%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=48&Refer=top)
 1. [剑来](https://s.weibo.com//weibo?q=%E5%89%91%E6%9D%A5&t=31&band_rank=50&Refer=top)
+1. [塞尔维亚战机挂中国导弹亮相](https://s.weibo.com//weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%88%98%E6%9C%BA%E6%8C%82%E4%B8%AD%E5%9B%BD%E5%AF%BC%E5%BC%B9%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=5&Refer=top)
+   新
+1. [邓凯孔雪儿第三个吻痕](https://s.weibo.com//weibo?q=%23%E9%82%93%E5%87%AF%E5%AD%94%E9%9B%AA%E5%84%BF%E7%AC%AC%E4%B8%89%E4%B8%AA%E5%90%BB%E7%97%95%23&t=31&band_rank=16&Refer=top)
+   热
+1. [精灵黄lululemon发圈被炒到999元](https://s.weibo.com//weibo?q=%23%E7%B2%BE%E7%81%B5%E9%BB%84lululemon%E5%8F%91%E5%9C%88%E8%A2%AB%E7%82%92%E5%88%B0999%E5%85%83%23&t=31&band_rank=17&Refer=top)
+1. [为农民哽咽发声代表接到多部委电话](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%86%9C%E6%B0%91%E5%93%BD%E5%92%BD%E5%8F%91%E5%A3%B0%E4%BB%A3%E8%A1%A8%E6%8E%A5%E5%88%B0%E5%A4%9A%E9%83%A8%E5%A7%94%E7%94%B5%E8%AF%9D%23&t=31&band_rank=19&Refer=top)
+1. [周杰伦说新专辑没写三四年](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AF%B4%E6%96%B0%E4%B8%93%E8%BE%91%E6%B2%A1%E5%86%99%E4%B8%89%E5%9B%9B%E5%B9%B4%23&t=31&band_rank=20&Refer=top)
+   新
+1. [刘晓艳想邀请肖战上旅行综艺](https://s.weibo.com//weibo?q=%E5%88%98%E6%99%93%E8%89%B3%E6%83%B3%E9%82%80%E8%AF%B7%E8%82%96%E6%88%98%E4%B8%8A%E6%97%85%E8%A1%8C%E7%BB%BC%E8%89%BA&t=31&band_rank=23&Refer=top)
+   热
+1. [逐玉双平台破万](https://s.weibo.com//weibo?q=%23%E9%80%90%E7%8E%89%E5%8F%8C%E5%B9%B3%E5%8F%B0%E7%A0%B4%E4%B8%87%23&t=31&band_rank=25&Refer=top)
+1. [张凌赫听到我结婚时的反应](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%90%AC%E5%88%B0%E6%88%91%E7%BB%93%E5%A9%9A%E6%97%B6%E7%9A%84%E5%8F%8D%E5%BA%94&t=31&band_rank=28&Refer=top)
+1. [炸伊朗小学导弹零件MadeinUSA](https://s.weibo.com//weibo?q=%23%E7%82%B8%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E5%AF%BC%E5%BC%B9%E9%9B%B6%E4%BB%B6MadeinUSA%23&t=31&band_rank=29&Refer=top)
+1. [入职大疆1个月被发了5次钱](https://s.weibo.com//weibo?q=%23%E5%85%A5%E8%81%8C%E5%A4%A7%E7%96%861%E4%B8%AA%E6%9C%88%E8%A2%AB%E5%8F%91%E4%BA%865%E6%AC%A1%E9%92%B1%23&t=31&band_rank=30&Refer=top)
+1. [曝李鹤来退出SMTR25](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E6%9D%8E%E9%B9%A4%E6%9D%A5%E9%80%80%E5%87%BASMTR25%23&t=31&band_rank=32&Refer=top)
+   新
+1. [伊朗多弹头导弹袭击美军基地](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%BC%B9%E5%A4%B4%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=33&Refer=top)
+1. [杨紫青海生态文化传播大使](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%9D%92%E6%B5%B7%E7%94%9F%E6%80%81%E6%96%87%E5%8C%96%E4%BC%A0%E6%92%AD%E5%A4%A7%E4%BD%BF%23&t=31&band_rank=36&Refer=top)
+1. [建议允许60岁以上农民工继续务工](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%81%E8%AE%B860%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%86%9C%E6%B0%91%E5%B7%A5%E7%BB%A7%E7%BB%AD%E5%8A%A1%E5%B7%A5%23&t=31&band_rank=37&Refer=top)
+1. [KPL春季赛](https://s.weibo.com//weibo?q=KPL%E6%98%A5%E5%AD%A3%E8%B5%9B&t=31&band_rank=39&Refer=top)
+   新
+1. [骄阳似我](https://s.weibo.com//weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91&t=31&band_rank=40&Refer=top)
+   新
+1. [MiuMiu](https://s.weibo.com//weibo?q=%23MiuMiu%23&t=31&band_rank=41&Refer=top)
+1. [WTT重庆冠军赛](https://s.weibo.com//weibo?q=WTT%E9%87%8D%E5%BA%86%E5%86%A0%E5%86%9B%E8%B5%9B&t=31&band_rank=43&Refer=top)
+   新
+1. [不二之臣](https://s.weibo.com//weibo?q=%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3&t=31&band_rank=45&Refer=top)
+1. [伊朗发起第39波打击](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E7%AC%AC39%E6%B3%A2%E6%89%93%E5%87%BB%23&t=31&band_rank=47&Refer=top)
+1. [乘风2026将全程直播](https://s.weibo.com//weibo?q=%23%E4%B9%98%E9%A3%8E2026%E5%B0%86%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%92%AD%23&t=31&band_rank=48&Refer=top)
 
 <!-- END -->
 

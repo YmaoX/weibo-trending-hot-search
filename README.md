@@ -15,7 +15,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 28 2026 07:02:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 28 2026 11:46:13 GMT+0800 (China Standard Time) -->
 
 1. [习近平为何考察一个村级党组织](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E8%80%83%E5%AF%9F%E4%B8%80%E4%B8%AA%E6%9D%91%E7%BA%A7%E5%85%9A%E7%BB%84%E7%BB%87%23&Refer=new_time)
    热
@@ -263,6 +263,78 @@
    新
 1. [美国出口管制倒逼我国AI自主化](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%80%92%E9%80%BC%E6%88%91%E5%9B%BDAI%E8%87%AA%E4%B8%BB%E5%8C%96&t=31&band_rank=50&Refer=top)
    新
+1. [韩国淘汰](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E6%B7%98%E6%B1%B0&t=31&band_rank=1&Refer=top)
+   热
+1. [200万粉网红诋毁袁隆平水稻育种技术](https://s.weibo.com//weibo?q=%23200%E4%B8%87%E7%B2%89%E7%BD%91%E7%BA%A2%E8%AF%8B%E6%AF%81%E8%A2%81%E9%9A%86%E5%B9%B3%E6%B0%B4%E7%A8%BB%E8%82%B2%E7%A7%8D%E6%8A%80%E6%9C%AF%23&t=31&band_rank=2&Refer=top)
+1. [黄灿灿拿到全季通告费](https://s.weibo.com//weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%E6%8B%BF%E5%88%B0%E5%85%A8%E5%AD%A3%E9%80%9A%E5%91%8A%E8%B4%B9&t=31&band_rank=4&Refer=top)
+   新
+1. [韩媒破防了](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%AA%92%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=5&Refer=top)
+   新
+1. [六问恋与深空](https://s.weibo.com//weibo?q=%23%E5%85%AD%E9%97%AE%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23&t=31&band_rank=6&Refer=top)
+1. [佛得角队长被曝因强奸指控接受调查](https://s.weibo.com//weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E9%98%9F%E9%95%BF%E8%A2%AB%E6%9B%9D%E5%9B%A0%E5%BC%BA%E5%A5%B8%E6%8C%87%E6%8E%A7%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5%23&t=31&band_rank=7&Refer=top)
+1. [第一次对内蒙古地广人稀有了实感](https://s.weibo.com//weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E5%86%85%E8%92%99%E5%8F%A4%E5%9C%B0%E5%B9%BF%E4%BA%BA%E7%A8%80%E6%9C%89%E4%BA%86%E5%AE%9E%E6%84%9F&t=31&band_rank=8&Refer=top)
+1. [生命树又获奖了](https://s.weibo.com//weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E5%8F%88%E8%8E%B7%E5%A5%96%E4%BA%86%23&t=31&band_rank=9&Refer=top)
+1. [委内瑞拉地震1430人遇难3238人伤](https://s.weibo.com//weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%9C%B0%E9%9C%871430%E4%BA%BA%E9%81%87%E9%9A%BE3238%E4%BA%BA%E4%BC%A4%23&t=31&band_rank=10&Refer=top)
+   新
+1. [李现 杨紫](https://s.weibo.com//weibo?q=%E6%9D%8E%E7%8E%B0%20%E6%9D%A8%E7%B4%AB&t=31&band_rank=11&Refer=top)
+   热
+1. [迪丽热巴江坂丽奈美甲](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B1%9F%E5%9D%82%E4%B8%BD%E5%A5%88%E7%BE%8E%E7%94%B2%23&t=31&band_rank=12&Refer=top)
+   新
+1. [乌拉圭让球员自己坐飞机回国](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E6%8B%89%E5%9C%AD%E8%AE%A9%E7%90%83%E5%91%98%E8%87%AA%E5%B7%B1%E5%9D%90%E9%A3%9E%E6%9C%BA%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=13&Refer=top)
+1. [赵丽颖并非无戏可拍](https://s.weibo.com//weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B9%B6%E9%9D%9E%E6%97%A0%E6%88%8F%E5%8F%AF%E6%8B%8D&t=31&band_rank=14&Refer=top)
+1. [C罗倒钩被挡](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E5%80%92%E9%92%A9%E8%A2%AB%E6%8C%A1%23&t=31&band_rank=15&Refer=top)
+   新
+1. [黄灿灿 曾沛慈](https://s.weibo.com//weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%20%E6%9B%BE%E6%B2%9B%E6%85%88&t=31&band_rank=16&Refer=top)
+1. [特朗普孙女发逛白宫vlog美网友破防](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AD%99%E5%A5%B3%E5%8F%91%E9%80%9B%E7%99%BD%E5%AE%ABvlog%E7%BE%8E%E7%BD%91%E5%8F%8B%E7%A0%B4%E9%98%B2%23&t=31&band_rank=17&Refer=top)
+   新
+1. [女子徒步被蚂蝗吸血7小时](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E8%A2%AB%E8%9A%82%E8%9D%97%E5%90%B8%E8%A1%807%E5%B0%8F%E6%97%B6%23&t=31&band_rank=18&Refer=top)
+   新
+1. [宝妈高铁求看娃三人同时默契守护](https://s.weibo.com//weibo?q=%23%E5%AE%9D%E5%A6%88%E9%AB%98%E9%93%81%E6%B1%82%E7%9C%8B%E5%A8%83%E4%B8%89%E4%BA%BA%E5%90%8C%E6%97%B6%E9%BB%98%E5%A5%91%E5%AE%88%E6%8A%A4%23&t=31&band_rank=19&Refer=top)
+   新
+1. [韩国世界杯黑历史被翻](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E9%BB%91%E5%8E%86%E5%8F%B2%E8%A2%AB%E7%BF%BB%23&t=31&band_rank=20&Refer=top)
+   新
+1. [女儿毕业寄回几百斤包裹妈妈天塌了](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E6%AF%95%E4%B8%9A%E5%AF%84%E5%9B%9E%E5%87%A0%E7%99%BE%E6%96%A4%E5%8C%85%E8%A3%B9%E5%A6%88%E5%A6%88%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=21&Refer=top)
+   新
+1. [17岁泰国女孩遇害被装进行李箱](https://s.weibo.com//weibo?q=%2317%E5%B2%81%E6%B3%B0%E5%9B%BD%E5%A5%B3%E5%AD%A9%E9%81%87%E5%AE%B3%E8%A2%AB%E8%A3%85%E8%BF%9B%E8%A1%8C%E6%9D%8E%E7%AE%B1%23&t=31&band_rank=22&Refer=top)
+   新
+1. [恋与深空](https://s.weibo.com//weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA&t=31&band_rank=23&Refer=top)
+1. [孙怡忘了自己33岁了](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%80%A1%E5%BF%98%E4%BA%86%E8%87%AA%E5%B7%B133%E5%B2%81%E4%BA%86%23&t=31&band_rank=24&Refer=top)
+1. [恋与深空回应](https://s.weibo.com//weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%9B%9E%E5%BA%94&t=31&band_rank=25&Refer=top)
+1. [王中磊儿子冉莹颖儿子曹格儿子同框](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%AD%E7%A3%8A%E5%84%BF%E5%AD%90%E5%86%89%E8%8E%B9%E9%A2%96%E5%84%BF%E5%AD%90%E6%9B%B9%E6%A0%BC%E5%84%BF%E5%AD%90%E5%90%8C%E6%A1%86%23&t=31&band_rank=26&Refer=top)
+1. [C罗任意球](https://s.weibo.com//weibo?q=C%E7%BD%97%E4%BB%BB%E6%84%8F%E7%90%83&t=31&band_rank=27&Refer=top)
+1. [约旦vs阿根廷](https://s.weibo.com//weibo?q=%23%E7%BA%A6%E6%97%A6vs%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=28&Refer=top)
+   新
+1. [C罗被嘘](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E8%A2%AB%E5%98%98%23&t=31&band_rank=29&Refer=top)
+1. [韩国球迷号召用鸡蛋扔球队](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%90%83%E8%BF%B7%E5%8F%B7%E5%8F%AC%E7%94%A8%E9%B8%A1%E8%9B%8B%E6%89%94%E7%90%83%E9%98%9F%23&t=31&band_rank=30&Refer=top)
+   新
+1. [迪丽热巴换妆发了](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8D%A2%E5%A6%86%E5%8F%91%E4%BA%86%23&t=31&band_rank=31&Refer=top)
+1. [浪姐成团名单](https://s.weibo.com//weibo?q=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&t=31&band_rank=32&Refer=top)
+1. [伊朗也在等结果](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B9%9F%E5%9C%A8%E7%AD%89%E7%BB%93%E6%9E%9C%23&t=31&band_rank=33&Refer=top)
+   新
+1. [王楚钦孙颖莎笑意溢出屏幕](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E7%AC%91%E6%84%8F%E6%BA%A2%E5%87%BA%E5%B1%8F%E5%B9%95&t=31&band_rank=34&Refer=top)
+   新
+1. [央视曝手机测评作弊乱象](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%84%E4%BD%9C%E5%BC%8A%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=35&Refer=top)
+1. [单依纯金曲奖获奖感言](https://s.weibo.com//weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E9%87%91%E6%9B%B2%E5%A5%96%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%23&t=31&band_rank=36&Refer=top)
+1. [中粉问张元英怎么渡过困难时期](https://s.weibo.com//weibo?q=%E4%B8%AD%E7%B2%89%E9%97%AE%E5%BC%A0%E5%85%83%E8%8B%B1%E6%80%8E%E4%B9%88%E6%B8%A1%E8%BF%87%E5%9B%B0%E9%9A%BE%E6%97%B6%E6%9C%9F&t=31&band_rank=37&Refer=top)
+   新
+1. [哥伦比亚vs葡萄牙](https://s.weibo.com//weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9Avs%E8%91%A1%E8%90%84%E7%89%99%23&t=31&band_rank=38&Refer=top)
+1. [央视曝光中东石油投资骗局](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%AD%E4%B8%9C%E7%9F%B3%E6%B2%B9%E6%8A%95%E8%B5%84%E9%AA%97%E5%B1%80%23&t=31&band_rank=39&Refer=top)
+   新
+1. [东鹏饮料回应董事长不喝东鹏](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%E5%9B%9E%E5%BA%94%E8%91%A3%E4%BA%8B%E9%95%BF%E4%B8%8D%E5%96%9D%E4%B8%9C%E9%B9%8F%23&t=31&band_rank=40&Refer=top)
+1. [韩国苦等71小时](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%8B%A6%E7%AD%8971%E5%B0%8F%E6%97%B6%23&t=31&band_rank=41&Refer=top)
+1. [肖战一天解锁两套Gucci超超季](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%B8%80%E5%A4%A9%E8%A7%A3%E9%94%81%E4%B8%A4%E5%A5%97Gucci%E8%B6%85%E8%B6%85%E5%AD%A3%23&t=31&band_rank=42&Refer=top)
+   新
+1. [哥伦比亚0比0葡萄牙](https://s.weibo.com//weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A0%E6%AF%940%E8%91%A1%E8%90%84%E7%89%99%23&t=31&band_rank=43&Refer=top)
+1. [刘丹为杨紫获奖握拳](https://s.weibo.com//weibo?q=%E5%88%98%E4%B8%B9%E4%B8%BA%E6%9D%A8%E7%B4%AB%E8%8E%B7%E5%A5%96%E6%8F%A1%E6%8B%B3&t=31&band_rank=44&Refer=top)
+1. [比星期四还疯狂的是哪天](https://s.weibo.com//weibo?q=%23%E6%AF%94%E6%98%9F%E6%9C%9F%E5%9B%9B%E8%BF%98%E7%96%AF%E7%8B%82%E7%9A%84%E6%98%AF%E5%93%AA%E5%A4%A9%23&t=31&band_rank=45&Refer=top)
+   新
+1. [张月给陈瑶奖杯](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9C%88%E7%BB%99%E9%99%88%E7%91%B6%E5%A5%96%E6%9D%AF%23&t=31&band_rank=46&Refer=top)
+   新
+1. [安崎卡位第12被疑压票](https://s.weibo.com//weibo?q=%E5%AE%89%E5%B4%8E%E5%8D%A1%E4%BD%8D%E7%AC%AC12%E8%A2%AB%E7%96%91%E5%8E%8B%E7%A5%A8&t=31&band_rank=47&Refer=top)
+1. [阿尔及利亚vs奥地利](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9Avs%E5%A5%A5%E5%9C%B0%E5%88%A9%23&t=31&band_rank=48&Refer=top)
+   新
+1. [美军对伊朗实施新一轮打击](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%96%B0%E4%B8%80%E8%BD%AE%E6%89%93%E5%87%BB%23&t=31&band_rank=49&Refer=top)
+1. [笔趣阁APP白月光回归](https://s.weibo.com//weibo?q=%E7%AC%94%E8%B6%A3%E9%98%81APP%E7%99%BD%E6%9C%88%E5%85%89%E5%9B%9E%E5%BD%92&t=31&band_rank=50&Refer=top)
 
 <!-- END -->
 
